@@ -1,0 +1,420 @@
+I t is w e ll d oc um e n ted t h a t w h e n ac t i v a ted s k e l e ta l m usc l e is
+s t r e tc h ed t h e f o r ce s us ta in ed b y t h e m usc l e in cr eases a bo v em a xim a l iso m e t ri c v a l u es a n d t h a t t h e ad di t i o n a l f o r cein cr eases wi t h in cr easing v e l oci t ies of s t r e tc h (K a tz, 1939;Edm a n et a l . 1978). M os t of t h e w o r k in t his a r ea h as
+in v o l v ed iso l a ted m usc l e p r e pa r a t i o ns b u t w h e n h um a nm usc l e w as s t r e tc h ed d uring a v o l un ta ry co n t r ac t i o n,ecce n t ri c f o r ces w e r e f o un d to be l o w e r (W e bbe r &Krie ll aa rs, 1997), n o t signif i ca n t l y hig h e r (W es t ing et a l .
+1988, 1990, 1991) o r o nl y m a rgin a ll y hig h e r (Th o mso n &Ch a pm a
+n, 1988) t h a n m a xim a l iso m e t ri c f o r ce. Co nsequ en tl y
+a c l ea r d e pe n d e n c y of ecce n t ri c f o r ce o n s t r e tc h v e l oci t y h asn o t bee n d e m o ns t r a ted d uring v o l un ta ry ef f o rts.
+Th e dif f e r e n ces be t w ee n s t u dies o n h um a n m usc l e a n d
+iso l a ted p r e pa r a t i o ns m a y be d u e to inhi b i t i o n of n e ur a ldri v e d uring v o l un ta ry co n t r ac t i o ns (W es t ing et a l . 1990;
+Du dl e y et a l . 1990; W e bbe r & Krie ll aa rs, 1997) b u t dif f e ring
+r e l a t i o nshi ps be t w ee n ecce n t ri c f o r ce a n d s t r e tc h v e l oci t yh a v e bee n r e po rted, e v e n w h e n e l ec t ri ca l s t im ul a t i o n w asused. F o r e x a m p l e, ecce n t ri c-to-iso m e t ri c f o r ce r a t i os ofa bo u t 1·2 (W es t ing et a l . 1990), 1·4 (Du dl e y et a l . 1990), b u t
+a lso 1·8 (Coo k & M cDo n a g h, 1995), h a v e bee n o b ta in ed. Th er es po nse of ac t i v e m usc l e to s t r e tc h is co m p l e x e v e n iniso l a ted a n d sing l e f i b r e p r e pa r a t i o ns a n d t h e n a t ur e of t h edif f e r e n t ph ases of t h e r es po nse is n o t c l ea r l y un d e rs tood(N o b l e, 1992). A d ding ad di t i o n a l e xte rn a l co m p lia n ce, aswi t h m usc l e w o r king i n v i vo, f urt h e r co m p li ca tes t h e
+in te rp r e ta t i o n of t h e da ta. I t is im po rta n t, h o w e v e r , toad dr ess t h e qu es t i o n of s t r e tc h of m usc l e—te n d o n co m p l e x esw o r king in v iv o sin ce, ul t im a te l y , t his is h o w t h e s k e l e ta l
+m usc l es a r e used.
+Th e f irs t po in t ad dr essed in t h e p r ese n t s t u d y is t h e
+co n t ri b u t i o n of t h e cr oss-b ri dg e co m po n e n ts of t h e s t r e tc hr es po nse in r e l a t i o n to o t h e r e l e m e n ts, possi b l y to se ries a n dp aral lel elemen t s . T here are am ple i nd ic a tion s tha t there aredif f e r e n t co m po n e n ts to t h e s t r e tc h r es po nse. N o t o nl y isf o r ce e nh a n ced d uring t h e s t r e tc h b u t a lso t h e iso m e t ri cf o r ce r e m a ins e l e v a ted f o r so m e t im e a f te r t h e m o v e m e n th as f inish ed (e. g. Abbo t t & A u be rt, 1952; Edm a n et a l .
+1978). This l o ng l as t ing co m po n e n t (co m po n e n t 3 in N o b l e,J ou rn a l o f Ph ys io logy (2000), 526.3 , pp. 671—681 671
+Th e f o r ce—v e l oci t y r e l a t i o nshi p o f h um a n ad d u c to r po lli cis
+m usc l e d uring s t r e tc h a n d t h e ef f ec ts o f f a t igu e
+C. J . De R ui te r , W . J . M. Di d d e n, D. A. J o n es * a n d A. De H aa n
+I nst it ute f or F u nda me n ta l an d Cl i n ica l H u ma n M ove me n t Sc ie nces, F ac u lt y o f H u ma n
+M ove me n t Sc ie nces, Vrije U n i vers ite it, Amsterda m, The N e t herla nds a nd * Sc hoo l o f Sport
+an d Exerc ise Sc ie nces, The U n i vers it y o f B i rm i ng ha m, B i rm i ng ha m, UK
+(Recei v ed 26 J a n u a ry 2000; acce p ted a f te r r e visi o n 5 Ma y 2000)
+1. W e h a v e e x a min ed t h e f o r ce—v e l oci t y c h a r ac te ris t i cs of te ta ni ca ll y ac t i v a ted h um a n
+ad d u c to r po lli cis w o r king i n v i vo, in t h e f r esh a n d f a t ig u ed s ta tes.
+2. Th e in cr ease in f o r ce in r es po nse to s t r e tc h w as di vi d ed in to t w o m a jo r co m po n e n ts. Th e
+f irs t, steady , co m po n e n t pe rsis ted a f te r t h e s t r e tc h a n d is co n c l u d ed n o t to be a f un c t i o n of
+ac t i v e c y c ling cr oss-b ri dg es beca use i t w as n o t a f f ec ted b y ei t h e r t h e v e l oci t y of t h e s t r e tc h o rthe le v el of m u s cle a cti v a tion .
+3. Th e o rigin of t h e seco n d, tra ns ie n t , co m po n e n t of t h e in cr eased f o r ce see n d uring s t r e tc h is
+co nsis te n t wi t h cr oss-b ri dg e ac t i vi t y sin ce i t in cr eased wi t h in cr easing v e l oci t y of s t r e tc hand w a s prop ortional t o the le v el of a cti v a tion .
+4. I t is lik e l y t h a t bo t h co m po n e n ts of t h e s t r e tc h r es po nse m a k e a signif i ca n t co n t ri b u t i o n to
+m usc l e pe rf o rm a n ce w h e n ac t ing to r esis t a f o r ce. F o r t h e f as tes t s t r e tc h used, t h eco n t ri b u t i o ns of cr oss-b ri dg e a n d n o n -cr oss-b ri dg e m ec h a nisms w e r e equ a l. F o r t h e s l o w es ts t r e tc h, l as t ing 10 s a n d o v e r t h e sa m e dis ta n ce, t h e f o r ce r es po nse w as a t t ri b u ted a lm os te n t ir e l y to n o n -cr oss-b ri dg e m ec h a nisms.
+5. As a r es ul t of ac u te f a t ig u e (50 % iso m e t ri c f o r ce l oss) t h e r e w e r e o nl y sm a ll r ed u c t i o ns in t h e
+n o n -cr oss-b ri dg e co m po n e n t of t h e f o r ce r es po nse to s t r e tc h, w hil e t h e cr oss-b ri dg eco m po n e n t d ecr eased in a bso l u te te rms.
+6. Th e tra ns ie n t co m po n e n t of t h e s t r e tc h r es po nse in cr eased as a r es ul t of f a t ig u e, r e l a t i v e to
+t h e iso m e t ri c f o r ce, w hil e t h e f o r ce d uring sh o rte ning d ecr eased. Th e r es ul ts a r e co nsis te n twi t h a d ecr ease in cr oss-b ri dg e t urn o v e r in f a t ig u ed m usc l e.0627K e yw o rds:
+1992) of t h e s t r e tc h-in d u ced f o r ce in cr ease p r o ba b l y
+o rigin a tes o u tsi d e t h e cr oss-b ri dg es (Edm a n & Ts u c hiy a,1996) a n d co nsequ e n t l y h as to be ta k e n in to acco un tw h e n e v e r t h e r es po nse to s t r e tc h is s t u died. Th e a n a l y sisused b y N o b l e (1992) w as s ui ta b l e f o r sing l e f i b r ep r e pa r a t i o ns; i t r e m a ins to be see n w h e t h e r i t is a lsoap
+p li ca b l e to l a rg e m usc l e—te n d o n co m p l e x es w o r king in v i vo.
+Th e seco n d qu es t i o n ad dr essed h e r e co n ce rns t h e ef f ec t of
+f a t ig u e o n t h e r es po nse of t h e w h o l e m usc l e—te n d o n co m p l e xto s t r e tc h. Hig h in te nsi t y , m e ta bo li ca ll y d e m a n ding e x e r cisel eads to a co nsi dera ble lo s s o f m u s cle p ow er , a s ha s b e en
+sh o wn in f a t ig u ed a nim a l (De H aa n et a l . 1988) a n d h um a n
+m usc l e (J a m es et a l . 1995; De R ui te r et a l . 1999). Th us f a r ,
+t h e ef f ec ts of f a t ig u e o n t h e ecce n t ri c pa rt of t h ef o r ce—v e l oci t y r e l a t i o nshi p h a v e o nl y bee n s t u died iniso l a ted f r og f i b r es a t 0 °C (Curt in & Edm a n, 1994). Whils tm a n y f un da m e n ta l m ec h a nisms a r e co mm o n to a ll s k e l e ta lm usc l es, t h e ba l a n ce be t w ee n po te n t ia l r a te limi t ing s te psd uring f a t ig u e m a y v a ry be t w ee n a m phi b ia n a n dm a mm a lia n m usc l es. Ex a m p l es of t his a r e t h e co n t ri b u t i o nof ca l ci um r e-u p ta k e d uring r e l a x a t i o n (All e n et a l . 1989;
+W es te rb l ad & All e n, 1993) o r t h e im po rta n ce of h y dr og e ni o ns in t h e f a t ig u e p r ocess a t dif f e r e n t te m pe r a t ur es(W es te rb l ad et a l . 1997).
+Th e o b j ec t i v e of t h e w o r k d escri bed h e r e w as f irs t l y to
+c h a r ac te rise t h e s t r e tc h r es po nse of t h e h um a n ad d u c to rpo lli cis s t im ul a ted to co n t r ac t in v iv o a n d, seco n dl y , to
+d e te rmin e to w h a t e xte n t t h e dif f e r e n t co m po n e n ts of t h er es po nse a r e a f f ec ted b y f a t ig u e.
+METHODS
+Su bjec ts
+Th e s t u d y w as a p p r o v ed b y t h e l oca l e t hi ca l co mmi t tee a n d eig h t
+h ea l t h y f e m a l e s u b jec ts (a g ed 19—26 y ea rs) too k pa r t a f te r gi vingt h eir wri t te n inf o rm ed co nse n t. F e m a l e s u b j ec ts w e r e se l ec tedbeca use in m a l e s u b j ec ts, w h o h a v e, in g e neral , lar ger and stron ger
+h a n ds, t h e m o to r s y s te m w as n o t po w e rf ul e n o ug h to s t r e tc h a thig h v e l oci t ies t h e ad d u c to r po lli cis m usc l e. Th e s u b j ec ts w e r e a llrig h t h a n d ed a n d di d n o t un d e rta k e a n y r eg ul a r e x e r cise t h a tpa rt i c ul a r l y in v o l v ed t h e h a n d m usc l es. Th e y visi ted t h e l a bo r a to ryo n t hr ee dif f e r e n t occasi o ns. On t h e f irs t occasi o n t h e y w e r ef a milia rised wi t h t h e p r oced ur es a n d e l ec t ri ca l s t im ul a t i o n. Th em eas ur e m e n ts r e po rted h e r e w e r e m ad e o n t h e seco n d a n d t hirdvisi ts.
+F o r ce r eco rding a n d s t im ul a t i o n
+M e t h ods f o r s t im ul a t ing t h e ad d u c to r po lli cis a n d r eco rding f o r cea r e gi v e n in d e ta il e lse w h e r e (De R ui te r et a l . 1998). Brief l y , t h e
+s u b j ec t sa t in a n ad jus ta b l e c h a ir wi t h t h e l ef t f o r ea rm s u pin a ted,a n d t h e h a n d (pa lm u p) sec ur e l y f ix ed h o rizo n ta ll y wi t h t h e t h um ba bd u c ted a n d in co n tac t wi t h a v e rt i ca l r od. Th e r od w as a t tac h edt o a strai n ga u ge , mou n t e d b elow the plane o f the hand , w h ichm eas ur ed t h e f o r ce a p p lied b y t h e t h um b. Th e r od w as a t tac h ed b ya l e v e r s y s te m to a lin ea r m o to r so t h a t co n t r o ll ed sh o rte ning a n dl e ngt h e ning of t h e ad d u c to r po lli cis co ul d be ac hie v ed b y r o ta t ingt h e t h um b. A t h um b a ng l e of 0 d eg w as d ef in ed as t h e posi t i o n inw hi c h t h e t h um b w as f ull y ad d u c ted a n d to u c hing t h e in d e x f ing e r .Th e t iming a n d d ur a t i o n of s t im ul a t i o n, o nse t a n d s peed of m o to rm o v e m e n t a n d da ta sa m p ling f r equ e n c y (1000 Hz) of t h e f o r ce a n dl e ngt h sign a l w e r e co m p u te r co n t r o ll ed.
+Th e ad d u c to r po lli cis m usc l e w as ac t i v a ted b y pe r c u ta n eo us
+e l ec t ri ca l s t im ul a t i o n of t h e uln a r n e rv e a t t h e wris t wi t h co ns ta n tc urr e n t uni dir ec t i o n a l squ a r e w a v e p ulses of 100 ìs d ur a t i o n(Digi t im e r Ltd, m od e l DS7, W e l wyn Ga rd e n Ci t y , UK). U nl esso t h e rwise in di ca ted a s t im ul a t i o n f r equ e n c y of 80 Hz w as used.Th e c urr e n t w as se t 30 % a bo v e t h e s t im ul us t h a t p r od u cedm a xim a l iso m e t ri c te ta ni c f o r ce.
+T o m a in ta in a co ns ta n t m usc l e te m pe r a t ur e, t h e h a n d a n d f o r ea rm
+w e r e imm e rsed in a w a te r ba t h a t 45 °C f o r 20 min p ri o r to t h e tes t.During t h e e xpe rim e n t a l a m p w as used to m a in ta in s kinte m pe r a t ur e o v e r t h e ad d u c to r po lli cis a t 36·0 ± 0·5 °C, m eas ur edwi t h a t h e rm oco u p l e.
+C onc en tr ic c on tra ction s
+During t h e seco n d visi t to t h e l a bo r a to ry t h e co n ce n t ri c pa rt of t h ef o r ce—v e l oci t y r e l a t i o nshi p f o r f r esh a n d f a t ig u ed ad d u c to r po lli cism usc l e w as o b ta in ed. Iso v e l oci t y sh o rte ning co n t r ac t i o ns a tdif f e r e n t a ng ul a r v e l oci t ies (0, 76·4, 152·8, 229·2, 305·6 a n d382·0 d eg s¢) w e r e s t u died. Th e m e t h od used h as bee n d escri bed ind e ta il a n d v a li da ted e lse w h e r e (De R ui te r et a l . 1999) b u t o n e
+m odif i ca t i o n w as m ad e. Th e s t im ul a t i o n f r equ e n c y w as in cr easedf r o m 80 to 150 Hz d uring sh o r te ning a t 152·8 a n d 229·2 d eg s¢a n d to 300 Hz d uring sh o r te ning a t 305·6 a n d 382·0 d eg s¢ .St im ul a t i o n f r equ e n cies w e r e in cr eased to g u a r a n tee m a xim a lm usc l e ac t i v a t i o n a t t h e hig h e r sh o rte ning s peeds as, a t t h eses peeds, t h e f o r ce g e nera t e d wa s low and m u s cle s hor t e ning s ta rted
+a f te r o nl y a f e w milliseco n ds of iso m e t ri c co n t r ac t i o n. Pil o te xpe rim e n ts in di ca ted t h a t f o r ce o u tp u t a t hig h v e l oci t ies ofsh o rte ning w as s lig h t l y in cr eased w h e n hig h e r (150 a n d 300 Hz)s t im ul a t i o n f r equ e n cies w e r e a p p lied, a l t h o ug h t h e ef f ec t w as n o t asl a rg e as t h a t r ece n t l y d e m o ns t r a ted in r a t m usc l e (d e H aa n, 1998).F o r ce d uring iso v e l oci t y sh o rte ning co n t r ac t i o ns w as m eas ur ed a t at h um b a ng l e of 51 d eg, w hi c h w as t h e o p t im um f o r f o r cep r od u c t i o n, a l t h o ug h i t sh o ul d be n o ted t h a t t h e a ng l e—f o r cer e l a t i o nshi p w as v e ry f l a t o v e r a wi d e r a ng e (36—74 d eg) of t h um ban gle s ( D e R u it er et a l . 1998; and Fig. 1). Da ta w e r e f i t ted (l eas t
+squ a r es) to t h e h ype rbo li c r e l a t i o nshi p d escri bed b y Hill (1938).
+Act ive s t r et c h
+On e w eek f o ll o wing t h e co n ce n t ri c m eas ur e m e n ts, t h e s u b j ec tsr e t urn ed to t h e l a bo r a to ry a n d t h e ecce n t ri c pa rt of t h e f o r ce—v e l oci t y r e l a t i o nshi p w as in v es t ig a ted. St r e tc h es beg a n f r o m t h em a xim a ll y ac t i v a ted iso m e t ri c s ta te. F o ll o wing 500 ms of i s ome tric
+ac t i v a t i o n (80 Hz) a t a t h um b a ng l e o f 44 d eg, t h e t h um b w asa b d uct e d b y the mot or t o an an gle o f 6 3 de g a t a var i ety o fco ns ta n t a ng ul a r v e l oci t ies (0, 9·6, 19·1, 28·7, 38·2, 76·4 a n d152·8 d eg s¢) a p p lied in r a n d o m o rd e r . Th e iso m e t ri c f o r ce bef o r ethe stre t ch (F before ) w as m eas ur ed 500 ms af t er the st ar t o f
+s t im ul a t i o n (e. g. Fig. 2). Th e 19 d eg s t r e tc h t r a j ec to ry w as c h ose n
+beca use t h e a ng l e—f o r ce r e l a t i o nshi p of ad d u c to r po lli cis m usc l e w asa lm os t f l a t in t h e t h um b a ng l e r a ng e 44—63 d eg ( Fig. 1). A s t r e tc h
+of 19 d eg (a bd u c t i o n) w as l a rg e e n o ug h, a t a ll v e l oci t ies, to sh o w t h ec h a r ac te ris t i c l a te r pa rt of t h e s t r e tc h r es po nse w h e r e f o r cesin cr eased lin ea r l y wi t h t h e in cr ease in t h um b a ng l e (e. g. Fig. 2).
+St im ul a t i o n w as co n t in u ed f o r a f urt h e r 500 ms a f te r t h e s t r e tc h
+and i s ome tric f orc e (F after ) w as m eas ur ed jus t bef o r e t h e e n d of
+s t im ul a t i o n. Iso m e t ri c co n t r ac t i o ns (1 s d ur a t i o n, a t t h um b a ng l es of51, 55 a n d 63 d eg) w e r e in te rj ec ted d uring t h e sequ e n ce of ecce n t ri cco n t r ac t i o ns.
+T o s t u d y t h e ef f ec t of d ecr eased ac t i v a t i o n, o r n um be r of a t tac h ed
+cr oss-b ri dg es, o n t h e f o r ce r es po nse to s t r e tc h, t h e iso m e t ri c f o r ce a tC. J . De Ru iter, W . J . M. Didde n, D. A. J ones a nd A. De Haa n J . Ph ys io l. 526.3 672
+t h e s ta rt of l e ngt h e ning w as r ed u ced in t w o w a y s. Th e f irs tin v o l v ed r ed u cing t h e s t im ul a t i o n f r equ e n c y to 30 Hz w hil ea bd u c t i o n r e m a in ed a t 44—63 d eg ( Fig. 2). In t h e seco n d a p p r oac h
+t h e f o r ce a t t h e s ta rt of l e ngt h e ning w as r ed u ced b y beginning t h es t r e tc h f r o m a n iso m e t ri c co n t r ac t i o n a t a sm a ll e r (36 d eg) t h um ba ng l e, o n t h e asce n ding lim b of t h e a ng l e—f o r ce r e l a t i o nshi p ( Fig. 1).
+In t h e l a t te r case, t h e t h um b w as a bd u c ted to 55 d eg to k ee p t h el e ngt h of t h e s t r e tc h co ns ta n t a t 19 d eg. Thr ee min u tes r es t w asa ll o w ed be t w ee n eac h co n t r ac t i o n.
+Da ta a na l ysis a n d m od e l o f s t r e tc h r espo nse
+T o d escri be a n d qu a n t if y t h e f o r ce r es po nses to s t r e tc h, t h e t r acesh a v e bee n d eco m posed in to t hr ee co m po n e n ts ( Fig. 3), based l a rg e l y
+o n t h e m od e l p r o posed b y N o b l e (1992). Th e f irs t co m po n e n t(co m po n e n t A), w hi c h h as so m e t im es bee n f urt h e r s u bdi vi d ed in tot w oc o m p o n e n t s , 1a n d2( Fig. 1 of N o b l e, 1992), is p r o ba b l y d u e to
+a v e l oci t y -d e pe n d e n t in cr eased f o r ce p r od u c t i o n of t h e cr oss-b ri dg esd uring s t r e tc h. If t his w e r e t h e case i t w o ul d be a n t i ci pa ted t h a tco m po n e n t A w o ul d d e pe n d o n t h e s t r e tc h v e l oci t y a n d t h e n um be rof a t tac h ed cr oss-b ri dg es.Th e seco n d co m po n e n t (co m po n e n t B) is p r o posed to be l e ngt hd e pe n d e n t. Th e o rigin of co m po n e n t B (co m po n e n t 3 in Fig. 1o f
+N o b l e, 1992) is n o t kn o wn b u t i t h as bee n s ugg es ted n o t to be t h ecr oss-b ri dg es a n d is p r o ba b l y r e l a ted to t h e in v o l v e m e n t of passi v em usc l e s t ru c t ur es d uring s t r e tc h. Th e r ef o r e, t his co m po n e n t w o ul dbe e xpec ted to be in d e pe n d e n t of t h e s t r e tc h v e l oci t y . Co m po n e n t Bis m o r e signif i ca n t a t l o ng e r m usc l e l e ngt hs a n d is a lso r e l a ted to t h el o ng l as t ing e nh a n ce m e n t of iso m e t ri c f o r ce o bse rv ed f o ll o wing as t r e tc h (Edm a n & Ts u c hiy a, 1996) b u t t h e e xte n t to w hi c h t hisco m po n e n t d eca y s f o ll o wing s t r e tc h is un ce rta in. In t h e p r ese n tm od e l, co m po n e n t B is sh o wn as r e m a ining co ns ta n t f o ll o wingstre t ch ( Fig. 3).
+A t hird co m po n e n t (co m po n e n t C) w as e xpec ted in t h e p r ese n ts t u d y beca use m usc l es w e r e s t r e tc h ed o n t h e asce n ding lim b of t h et h um b a ng l e—f o r ce r e l a t i o nshi p . This, in t urn, is m ad e u p of t w oco m po n e n ts: ac t i v e f o r ce, v a rying as a r es ul t of f il a m e n t o v e r l a p,a n d a passi v e co m po n e n t (see Fig. 1). Of t h ese t w o, t h e ac t i v e
+co m po n e n t mig h t be e xpec ted to v a ry wi t h l e v e ls of ac t i v a t i o n a n dv e l oci t y of s t r e tc h.Th e t hr ee co m po n e n ts (A, B a n d C) of t h e m od e l a n d t h eir e xpec tedco m b in ed ef f ec ts o n to ta l f o r ce o u tp u t a r e vis u a lised in Fig. 3. I t
+w as ass um ed t h a t co m po n e n t A w as o nl y p r ese n t d uring t h e s t r e tc ha n d w o ul d d eca y r e l a t i v e l y soo n (wi t hin 500 ms ) af t er the end o f
+t h e s t r e tc h (e. g. N o b l e, 1992); h e n ce i t will be r ef e rr ed to as t h etra ns ie n t com pone n t of t h e s t r e tc h-in d u ced f o r ce in cr ease. Th e
+dif f e r e n ce be t w ee n t h e pea k f o r ce a t t h e e n d of t h e s t r e tc h (F peak )
+and the i s ometr ic f orc e 5 0 0 ms a f te r t h e s t r e tc h (F after ) w as ta k e n to
+r e p r ese n t t h e tra ns ie n t co m po n e n t of t h e s t r e tc h-in d u ced f o r ce
+in cr ease. Th e co m b in ed ef f ec ts of co m po n e n ts B a n d C w o ul dacco un t f o r t h e dif f e r e n ce be t w ee n t h e iso m e t ri c f o r ce l e v e l a f te r a n dimm edia te l y bef o r e t h e s t r e tc h. Th e r ef o r e F after −F before wa s
+ta k e n as a m eas ur e of t h e steady com pone n t of t h e s t r e tc h-in d u ced
+f o r ce in cr ease.
+F a t igu e
+Af te r t h e f o r ce—v e l oci t y m eas ur e m e n ts h ad bee n co m p l e ted in t h ef r esh m usc l e, t h e b l ood s u p p l y w as occ l u d ed b y inf l a t ing a c uf farou nd the u pp er ar m and the m u s cle wa s f a ti gue d b y 5 9co n t r ac t i o ns. During t h ese r e pe t i t i v e co n t r ac t i o ns t h e s t im ul a t i o nf r equ e n c y w as se t a t 50 Hz to minimise possi b l e f a il ur e of e l ec t ri ca lac t i vi t y . Th e r e w e r e 57 iso v e l oci t y sh o r te ning (152·8 d eg s¢)co n t r ac t i o ns, d uring w hi c h t h e ad d u c to r po lli cis sh o rte n ed f r o mt h um b a ng l es of 74 to 36 d eg. Th e co n t r ac t i o ns w e r e of 240 msd ur a t i o n, wi t h 760 ms r es t be t w ee n co n t r ac t i o ns to a ll o w co m p l e te
+f o r ce r e l a x a t i o n bef o r e t h e t h um b w as a bd u c ted bac k to 74 d eg f o rt h e s ta rt of t h e n e xt co n t r ac t i o n. Th e 20t h a n d 40t h co n t r ac t i o nsw e r e iso v e l oci t y (76·4 d eg s¢) l e ngt h e ning co n t r ac t i o ns, w hi c h w e r ein t r od u ced to m o ni to r t h e ef f ec t of d e v e l o ping f a t ig u e o n ecce n t ri cf o r ce a t 76·4 d eg s¢ .Imm edia te l y f o ll o wing t h e f a t ig u e p r o toco l, a n d wi t h t h e m usc l em a in ta in ed isc h ae mi c, a se ries of co n t r ac t i o ns w as ca rried o u t too b ta in ei t h e r t h e co n ce n t ri c (seco n d tes t occasi o n) o r t h e ecce n t ri cpa rt (t hird tes t occasi o n) of t h e f o r ce—v e l oci t y r e l a t i o nshi p . Th eco n ce n t ri c se ries co nsis ted of co n t r ac t i o ns a t 0, 76·4, 152·8, 229·2,305·6 a n d 382 d eg s¢ a p p lied in r a n d o m o rd e r . Th e ecce n t ri c se ries(50 Hz s t im ul a t i o n f r equ e n c y) a l w a y s beg a n wi t h a l e ngt h e ningco n t r ac t i o n a t 76·4 d eg s¢ a f te r w hi c h t w o iso m e t r i c co n t r ac t i o ns(a t 55 a n d 63 d eg) a n d f o ur iso v e l oci t y l e ngt h e ning co n t r ac t i o ns (a t9·55, 19·1, 38·2 a n d 152·8 d eg s¢) w e r e a p p lied in r a n d o m o rd e r .Th ese co n t r ac t i o ns w e r e f o ll o w ed b y a n o t h e r t w o l e ngt h e ningco n t r ac t i o ns a t 76·4 d eg s¢ (f r o m 44 to 63 d eg, a n d f r o m 36 to55 d eg t h um b a ng l e). Th e co n ce n t ri c a n d ecce n t ri c se ries ofco n t r ac t i o ns in t h e f a t ig u ed s ta te too k l ess t h a n 25 s, a f te r w hi c ht h e c uf f a r o un d t h e a rm w as d ef l a ted a n d t h e m usc l e w as a ll o w ed tor eco v e r .
+Reco v e r y
+Reco v e ry w as assessed a t 6 min f o ll o wing d ef l a t i o n of t h e c uf f .Ei t h e r a co n ce n t ri c co n t r ac t i o n a t 152·8 d eg s¢ (seco n d tes toccasi o n) o r , o n t h e t hird tes t occasi o n, t w o ecce n t ri c co n t r ac t i o ns a t76·4 d eg s¢ (f r o m 44 to 63 d eg a n d f r o m 36 to 55 d eg wi t h 80 Hzs t im ul a t i o n f r equ e n c y) w e r e a p p lied. In ad di t i o n, o n bo t h tes toccasi o ns, t hr ee iso m e t ri c co n t r ac t i o ns (a t t h um b a ng l es of 51, 55a n d 63 d eg) w e r e s t u died, a ll a p p lied in r a n d o m o rd e r wi t h 1 minr es t in be t w ee n.
+S t a ti stic s
+F o r ecce n t ri c co n t r ac t i o ns, t h e co n di t i o n in w hi c h f o r ces w e r eo b ta in ed wi t h 80 Hz s t im ul a t i o n f r equ e n c y a n d wi t h s t r e tc h es f r o m44 to 63 d eg t h um b a ng l e w as d ef in ed as t h e s ta n da rd co n di t i o n.AN OVA f o r r e pea ted m eas ur es w as used f o r d e te rmin a t i o n ofs ta t is t i ca l signif i ca n ce (P < 0·05). Sim p l e co n t r as ts w e r e used toStre tc h a nd f a t igue o f h u ma n m usc le J . Ph ys io l. 526.3 673
+Figur e 1. F o r ce—t h um b a ng l e r e l a t i o nshi ps o f ad d u c to r
+po lli cis m usc l e
+To t a l ( 0 ), passi v e ( 6 ) a n d ac t i v e (to ta l − passi v e; 1 )f o r c e
+(n = 8, m ea ns ± s. e. m. ) a t dif f e r e n t t h um b a ng l es. Th e
+s ta n da rd s t r e tc h t r a j ec to ry (44—63 d eg) is in di ca ted b y t h ear row .
+
+f u r ther analys e w hether c ond ition s w ere d i f f eren t , c om p are d t o thes ta n da rd co n di t i o n. U nl ess in di ca ted o t h e rwise, t h e r es ul ts a r ep r ese n ted as m ea ns ± s. e. m.
+RESULTS
+Fr esh m usc l e
+Fig ur e 2 sh o ws t h e f o r ce r es po nse to iso v e l oci t y s t r e tc h es a t
+76·4 d eg s¢ wi t h 80 a n d 30 Hz s t im ul a t i o n. Simil a r l ysh a ped f o r ce t r aces w e r e o b ta in ed un d e r a ll co n di t i o ns.F o ll o wing a n ini t ia l r e l a t i v e l y f as t in cr ease in f o r ce a t t h ebeginning of s t r e tc h, t h e r e w as a l a te r ph ase d uring w hi c hf o r ce in cr eased lin ea r l y (r Â > 0·96) wi t h t h e in cr ease in t h e
+t h um b a ng l e un t il t h e e n d of t h e s t r e tc h.Af te r t h e s t r e tc h t h e iso m e t ri c f o r ce d ec lin ed to a v a l u e t h a twa s sti l l gre a t er than the i s ometr ic f orc e a tt ai ne d a t thel o ng e r m usc l e l e ngt h (t h um b a ng l e) wi t h o u t a p r ecedingstre t ch ( Fig. 2). A po rt i o n of t his ad di t i o n a l f o r ce co ul d be
+d u e to dif f e r e n ces in t h e ac t i v e a n d passi v e te nsi o ns a tdif f e r e n t m usc l e l e ngt hs. Based o n t h e f o r ce—l e ngt h (t h um ba ng l e) r e l a t i o nshi p o b ta in ed wi t h 80 Hz s t im ul a t i o n ( Fig. 1)
+a n d in c l u ding bo t h t h e ac t i v e a n d passi v e f o r ce( c om p onen t C i n Fig. 3), a n in cr ease of 9·5 ± 1·3 N w o ul d
+be e xpec ted f o ll o wing a s t r e tc h f r o m t h e 44 to 63 d eg t h um ban gle ( Fig. 1, 0 ). H o w e v e r , t h e a v e r a g e iso m e t ri c f o r ce
+dif f e r e n ce (F after − F before ,t h e steady co m po n e n t) f o ll o wing
+a s t r e tc h a t 76·4 d eg s¢ w as 15·6 ± 1·7 N . Th us, o n to p o fC. J . De Ru iter, W . J . M. Didde n, D. A. J ones a nd A. De Haa n J . Ph ys io l. 526.3 674
+Figur e 2. F o r ce r eco rd d uring a n d f o ll o wing iso v e l oci t y
+s t r e tc h es a t 76·4 d eg s¢
+Ang ul a r dis p l ace m e n t (to p) a n d f o r ce da ta (bo t to m) f o r o n es u b j ec t. St im ul a t i o n (in di ca ted b y t h e ba rs a bo v e t h e t im ea xis) w as ei t h e r a t 80 Hz (t r aces 1 a n d 2) o r 30 Hz (t r aces 3a n d 4). V e rt i ca l d o t ted lin es in di ca te w h e r e t h e f o r ces w e r em eas ur ed, bef o r e (F before ), a t t h e pea k (F peak ) a n d 500 ms
+f o ll o wing t h e s t r e tc h (F after ). Th e t hi c k t r aces a r e t h e f o r ce
+r es po nses bef o r e, d uring a n d a f te r s t r e tc h es f r o m 44 to63 d eg t h um b a ng l e a t 76·4 d eg s¢ . N o te t h a t wi t h bo t h t h e8 0a n d3 0H zs t i m u l a t i o n , t h ei s o m e t r i cf o r c ea f t e rt h es t r e t c h(F after ) w as e nh a n ced co m pa r ed to t h e iso m e t ri c f o r ces a t t h e
+63 d eg t h um b a ng l e wi t h o u t a p r eceding s t r e tc h (t hin t r aces).Figur e 3. Pr o posed co m po n e n ts o f s t r e tc h-in d u ced
+f o r ce e nh a n ce m e n t (m od e ll ed da ta)
+Th e m a xim a ll y ac t i v a ted ad d u c to r po lli cis m usc l e w ass t r e tc h ed b y a bd u c t i o n of t h e t h um b (a t 76·4 d eg s¢) f r o mt h e iso m e t ri c f o r ce p l a tea u a t t h e 44 d eg t h um b a ng l e (to ppa n e l). Co m po n e n t A is t h e f o r ce r es po nse of cr oss-b ri dg es toco ns ta n t v e l oci t y s t r e tc h. Co m po n e n t B is t h e l e ngt h-de p enden t elemen t . C om p onen t C f ol lo w s the t ot al(= ac t i v e + passi v e) f o r ce—t h um b a ng l e r e l a t i o nshi p of t h em usc l e. Th e dif f e r e n ce be t w ee n iso m e t ri c f o r ce a f te r a n dbef o r e t h e s t r e tc h (F after − F before ) w as used as a m eas ur e of
+the steady co m po n e n t of t h e s t r e tc h-in d u ced f o r ce
+e nh a n ce m e n t, r ef l ec t ing t h e co m b in ed ef f ec ts of co m po n e n tsB a n d C. Th e dif f e r e n ce be t w ee n t h e pea k f o r ce (F peak )a n d
+F after w as used to qu a n t if y t h e tra ns ie n t c om p onen t A . N ot e
+t h a t t his is a qu a li ta t i v e m od e l a n d t h a t t h e a bso l u te f o r cevalu e s (y -a xis) w e r e ad d ed f o ll o wing a n a l y sis of t h e da ta to
+gi v e a n im p r essi o n of t h e r e l a t i v e co n t ri b u t i o n of eac h of t h et hr ee co m po n e n ts to t h e to ta l f o r ce o u tp u t d uring a s t r e tc h a t76·4 d eg s¢ .
+
+t h e e xpec ted t h um b a ng l e-d e pe n d e n t f o r ce in cr ease(co m po n e n t C in Fig. 3), t h e r e w as a n e xt r a in cr ease in
+iso m e t r i c f o r ce o f 6·1 ± 1·1 N (P < 0·05) f o ll o wing a s t r e tc h
+a t 76·4 d eg s¢ , w hi c h is r e l a ted to co m po n e n t B in t h e m od e l( Fig. 3).
+Th e t r aces f r o m o n e s u b j ec t ( Fig. 2) sh o w t h a t r ed u cing t h e
+ac t i v a t i o n in t h e f r esh m usc l e r ed u ced t h e tra ns ie n t
+co m po n e n t of t h e s t r e tc h r es po nse (F peak − F after )r o u g h l y
+i n prop ortion t o the re d uction i n i n i ti al i s ome tric f orc e(F before ). H o w e v e r , t h e steady c om p onen t of the f orc e
+e nh a n ce m e n t f o ll o wing s t r e tc h a p pea r ed to be r e l a t i v e l yun a f f ec ted b y a d ecr ease in t h e s t im ul a t i o n f r equ e n c y .Co m b in ed da ta a t o n e v e l oci t y o f s t r e tc h (76·4 d eg s¢) f r o ma ll s u b j ec ts a n d in c l u ding bo t h f r esh a n d r eco v e r ed m usc l esare s how n i n Fig. 4 A ( 1 ). This sh o ws t h e steady c om p onen t
+to be in d e pe n d e n t of t h e ini t ia l iso m e t ri c f o r ce o v e r a b r oadr a ng e (f r o m 54·8 ± 1·9 to 31·4 ± 1·7 N). Th e steady
+co m po n e n t v a r ied f r o m 14·8 ± 1·7 N, w h e n s t r e tc h ed f r o m36 to 55 d eg (n o. 3 in Fig. 4 A) , to 17·3 ± 1·7 N f o r t h er eco v e r ed m usc l e s t im ul a ted a t 30 Hz (n o. 6 in Fig. 4 A) .
+Onl y t his l as t v a l u e w as signif i ca n t l y dif f e r e n t f r o m t h es ta n da rd co n di t i o n (80 Hz s t im ul a t i o n f r equ e n c y , s t r e tc h esf r o m 44 to 63 d eg; n o. 1 in Fig. 4 A) .
+In co n t r as t to t h e steady co m po n e n t, t h e tra ns ie n t
+co m po n e n t sh o w ed a signif i ca n t lin ea r r e l a t i o nshi p wi t hini t ia l iso m e t ri c f o r ce ( 1 , Fig. 4 C; r Â = 0·97) un d e r t h e s ix
+dif f e r e n t co n di t i o ns in t h e f r esh a n d r eco v e r ed m usc l e.Th e t w o co m po n e n ts of t h e s t r e tc h r es po nse a lso dif f e r edwi t h r es pec t to t h eir v e l oci t y d e pe n d e n c y . Fig ur e 4 B ( 1 )
+s how s tha t the steady co m po n e n t w as in d e pe n d e n t of s t r e tc h
+v e l oci t y , r a nging f r o m 15·2 ± 1·9 N (a t 19·1 d eg s¢) to15·6 ± 1·7 N (a t 76·4 d eg s¢). In co n t r as t, t h e tra ns ie n t
+co m po n e n t in cr eased signif i ca n t l y wi t h in cr easing s t r e tc hv e l oci t y ( Fig. 4 D) , f r o m 8·2 ± 0·6 N (a t 9·6 d eg s¢) to
+20·2 ± 1·2 N (a t 152·8 d eg s¢). Th ese f in dings a r eco nsis te n t wi t h t h e tra ns ie n t c om p onen t of the re sp on s e
+being r e l a ted to a t tac h ed cr oss-b ri dg es w hil e t h e steady
+co m po n e n t is l a rg e l y unr e l a ted to cr oss-b ri dg e ac t i vi t y .Stre tc h a nd f a t igue o f h u ma n m usc le J . Ph ys io l. 526.3 675
+Figur e 4. Th e ef f ec ts o f t h e iso m e t ri c f o r ce l e v e l bef o r e s t r e tc h a n d s t r e tc h v e l oci t y o n t w o
+di f f e r e n t f o r ce co m po n e n ts
+T h ed e p e n d e n c yo ft h e steady c om p onen t (A and B) and the tra ns ie n t c om p onen t (C and D) on F before and
+s t r e tc h v e l oci t y , in t h e f r esh ( 1 ) a n d f a t ig u ed ( þ ) m usc l e. See Figs 1 a n d 2 f o r e xp l a n a t i o ns of F before , F after
+and F peak . All da ta in A and C a r e f r o m s t r e tc h es a t 76·4 d eg s¢; t h e n um be rs in di ca te t h e dif f e r e n t
+co n di t i o ns used to v a ry F before : 1, s ta n da rd co n di t i o n: s t r e tc h es f r o m 44 to 63 d eg, 80 Hz s t im ul a t i o n;
+2, f ro m 44 to 63 d eg, r eco v e r ed m usc l e; 3, f r o m 36 to 55 d eg; 4, f r o m 36 to 55 d eg, r eco v e r ed m usc l e;5, f ro m 44 to 63 d eg, 30 Hz s t im ul a t i o n; 6, f r o m 44 to 63 d eg, 30 Hz s t im ul a t i o n, r eco v e r ed m usc l e. f1, f2,f3, r es pec t i v e l y , a r e f r o m t h e 20t h, 40t h a n d 60t h co n t r ac t i o n d uring t h e f a t ig u e p r o toco l a n d f4 a n d f5(s t r e tc h es f r o m 36 to 55 d eg) a r e da ta f r o m t h e l as t co n t r ac t i o ns in t h e f a t ig u ed s ta te. N o te t h e lin ea rr e l a t i o nshi p be t w ee n F before and F peak − F after in t h e unf a t ig u ed m usc l e (C , 1—6): y = 0·38 x − 4·0
+(r Â = 0·97). * Signif i ca n t l y dif f e r e n t f r o m unf a t ig u ed v a l u e.
+
+Fig ur e 5 sh o ws a n e x a m p l e of a n ad di t i o n a l e xpe rim e n t in
+w hi c h a f r esh ad d u c to r po lli cis m usc l e w as s t r e tc h ed a t av e ry l o w v e l oci t y (1·9 d eg s¢ , l as t ing 10 s). Th e iso m e t r i cf o r ce f o ll o wing t h e s t r e tc h w as co nsi dera bly en hanc e d and
+t h e m a gni t u d e of t his e nh a n ce m e n t w as simil a r to t h a tf o ll o wing s t r e tc h es a t hig h e r v e l oci t ies (see a lso Fig. 2, w hi c h
+sh o ws da ta o b ta in ed f r o m t h e sa m e s u b j ec t). This f in dingill us t r a tes t h a t t h e steady co m po n e n t is see n e v e n a t t h e
+v e ry l o w es t v e l oci t y of s t r e tc h a n d co nsequ e n t l y a p pea rs n o tto d eca y a p p r ecia b l y w hils t t h e m usc l e is ac t i v e. F peak ,
+h o w e v e r , w as o nl y s lig h t l y hig h e r t h a n F after , c on si st en t
+wi t h t h e v e l oci t y d e pe n d e n ce of t h e tra ns ie n t c om p onen t .
+F a t igu e
+St r e tc h-in d u ced f o r ce r espo nses. M eas ur e m e n ts m ad e o n
+t h e e xpe rim e n ta l da y d uring w hi c h t h e ecce n t ri c da ta w e r eco ll ec ted a r e p r ese n ted in Fig. 6. During t h e f a t ig u e p r o toco l
+bo t h iso m e t ri c a n d co n ce n t ri c f o r ce d ec lin ed (ph ase 2, Fig. 6).
+Af te r 6 min r eco v e ry , t h e f o r ces w e r e a p p r o xim a te l y bac k tobase lin e l e v e ls (ph ase 4, Fig. 6); iso m e t ri c f o r ce a t t h e 51 d eg
+t h um b a ng l e (52·8 ± 2·7 N) w as n o t s ig nif i ca n t l y dif f e r e n tf r o m t h a t o f f r esh m usc l e (55·6 ± 1·8 N). H o w e v e r , iso m e t r i cfo r c e
+b e f ore stret ch , tha t i s a t the 4 4 de g th u mb an gle
+(50·7 ± 2·6 versus 54·7 ± 2·0 N, P < 0·05), a n d f o r ce
+d uring t h e sh o r te ning co n t r ac t i o ns a t 152·8 d eg s¢(24·0 ± 1·5 versus 25·2 ± 1·5 N, P < 0·05), h ad n o t
+co m p l e te l y r eco v e r ed.Th e ef f ec t of f a t ig u e o n t h e f o r ce p r of il es d uring s t r e tc h isill us t r a ted f o r o n e s u b j ec t in Fig. 7 (s t r e tc h es a t 76·4 d eg s¢).
+During t h e co urse of t h e f a t ig u e p r o toco l t h e r e w as ac on s idera ble lo s s o f i s ometr ic f orc e and relaxa tion beca m e
+p r of o un dl y s l o w e r . N e v e rt h e l ess, t h e r es po nse to s t r e tc h-in d u ced f o r ce in cr ease w as r e l a t i v e l y l ess a f f ec ted (f1—f4 inFig. 7).
+Th e r es ul ts f o r a ll s u b j ec ts a r e s umm a rised in Fig. 4( þ ).
+During t h e f a t ig u e p r o toco l t h e iso m e t ri c f o r ce bef o r e t h es t r e tc h d ecr eased s ig nif i ca n t l y f r o m 54·8 ± 1·7 N (n o. 1 inFig. 4 A and C) to 27·0 ± 1·6 N (49·6 ± 3·0 %) d ur ing t h e
+f irs t co n t r ac t i o n a t 76·4 d eg s¢ in t h e f a t ig u ed s ta te (f3 inFig. 4 A and C) . N ot e tha t the steady c om p onen t of the f orc e
+in cr ease ( þ , Fig. 4 A) r e m a in ed co ns ta n t d es pi te t h e 50 %
+r ed u c t i o n in iso m e t ri c f o r ce. H o w e v e r , d uring t h e l as t t w oco n t r ac t i o ns a t 76·4 d eg s¢ , w hi c h w e r e a t t h e e n d o f t h ese ries in t h e f a t ig u ed s ta te (f4 a n d f5 in Fig. 4 A) , ther e wa s
+a signif i ca n t r ed u c t i o n in t h e steady co m po n e n t. Sm a ll, b u t
+signif i ca n t, f a t ig u e-in d u ced r ed u c t i o ns w e r e a lso f o un d a tt h e o t h e r v e l oci t ies ( þ , Fig. 4 B) . How e v er , a s w ith the
+f in dings in t h e f r esh m usc l e ( 1 ), t h e steady c om p onen t w a s
+in d e pe n d e n t of s t r e tc h v e l oci t y in t h e f a t ig u ed s ta te.C. J . De Ru iter, W . J . M. Didde n, D. A. J ones a nd A. De Haa n J . Ph ys io l. 526.3 676
+Figur e 5. F o r ce in r espo nse to s t r e tc h a t 1·9 d eg s¢
+E x a m p l eo fa na d d i t i o n a le x p e r i m e n ti nw h i c ht h ead d u c to r po lli cis m usc l e w as ei t h e r s t r e tc h ed f r o m 44 to63 d eg a t a v e ry l o w v e l oci t y (1·9 d eg s¢; t r ace 1) o riso m e t ri ca ll y s t im ul a ted f o r t h e sa m e d ur a t i o n a t t h e63 d eg t h um b a ng l e (t r ace 2). Da ta a r e f r o m t h e sa m esu bj e ct a s i n Fig. 2. Th e to p pa n e l sh o ws a ng ul a r
+dis p l ace m e n t. St im ul a t i o n (50 Hz) is in di ca ted b y t h e ba ra bo v e t h e t im e a x es. Th e l as t pa rt of t h e f o r ce t r aces(mi d dl e pa n e l) is sh o wn e nl a rg ed in t h e bo t to m pa n e l,w here the ar row i nd ic a t e s the end o f the stre t ch . N ot et h a t iso m e t ri c f o r ce f o ll o wing t h e s t r e tc h (F after )w a s
+c on s idera bly en hanc e d c om p are d t o the i s ometr ic f orc ewi t h o u t a p r eceding s t r e tc h (t r ace 2); a lso n o te t h a t pea ks t r e tc h f o r ce (F peak ) w as o nl y 3·1 N hig h e r t h a n F after .
+
+Th e tra ns ie n t co m po n e n t in cr eased signif i ca n t l y f r o m
+6·0 ± 1·6 N a t 9·6 d eg s¢ to 14·0 ± 1·0 N a t 152·8 d eg s¢( þ , Fig. 4 D) , ill us t r a t ing t h a t t h e tra ns ie n t c om p onen t
+in cr eased wi t h a n in cr ease in s t r e tc h v e l oci t y a l t h o ug h t h er e l a t i o nshi p dif f e r ed be t w ee n t h e f r esh a n d f a t ig u ed m usc l es.F o r ce—v e l oci t y r e l a t i o nshi ps. Th e co m p l e te f o r ce—v e l oci t y
+r e l a t i o nshi ps of h um a n ad d u c to r po lli cis m usc l e a r ep r ese n ted in Fig. 8 A. Th e iso m e t ri c f o r ce w as 56·4 ± 2·6 N
+b u t wi t h a n in cr ease in sh o rte ning v e l oci t y , co n ce n t ri c f o r ced ecr eased to 10·2 ± 0·7 N a t 382·0 d eg s¢ wi t h V max being
+es t im a ted as 852 ± 29 d eg s¢ in t h e f r esh m usc l e ( ± ). In
+co n t r as t, ecce n t ri c f o r ce in cr eased wi t h t h e in cr ease in t h es t r e tc h v e l oci t y to 74·3 ± 3·4 N a t 152·8 d eg s¢ ( þ ).In t h e f a t ig u ed m usc l e (cir c l es in Fig. 8 A) f o r ces w e r e
+signif i ca n t l y r ed u ced in a ll t ypes of co n t r ac t i o n. Iso m e t ri cf o r ce a n d es t im a ted m a xim a l sh o rte ning v e l oci t y d ecr easedto 27·0 ± 2·7 N a n d 540 ± 56 d eg s¢ , r es pec t i v e l y . Th ein d e x a Ï Pï ( w her e a i sac o n s t a n ta n d P ï the max i mal
+iso m e t ri c f o r ce) a lso d ecr eased signif i ca n t l y (f r o m0·23 ± 0·02 to 0·14 ± 0·03), in di ca t ing t h a t t h e c urv a t ur eof t h e co n ce n t ri c pa rt of t h e r e l a t i o nshi p in cr eased wi t hfa t i g u e .Ecce n t ri c f o r ces w e r e a lso signif i ca n t l y l o w e r d uring f a t ig u e( Fig. 8 A, 0 ; see a lso Fig. 4 D) . Howeve r , r e l at ive t o t h e
+m a xim a l iso m e t ri c f o r ce (F before ) t h e ecce n t ri c f o r ces
+in cr eased wi t h f a t ig u e (e. g. f r o m 137·3 ± 1·5 to159·0 ± 3·6 % a t 152·8 d eg s¢), w h e r eas co n ce n t r i c f o r cesStre tc h a nd f a t igue o f h u ma n m usc le J . Ph ys io l. 526.3 677
+Figur e 6. F o r ce c h a ng es d uring t h e isc h ae mi c f a t igu e
+p r o toco l
+Co n ce n t ri c f o r ce d uring sh o rte ning a t 152·8 d eg s¢ (cir c l es)a n d iso m e t ri c f o r ce a t t h e 44 d eg t h um b a ng l e (squ a r es) bef o r e(1, o pe n s ym bo ls), d uring (2) t h e f a t ig u e p r o toco l, in t h ef a t ig u ed s ta te (3) a n d f o ll o wing 6 min r eco v e ry (4, o pe ns ym bo ls). Base lin e v a l u es (1, 4) f o r iso m e t ri c f o r ce a t t h e51 d eg t h um b a ng l e (o pe n dia m o n ds) a r e a lso sh o wn. N o tet h a tt h er e l a t i v e l yl o wv a l u ef o rc o n c e n t r i cf o r c ea tt h es t a r tof t h e f a t ig u e p r o toco l co m pa r ed to t h e base lin e v a l u e is d u eto t h e l o w e r s t im ul a t i o n f r equ e n c y (50 ins tead of 150 Hz)a p p lied d uring t h e p r o toco l. * Signif i ca n t l y dif f e r e n t f r o m t h eunf a t ig u ed v a l u e (1).
+Figur e 7. Ex a m p l es o f f o r ce d uring a n d
+imm edia te l y f o ll o wing iso v e l oci t y s t r e tc h es a t76·4 d eg s¢ a t di f f e r e n t l e v e ls o f f a t igu e
+Th e six f o r ce t r aces a r e of o n e s u b j ec t a n d ill us t r a tet h e f o r ce r es po nses in t h e unf a t ig u ed (1) a n dr eco v e r ed (2) m usc l e, a n d d uring in cr easing f a t ig u e(f1—f4). Tr aces f3 a n d f4, r es pec t i v e l y , a r e t h e f irs ta n d l as t co n t r ac t i o n of t h e se ries a p p lied f o ll o wingt h e f a t ig u e p r o toco l. N o te t h e f urt h e r r ed u c t i o n off o r ce a n d t h e m o r e p r o n o un ced s l o wing of r e l a x a t i o nin f4 co m pa r ed to f3.
+
+r e m a in ed r ed u ced w h e n e xp r essed as a pe r ce n ta g e of t h em a xim a l iso m e t ri c f o r ce ( 1 , Fig. 8 B) . N ot e tha t the
+r e l a t i v e l y hig h v a l u e f o r t h e ecce n t ri c f o r ce a t t h e s t r e tc hv e l oci t y o f 76·4 d eg s¢ d ur ing f a t ig u e ( 0 ; Fig. 8 A) is d u e to
+a sequ e n ce ef f ec t; 76·4 d eg s¢ w as a l w a y s t h e f irs t v e l oci t ytes ted in t h e f a t ig u e s ta te. Th e s u bsequ e n t l e ngt h e ningco n t r ac t i o ns (a t t h e o t h e r v e l oci t ies) w e r e a p p lied in r a n d o mo rd e r (see M e t h ods), eac h co n t r ac t i o n ad ding to t h e f a t ig u e.Th us, in t h e f a t ig u ed s ta te, f a t ig u e w as so m e w h a t l ess w h e nt h e m usc l e w as s t r e tc h ed a t 76·4 d eg s¢ a n d co nsequ e n t l yecce n t ri c f o r ce a t 76·4 d eg s¢ w as r e l a t i v e l y hig h co m pa r edto t h e o t h e r v e l oci t ies ( 0 , Fig. 8 A) . In ad di t i o n, beca use
+f a t ig u e a f f ec ted iso m e t ri c f o r ce m o r e t h a n ecce n t ri c f o r ce,ecce n t ri c f o r ce a t 76·4 d eg s¢ w as r e l a t i v e l y l o w w h e ne xp r essed as a pe r ce n ta g e of t h e iso m e t ri c f o r ce ( Fig. 8 B) .DISCUSSION
+Th e p r ese n t s t u d y is t h e f irs t to in v es t ig a te t h e co m p l e tef o r ce—v e l oci t y r e l a t i o nshi p of m a xim a ll y ac t i v a ted in tac th um a n m usc l e in bo t h f r esh a n d f a t ig u ed s ta tes.A pa rt i c ul a r in te r es t w as t h e f o r ce r es po nse to s t r e tc h a n dt h e r es ul ts d e m o ns t r a te t w o co m po n e n ts: o n e (t h e steady
+co m po n e n t) t h a t a p pea rs to be in d e pe n d e n t of ac t i v a t i o na n d v e l oci t y a n d is n o t a f f ec ted b y f a t ig u e, a n d a seco n d (t h etra ns ie n t co m po n e n t) t h a t is p r o po rt i o n a l to ac t i v a t i o n,
+inf l u e n ced b y s t r e tc h v e l oci t y a n d a f f ec ted b y f a t ig u e, asw o ul d be e xpec ted if i t r ef l ec ted so m e as pec t of cr oss-b ri dg ef un c t i o n. I t is in te r es t ing t h a t d es pi te t h e p r ese n ce ofad di t i o n a l se ries co m p lia n ce of t h e m usc l e—te n d o n co m p l e xw o r king i n v i vo, t h e f o r ce r es po nses a r e, a t l eas t
+qu a li ta t i v e l y , simil a r to t h ose r e po rted f o r iso l a tedp r e pa r a t i o ns (J o y ce et a l . 1969; Edm a n et a l . 1978, 1981;
+Sugi & Ts u c hiy a, 1988; St ie n e n et a l . 1992; Edm a n &
+Ts u c hiy a, 1996; H e rzog & Leo n a rd, 1997).
+Co m po n e n ts o f t h e s t r e tc h r espo nse
+I t w as a n t i ci pa ted t h a t in t h e in tac t m usc l e t h e co n t ri b u t i o nof se ries a n d pa r a ll e l e l as t i c s t ru c t ur es to t h e to ta l f o r cer es po nse w o ul d be g r ea te r t h a n t h a t f o un d in p r e vi o uss t u dies o n iso l a ted m usc l e f i b r es a n d i t w as im po rta n t to seew h e t h e r t h e t ype of a n a l y sis used f o r sing l e f i b r es co ul d bea p p lied to a h um a n m usc l e w o r king i n v i vo. T o se pa r a te t h e
+cr oss-b ri dg e-r e l a ted pa rt of t h e r es po nse, w e a n a l y sed o urda ta using a (qu a li ta t i v e) m od e l based o n t h e w o r k ofEdm a n a n d co-w o r k e rs, as d escri bed b y N o b l e (1992). W eh a v e used t h e iso m e t ri c f o r ce dif f e r e n ce (F after − F before )a sa
+m eas ur e of t h e steady pa rt of t h e s t r e tc h-in d u ced f o r ce
+in cr ease (co m po n e n ts B a n d C in t h e m od e l), w hi c h w asass um ed n o t to d e pe n d o n cr oss-b ri dg e ac t i vi t y . Tw o of t h ep r ese n t f in dings s u p po rt t his ass um p t i o n. Firs t l y , t h e steady
+co m po n e n t di d n o t c h a ng e o v e r a 50 % r a ng e of f o r cer ed u c t i o n b r o ug h t a bo u t b y r ed u cing t h e n um be r of a t tac h edcr oss-b ri dg es a t t h e s ta rt of s t r e tc h ( Fig. 4 A) . Seco n dl y , t h e
+steady co m po n e n t w as in d e pe n d e n t of s t r e tc h v e l oci t y
+( Fig. 4 B) .T h e r e s u l t s i n Figs 2 and 5 demon stra t e tha t the
+ef f ec t m us t d eca y v e ry s l o w l y , if a t a ll, w hils t t h e m usc l er e m a ins ac t i v e. Th ese f ea t ur es m a k e i t hig hl y unlik e l y t h a tt h e m ec h a nisms un d e r l ying t h e steady c om p onen t of the
+f o r ce e nh a n ce m e n t a r e a f un c t i o n of t h e cr oss-b ri dg eac t i vi t y .In t h e p r ese n t m od e l t h e r e a r e t w o dif f e r e n t co m po n e n ts (Ba n d C) w hi c h tog e t h e r d e te rmin e t h e m a gni t u d e of t h esteady co m po n e n t. Co m po n e n t C is t h e c h a ng e in ac t i v e a n d
+passi v e f o r ce associa ted wi t h t h e t h um b a ng l e-d e pe n d e n tc h a ng e in f il a m e n t o v e r l a p . Co m po n e n t C acco un ted f o rap p r o x i m at e ly 6 0 % o f t h e steady co m po n e n t, t h e r e m a ining
+40 % being r e l a ted to co m po n e n t B of o ur m od e l.In r e l a t i o n to co m po n e n t B, i t h as bee n s ugg es ted (Edm a n &Ts u c hiy a, 1996) t h a t i t a rises f r o m t h e r ecrui tm e n t ofpa r a ll e l e l as t i c s t ru c t ur es d uring s t r e tc h, w hi c h m a y s u p po rtw ea k e r sa r co m e r es t h a t a r e p ull ed o u t b y s t r o ng e rsa r co m e r es in se ries (M o rg a n, 1990). Th e ‘po p ping’ (w ea k e r)C. J . De Ru iter, W . J . M. Didde n, D. A. J ones a nd A. De Haa n J . Ph ys io l. 526.3 678
+Figur e 8. F o r ce—v e l oci t y r e l a t i o nshi ps o f h um a n
+ad d u c to r po lli cis m usc l e
+F o r ce—v e l oci t y r e l a t i o nshi ps f o r co n ce n t ri c (o pe n s ym bo ls)a n d ecce n t ri c (f ill ed s ym bo ls) co n t r ac t i o ns f o r unf a t ig u ed(squ a r es) a n d f a t ig u ed m usc l e (cir c l es), in a bso l u te v a l u es (A )
+a n d r e l a t i v e to t h e m a xim a l iso m e t ri c f o r ce (B ) . Ecce n t ri c
+f o r ces w e r e ca l c ul a ted b y s u b t r ac t ing t h e steady c om p onen t
+(F after − F before )f r o m F peak . N o te t h a t t h e da ta o b ta in ed
+wi t h s t r e tc h es a t 76·4 d eg s¢ in t h e f a t ig u ed s ta te w e r ea f f ec ted b y a sequ e n ce ef f ec t (see te xt f o r e xp l a n a t i o n).
+
+sa r co m e r es co ul d, in t h eo ry , ta k e u p so m e o r a ll of t h e
+im posed l e ngt h c h a ng e wi t h s t ru c t ur es s u c h as t i t inf il a m e n ts t r a nsmi t t ing t h e f o r ce g e nera t e d b y the
+s hor t er Ï stron ger s arc omere s th u s genera ti n g a gre a t er f orc et h a n e xpec ted f o r t h e o v eral l len g th o f the m u s cle ( Mor gan ,
+1994). Th e r e is g r o wing e vi d e n ce t h a t sa r co m e r e n o n -unif o rmi t y occ urs d uring a s t r e tc h (f o r r ef e r e n ces seeM o rg a n, 1994) a n d t his p r o vi d es a r easo n a b l e e xp l a n a t i o nf o r t h e o rigins of t h e steady co m po n e n t o n t h e rig h t-h a n d
+d esce n ding lim b of t h e l e ngt h—te nsi o n r e l a t i o nshi p .H o w e v e r , in t h e p r ese n t e xpe rim e n ts m usc l es w e r e s t r e tc h edo n t h e asce n ding lim b of t h eir l e ngt h—f o r ce r e l a t i o nshi p a n dco nsequ e n t l y t h e steady c om p onen t c an on l y b e e x plai ne d i n
+t his f ashi o n if i t is ass um ed t h a t t h e r e is co nsi dera ble
+v a ria t i o n in f i b r e l e ngt hs a n d t h a t a signif i ca n t po p ul a t i o n off i b r es a r e being s t r e tc h ed o n t h e d esce n ding lim b of t h eirl e ngt h—f o r ce r e l a t i o nshi p . Wh a te v e r t h e e x ac t m ec h a nismbe hin d t h e iso m e t ri c f o r ce in cr ease, o ur f in dings t h a t t h esteady co m po n e n t is in d e pe n d e n t of s t r e tc h v e l oci t y , a n d to
+a c on s idera ble e x t en t o f f orc e , su pp or t the prop o s ition tha tthe steady co m po n e n t is esse n t ia ll y in d e pe n d e n t of cr oss-
+b ri dg e p r o pe rt ies.
+Th e r e l a t i v e l y r a pi d f o r ce in cr ease a t t h e beginning of t h e
+s t r e tc h in t h e p r ese n t s t u d y is co m pa r a b l e wi t h t h a t f o un d inother pre p ara tion s ( J o y c e et a l . 1969; Edm a n et a l . 1978,
+1981; Sugi & Ts u c hiy a, 1988; St ie n e n et a l . 1992; Edm a n &
+Ts u c hiy a, 1996; H e rzog & Leo n a rd, 1997). I t is in te r es t ingto n o te t h a t in t h e sing l e f i b r e p r e pa r a t i o ns, s u c h as t h oseused b y Edm a n a n d co-w o r k e rs (1978, 1981), w h e r ee xte rn a l co m p lia n ces w o ul d h a v e bee n minim a l, t h e f o r cet r aces r eac h ed a p l a tea u sh o rt l y a f te r t h e s ta rt of t h es t r et c h . Howeve r , i n t h e s t u dy o f Joyc e et a l . (1969) in w hi c h
+a ca t m usc l e p r e pa r a t i o n w as used, w h e r e t h e r e w o ul d h a v ebee n a p p r ecia b l e e xte rn a l co m p lia n ce, t h e f o r ce r es po nseco n t in u ed to in cr ease a f te r t h e ini t ia l r a pi d r es po nse tos t r e tc h, m u c h as see n in o ur p r ese n t w o r k. This tra ns ie n t
+co m po n e n t (co m po n e n t A, in o ur m od e l) of t h e to ta l f o r cein cr ease is p r o ba b l y ca used b y a t tac h ed cr oss-b ri dg es being,o n a v e r a g e, s t r e tc h ed o r dis to rted, co m pa r ed to t h epo p ul a t i o n of a t tac h ed cr oss-b ri dg es d uring a n iso m e t ri cco n t r ac t i o n. If , in d eed, t h e tra ns ie n t co m po n e n t a rises f r o m
+cr oss-b ri dg e in te r ac t i o ns i t w o ul d be e xpec ted to d e pe n d o nt h e n um be r of a t tac h ed cr oss-b ri dg es a n d o n s t r e tc h v e l oci t y .W e h a v e ta k e n F peak − F after as a m eas ur e f o r t h e tra ns ie n t
+co m po n e n t a n d, in a g r ee m e n t wi t h o ur h ypo t h esis, t h etra ns ie n t co m po n e n t d ecr eased w h e n t h e n um be r of f o r ce-
+genera ti n g c r oss-b ri dg es w as r ed u ced ( Fig. 4 C) and
+in cr eased wi t h in cr easing s t r e tc h v e l oci t y ( Fig. 4 D) .
+In t h e p r ese n t e xpe rim e n ts, t h e m a xim um ecce n t ri c f o r ce
+w as 137·3 ± 1·5 % o f t h e iso m e t r i c f o r ce a n d i t w as o b ta in edw h e n t h e m usc l e w as s t r e tc h ed a t 152·8 d eg s¢ ( Fig. 8). This
+is unlik e l y to be t h e t ru e m a xim um sin ce i t is e vi d e n t inFig. 4 D t h a t f o r ce co n t in u ed to in cr ease a t t h e hig h es t
+v e l oci t ies. H o w e v e r , m ec h a ni ca l co ns t r a in ts of t h e a p pa r a t usm ea n t t h a t 152·8 d eg s¢ w as t h e hig h es t v e l oci t y t h a t co ul dbe used. Th e 37·3 % ad di t i o n a l f o r ce ac hie v ed co m pa r es wi t hv a l u es f o r iso l a ted f i b r e p r e pa r a t i o ns of be t w ee n 50 a n d100 % (Edm a n et a l . 1978; Lo m ba rdi & Piazzesi, 1990;
+St ie n e n et a l . 1992; Curt in & Edm a n, 1994). In w h o l e
+m usc l e p r e pa r a t i o ns v a l u es a r e us u a ll y a bo u t 50 % (Fli tn e y& Hirs t 1978; H a rry et a l . 1990). N e v e rt h e l ess, t h e 37 %
+in cr ease in t h e p r ese n t s t u d y is hig h e r t h a n t h a t r e po rted f o rv o l un ta ry ecce n t ri c co n t r ac t i o ns in h um a ns (Th o mso n &Ch a pm a n, 1988; Du dl e y et a l . 1990; W es t ing et a l . 1990;
+W e bbe r & Krie ll aa rs, 1997). I t is im po rta n t to n o te t h a t t h er a ng e of v a l u es f o r t h e ecce n t ri c f o r ce in t h e li te r a t ur e ispa rt l y d u e to t h e dif f e r e n t m e t h ods used to ca l c ul a te i t. Inp rin ci p l e, t h e r e a r e a n um be r of w a y s to p r oceed a n d t h em e t h od used sh o ul d d e pe n d o n t h e o b j ec t i v e of t h e s t u d y .W e h a v e c h ose n to e xp r ess t h e pea k of t h e tra ns ie n t
+c om p onen t (F peak ) rela ti v e t o the i s ometr ic f orc e obt ai ne d
+bef o r e t h e s t r e tc h, w hi c h is co m pa r a b l e to w h a t h as bee nd o n e b y o t h e rs (e. g. Curt in & Edm a n, 1994). H o w e v e r ,beca use w e a im ed to o b ta in co n ce n t ri c a n d ecce n t ri cf o r ce—v e l oci t y r e l a t i o nshi ps, w hi c h w o ul d r ef l ec t cr oss-b ri dg e f un c t i o n, w e co rr ec ted f o r t h e steady c om p onen t of
+t h e s t r e tc h-in d u ced f o r ce e nh a n ce m e n t; F after − F before wa s
+su btra ct e d f r om F peak . N e v e rt h e l ess, i t is o b vi o us t h a t in
+c on s idera tion o f h u man p er f or manc e (see be l o w), t h e to ta l
+(un co rr ec ted) f o r ce is of r e l e v a n ce. N o t co rr ec t ing o ur da tafo r t h e steady co m po n e n t of t h e f o r ce e nh a n ce m e n t w o ul d
+h a v e in cr eased ecce n t ri c f o r ce r e l a t i v e to t h e iso m e t ri c f o r ce;co nsequ e n t l y , t h e ecce n t ri c pa rts of t h e f o r ce—v e l oci t yr e l a t i o nshi ps, es pecia ll y in t h e f a t ig u ed m usc l e (see ‘Ef f ec tsof f a t ig u e ’), w o ul d h a v e bee n shif ted u p w a rds.
+St r e tc hing ac t i v e m usc l es is a n o rm a l pa rt of da il y ac t i vi t y
+w h e t h e r i t be in a bso rb ing e n e rgy w h e n l a n ding f r o m ajum p o r s te p ping d o wn, l o w e ring a n o b j ec t o r bod y w eig h t,o r co n t r o lling lim b posi t i o n w h e n w o r king a g a ins t a na n ta g o nis t m usc l e. Co nsequ e n t l y i t is of in te r es t to co nsi d e rh o w cr oss-b ri dg es a n d o t h e r co m po n e n ts co n t ri b u te to t hisim po rta n t as pec t of pe rf o rm a n ce. Wh e n t h e f r esh m usc l ew as s t r e tc h ed a t 76·4 d eg s¢ t h e steady and tra ns ie n t (cr oss-
+b ri dg e-r e l a ted) co m po n e n ts of t h e s t r e tc h ed -in d u ced f o r cein cr ease w e r e of a bo u t t h e sa m e size (r es pec t i v e l y ,15·6 ± 1·7 a n d 16·8 ± 1·0 N). At s l o w e r s t r e tc h es t h erela ti v e c on tri bu tion of the steady co m po n e n t in cr eased
+(co m pa r e Fig. 4 B and D , see a lso Fig. 5). In ad di t i o n, l a rg e
+a m p li t u d e s t r e tc h es will e m ph asise t h e n o n -cr oss-b ri dg e( steady ) co m po n e n t w hil e sm a ll r a pi d s t r e tc h es will l a rg e l y
+r ef l ec t cr oss-b ri dg e f un c t i o n. Cl ea r l y t h e steady c om p onen t
+pla ys a maj or role i n the ov eral l re sp on s e t o stret ch o f i n t a ctm usc l e—te n d o n co m p l e x es. N o t o nl y d oes t his co m po n e n tin cr ease t h e pea k f o r ce r esis t ing s t r e tc h b u t t h e r e is e vi d e n cet h a t t his ad di t i o n a l f o r ce ca n h e l p m a in ta in f o r ce d urings u bsequ e n t sh o rte ning co n t r ac t i o ns (Et te m a et a l . 1992).
+F o r ce—v e l oci t y r e l a t i o nshi p
+Th e co n ce n t ri c pa rt of t h e f o r ce—v e l oci t y r e l a t i o nshi p
+r e po rted h e r e is v e ry simil a r to t h a t o b ta in ed in o urpre v iou s stud y ( D e R u i t er et a l . 1999) a l t h o ug h in t h e
+p r ese n t s t u d y t h e c urv a t ur e of t h e r e l a t i o nshi p (a Ï Pï )
+te n d ed to be so m e w h a t hig h e r (0·23 ± 0·02, co m pa r ed toStre tc h a nd f a t igue o f h u ma n m usc le J . Ph ys io l. 526.3 679
+0·28 ± 0·04 o b ta in ed p r e vi o us l y) and V max (852 ±
+29 d eg s¢) w as r e l a t i v e l y hig h co m pa r ed to o ur p r e vi o usf in dings (773 ± 73 d eg s¢). Th ese dif f e r e n ces a r e m os tp r o ba b l y ca used b y t h e hig h e r s t im ul a t i o n f r equ e n cies useda t t h e f as te r v e l oci t ies of sh o rte ning (300 ins tead of 80 Hz)(d e H aa n, 1998; see M e t h ods).
+Th e ad d u c to r po lli cis h as a co m p l e x a r c hi tec t ur e wi t h f i b r es
+tha t
+v a ry in l e ngt h so i t is im possi b l e to t r a ns l a te t h e a ng ul a r
+dis p l ace m e n ts gi v e n h e r e in to acc ur a te m usc l e l e ngt hs.H o w e v e r , ass uming a n o v eral l m u s cle len g th o f 4 · 5 c m and an
+a v e r a g e f i b r e l e ngt h of o n e-h a lf of t h a t, t h e n t h e m a xim um
+v e l oci t y of sh o rte ning f o r t h e f r esh m usc l e in Fig. 8
+r e p r ese n ts a bo u t 6 m usc l e l e ngt hs s¢ o r 12 f i b r e l e ngt hs s¢;co rr es po n ding v a l u es in f a t ig u ed m usc l e w e r e 3·8 m usc l el e ngt hs s¢ a n d 7·5 f i b r e l e ngt hs s¢ . Lik e wise t h e m a xim umv e l oci t y of s t r e tc h used in t h ese e xpe rim e n ts w as a bo u t2 f i b r e l e ngt hs s¢ .
+Ef f ec ts o f f a t igu e
+As a r es ul t of t h e f a t ig u e p r o toco l, iso m e t ri c f o r ce d ecr easedb y 50 % w hils t t h e d ecr ease in co n ce n t ri c f o r ces w as v e ryd e pe n d e n t o n t h e v e l oci t y of sh o rte ning, p r ef e r e n t ia ll yd ecr easing a t hig h e r v e l oci t ies as a co nsequ e n ce of t h ere d uction i n V max a n d in cr eased c urv a t ur e. Th e d ecr ease in
+the tra ns ie n t co m po n e n t d uring s t r e tc h w as l ess t h a n t h a t of
+iso m e t ri c f o r ce (e. g. Fig. 7)
+a n d co nsequ e n t l y w h e n
+ecce n t ri c f o r ce is e xp r essed as a pe r ce n ta g e of iso m e t ri cf o r ce, t h e f a t ig u ed m usc l e s us ta in ed r e l a t i v e l y g r ea te rf o r ces t h a n t h e f r esh
+m usc l es ( Fig. 8 B) . T he h i g he st value
+(159·0 ± 3·6 %) w as o b ta in ed w h e n t h e f a t ig u ed m usc l e w ass t r e tc h ed a t 152·8 d eg s¢ . N o te t h a t if w e h ad n o t co rr ec tedF peak fo r t h e steady co m po n e n t, t h e r e l a t i v e ecce n t ri c f o r ce
+a t 152·8 d eg s¢ w o ul d h a v e bee n co ns i dera bly h i g her
+(219·4 ± 10·3 %). I t see ms lik e l y t h a t, h ad w e bee n a b l e toac hie v e a f as te r s t r e tc h, t h e ecce n t ri c f o r ce w o ul d h a v eco n t in u ed to in cr ease a n d possi b l y p l a tea u. Wh a t w o ul d bein te r es t ing to kn o w is w h e t h e r , gi v e n a s uf f i cie n t l y hig hv e l oci t y of s t r e tc h, bo t h f r esh a n d f a t ig u ed m usc l es w o ul dh a v e r eac h ed t h e sa m e hig h p l a tea u of f o r ce, e xp r essed as ape r ce n ta g e of iso m e t ri c f o r ce.
+W e a r e n o t a w a r e of o t h e r s t u dies o n t h e ecce n t ri c pa rt of
+t h e f o r ce—v e l oci t y r e l a t i o nshi p of in v iv o h um a n m usc l e
+d uring f a t ig u e. Curt in & Edm a n (1994) wi t h f r og m usc l ea lso f o un d t h a t ecce n t ri c f o r ce p r od u c t i o n w as l ess a f f ec tedb y f a ti gue than c onc en tric f orc e pro d uction , d u ri n gmo dera t e f a ti g ue ( 2 6 % de c r ease of iso m e t ri c f o r ce) in
+iso l a ted f r og f i b r e. Th e p r ese n t s t u d y e xpa n ds t h a t ea r lie ro bse rv a t i o n b y f in ding simil a r r es ul ts f o r in tac t h um a nm u s cle , not on ly f or mo dera t e but al s o mor e s e v er e f a ti g ue(iso m e t ri c f o r ce l oss > 50 %).
+Curt in & Edm a n (1994) s ugg es t t w o possi b l e ca uses of t h e
+r e l a t i v e p r ese rv a t i o n of ecce n t ri c f o r ce d uring f a t ig u e. Th ef irs t is t h e e xis te n ce of cr oss-b ri dg es t h a t a r e a t tac h ed b u t ina l o w f o r ce s ta te, possi b l y as a r es ul t of in cr eased in t r a-ce ll ul a r in o rg a ni c ph os ph a te. Th ese cr oss-b ri dg es w o ul dco n t ri b u te li t t l e to t h e iso m e t ri c f o r ce b u t w o ul d in cr ease t h es t if f n ess of t h e m usc l e a n d p r o vi d e ad di t i o n a l f o r ce w h e ns t r e tc h ed. Th e p r o b l e m wi t h t his e xp l a n a t i o n is t h a t i te xp l a ins a n ini t ia l in cr ease in f o r ce, b u t as t h e s t r e tc hco n t in u es a n d cr oss-b ri dg es a r e f o r ci b l y d e tac h ed, i t isdif f i c ul t to see w h y cr oss-b ri dg es t h a t w e r e f o rm e r l ya t t a c h e di nt h el o wf o r c es t a t es h o u l db e h a v ea n yd i f f e r e n t l yf r o m cr oss-b ri dg es t h a t w e r e p r e vi o us l y in t h e hig h f o r ces ta te. Th e seco n d possi b ili t y is t h a t in t h e f a t ig u ed s ta tecr oss-b ri dg es a r e c y c ling m o r e s l o w l y . This co ul d acco un t f o rbo t h t h e d ecr ease in f o r ce see n wi t h co n ce n t ri c co n t r ac t i o nsa n d t h e in cr ease in ecce n t ri c f o r ce. If cr oss-b ri dg e c y c ling iss l o w ed wi t h f a t ig u e t h e r e sh o ul d be a n in cr ease in t h eeco n o m y of m a in ta ining iso m e t ri c f o r ce. Th e r e is so m ee vi d e n ce t h a t t his mig h t be t h e case ( Fig. 5 of H ul tm a n &
+Sj /.notdef37oh o lm, 1983; W es t r a et a l . 1988) b u t m u c h m o r e e vi d e n ce
+is r equir ed to p r o v e a ca usa l r e l a t i o nshi p be t w ee n c h a ng es in
+cr oss-b ri dg e c y c ling a n d t h e o bse rv ed c h a ng es in t h ef o r ce—v e l oci t y r e l a t i o nshi p .
+T o s umm a rise, w e h a v e d e m o ns t r a ted t h a t t h e r es po nse of
+s t im ul a ted h um a n m usc l e in v iv o to s t r e tc h ca n be di vi d ed
+in to t w o m a jo r co m po n e n ts. Th e steady c om p onen t p er si st s
+a f te r t h e s t r e tc h, a n d is co n c l u d ed to a rise f r o m s t ru c t ur eso t h e r t h a n t h e cr oss-b ri dg es beca use i t w as n o t a f f ec ted b yt h e v e l oci t y of t h e s t r e tc h, t h e n um be r of a t tac h ed cr oss-b r i d g e so rb yf a t i g u e . T h e tra ns ie n t c om p onen t of the f orc e
+r es po nse h as c h a r ac te ris t i cs t h a t a r e co nsis te n t wi t h cr oss-b ri dg e f un c t i o n, being d e pe n d e n t o n t h e l e v e l of ac t i v a t i o na n d v e l oci t y of s t r e tc h. I t is lik e l y t h a t bo t h co m po n e n ts oft h e s t r e tc h r es po nse m a k e a signif i ca n t co n t ri b u t i o n tom usc l e pe rf o rm a n ce, t h e p r ecise p r o po rt i o ns d e pe n ding o nt h e s peed a n d l e ngt h of t h e s t r e tc h. As a r es ul t of ac u tef a t ig u e t h e m usc l e ’ s ca paci t y to s us ta in f o r ce d uring s t r e tc hwa s b ett er pre s er v e d than the a bi l ity t o genera t e i s ometr icf o r ce w hil e co n ce n t ri c f o r ce p r od u c t i o n sh o w ed t h e g r ea tes td ec lin e. Th ese f in dings a r e co nsis te n t wi t h s l o w e r cr oss-b ri dg e c y c ling in f a t ig u ed m usc l es b u t t his is b y n o m ea nsp r o v e n, a n d t h e r e r e m a in in te r es t ing qu es t i o ns to bean sw er e d a b out the met a b ol ic c or r ela t e s o f chan ge s i n thef o r ce—v e l oci t y r e l a t i o nshi p wi t h f a t ig u e.
+Ab bott , B. C . & A ub er t , X . M. (1952 ). Th e f o r ce e x e rted b y ac t i v e
+s t ria ted m usc l e d uring a n d a f te r c h a ng e of l e ngt h. Jo u r n a l o f
+Ph ys io logy 117 , 77—86.
+Allen, D . J . , Lee, J . A . & W esterb lad, H . (1989 ). In t r ace ll ul a r
+ca l ci um a n d te nsi o n d uring f a t ig u e in iso l a ted sing l e m usc l e f i b r esfr o m Xe nopus laev is . J ou rn a l o f Ph ys io logy 415 , 433—458.
+Coo k, C . S. & M cDo n a g h, M. J . N . (1995 ). F o r ce r es po nses to
+co n t r o ll ed s t r e tc h es of e l ec t ri ca ll y s t im ul a ted h um a n m usc l e—te n d o nco m p l e x. Experi me n ta l Ph ys io logy 80 , 477—490.
+Cur tin, N . A . & Ed man, K. A . P . (1994 ). F o r ce—v e l oci t y r e l a t i o n f o r
+f ro g m u s cle f i bre s : e f f e ct s o f mo dera t e f a ti gue and i n tra c el lu laraci dif i ca t i o n. J ou rn a l o f Ph ys io logy 475 , 483—494.
+De Haan, A . (1998 ). Th e inf l u e n ce of s t im ul a t i o n f r equ e n c y o n
+f o r ce—v e l oci t y c h a r ac te ris t i cs of in s i t u r a t m edia l g as t r ocn e mi us
+m usc l e. Experi me n ta l Ph ys io logy 83 , 77—84.C. J . De Ru iter, W . J . M. Didde n, D. A. J ones a nd A. De Haa n J . Ph ys io l. 526.3 680
+De Haan, A . , V an Doo r n, J . E. & S arg e ant , A . J . (1988 ). Ag e-
+r e l a ted c h a ng es in po w e r o u tp u t d uring r e pe t i t i v e co n t r ac t i o ns of r a tm edia l g as t r ocn e mi us m usc l e. Pf l /.notdef37ugers A rc h i v 412 , 665—667.
+De R uiter, C . J . , De Haan, A . , J o nes, D . A . & S arg e ant , A . J .
+(1998 ). Sh o rte ning-in d u ced f o r ce d e p r essi o n in h um a n ad d u c to r
+po lli cis m usc l e. J ou rn a l o f Ph ys io logy 507 , 583—591.
+De R uiter, C . J . , J o nes, D . A . , S arg e ant , A . J . & De Haan, A .
+(1999 ). Th e m eas ur e m e n t of f o r ceÏv e l oci t y r e l a t i o nshi ps of f r esh a n d
+f a t ig u ed h um a n ad d u c to r po lli cis m usc l e. Eu ropea n J ou rn a l o f
+A pp l ie d Ph ys io logy 80 , 386—393.
+Dud ley , G . A . , Harris, R. T . , Duv o isin, M. R. , Ha ther, B. M. &
+B u chan an, P . (1990 ). Ef f ec t of v o l un ta ry vs. a rt if i cia l ac t i v a t i o n o n
+t h e r e l a t i o nshi p of m usc l e to rqu e to s peed. Jo u r n a l o f A p p l i e d
+Ph ys io logy 69 , 2215—2221.
+Ed man, K. A . P . , Elzin g a, G . & N o b le, M. I . M. (1978 ).
+Enh a n ce m e n t of m ec h a ni ca l pe rf o rm a n ce b y s t r e tc h d uring te ta ni cco n t r ac t i o ns of v e rte b r a te s k e l e ta l m usc l e f i b r es. Jo u r n a l o f
+Ph ys io logy 281 , 139—155.
+Ed man, K. A . P . , Elzin g a, G . & N o b le, M. I . M. (1981 ). Cri t i ca l
+sa r co m e r e e xte nsi o n r equir ed to r ecrui t a d eca ying co m po n e n t ofe xt r a f o r ce d uring s t r e tc h in te ta ni c co n t r ac t i o ns of f r og s k e l e ta lm usc l e f i be rs. J ou rn a l o f Ge nera l Ph ys io logy 78 , 365—382.
+Ed man, K. A . P . & Tsu chiy a, T . (1996 ). St r a in of passi v e e l e m e n ts
+d uring f o r ce e nh a n ce m e n t b y s t r e tc h in f r og m usc l e f i b r es. Jo u r n a l
+o f Ph ys io logy 490 , 191—205.
+Ettema, G . J . C . , H uijin g, P . A . & De Haan, A . (1992 ). Th e
+po te n t ia t ing ef f ec t of p r es t r e tc h o n t h e co n t r ac t il e pe rf o rm a n ce ofr a t g as t r ocn e mi us m edia lis m usc l e d uring s u bsequ e n t sh o rte ninga n d iso m e t ri c co n t r ac t i o ns. J ou rn a l o f Experi me n ta l B io logy 165 ,
+121—136.
+Flitney , F . W . & Hirst , D . G . (1978 ). Cr oss-b ri dg e d e tac hm e n t a n d
+sa r co m e r e ‘gi v e ’ d uring s t r e tc h of ac t i v e f r og’ s m usc l e. Jo u r n a l o f
+Ph ys io logy 276 , 449—465.
+Harr y , J . D . , W ar d, A . W . , Heg l und, N . C . , M o rg an, D . L. &
+M cMah o n, T . A . (1990 ). Cr ossb ri dg e c y c ling t h eo ries ca nn o t e xp l a in
+hig h-s peed l e ngt h e ning be h a vi o ur in f r og m usc l e. B ioc he m ica l
+Jo u r n a l 57 , 201—208.
+Herzog, W . & Leo n ar d, T . R. (1997 ). De p r essi o n of ca t so l e us f o r ces
+f o ll o wing iso kin e t i c sh o rte ning. J ou rn a l o f B iomec ha n ics 30 ,
+865—872.
+Hill, A . V . (1938 ). Th e h ea t of sh o rte ning a n d t h e d yn a mi c co ns ta n ts
+of m usc l e. Procee d i ngs o f t he Roya l Soc ie t y B 126 , 136—195.
+H ul tman, E. & Sj /.notdef37o h o lm, H . (1983 ). En e rgy m e ta bo lism a n d
+co n t r ac t i o n f o r ce of h um a n s k e l e ta l m usc l e in s i t u d uring e l ec t ri ca l
+s t im ul a t i o n. J ou rn a l o f Ph ys io logy 345 , 525—532.
+J ames, C . , S a cco, P . & J o nes, D . A . (1995 ). Loss of po w e r d uring
+f a t ig u e in h um a n l eg m usc l es. J ou rn a l o f Ph ys io logy 484 , 237—246.
+J o yce, G . C . , R a ck, P . M. H . & W estb ur y , D . R. (1969 ). Th e
+m ec h a ni ca l p r o pe rt ies of ca t so l e us m usc l e d uring co n t r o ll edl e ngt h e ning a n d sh o rte ning m o v e m e n ts. J ou rn a l o f Ph ys io logy
+204 , 461—474.
+Ka t z, B. (1939 ). Th e r e l a t i o n be t w ee n f o r ce a n d s peed in m usc ul a r
+co n t r ac t i o n. J ou rn a l o f Ph ys io logy 96 , 45—64.
+Lo mb ar d i, V . & Piazzesi, G . (1990 ). Th e co n t r ac t il e r e po nse d uring
+s tead y l e ngt h e ning of s t im ul a ted f r og m usc l e f i b r es. Jo u r n a l o f
+Ph ys io logy 431 , 141—171.
+M o rg an, D . L. (1990 ). N e w insig h ts in to t h e be h a vi o ur of m usc l e
+d uring ac t i v e l e ngt h e ning. B iop h ys ica l J ou rn a l 57 , 209—221.
+M o rg an, D . L. (1994 ). An e xp l a n a t i o n f o r t h e r esi d u a l in cr eased
+te nsi o n in s t ria ted m usc l e a f te r s t r e tc h d uring co n t r ac t i o n.Experi me n ta l Ph ys io logy 79 , 831—838.N o b le, M. I . M. (1992 ). Enh a n ce m e n t of m ec h a ni ca l pe rf o rm a n ce of
+s t ria ted m usc l e b y s t r e tc h d uring co n t r ac t i o n. Experi me n ta l
+Ph ys io logy 77 , 539—552.
+Stienen, G . J . M. , V ersteeg, P . G . A . , P app, Z. & Elzin g a, G .
+(1992 ). M ec h a ni ca l p r o pe rt ies of s kinn ed r a bb i t psoas a n d so l e us
+m usc l e f i b r es d uring l e ngt h e ning: ef f ec ts of ph os ph a te and Ca ¥ .
+J ou rn a l o f Ph ys io logy 451 , 503—523.
+Sug i , H. & Tsu chiy a, T . (1988 ). St if f n ess c h a ng es d uring
+e nh a n ce m e n t a n d d ef i ci t of iso m e t ri c f o r ce b y s l o w l e ngt h c h a ng es inf r og s k e l e ta l m usc l e f i b r es. J ou rn a l o f Ph ys io logy 407 , 215—229.
+Th o mso n, D . B. & Chapman, A . E. (1988 ). Th e m ec h a ni ca l r es po nse
+of ac t i v e h um a n m usc l e d uring a n d a f te r s t r e tc h. Eu ropea n J ou rn a l
+o f A pp l ie d Ph ys io logy 57 , 691—697.
+W eb b er, S. & Kriellaars, D . (1997 ). N e ur o m usc ul a r f ac to rs
+co n t ri b u t ing to in vi v o ecce n t ri c m o m e n t g e nera tion . Jo u r n a l o f
+A pp l ie d Ph ys io logy 83 , 40—45.
+W esterb lad, H . & Allen, D . G . (1993 ). Th e co n t ri b u t i o n of [Ca ¥ ] é
+to t h e s l o wing of r e l a x a t i o n in f a t ig u ed sing l e f i b r es f r o m m o usesk ele t al m u s cle . J ou rn a l o f Ph ys io logy 468 , 729—740.
+W esterb lad, H . , B r uto n, J . D . & L /.notdef37annerg ren, J . (1997 ). Th e
+ef f ec t of in t r ace ll ul a r p H o n co n t r ac t il e f un c t i o n of in tac t, sing l ef i b r es of m o use m usc l e d ec lin es wi t h in cr easing te m pe r a t ur e.J ou rn a l o f Ph ys io logy 500 , 193—204.
+W estin g, S. H . , Cresswell, A . G . & Th o rsten sso n, A . (1991 ).
+M usc l e ac t i v a t i o n d uring m a xim a l v o l un ta ry ecce n t ri c a n dco n ce n t ri c kn ee e xte nsi o n. Eu ropea n J ou rn a l o f A pp l ie d Ph ys io logy
+62 , 104—108.
+W estin g, S. H . , Seg er, J . Y . , Karlso n, E. & Ekb lo m, B. (1988 ).
+Ecce n t ri c a n d co n ce n t ri c to rqu e-v e l oci t y c h a r ac te ris t i cs of t h equ adri ce ps f e m o ris in m a n. Eu ropea n J ou rn a l o f A pp l ie d
+Ph ys io logy 58 , 100—104.
+W estin g, S. H . , Seg er, J . Y . & Th o rsten sso n, A . (1990 ). Ef f ec ts of
+e l ec t ri ca l s t im ul a t i o n o n ecce n t ri c a n d co n ce n t ri c to rqu e-v e l oci t yr e l a t i o nshi ps d uring kn ee e xte nsi o n in m a n. A c ta Ph ys io log ica
+Sca nd i n a v ica 140 , 17—22.
+W estr a, H . G . , De Haan, A . , V an Doo r n, J . E. & De Haan, E. J .
+(1988 ). An ae r o b i c e n e rgy c h a ng es a n d m ec h a ni ca l o u tp u t d uring
+te ta ni of r a t m usc l e in si t u .P f l /.notdef37ugers A rc h i v 412 , 121—127.
+Co rr espo n ding a u t h o r
+C. J . De R ui te r: Ins t i t u te f o r Fun da m e n ta l and Clini ca l H um a n
+M o v e m e n t Scie n ces, F ac ul t y of H um a n M o v e m e n t Scie n ces, Vrij eU ni v e rsi tei t, V a n d e r Boec h o rs ts t r aa t 9, 1081 BT Ams te rda m, Th eN etherland s .
+Em a il: c _ j _ de _ rui te r@f bw .vu. nlStre tc h a nd f a t igue o f h u ma n m usc le J . Ph ys io l. 526.3 681

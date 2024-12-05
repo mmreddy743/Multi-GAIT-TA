@@ -1,0 +1,1834 @@
+REVIEW
+Musculoskeletal Biology and Bioengineering
+Skeletal muscle memory
+Adam P. Sharples and Daniel C. Turner
+Institute for Physical Performance, Norwegian School of Sport Sciences, Olso, Norway
+Abstract
+Skeletal muscle memory is an exciting phenomenon gaining signi ﬁcant traction across several scienti ﬁc communities, among exercise
+practitioners, and the public. Research has demonstrated that skeletal muscle tissue can be “primed ”by earlier positive encounters
+with exercise training that can enhance adaptation to later retraining, even following signi ﬁcant periods of exercise cessation or
+detraining. This review will describe and discuss the most recent research investigating the underlying mechanisms of skeletal musclememory: 1)“cellular ”muscle memory and, 2)“epigenetic ”muscle memory, as well as emerging evidence of how these theories may
+work in synergy. We will discuss both “positive ”and “negative ”muscle memory and highlight the importance of investigating muscle
+memory for optimizing exercise interventions and training programs as well as the development of therapeutic strategies for counter-acting muscle wasting conditions and age-related muscle loss. Finally, important directions emerging in the ﬁeld will be highlighted to
+advance the next generation of studies in skeletal muscle memory research into the future.
+atrophy; DNA methylation; epigenetics; hypertrophy; myonuclei
+WHAT IS MUSCLE MEMORY? AN
+INTRODUCTION
+Whenever we hear the term “memory, ”we think about the
+recollection of a speci ﬁc event encountered in our lives that
+is stored in the brain. Within wider biology, another familiarexample of “memory ”would apply to our immune system,
+which retains the ability to produce antibodies to protectagainst speci ﬁc antigens it has been exposed to in the past.
+When speci ﬁcally referring to “muscle memory, ”we perhaps
+associate this with the ability to reperform certain move-ments or motor skills, such as riding a bike. A skill that islearnt and typically not forgotten. However, the concept ofmuscle memory has now evolved among scientists and
+across the wider public domain. This evolution extends the
+concept of muscle memory and relates to a type of memorythat resides at the cellular and molecular level in the skeletalmuscle tissue itself. This is therefore perhaps a more accu-rate description of the term muscle memory as opposed tothe acquisition and retention of a learnt motor skill thatresides primarily in the central nervous system and isassociated with motor learning or memory. Despite this,the knowledge of motor learning preceded an understand-ing of muscle memory that resides in skeletal muscle tis-sue, and therefore the synonymous use of the term acrossboth contexts is understandable. This review will focus onmuscle memory that resides at the cellular and molecularlevel in the skeletal muscle tissue itself.The relevance of understanding skeletal muscle memory
+is that this speci ﬁc organ is the most abundant, malleable,
+and adaptable adult tissue that responds sensitively to vari-ous environmental stimuli ( Fig. 1 ). Speci ﬁcally, engaging in
+physical activity and exercise positively improves musclesize, metabolic processes, and functional performance.Equally, muscle tissue mass and strength are rapidly com-promised in response to periods of physical inactivity (e.g.,injury, disuse, and hospitalization), and various diseasestates (e.g., cancer and diabetes) alongside a gradual and nat-ural deterioration with age, a disorder called sarcopenia (forreview, see Ref. 1). There have been various observations
+that encounters with positive and negative environmentalstimuli that may be “remembered ”by the cells that make up
+muscle tissue, and that our muscle can respond differently
+if these stimuli are encountered again later. Therefore, inthis context, skeletal muscle memory has been de ﬁned as
+“The capacity of skeletal muscle to respond differently to envi-
+ronmental stimuli in an adaptive (positive) or maladaptive(negative) manner if the stimuli have been encountered previ-ously ”(2). In the context of exercise, muscle responds and
+adapts in an advantageous manner, where the associatedmolecular and phenotypic changes to exercise training areaccentuated when a similar exercise stimulus has been per-formed previously. Speci ﬁcally, the muscle hypertrophic
+and functional response to resistance training occur morequickly and to a greater extent following a second period ofretraining, even when undertaken after a prolonged period
+Correspondence: A. P. Sharples (a.p.sharples@googlemail.com); D. C. Turner (danieltu@nih.no).
+Submitted 15 March 2023 / Revised 2 May 2023 / Accepted 2 May 2023
+C1274 0363-6143/23 Copyright ©2023 the American Physiological Society. http://www.ajpcell.orgAm J Physiol Cell Physiol 324: C1274 –C1294, 2023.
+First published May 8, 2023; doi: 10.1152/ajpcell.00099.2023
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+of physical inactivity or “detraining ”where muscle mass has
+returned to pretraining levels ( 3,4). This suggests that earlier
+training is able to “prime ”skeletal muscle for greater
+response and adaptation to later retraining, even following
+several months of detraining, a concept that was identi ﬁed
+in the early 1990s ( 3). Although some of the greater adapta-
+tive responses in strength to later retraining can be, in part,
+attributed to improved neural activation of the muscle,
+advanced molecular studies conducted over the past decadehave demonstrated that the cells within our muscle may alsopossess a memory of earlier training-induced muscle growth.
+Currently, there are two main underlying mechanisms pro-
+posed to be responsible for muscle possessing a memory of“positive ”growth stimuli: 1)T h e “cellular ”mechanism of
+muscle memory that relates to the accrual of new nuclei
+within muscle ﬁbers (myonuclei) following a period of mus-
+cle growth that maybe retained even during subsequent peri-
+ods of muscle loss and are then associated with enhanced
+adaptation to later regrowth ( 5)(Fig. 1 )a n d 2)T h e “epige-
+netic ”mechanism of muscle memory that relates to modi ﬁ-
+cations in the DNA of skeletal muscle following earlier
+exercise-induced muscle growth, modi ﬁcations that are
+retained even into detraining where exercise is ceased, andare associated with enhancing the molecular responses and
+thus adaptation to later retraining ( 4,6,7)(Fig. 2 ).
+It is also plausible to hypothesize that a “negative ”muscle
+memory may also exist, whereby exposure to a muscle-wast-ing stimulus such as disuse or immobilization due to injury
+or hospitalization may result in the muscle becoming more
+susceptible to further muscle wasting if the same (or similar)stimuli is reencountered. In vitro experiments provide proof-
+of-concept for a negative muscle memory, where cultured
+muscle cells retained epigenetic alterations after treatmentwith high-dose in ﬂammatory cytokine, tumor necrosis factor-
+alpha/TNF- a, at levels mimicking muscle wasting conditions
+such as cancer cachexia. Consequently, when retreating the
+muscle cells with TNF- aat a later stage in their proliferative
+lifespan, differentiation capacity and myotube growth were
+further compromised ( 8). Evidence from animal studies also
+demonstrates that in utero malnutrition leads to epigeneticchanges and associated alterations in muscle size, ﬁber type,
+and function of the offspring, suggestive that growth-restrict-
+ing environments during development and even before birthc a nn e g a t i v e l yi m p a c ts k e l e t a lm u s c l ei nl a t e rl i f e( f o rr e v i e w ,see Refs. 2and9
+). Finally, to the authors ’knowledge, there is
+only one study that (indirectly) points toward the notion of
+negative muscle memory in humans, whereby patients withbreast cancer retain epigenetic modi ﬁcations to skeletal mus-
+cle DNA (via DNA methylation) over 10 years after diagnosis
+and treatment ( 10). However, so far there is very little direct
+evidence in adult humans of a negative memory in skeletal
+muscle tissue.
+The purpose of this review is to describe the current
+working theories of cellular and epigenetic muscle mem-ory in isolation as well as the emerging evidence of howthese theories may also work in synergy. Beyond the
+direct implications for muscle memory research, to help
+elucidate the underlying mechanisms of skeletal muscleadaptation, this review will also outline the practical
+implications of muscle memory for optimizing exercise
+interventions and training programs for athletes and theg e n e r a lp o p u l a t i o na sw e l la st h ed e v e l o p m e n to ft h e r a -
+peutic strategies for counteracting muscle wasting condi-
+tions and age-related muscle loss. Finally, importantdirections emerging in the ﬁeld of skeletal muscle mem-
+ory and the importance of investigating “negative ”muscle
+memory for muscle wasting conditions will be highlightedto advance the next generation of studies in this ﬁeld.
+THEORIES FOR THE MECHANISTIC
+UNDERSTANDING OF MUSCLE MEMORY
+Cellular Memory: An Introduction
+In 2013, work by Professor Kristian Gunderson ’s laboratory
+ﬁrst provided evidence that skeletal muscle could “remember ”
+hypertrophic stimuli. This study treated mice with testoster-o n ef o r1 4d a y st h a tl e dt oa ni n c r e a s ei nm u s c l es i z ea n dm y o -nuclei number within the muscle ﬁbers ( 5). Then, after a 3-mo
+testosterone “washout ”period and testosterone abstinence
+(equivalent to /C2412% of the mice ’s lifespan), muscle size
+returned to pretestosterone levels. Following the 3 mo of tes-
+tosterone abstinence, mechanical overload was performed
+using a procedure called synergistic ablation or mechanicaloverload, which involves the surgical removal of synergisticmuscles leading to supraphysiological loading and subsequentrapid hypertrophy of the remaining intact muscles of thesame muscle group ( 11). Interestingly, mice that had received
+earlier testosterone demonstrated a 31% increase in extensor
+digitorum longus (EDL) muscle cross-sectional area (CSA) af-
+ter 6 days of mechanical overload compared with a nonsigni ﬁ-
+cant 6% increase in growth observed in control mice that didnot receive earlier testosterone ( 5). The EDL muscle between
+the two groups grew similarly for the remaining 8 days of over-load, although the overall growth after 14 days of overload wasstill 20% greater in the testosterone versus nontestosterone-
+treated mice ( 5). Collectively, these ﬁndings suggested that ear-
+lier testosterone treatment allowed skeletal muscle to growmore quickly and to a greater extent following later mechani-cal overload, suggestive of positive muscle memory from ear-lier testosterone use ( Fig. 1 ). The authors attributed the
+enhanced adaptation to mechanical overload to the retentionof myonuclei from the earlier testosterone administration.
+However, this direct conclusion has been somewhat controver-
+sial because even though testosterone treatment did increasethe number of myonuclei compared with sham controls, therewas a reduction in the number of nuclei per ﬁber in the EDL af-
+ter the testosterone washout period in testosterone-treatedmice. Despite this, the study still satis ﬁes the current working
+deﬁnition of muscle memory described earlier, where an
+earlier exposure to a positive environmental stimulus-
+evoking hypertrophy (anabolic stimulus of testosterone)led to an enhanced adaptive response when another hy-pertrophic stimulus (mechanical overload) was reencoun-tered in the future.
+Why Are Increased Myonuclei Important for Muscle
+Adaptation?
+Before discussing more evidence for cellular muscle
+memory in detail, it is important to clarify why myonuclei
+incorporation into muscle ﬁbers may be important for the
+enhanced adaptive response to later anabolic stimuli.
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1275
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+Skeletal muscle contains fascicles that each encompass
+hundreds of muscle ﬁbers, and ﬁb e r sc a nb eu pt o2 0c mi n
+length and 10 mm2in area (for example, in the human sar-
+torius muscle in the thigh) ( 12). It is therefore estimated
+that 1 long ﬁber could contain tens of thousands of myonu-
+clei and muscle ﬁbers are therefore classed as highly mul-
+tinucleated cells. This is crucial, as nuclei within our cells
+contain our DNA and are therefore an important site for
+where our muscle ﬁbers get their “blueprint ”to transcribe
+genes in the nucleus. The molecular information from ourDNA is then transcribed and translocates out of the nu-cleus as messenger RNA (mRNA) to synthesize correspondingproteins in the ribosome. The proteins synthesized in the
+ribosome are subsequently important to enable adaptation of
+m u s c l et i s s u es u c ha sa ni n c r e a s ei ns i z ea n df u n c t i o n ,f o rexample, via increases in the abundance of contractile andstructural proteins. Therefore, “myo ”-nuclei simply refers to
+nuclei that reside within muscle ﬁb e r s .A sw eh a v ed e s c r i b e d ,
+muscle ﬁbers contain many myonuclei within each ﬁber,
+however, under normal physiological conditions, adult mus-
+cleﬁbers cannot undergo division to create a brand-new ﬁber
+(a process termed hyperplasia) and muscle ﬁbers are therefore
+deemed to be “terminally differentiated. ”That is, muscle
+ﬁbers cannot undergo mitosis, which is possible in cells con-
+taining a single nucleus. Given muscle ﬁbers adapt positively
+to exercise, this begs the question, how is the adaptation of
+skeletal muscle achieved without being able to add newﬁbers? This is in part due to a resident muscle-speci ﬁca d u l t
+stem cell, initially identi ﬁed by Alexander Mauro and BernardKatz in frog muscle ( 13,14). Since their initial discoveries,
+these cells are often referred to as “satellite ”cells, the term
+coined by Mauro, owing to their peripheral “satellite ”location
+between the sarcolemma and basal lamina of muscle ﬁbers. It
+was later demonstrated that upon activation, these single cells
+can undergo cell division, particularly following a stimulus orinsult such as injury or muscle damage from heavy resistanceexercise, where they then migrate to the site of damage and
+fuse to the existing muscle ﬁber and contribute new myonu-
+clei ( 15–23). Indeed, satellite cells are the main source of new
+myonuclei in muscle after exercise ( 24–26). Very recent data
+have also suggested that a small percentage (1 –3%) of myonu-
+clei can undergo a type of endoreplication within the muscleﬁbers ( 27), also perhaps contributing to an increase in myonu-
+clei number with mechanical loading. However, it would still
+be a general assumption that the majority of new myonuclei
+are incorporated into the muscle ﬁber via satellite cell
+fusion, and satellite cells are therefore considered crucialfor increases in muscle size after hypertrophic stimuli.
+However, this assumption has proven controversial.
+Are New Myonuclei from Satellite Cells Required for
+Hypertrophy?
+Within the ﬁeld of muscle cell biology, there is controversy
+as to whether satellite cells are required for load or exercise-induced muscle growth. This is because some animal studies
+have demonstrated that satellite cells are not always required
+for muscle growth after exercise mimicking stimuli whereasothers suggest satellite cells are important contributors to
+AB
+Figure 1. Proposed mechanisms for cellular muscle memory in response to positive ( A) and negative ( B) stimuli in skeletal muscle. A: androgenic ana-
+bolic steroid (AAS)- and/or resistance training (RT)-induced hypertrophy is accompanied by the fusion of satellite cells, contributing new myonuc lei. In
+rodents, newly acquired myonuclei are then retained during periods of muscle loss following detraining and/or AAS abstinence. Finally, the accrual and
+retention of new myonuclei after initial training and/or AAS use, coupled with the potential acquisition of more myonuclei after retraining, may exp lain
+the enhanced muscle adaptation to later training. In human muscle, cellular muscle memory is yet to be fully con ﬁrmed. B: muscle loss during disuse
+atrophy (e.g., bed rest and/or immobilization), aging, and muscle-wasting diseases (e.g., cancer cachexia) may be due to a loss of resident and/or ne wly
+acquired myonuclei. Upon reloading/exercise, the acquisition of new myonuclei may permit suf ﬁcient recovery of muscle. A potential greater loss of
+skeletal muscle following repeated atrophy could be due to a further loss of resident and/or newly acquired myonuclei. Loss of myonuclei with atrophyis still widely debated and therefore panel B is still largely hypothetical and requires more empirical evidence. Figure created with BioRender.com.
+SKELETAL MUSCLE MEMORY
+C1276 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+hypertrophy. Early studies attempting to address this used c
+irradiation to ablate satellite cells and provided evidence that
+without satellite cells there was impaired load-induced hy-pertrophy of skeletal muscle ( 28). However, the speci ﬁcity of
+cirradiation on satellite cells per se led to the development of
+pax7-speci ﬁc knockout animals, a genetic model that could
+speciﬁcally ablate satellite cells in muscle tissue. Indeed,
+McCarthy and Peterson ’sg r o u p s( 29) reported a normal hy-
+pertrophic response after mechanical overload via synergistablation in rodents after using this model of genetic ablationof satellite cells, suggesting that newly acquired myonuclei
+from satellite cells may not be essential for load-induced hy-
+pertrophy of skeletal muscle, at least when hypertrophy isassessed over shorter compared with longer periods, dis-
+cussed later in this section. However, groups attempting to
+repeat these experiments have demonstrated that hypertro-phy was prevented when satellite cells were depleted ( 30).
+These studies have led to debates in the literature regarding
+methodological approaches of the models used, that stillextends to recent times ( 31,32).
+Despite this controversy, it is also now understood that
+myonuclei already fused into ﬁbers can also increase their
+transcriptional output to serve an increase in “myonuclear
+domain ”size ( 33,34). Myonuclear domain size refers to the
+area of cytoplasm each myonuclei serves within the muscle
+ﬁber. Therefore, hypertrophy occurring via expansion of
+cytoplasm around each myonucleus via an increase in itstranscriptional [mRNA and/or rRNA ( 35)] and thus transla-
+tional output, before the muscle ﬁbers require fusion of new
+nuclei from satellite cells, may therefore enable the growthof muscle without the requirement and addition of new
+myonuclei. This process has been described as the existing
+myonuclei possessing a “reserve ”capacity ( 34). Despite this,
+it is also the case that muscles with 50% fewer nuclei, manip-ulated experimentally via the use of myomaker knockout
+rodents (that have fusion incompetent muscle), have smaller
+muscles than wild-type controls ( 2). Also, if nuclei are
+depleted by 75% then muscle can become nonfunctional and
+even pathological ( 2). This therefore suggests that muscle
+ﬁber size during development is limited by the nuclear DNA
+content that is present in myonuclei and therefore the num-
+ber of myonuclei in ﬁbers is closely and positively associated
+with muscle size ( 33,34). It is also worth pointing out that
+paradigm-shifting data are emerging that suggests myonu-clei within ﬁbers may not be postmitotic and may actually
+replicate at low rates of 1% under normal conditions and up
+to 3% after synergistic ablation, where this replication mayoccur via endoreplication and polyploidy ( 27). This process
+is perhaps thought to occur instead of normal mitosis via nu-
+clear division and cytokinesis, where endoreplication wouldbe required to maintain the highly organized contractile ele-
+ments of skeletal muscle tissue while facilitating an increase
+in myonuclei number ( 27).
+Whether myonuclear replication occurs in human skeletal
+muscle after physiological stimuli of exercise remains unknown.
+Despite this, it seems that the number of satellite cells and the
+proportion of myonuclei number to cytoplasmic volume are im-
+portant determinants of muscle size and as well as maintenanceof its structure and function. Indeed, the proportion of myonu-
+clei to cytoplasm has been proposed to be a key factor in muscle
+ﬁber size increases rather than “more is better, ”as discussed ina recent insightful review of the myonuclear domain hypothesis
+(36) .I ti sa l s ot y p i c a lt h a ta n i m a ls t u d i e si n v e s t i g a t em e c h a n i c a l
+overload-induced hypertrophy over a period of days and itappears that if satellite cells are removed for longer periods,such as 8 wk, then the replacement of myonuclei is likely to beimpaired and the muscle can become ﬁbrotic ( 37). This is pre-
+sumably due to a lack of satellite cells undergoing myogenesiscontributing to the production of contractile proteins andinstead in ﬁltration and production of excessive extracellular
+matrix (ECM) proteins by ﬁbroblasts. In support of these stud-
+ies, other groups also suggest that the inability of satellite cellsto fuse (in myomaker knockout mice) leads to ﬁbrosis after syn-
+ergistic ablation-induced hypertrophy ( 38) .T h es a m ea l s o
+occurs when satellite cells cannot fuse following high-intensityexercise (that causes hypertrophy) and results in impaired mus-cle function and exercise intolerance ( 39). Furthermore, satellite
+cells, even in the absence of fusion, have been demonstrated tocommunicate with interstitial ﬁbrogenic cells and the muscle
+ﬁbers themselves to coordinate appropriate ECM deposition
+and muscle ﬁber remodeling in response to hypertrophic stim-
+uli. This may further suggest an important role for satellite cellsin muscle ECM and ﬁber remodeling even when they do not
+fuse to muscle ﬁbers ( 40,41). Indeed, in pax7 knockout rodents
+that deplete satellite cells, even though some hypertrophy doesoccur following 4 –8 wk progressive weighted wheel running
+(PoWeR) in rodents, hypertrophy is blunted compared with con-ditions where satellite cells are present ( 35). Furthermore, tran-
+scriptional pro ﬁling also demonstrates several gene networks
+that are altered in the absence of satellite cells, and ultimatelygrowth and adaptation are blunted after 4 –8w ko fe x e r c i s e( 35).
+Overall, these studies suggest that satellite cells are probablyrequired to maintain any longer-term increases in muscle sizeand function following load-induced growth or exercise.Finally, it is also worth noting that most of the studies in thisarea have been in rodents, where human muscle ﬁbers, on aver-
+age, are larger (mean ﬁber area /C244,500 lm
+2)c o m p a r e dw i t h
+mouse muscles (mean ﬁber area of /C24<1,500 lm2). Studies in
+humans have suggested that the growth of larger ﬁbers com-
+pared with smaller ﬁbers seems to be more dependent on satel-
+lite cells as the muscle increases in size, whereas hypertrophy ofsmaller ﬁbers may be more associated with changes in myonu-
+clear domain size ( 24,42). Indeed, it has been demonstrated
+t h a tt h ei n c r e a s ei ns i z eo fs m a l lm u s c l e ﬁbers (2,000 –4,000
+lm
+2) in humans after 12 wk of resistance training was correlated
+with an increase in myonuclear domain, whereas an increase int h es i z eo ft h el a r g e s tm u s c l e ﬁbers (8,000 –10,000 lm
+2)c o r r e -
+l a t e dw i t ha ni n c r e a s ei nm y o n u c l e a rn u m b e r( 24,42). This
+therefore supports the notion discussed earlier regarding a“reserve ”capacity, where existing myonuclei can increase their
+transcriptional and translational output up to a certain myonu-clear domain ceiling size, meaning hypertrophy can occurin small ﬁbers without the need for accretion of myonuclei
+from satellite cell fusion, whereas growth in larger ﬁbers
+following resistance exercise in humans may requireaccrual of new myonuclei.
+How Is the Controversy over the Importance of Satellite
+Cells in Hypertrophy Relevant to Muscle Cell Memory?
+It is important to discuss the controversy outlined, as
+the understanding of the limitations within the satellitecell biology ﬁeld extends to studies investigating muscle
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1277
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+cell memory. This is because, if satellite cells [or even a
+small contribution of new myonuclei from endoreplica-
+tion ( 27)] and therefore myonuclear accretion were not
+required for hypertrophy then there could essentially be
+no retention of myonuclei to form a cellular memory of
+earlier hypertrophy. However logically, and supported byexperiments, when satellite cells are present (and not
+depleted) then myonuclear accretion tends to occur. Indeed,
+some studies using synergistic ablation in rodents have dem-onstrated that increases in the number of myonuclei occur-ring in the mouse EDL muscle are retained (i.e., myonuclei
+number remains elevated) during a subsequent period of
+muscle atrophy caused by denervation ( 43), and that pro-
+gressive weighted wheel running ( 44) and progressive-
+loaded ladder climbing in rodents ( 45,46)a l s oe v o k ea n
+increase in muscle size and myonuclear accretion. Withrecent meta-analysis showing that, on average, across exper-imental models of hypertrophy in rodents, myonuclear
+accretion increased by /C2423% after the initial loading stimuli
+and that myonuclear accretion increased on average /C249% af-
+ter training in humans ( 47). Therefore, it seems clear that
+myonuclear accretion occurs in most animal models of hy-
+pertrophy (synergist ablation, ladder climbing, and weightedwheel running) and in humans after resistance training, atleast from data derived from recent meta-analyses. Perhaps
+the controversy that lies in the muscle memory ﬁeld is
+whether newly accrued myonuclei are retained or lost af-ter a subsequent period of muscle loss following an ear-
+lier growth period. Studies have suggested that newly
+accrued myonuclei after testosterone treatment may beretained during subsequent testosterone abstinence ( 5),
+and increased myonuclei following mechanical overload
+in mice were also retained during a subsequent period of
+denervation-induced muscle atrophy ( 43). It therefore
+seems that experiments using testosterone and synergist
+ablation to evoke hypertrophy may lead to the retention
+of myonuclei that are not lost during periods of atrophy.However, the main limitation of these models is whether the
+supraphysiological hormonal stimuli of testosterone or syner-
+gistic ablation in rodents translates to the physiologicalresponse observed after exercise in human skeletal muscle.Therefore, studies using more physiologically relevant models
+of exercise-induced hypertrophy such as PoWeR in mice have
+demonstrated that the myonuclei accreted from weightedwheel running were not retained after a period of subsequent
+detraining ( 44). This model of weighted wheel running evokes
+a hypertrophic response in predominantly oxidative ﬁber
+types. Therefore, this type of exercise may not be entirely rep-resentative of hypertrophy that occurs in faster ﬁber types after
+higher load resistance exercise. To address this, a recent study
+utilized a physiologically relevant resistance exercise protocolin rodents to assess whether any enhancements in muscle
+mass were associated with an increase in the number of myo-
+nuclei after the initial training period, and if these wereretained or lost following a subsequent period of detraining(45). In this study, rats underwent 8 wk of progressive loaded
+ladder climbing. This included three sets of ﬁve reps starting at
+50% of body weight that gradually increased to 300% of bodyweight, twice per day, every third day for 8 wk ( 45). This train-
+ing period was then followed by 20 wk of detraining and ﬁnally
+another 8 wk of retraining ( 45). As with the previous studies,myonuclei were accrued with training and importantly the
+authors demonstrated that the number of myonuclei were
+retained even throughout detraining, supporting the cellularmuscle memory hypothesis in a physiologically relevant modelof hypertrophy in rodents. In this study, however, there wereno larger increases detected in all measures of muscle size afterlater retraining (i.e., CSA and absolute mass). However, theauthors did report that relative muscle mass was enhanced af-ter later retraining ( 45). In further support of these data, a study
+utilized a 5-wk ladder climbing protocol in rats, followed by 10wk of detraining and then a further 2 wk of retraining (using ei-ther ladder climbing or mechanical overload/synergist abla-tion). This resulted in increased muscle size and myonucleinumber after training that were retained during detrainingeven when muscle mass returned to pretraining levels ( 46).
+Interestingly, although the increase in muscle size after thelater retraining did not reach the same levels as the earliertraining period, perhaps due to the shorter retraining periodcompared with initial training, there was an even greater
+increase in myonuclei number after retraining ( 46). The
+authors therefore concluded that the earlier training produceda retained myonuclear number during detraining that was“boosted ”in response to later retraining. A caveat with both of
+the aforementioned rat studies is that the ﬁrst training periods
+were undertaken in juvenile rodents, and therefore while this
+provides evidence of mynonuclear retention following earlylife exercise, it would be important to perhaps con ﬁrm this in
+adult rodent muscle using the same physiologically relevantmodels of hypertrophy. To summarize, many of the animalmodels that use more physiologically relevant exercise trainingregimes of higher load resistance training have demonstratedcellular memory by myonuclear accretion and retention inmuscle tissue.
+Is There a Cellular Muscle Memory in Humans after
+Training?
+Given the rodents studies discussed earlier, the next logi-
+cal question is whether the same retention of myonucleioccurs in human muscle following a period of training anddetraining, and whether this is associated with enhanced ad-aptation to later retraining. The ﬁrst work in humans to
+begin to address this question demonstrated that 3 mo of re-sistance training (3 times/wk) increased muscle ﬁber size
+and satellite cell number ( 48), where the increase in satellite
+cell number remained elevated for 10 days even after exer-cise cessation and detraining. However, by 90 days postde-training, satellite cell number had returned to baseline levels(48), therefore suggesting that there was a retention of the
+increased number of satellite cells after training. However,this was not the case for longer periods of 90 days. It is im-portant to highlight that the authors did not report the num-ber of myonuclei in this study, where some of the increasednumber of satellite cells may have subsequently been incor-porated into the muscle ﬁbers to serve as myonuclei. The
+most relevant and recent study to address whether a cellu-
+lar memory of hypertrophy exists in human skeletal muscle
+was a collaborative venture by Niklas Psilander, KristianGundersen, and Truls Rastaad ’s laboratories ( 49). In this
+study, myonuclei number was assessed in the quadricepsmuscle before and after 10 wk of resistance training. Thetraining consisted of 3 times/wk unilateral leg extension
+SKELETAL MUSCLE MEMORY
+C1278 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+and leg press exercise at 70% –85% of 1 repetition maximum
+(1RM), with the nonexercise leg serving as a contralateral
+control limb. After the initial training period, participantsunderwent 20 wk of detraining, followed by 5 wk of bilateral
+retraining ( 49). Myonuclei number and ﬁber volume were
+not altered after the ﬁrst training period, despite an increase
+in overall muscle size and strength, suggesting that the initial
+training period did not adequately induce the expected adap-
+tation to assess properly if there was a cellular memory fromthe earlier training into the later detraining and retrainingperiods ( 49). These ﬁndings, together with the accessibility of
+the raw data, meant that others were able to reanalyze the
+data set and publish their own interpretations of this study asa viewpoint article in the Journal of Applied Physiology (50).
+The debates in the results gained further traction across the
+scienti ﬁc community where several expert muscle scientists
+published their comments in the same issue ( 51). However,
+due to the ﬁndings in the original study and the various con-
+troversies, it was therefore not possible to decisively concludewhether a cellular memory via retention of myonuclei occursin human muscle after resistance training.
+Other recent studies with similar designs have also been
+conducted in elderly humans following 12 wk of progressiveresistance training followed by the same period of detrainingand retraining ( 52). The authors investigated myonuclei
+alterations to identify if there was evidence of a cellular mus-
+cle memory in this older population ( 52). In this study, resist-
+ance training did not signi ﬁcantly increase myonuclear
+number in either type I or type II ﬁbers. Albeit on an individ-
+ual level, a small number of individuals increased myonucleinumber, whereas others demonstrated no change, and some
+even demonstrated a reduction in myonuclei. However, the
+study did demonstrate that the detraining period evoked asigniﬁcant decrease in myonuclear number in both type I
+and type II ﬁbers. Something that had been observed pre-
+viously in type II ﬁbers during longer periods of detraining
+(1 yr) in elderly individuals ( 53). Then, in the same study
+after a subsequent period of retraining there was a signi ﬁ-
+cant increase in myonuclear number, yet in type II ﬁbers
+only. These ﬁndings therefore demonstrated an exagger-
+ated response in myonuclei accrual during retraining in
+type II ﬁbers perhaps due to alterations observed following
+earlier training, albeit the initial training itself did notevoke a signi ﬁcant average increase in myonuclei nor a
+retention of myonuclei following detraining across the
+entire group. This may suggest that, in an elderly popula-
+tion, the signi ﬁcant loss of myonuclei during the detrain-
+ing period also could provide a stimulus for the enhanced
+myonuclear accretion during later retraining and this
+response preferentially occurs in type II muscle ﬁbers in
+elderly individuals. Consequently, this study was unable
+to determine whether there was a positive memory of
+training in elderly human skeletal muscle due to the lackof response during the initial training period, however,was able to demonstrate enhanced myonuclear accrual af-
+ter encountering a negative stimulus of detraining.
+Overall, there are very few human studies in small popula-
+tions investigating muscle cell memory; therefore these datademonstrate large variability in the myonuclear responses to
+training. Subsequently, this has made it dif ﬁcult to ﬁ
+rmly
+conclude whether a cellular muscle memory exists in humanskeletal muscle. Furthermore, these studies highlight there
+may be different myonuclear responses to training, detrain-
+ing, and retraining between young and elderly individuals.Despite this, a recent meta-analysis encompassing all the
+currently available human exercise and myonuclei-related
+studies detected a signi ﬁcant 9% increase in myonuclei
+number after training. However, as suggested earlier, due to
+the low participant numbers coupled with the heterogene-
+ous responses to training, it was not possible to detectwhether a retention of myonuclei during detraining exists
+(47). Therefore, larger human studies across age are required
+in the future to conclude whether human muscle possesses acellular memory of earlier training.
+Limitations of Experimental Models and Cross-Species
+Comparisons in Muscle Cell Memory Research
+The discrepancies in myonuclei accretion across rodent and
+human studies alluded to in the recent meta-analysis ( 47)s u g -
+gests there is a larger 2.6 magnitude response in the accrual of
+new myonuclei after loading stimuli in rodents ( þ23%) com-
+pared with after-training stimuli in humans ( þ9%). One ex-
+planation may be that typical rodent models of exercise-
+induced hypertrophy are often more extreme models among
+more genetically similar rodents compared with resistanceexercise in humans with a varied genetic background, leading
+to heterogeneous hypertrophic and associated myonuclei
+response. Therefore, whether myonuclear accretion and reten-tion is due to a true cell memory mechanism or in ﬂuenced
+more strongly by loading procedure in ﬂuencing the magni-
+tude of hypertrophy, the rate of myonuclear accretion between
+species, or the heterogeneous of response in humans, is yet tobe fully unraveled. The same meta-analysis also demonstrated
+that rodents can lose 6.6% of their myonuclei during detrain-
+ing after gaining 23% in response to initial training period ( 47),
+suggestive that some, but not all myonuclei are retained after
+training in rodents. Furthermore, atrophic stimuli in rodents
+cause a loss of myonuclei at different rates across divergentmuscle groups. Where the gastrocnemius and plantaris lose
+their myonuclei after atrophy, other muscles that are more re-
+sistant to muscle loss stimuli such as the soleus do not losetheir myonuclei. This suggests that perhaps ﬁber type can
+inﬂuence the extent to which myonuclei are retained or lost
+(47). Most human studies are exclusively undertaken in the
+vastus lateralis muscle of the quadriceps. Therefore, it is dif ﬁ-
+cult to assess whether myonuclear loss or retention varies
+across muscles composed of different ﬁber-type proportions.
+Therefore, a deeper investigation of the ﬁber type-speci ﬁc
+changes in myonuclei in humans is warranted. Finally,
+research investigating whether myonuclei are lost or retainedduring atrophy is highly controversial, casting further com-
+plexity on the interpretation of myonuclear retention and loss.
+What Happens to Myonuclei If They Are Lost during
+Atrophy?
+Studies that have used synergistic ablation to evoke hyper-
+trophy in rodent EDL muscle have demonstrated that
+increases in myonuclei number are retained and not lostduring a subsequent period of muscle atrophy caused by de-nervation ( 43). Despite these interesting ﬁndings, these data
+have been criticized for the use of denervation as the model
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1279
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+of muscle loss, where removing or severing the nerve is a
+severe way of inducing rapid atrophy, where in recent meta-
+analyses satellite cell number has been demonstrated to ei-ther decrease or increase in response to denervation in diver-
+gent rodent muscle groups ( 47). For example, the EDL and
+tibialis anterior (TA) muscle may increase satellite cell con-tent compared with other muscles such as the soleus muscle
+that reduce their satellite cell number in response to atrophy
+(47). Therefore, at least in the EDL muscle, it is perhaps dif ﬁ-
+cult to distinguish whether myonuclei have been retainedfrom the overload period or whether the denervation has
+helped keep satellite cell number high and therefore helped
+maintain myonuclear number. Despite this, a study usingboth denervation (nerve severing) and tetrodotoxin (TTX)-
+induced atrophy (a model of disuse via release of TTX neuro-
+toxin to the nerves that silence neural input to the hindlimbmuscles), both demonstrated no loss of myonuclei using asophisticated and direct observation technique of single
+ﬁber lapse imaging ( 54). Using TUNEL labeling, these stud-
+ies suggested there was no apoptosis in myonuclei that wasalready theoretically problematic to hypothesize in multi-
+nucleated ﬁbers, as nuclei would have to undergo pro-
+grammed cell death without cell disintegration. This wasfurther supported in the same study, which demonstratedthere was apoptosis in single-celled populations of stomal
+and satellite cells in response to denervation and TTX-
+induced atrophy, but not in myonuclei ( 54). Presumably,
+because these types of single cells can undergo programmed
+cell death and cell disintegration. Therefore, these later stud-
+ies support the notion that myonuclei are not lost and thatthey can be retained even during atrophy. However, thisremains highly controversial and is debated extensively in
+the literature ( 55–59), with recent studies suggesting that
+myonuclear apoptosis can occur after hindlimb unloading inrodents via elevated DNase X in myonuclei leading to DNA
+fragmentation and degradation ( 60). It may also be logical to
+propose that the alterations in myonuclei following a periodof disuse atrophy may be quite different than those occurring
+after a period of detraining following an earlier period of
+training-induced growth and myonuclear accrual. Therefore,although the understanding of myonuclear loss followingdisuse is important for understanding the mechanisms of
+inactivity-induced atrophy, perhaps this process is not as rel-
+evant for the study of cellular muscle memory after growth,especially compared with the effect of myonuclear retention/
+loss during periods of detraining-induced muscle atrophy af-
+ter earlier training periods. However, the loss of nuclei after aperiod of atrophy may be relevant for muscle memory ininstances where repeated encounters with muscle wasting
+stimuli occur. Indeed, repeated muscle wasting is a clinically
+relevant issue, especially in elderly populations, where afteran injury and consequent disuse, individuals lose muscle and
+become weaker and are therefore more likely to suffer a
+repeated fall injury that may result in further muscle loss inthe future ( 61). Repeated falling is then more highly associ-
+ated with earlier morbidity and mortality. Therefore, whether
+a negative memory via loss of myonuclei after an earlier en-
+counter with atrophy, that are perhaps not regained duringrecovery, leads to a greater loss of muscle mass when the
+same or similar atrophic stimulus occurs again later warrants
+future investigation.Summary of Cellular Muscle Memory
+Collectively, research to date suggests that anabolic stim-
+uli such as testosterone, mechanical overload, and resistanceexercise mimicking stimuli in animal models can promotethe acquisition of new myonuclei, most of which may beretained (except progressive weighted wheel running) and
+therefore may serve to enable an enhanced response to the
+same or similar hypertrophic stimulus in the future.Therefore, there is evidence for cellular muscle memory inmost rodent models, especially after nonphysiological hy-pertrophy. However, it seems that there is still some contro-versy as to whether human muscle retains myonuclei afterphysiologically relevant load-induced growth such as resist-ance training. This is probably due to the limited humanintervention studies coupled with the varied responsebetween individuals, populations, and muscle groups thathave been investigated thus far. Therefore, additional train-ing, detraining, retraining as well as atrophy, recovery, andrepeated atrophy studies across larger and varied humanpopulations in different muscles and/or ﬁber types are
+required to conclude whether a cellular muscle memoryexists in humans.
+THEORIES FOR THE MECHANISTIC
+UNDERSTANDING OF MUSCLE MEMORYCONTINUED
+Epigenetic Muscle Memory: An Introduction
+Theﬁrst study to suggest that human skeletal muscle tis-
+sue possessed an epigenetic memory of resistance exercise-induced muscle growth was undertaken by our group in
+2018 ( 4). The study investigated how DNA in human skeletal
+muscle was epigenetically modi ﬁed (via DNA methylation)
+during a period of resistance training followed by detrainingand a subsequent period of retraining. In this study, theDNA retained some of its epigenetic modi ﬁcations after an
+earlier period of training, even into the detraining periodwhen training was completely ceased, and lean massreturned to pretraining levels. Furthermore, some of thegenes that demonstrated these retained epigenetic signa-tures also displayed a larger magnitude of change in DNAmethylation levels with later retraining, suggestive that theearlier training period “primed ”DNA for an enhanced
+response after later retraining. Furthermore, these changeswere also associated with the largest enhancements in tran-script expression of the same genes after later retraining thatcorresponded to the largest increases in lean muscle mass
+(Fig. 2 ). Overall, this study was the ﬁrst to demonstrate that
+human skeletal muscle retained epigenetic modi ﬁcations
+from earlier training that persisted into the detraining andretraining periods, and this was associated with enhance-ments in gene expression during later retraining. Studieshave also replicated similar ﬁndings after training, detrain-
+ing, and retraining in rodents ( 6,62) and aged humans ( 7),
+further supporting that skeletal muscle has an epigeneticmemory of exercise across species and into older age.
+The conceptualization of these initial studies and the role
+of epigenetics in muscle memory came from the wider cellbiology and epigenetic ﬁelds. This included observations
+SKELETAL MUSCLE MEMORY
+C1280 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+that muscle-derived cells once isolated in vitro retain charac-
+teristics from the in vivo niche in which they were derived.
+To the authors ’knowledge, this was ﬁrst shown by Professor
+Claire Stewart ’sg r o u p( 63), where primary skeletal muscle-
+derived cells isolated from patients with cancer exhibited
+inappropriate cellular proliferation compared with healthy
+age-matched controls. Since these studies, the retention of
+cellular characteristics from the in vivo niche after isolation
+in vitro has also been con ﬁrmed in the physically active, dia-
+betic, obese, and elderly (for review, see Ref. 2). In 2016, we
+undertook an in vitro study to investigate whether epige-
+netic muscle memory existed as a proof of principle. To do
+this, we exposed proliferating C2C12 muscle cells to an acute
+stimulus of a high dose of tumor necrosis factor-alpha (TNF-
+a), previously been observed to evoke myotube atrophy in
+vitro, and then performed serial passaging where the cells
+underwent 30 population doublings with no exogenousTNF- apresent. The cells were then subjected to a later prolif-
+erative life exposure to TNF- aand allowed to differentiate
+(8). We observed that the cells that received the acute early
+proliferative life exposure to TNF- awere more susceptible to
+impaired differentiation and myotube formation upon the
+second later life exposure compared with relevant controls
+that had not received the early life exposure ( 8). Therefore,
+the cells seemed to retain a memory, at least at the “morpho-
+logical ”level, of an earlier encounter with in ﬂammation.
+Therefore, we became interested in the mechanisms by
+which this “morphological ”memory may occur. Meanwhile,
+theﬁeld of epigenetics within molecular biology was rapidly
+expanding and data were emerging from undernutrition
+studies in animals in utero that suggested skeletal muscle
+characteristics could be impaired in the offspring, suggestive
+that early life environmental encounters could in ﬂuence
+later life physiology. This was further supported in
+A B
+Figure 2. Proposed mechanisms for a positive ( A) and negative ( B) epigenetic memory of exercise in skeletal muscle. A: the physiological response to re-
+sistance training (e.g., increased muscle size) is accompanied predominantly by reduced methylation (i.e., hypomethylation) enabling gene trans cription.
+DNA hypomethylation after training is then either retained into detraining (memory signature 1) and in some cases gene expression also remains ele-
+vated. Alternatively, methylation returns to baseline levels (memory signature 2) after detraining where at the physiological level, muscle retur ns to its
+pre-exercise training size. Finally, the enhanced response to resistance training (e.g., muscle size and strength) after later retraining is coupl ed with
+retained (memory signature 1) and in some instances even greater hypomethylation and enhanced gene transcription (memory signatures 1 and 2). B:
+oppositely, muscle loss in response to aging, muscle-wasting diseases, and disuse atrophy (e.g., bed rest or immobilization) may result in increase d
+DNA methylation (i.e., hypermethylation) and reductions in gene transcription. Upon reloading and recovery of muscle, DNA methylation levels may e i-
+ther be retained (memory signature 1) or return to baseline levels (depicted in memory signature 2). Finally, a potential greater loss of muscle mass a nd
+function after repeated disuse atrophy may be accompanied by enhanced hypermethylation (memory signatures 1 and 2) and perhaps even greaterreductions in gene expression, suggestive of negative epigenetic memory of skeletal muscle wasting. The negative epigenetic memory hypothesis is
+not yet con ﬁrmed in empirical studies and requires future investigation. Open (clear) circles represent hypomethylation and closed (dark) circles repre-
+sent hypermethylation. Figure created with BioRender.com.
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1281
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+epidemiological studies in humans demonstrating low birth
+weight could also lead to impairments in muscle mass and
+function into older age. It, therefore, became a working hy-pothesis that negative environmental encounters experi-enced earlier in life could be contributing to impairments in
+muscle in later life, and this could be due to retained epige-
+netic modi ﬁcations, reviewed in Refs. 2and64.W et h e r e f o r e
+investigated epigenetic modi ﬁcation of DNA methylation in
+our in vitro muscle cell model demonstrating retained mor-
+phological memory of in ﬂammatory cytokine TNF- a(8).
+Indeed, we demonstrated that the cells that had received theearly life dose of TNF- aexhibited hypermethylation of the
+crucial myogenic regulatory factor, MyoD , that was then
+retained for 30 cellular divisions. Indicating that the cells
+“remembered ”an early acute dose (48 h exposure) of TNF- a
+when exposed to the same cytokine in later life. This wasthen associated with increased and retained hypermethyl-
+ation of MyoD for 30 cellular divisions, a gene important for
+differentiation and myotube formation ( 8). These data,
+therefore, served as a proof of principle for retained epige-netic imprints in muscle cells over an extended period of
+time, and therefore an epigenetic muscle memory. These
+observations thus laid platform for investigation for the roleof epigenetics in skeletal muscle memory. However, whatwas unknown at that time was whether human skeletal mus-cle in vivo retained epigenetic modi ﬁcations such as DNA
+methylation after either negative stimuli (muscle wasting) or
+positive stimuli (such as exercise).
+Therefore, in the remaining sections of this review on
+muscle memory, we will ﬁrst explain what epigenetics is and
+summarize why it is important within the context of skeletal
+muscle adaptation and muscle memory. We will then pro-
+vide an overview of the studies investigating epigenetic mus-cle memory and discuss how both the cellular and epigenetictheories of muscle memory may be integrated, and work to-
+gether. Finally, this review will focus on future directions and
+the wider implications for muscle memory within the exer-cise and muscle biology ﬁeld.
+What Is Epigenetics?
+Literally translated, “epi”in Greek means “on top ”of
+genetics. Its origins can be traced to Conrad Waddington
+in the 1940s who provided some of the ﬁrst insights that
+helped de ﬁne the term epigenetics. He reported that there
+was a close interaction between environmental encounters
+and underlying genetics to create a speci ﬁc phenotype. For
+a modern-day understanding of epigenetics, the ﬁeld
+describes how our tissues and cells are exposed to variousenvironmental encounters (e.g., diet, physical activity, alco-
+hol, drugs) that interact with our inherited DNA sequence
+(without altering the sequence itself) to alter whether genesare turned on or off and to what extent this results in achange in phenotype. A clear example of epigenetics in
+action comes from identical twin studies (same inherited
+DNA), where one twin may be physically inactive and have apoor diet (environment) compared with their more activetwin sibling who consumes a healthier balanced diet. Their
+inherited DNA sequence (genotype) is the same, however,
+they display very different phenotypes, where, for example,the healthy twin is lean compared with the inactive twinwho is overweight. Indeed, epigenome-wide studies on dis-
+cordant twins (those who lived together as children but sepa-
+rated as adults) with different physical activity levels reportvastly different epigenetic pro ﬁles in buccal cells ( 65). Such
+varied epigenetic pro ﬁles and the resultant phenotypic
+changes are caused by biochemical modi ﬁcations on our
+cell’s chromatin, histones (proteins that encase the DNA), or
+the DNA itself, leading to either a more “permissive ”or“re-
+pressive ”state for gene expression to occur. These modi ﬁca-
+tions involve adding or removing small chemical groups
+such as acetyl or methyl groups to histones or methyl groupsto DNA and thus alter how accessible gene regulatoryregions are for transcription factors to bind DNA and regu-
+late gene expression. These epigenetic modi ﬁcations can be
+dynamic and alter gene expression transiently ( 66)a n d
+therefore are able to return to basal levels relatively quickly.However, importantly for epigenetic memory, some of these
+modiﬁcations can also be retained for longer periods, and
+some modi ﬁcations can even be “enhanced ”if they have
+been encountered, where the epigenetic modi ﬁcation of
+DNA methylation in human skeletal muscle has been shown
+to be retained during detraining and retraining following an
+earlier period of resistance training ( 4).
+But what are these epigenetic modi ﬁcations? Currently, more
+than 200 modi ﬁcations and their accompanying enzymes have
+been identi ﬁed (67,68), and the potential biochemical regula-
+tion of how these epigenetic modi ﬁcations may occur in muscle
+following exercise has been reviewed elsewhere ( 69). The most
+common epigenetic modi ﬁcations include SUMOylation, phos-
+phorylation, ubiquitination, acetylation, and methylation. Thelatter two modi ﬁcations are the most studied in molecular biol-
+ogy, with acetylation (or deacetylation) as well as methylation
+(or demethylation) occurring on histones, and methylationoccurring on DNA itself. In this review, DNA methylation willbe the epigenetic modi ﬁcation of focus, as there have been no
+studies to date investigating retained methylation or acetyla-
+tion/deacetylation imprints on histones in the ﬁeld of skeletal
+muscle memory.
+What Is DNA Methylation and How Does it Occur?
+DNA methylation is the biochemical attachment of a
+covalent methyl (CH 3) group to the 5th position of the py-
+rimidine ring of a cytosine (C) nucleotide, resulting in 5-methylcytosine (5mC). This typically occurs on the cytosine(C) nucleotide where it is followed by a guanine nucleotide
+(G) that is separated by a phosphate ( “p”) group within the
+same strand of DNA. Therefore, this position is called a CpGsite. Approximately 1% of the human genome contains CpGsites with /C2428 million CpG sites over the entirety of DNA
+(70,71). Clusters of CpG sites within a short chromosomal
+region are called CpG islands, and these occur more fre-quently in gene regulatory regions such as promoters,enhancers, and silencing regions involved in the initiation,
+activation, or suppression of gene expression, respectively
+(72). The addition or increase in CH
+3methyl groups to CpG
+sites when investigating changes in methylation (termed“differential methylation ”), is commonly referred to as
+“hyper ”-methylation. In contrast, the removal of the CH
+3
+methyl group from cytosine nucleotides results in 5-hydro-
+methylcytosine (5-hmC) and therefore demethylation, also
+SKELETAL MUSCLE MEMORY
+C1282 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+known as “hypo ”-methylation. Speci ﬁce n z y m e sa r er e q u i r e d
+to promote, maintain, or remove methyl groups and arereferred to as writers, readers, and erasers, respectively (for
+review, see Ref. 69). It’s the DNA methyltransferases (DNMTs),
+speciﬁcally DNMT3a, DNMT3b, and DNMT1 that promote
+DNA methylation or hypermethylation ( 73). Where DNMT3a
+and 3b are important for de novo or “new ”methylation, and
+DNMT1 is responsible for maintaining methylation during celldivision ( 74,75). Alternatively, enzymes known as the 10 –11
+translocation (TET) enzymes (TET1, 2, and 3) remove methyl
+groups and are therefore responsible for demethylation orhypomethylation.
+Why Do DNA Methylation Modi ﬁcations Lead to
+Changes in Gene Expression?
+DNA methylation leads to changes in gene expression
+when the presence of CpG methylation recruits CpG methyl
+binding proteins that inhibit the transcriptional machinery(including transcription factors and RNA polymerase) and
+subsequently blocks gene transcription ( 76). Furthermore,
+the presence of methylation can lead to the recruitment ofproteins that leads to a tightening of the adjacent chromatin
+that impairs the transcriptional process ( 77). Whereas, re-
+moval of methylation causes a loosening of the adjacentchromatin, enabling gene expression to occur. This is most
+prominent if DNA methylation occurs in promoter regions of
+the gene in the vicinity of transcription start sites (TSS), whereCpG islands are more prevalent. Therefore, this means that
+there is more likely to be (albeit not exclusively) an inverse
+relationship between methylation status and gene expression,where increased methylation leads to reduced gene expression
+and reduced methylation leads to increased gene expression. It
+is important to note, however, that the opposite correspondenttrend (positive association) between methylation and gene
+expression is more likely if methylation occurs in gene-silenc-
+ing regions. Furthermore, the complexity of DNA methylationreally becomes apparent, when gene body methylation in non-
+regulatory regions has also been associated with altered tran-
+scription of the corresponding genes ( 78–80), where intragenic
+5mC correlates with transcriptional strength ( 81). However,
+high methylation in these regions can also slow down elonga-
+tion ( 82). Recent studies have also demonstrated that the pres-
+ence of intragenic methylation (that is dependent on DNMT3b
+activity) protects the gene body from spurious entry of RNA
+polymerase II and inappropriate initiation of transcription.
+Therefore, this helps transcriptional ﬁdelity via cross talk
+b e t w e e nD N Am e t h y l a t i o na n dh i s t o n eH 3 K 3 6m e t h y l a t i o n(83). Conversely, TET3, which demethylates DNA via oxidizing
+5-methylcytosine to 5-hydroxymethylcytosine (5hmC) can also
+prevent inappropriate intragenic entry of RNA polymerase IIinto highly expressed genes, therefore allowing continued tran-
+scription initiation at canonical start sites ( 84). Finally, DNA
+methylation can also regulate alternative splicing by impactingthe inclusion of exons ( 85), thus perhaps also in ﬂuencing the
+levels of transcript variants and ultimately protein isoforms.
+DNA Methylation and Epigenetic Memory in Human
+Skeletal Muscle
+To investigate whether young human skeletal muscle
+has an epigenetic memory of exercise-induced musclegrowth, genome-wide DNA methylation (methylome)
+analysis (850,000 CpG sites) of human muscle tissue
+derived from the vastus lateralis (quadriceps) muscle was per-formed after 7 wk of resistance training (3 days/wk), 7 wk of
+detraining (where participants returned to normal habitual
+physical activity), and another 7 wk of training (or retraining)(4,86). Targeted gene expression analysis of the genes that
+had the most signi ﬁcantly differentially methylated positions
+(DMPs) on CpG sites enabled functional validation of theDNA methylation data at the gene expression level. Both geneexpression and DNA methylation were also undertaken after
+an acute resistance exercise bout in the same participants
+before they subsequently completed the training, detraining,and retraining intervention. It became immediately apparent
+that resistance exercise was a predominantly hypomethylat-
+i n gs t i m u l u sa c r o s st h eg e n o m ea f t e ra na c u t eb o u to fe x e r c i s e(4), something that had previously been demonstrated in can-
+didate genes after acute endurance exercise ( 87), yet not after
+resistance training and con ﬁrmed across the methylome.
+Subsequent analyses have also demonstrated similarﬁndings across the methylome after acute and chronic resist-
+ance exercise in humans ( 4,88–90), after synergist ablation
+(in rodents) ( 91), acute high-intensity/sprint interval exercise
+in humans ( 92), and after acute and chronic aerobic exercise
+in humans ( 10,87). Indeed, after chronic resistance training,
+we demonstrated that the number of hypomethylated differ-
+entially methylated positions (DMPs) was slightly greaterthan the number of hypermethylated DMPs after the ﬁrst pe-
+riod of 7 wk of resistance training, where there were also sig-
+niﬁcant increases in lower limb lean mass. Interestingly, the
+number of hypo- and hypermethylated positions remainedsimilar even during detraining when exercise was ceased, and
+lean muscle mass returned to pretraining (baseline) levels.
+Subsequently, after the later retraining period, the number ofhypomethylated DMPs more than doubled compared with
+the earlier training period that was associated with the same
+magnitude (a doubling) increase in lean mass after retrainingcompared with the earlier period of training ( 4). This was sug-
+g e s t i v eo fa ne n h a n c e dn u m b e ro fC p Gs i t e st h a tw e r eh y p o -
+methylated after later retraining as a consequence of havingundertaken an earlier period of training. This enhancementin the number of hypomethylated DNA sites after later
+retraining has now also been con ﬁrmed in a separate cohort
+of young adults after a period of resistance training, castimmobilization, and retraining as well as in elderly individu-
+als after training, detraining, and retraining ( 7). Following this
+initial analysis, the most signi ﬁcant DMPs and their distinct
+temporal signatures over the period of training, detraining,and retraining were assessed. Two distinct temporal methyla-
+tion signatures identi ﬁed suggested there was an epigenetic
+memory of these genes. The ﬁrst signature included genes
+that were hypomethylated after the initial encounter with
+training-induced hypertrophy, where these CpG sites retained
+ah y p o m e t h y l a t e dp r o ﬁle even during complete exercise ces-
+sation and lean mass returning to pretraining levels duringthe detraining period ( Fig. 2 ). Furthermore, hypomethylation
+of these genes then continued throughout retraining, where
+some genes even possessed enhanced hypomethylation afterretraining compared with earlier training. At the gene expres-
+sion level, a subset of these genes ( AXIN1 ,GRIK2 ,CAMK4 ,
+and TRAF1 ) also demonstrated increased gene expression
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1283
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+after the ﬁrst period of training. Fascinatingly, during detrain-
+ing where hypomethylation was retained, gene expression
+also remained elevated, despite the participants undertakingno exercise and lean leg mass returning to pretraining levels.
+Then in the retraining period, the genes with continuing and
+increased hypomethylation also demonstrated enhancedgene expression ( 4)(Fig. 2 ). Therefore, this gene pro ﬁle indi-
+cated that human muscle possessed an epigenetic memory at
+the DNA methylation level of previous training-inducedgrowth due to the retention of DNA methylation throughoutdetraining that led to larger hypomethylation and enhanced
+gene expression after later retraining in this subset of genes.
+The second temporal epigenetic and gene expression signa-ture in another subset of genes ( UBR5 ,RPL35a ,HEG1 ,
+PLA2G16 ,a n d SETD3 ) also demonstrated hypomethylation
+and enhanced gene expression following training. However,in opposition to the ﬁrst temporal pro ﬁle deﬁned earlier, both
+DNA methylation and gene expression returned to baseline
+levels during detraining. Therefore, there were no retainedhypomethylation or gene expression levels during this period.Despite this, these genes then displayed an even greater hypo-
+methylation during later retraining compared with the earlier
+training period and further enhancements in gene expressionafter retraining compared with the initial training ( 4)(Fig. 2 ).
+This also suggested that due to being hypomethylated during
+the earlier training (even despite returning to baseline meth-ylation levels during detraining), these genes demonstratedeven greater hypomethylation during retraining. Finally,
+genes GRIK2 ,TRAF1 ,BICC1 ,a n d STAG1 demonstrated hypo-
+methylation even after a single acute bout of resistance exer-cise, and then retained this hypomethylation after the entire
+21-wk intervention with these genes demonstrating the largest
+enhancements in gene expression during the later retrainingperiod. These CpG sites and genes were therefore dynamically
+and sensitively altered even after a single bout of resistance
+exercise and were maintained for a long period of /C245m o( 4).
+One of the limitations of this work was that gene expression
+was assessed at the targeted and not transcriptome-wide levelthat would otherwise enable the identi ﬁcation of all genes
+that changed at the epigenetic as well as the transcriptomic
+level. To address this, the epigenetic memory pro ﬁles were
+overlapped with gene expression changes across the human
+transcriptome ( 88). By integrating over 110 and 181 publicly
+available human skeletal muscle transcriptomes after bothacute and chronic resistance training, respectively, this newstudy was able to identify the degree of overlap between the
+methylome and transcriptome and run a more integrated
+pathway analysis indicating the gene pathways that wereenriched for both differential methylation and gene expres-
+sion. From these genes, the number that demonstrated
+retained methylation during detraining and enhanced geneexpression during later retraining were predicted. A larger
+proportion of /C243 1 %a n d3 2 %o ft h eu p r e g u l a t e dg e n e sa tt h e
+transcriptome level after acute and chronic resistance exer-cise (RE), respectively, were hypomethylated compared with2 3 %a n d2 2 . 7 %o fg e n e st h a tw e r ed o w n r e g u l a t e da n dh y p e r -
+methylated after acute and chronic RE, respectively ( 88).
+Pathway analysis suggested that the genes with differentialmethylation and altered gene expression were enriched in
+both methylome and transcriptome data for many growth-
+related pathways related to matrix and actin structure/function and remodeling, mechanotransduction, including
+PTK2/focal adhesion kinase/FAK and phospholipase D (fol-
+lowing chronic resistance exercise only), TGF- bsignaling and
+protein synthesis (GSK3B after acute resistance exercise only),
+all of which have important functions in skeletal muscle mass
+regulation ( 88). Other studies have also con ﬁrmed that an
+acute bout of resistance exercise in trained men evoked
+enrichment of differential methylation in similar pathways of
+focal adhesion, PI3K-Akt signaling, TGF- band MAPK signal-
+ing ( 89) as well as the mammalian target of rapamycin
+(mTOR) pathway after synergist ablation in mice ( 91).
+Resistance training, detraining, and retraining in elderly indi-
+viduals also led to enriched methylation and gene expressionin similar pathways ( 7). Indeed, Sexton et al. ( 89)w e r ea b l et o
+provide more insights into the temporal regulation of altera-
+t i o n si nD N Am e t h y l a t i o ni np a r t i c u l a rp a t h w a y st h a tp r e -cedes corresponding alterations in gene expression. Toachieve this, the authors analyzed the methylome and tran-
+scriptome at both 3 and 6 h post an acute resistance exercise
+bout. At the pathway level, there was a more concordant over-l a po ft h es a m eg e n e sw i t ht h e3 - hD N Am e t h y l a t i o nc h a n g e s
+and the gene expression at 6 h, compared with DNA methyla-
+tion and gene expression investigated at the same time pointof 3 h or 6 h ( 89). Suggesting that there was a more prominent
+degree of overlap between the genes demonstrating methyla-
+tion changes at 3 h that also exhibit alterations in transcrip-
+tion at 6 h after an acute bout of resistance exercise. Finally,by integrating the methylome and publicly available tran-
+scriptome after acute and chronic resistance exercise in the
+study discussed earlier ( 88). We were able to track the genes
+that were differentially methylated and expressed after acuteand chronic resistance exercise across the genome and then
+identify which of these genes exhibited an epigenetic muscle
+memory pro ﬁle after resistance training, detraining, and
+retraining. This led to the identi ﬁcation of an additional 51
+genes that were differentially methylated and expressed after
+acute and chronic resistance exercise and training, respec-tively ( 88), and importantly that also demonstrated signi ﬁ-
+cantly altered methylation into the detraining and retraining
+periods ( 4). Indeed, ﬁve of these genes: FLNB ,MYH9 ,
+SRGAP1 ,SRGN ,a n d ZMIZ1 demonstrated the temporal epige-
+netic memory pro ﬁle as de ﬁned earlier ( 4), that of; retained
+hypomethylation into detraining following earlier training.
+From these ﬁve genes, Filamin B ( FLNB )w a si n c r e a s e da tt h e
+gene expression level after acute and chronic resistance exer-
+cise and remained elevated after detraining and retraining
+where the gene remained hypomethylated even during exer-cise cessation (detraining) ( 88). Increases in Filamin B expres-
+sion were only statistically signi ﬁcant after the acute
+resistance exercise, perhaps due to the lack of RNA from all
+subjects meaning a smaller subset of participants from theoriginal study could be analyzed. Despite this, the role of
+F i l a m i nBr e q u i r e sm o r ea t t e n t i o ng i v e nt h er o l eo ft h e ﬁlamin
+gene family as actin crosslinkers, and that Filamin A and Chave been investigated following endurance and resistanceexercise, respectively ( 93,94), as well as being associated with
+autophagy in skeletal muscle ( 94). Overall, there is limited in-
+formation regarding the role of Filamin B in the regulation ofmuscle mass and given its retained hypomethylation pro ﬁle,
+Filamin B requires attention to further con ﬁ
+rm its mechanis-
+tic role in epigenetic muscle memory.
+SKELETAL MUSCLE MEMORY
+C1284 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+Role of the Identi ﬁed Epigenetic Memory Genes
+D e s p i t et h ed i s c o v e r yo fs o m eo f t h eg e n e st h a th a v ee p i g e -
+netic memory pro ﬁles, the characterization of these genes in
+the regulation of muscle memory after exercise-induced hyper-
+trophy remains largely undetermined. To begin to unravel thedeeper mechanisms of epigenetic muscle memory, one gene,
+UBR5 ,t h a tw a si d e n t i ﬁed from the initial studies ( 4)h a sb e e n
+investigated in more detail. UBR5 was a gene that demon-
+strated hypomethylation after training, where methylation
+returned to baseline levels during detraining and displayed
+enhanced hypomethylation and gene expression after retrain-ing in human skeletal muscle ( 4). This previously uncharacter-
+ized gene in muscle also stood out, as UBR5 is an E3 ubiquitin
+ligase that was positively correlated with increasing lean leg
+mass after training, detraining, and retraining in humans as
+depicted in the second temporal pro ﬁle described earlier (see
+Fig. 2 )(4). E3 ubiquitin ligases have well-de ﬁned roles of “tag-
+ging ”proteins for degradation in the proteosome, are therefore
+typically associated with skeletal muscle atrophy and not hy-pertrophy. For example, the well-characterized protein degra-
+dative E3 ubiquitin ligases, MuRF1 and MAFbx, are primarily
+involved in degradation of muscle-speci ﬁcp r o t e i n sa c r o s sa
+wide range of atrophy conditions, reviewed recently in Ref. 95.
+Therefore, the characterization of UBR5 in skeletal muscle
+mass regulation required attention due to its associated role in
+hypertrophy and muscle memory. Indeed, further studies con-
+ﬁr m e dt h er o l eo ft h i sg e n ea sap o s i t i v er e g u l a t o ro fs k e l e t a l
+muscle hypertrophy and recovery from atrophy across various
+mammalian species in vivo and in vitro, as well as having an
+alternate regulation to MuRF1 and MAFbx after hypertrophystimuli ( 96). To further con ﬁrm its mechanistic role, muscle-
+speciﬁc knockdown of UBR5 using electroporation of UBR5
+RNAi in mice was undertaken, which resulted in atrophy ( 97).
+This further con ﬁrmed that the presence of UBR5 is important
+for maintaining muscle mass. Other data in humans has also
+suggested that the A alleles of the rs10505025 and rs4734621
+SNPs in the UBR5 gene, that affect its gene expression accord-
+ing to the Gene Tissue Expression (GTEX) project, were stronglyassociated with larger fast-twitch muscle ﬁbers and strength/
+power performance versus endurance status in athletes ( 96).
+T h e r e f o r e ,a g a i np o i n t i n gt oa ni m p o r t a n tr o l ef o rU B R 5i nr e g -ulating muscle mass potentially in the larger faster ﬁbers associ-
+ated with greater athletic performance. Importantly, the same
+epigenetic memory pro ﬁle, as described earlier for UBR5 (in the
+same UBR5 CpG site) was also con ﬁrmed in skeletal muscle
+within an independent study of young adults after a period ofresistance training, cast immobilization, and later retraining ( 7).
+Overall, these data suggest that UBR5 ,ﬁrst identi ﬁed as an epi-
+genetic muscle memory gene in human muscle, is an impor-tant regulator of muscle mass and indicates that there is a more
+complex interplay within the family of ubiquitin E3 ligases,
+where despite their protein degradative role (e.g., MuRF1 andMAFbx), a subset of these ligases may also play a role in posi-
+tively regulating muscle mass. Although speculative, this may
+be because E3 ubiquitin ligases, such as UBR5, may instead
+destabilize proteins considered to be negative regulators of
+muscle mass such as PP2Ac ( 97). Despite these advances and
+insights so far, it is still necessary to mechanistically con ﬁrm
+the role of UBR5 in muscle memory by experimental manipula-
+tion (i.e., knockdown or overexpression) of this gene in a modelof training, detraining, and retraining to con ﬁrm its role in
+muscle memory.
+Epigenetic Muscle Memory in Aging Skeletal Muscle
+An epigenetic memory has now also been demonstrated in
+aged human muscle tissue, where a similar model of 12 wk oftraining, detraining, and retraining has been undertaken in el-
+derly individuals while investigating both the methylome and
+transcriptome in comparison with young adults undergoing aperiod of 12 wk resistance training, 2 wk cast immobilization,and a further 12 wk of resistance retraining ( 7). In this study,
+there was a larger number of hypomethylated versus hyperme-
+thylated sites after both training periods with an even greater
+hypomethylated pro ﬁle after retraining versus the initial train-
+ing period across both young and old muscle ( 7) ,t h es a m ep r o -
+ﬁle observed previously in young adult human muscle ( 4).
+Interestingly however, there was a greater hypermethylation
+after 12-wk detraining in the elderly and 2-wk cast immobiliza-
+tion in young muscle ( 7), which was different from the similar
+number of hypermethylated and hypomethylated sites after 7wk of detraining in young adults in the earlier study ( 4). One
+explanation for this could be that 2 wk of cast immobilization
+was a more aggressive negative insult in young adult muscle
+and a longer 12-wk detraining period in older muscle was per-haps already on a background of hypermethylation ( 98), thus
+perhaps evoking even greater hypermethylation comparedwith 7 wk of detraining in young muscle ( 4). This latest study
+in young and elderly muscle also identi ﬁed two interesting
+genes with respect to epigenetic muscle memory that dis-played retained epigenetic pro ﬁles during the detraining/cast
+immobilization periods. In the older men after training, thevinculin ( VCL) gene within the focal adhesion pathway [a path-
+way that also demonstrates enriched differential methylation
+after resistance exercise ( 4,88,89)], was hypomethylated after
+training, and then retained a hypomethylated pro ﬁle during
+immobilization and retraining, with the largest increase ingene expression occurring after retraining ( 7). Therefore, vincu-
+lin tracked one of the same temporal epigenetic memory pro-
+ﬁles identi ﬁed in earlier studies described above ( 4)(Fig. 2 ). At
+the protein level, vinculin is an important structural compo-nent of the costamere ( 99), and connects the sarcomere to the
+cell membrane to stabilize muscle ﬁbers during contraction. It
+also appears important for mechanotransduction ( 100,101)
+and is increased at the muscle gene expression level followingchronic stimulation and disuse ( 102). Therefore, focal adhesion
+pathway genes enriched at the differential methylation levelafter resistance training and retraining, including VCL (and
+FLNB discussed earlier), demonstrate an epigenetic memory.
+Given these genes roles in mechano-sensing and muscle massregulation, their enhanced hypomethylation and gene expres-sion during retraining maybe linked to the larger increases inmuscle mass observed during later retraining. A second gene,
+AMOTL1 ,a l s od e m o n s t r a t e dr e t a i n e dh y p o m e t h y l a t i o na f t e r
+training into immobilization in younger men with enhancedhypomethylation into retraining ( 7). Importantly, this temporal
+response of AMOTL1 conﬁr m e dt h es a m ep r o ﬁle previously
+identi ﬁed in younger men after resistance training, detraining,
+and retraining ( 4). AMOTL1 is important for activating YAP1
+(an important gene within the mechanosensitive YAP/TAZpathway) enabling activation and proliferation of satellite cells
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1285
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+(103). Therefore, AMOTL1 has now been con ﬁrmed as an epige-
+netic memory gene in two independent studies in human skel-etal muscle and has a pre-established role in skeletal muscle,
+therefore should be investigated further for its mechanistic
+role in regulating epigenetic muscle memory.
+Is There an Epigenetic Muscle Memory to Di ﬀerent
+Types of Exercise?
+To date, epigenetic muscle memory has only been observed
+after resistance exercise. With aerobic training, detraining and
+retraining unable to demonstrate retained transcript expres-
+sion levels during 9 mo of detraining after an initial 3 mo ofaerobic training ( 104). Therefore, studies using a similar study
+design to investigate genome-wide epigenetic modi ﬁcations af-
+ter aerobic training, detraining, and retraining are warrantedin future human studies. However, given the impact of high-in-
+tensity aerobic exercise and high-intensity/sprint interval exer-
+cise on promoting hypomethylation in skeletal musclecompared with lower-intensity exercise ( 87,92), it may be that
+exercise intensity has an important role in stimulating altera-
+tions in DNA methylation and therefore muscle memory (forreview, see Ref. 69). Indeed, in collaboration with our group,
+unpublished data from Simone Porcelli ’s laboratory and pri-
+mary researcher Andrea Pilotto, investigated if there was anepigenetic memory of high-intensity exercise training. These
+unpublished observations suggest there were 1,190 CpG sites in
+the human genome that demonstrate a retained hypomethy-
+lated pro ﬁle into detraining after an earlier high-intensity
+training period (Pilotto et al., unpublished data). Furthermore,the number of hypomethylated differentially methylated posi-
+tions (DMPs) remained elevated during detraining and retrain-
+ing, whereas hypermethylation returned to baseline levels inboth conditions. Speci ﬁcally, the genes: ADAM19, INPP5a,
+MTHFD1L, PDGFB, CAPN2 ,a n d SLC16A3 were identi ﬁed as
+hypomethylated genes with enhanced expression after initialtraining that maintained their hypomethylated status and
+enhanced transcription even during detraining, indicating an
+epigenetic memory of these genes ’methylation signatures fol-
+lowing earlier training (Pilotto et al., unpublished data). The
+genes demonstrating an epigenetic memory were associated
+with metabolic pathways, calcium signaling, lactate and pyru-vate transport, and mitochondrial enzymes. Overall, these data
+suggest that there was an epigenetically regulated transcrip-
+tional memory of earlier high-intensity exercise training. Thesedata may also lead to a working hypothesis that there may be a
+mitochondrial epigenetic memory in muscle. Where studies in
+the future should perhaps also investigate the mitochondrialDNA (mtDNA) methylome after a period of training, detrain-
+ing, and retraining. Indirect support for this hypothesis exists
+in a recent study that demonstrated resistance exercise canremodel the mtDNA methylome ( 105), and given the nature of
+the stimulus, it is plausible to suggest that aerobic and/or high-
+intensity exercise may perhaps achieve a more substantial epi-genetic response in mtDNA, something that requires attention
+in the near future.
+Epigenetic Muscle Memory across Species
+Consistent with the ﬁndings in epigenetic muscle mem-
+ory across young and elderly humans discussed earlier, a
+recent investigation by Kevin Murach ’sg r o u pe x p l o r e dt h emethylation signatures using a model of high-intensity
+weighted wheel running training, detraining, retraining in
+rodents and reported hypomethylation and retention ofDNA methylation signatures into detraining following anearlier training period ( 6). What was exciting in these mice
+studies, is that the authors investigated the methylome speci ﬁ-
+cally of the myonuclei that reside directly within the muscle
+ﬁber and were able to compare this with the methylome of all
+the other nuclei present in whole muscle tissue (termed intersti-tial nuclei given these nuclei are located outside of the muscleﬁber), after a period of 8 wk training (via PoWeR), detraining,
+and another 4 wk of retraining ( 6). This study has therefore
+started to advance the ﬁeld and will probably be crucial in
+developing our understanding of how epigenetic memory inmuscle is integrated with the cellular muscle memory mecha-nism. Therefore, in the next section, we discuss this research in
+more detail to enable relevant future directions in this ﬁeld.
+Integration of Epigenetic and Cellular Muscle Memory
+Theories
+Recently, DNA methylation signatures, speci ﬁcally of the
+myonuclei compared with other interstitial nuclei residing
+in the mouse plantaris muscle have been investigated ( 6). To
+do this, authors used progressive weighted wheel running(PoWeR) training in mice for 8 wk, followed by 12 wk ofdetraining and 4 wk of retraining. The group undertookreduced representation bisul ﬁte sequencing (RRBS) and
+RNA sequencing for genome-wide methylation and gene
+expression respectively ( 6). Following the ﬁrst 8-wk training
+intervention, there was slightly larger hypomethylationcompared with hypermethylation in the DNA of the myonu-clei, similar to that observed after initial training in humans
+(4,7). However, in the interstitial nuclei, there was a greater
+predominance of hypomethylation versus hypermethylationcompared with the myonuclei. The enrichment of methyla-tion in speci ﬁc pathways was also different between the
+myonuclei and interstitial nuclei in these rodents. Where
+one of the most enriched pathways was the Wnt signaling
+pathway, with Wnt-related genes demonstrating hypome-thylation within the myonuclei, compared with hypermeth-ylation in promoter regions within the interstitial cell nuclei(6). These alterations in differential methylation enriched in
+similar pathways between nuclei types resident in skeletal
+muscle tissue suggest that there may be an important epige-netic role for different cell types in skeletal muscle tissue inresponse to exercise training. Cell speci ﬁc nuclei analysis of
+DNA methylation pro ﬁles, therefore, seems important to
+determine in human muscle to investigate whether epige-
+netic muscle memory resides in both the nuclei of muscleﬁbers themselves as well as the nuclei of nonmuscle cell
+types that contribute to the skeletal muscle niche. One ca-veat may be that it has been reported /C2440% –60% of nuclei
+in mouse muscle are myonuclei, with human muscle con-
+taining more like 80% þmyonuclei compared with other
+nuclei types ( 91,106). Therefore, the contribution of epige-
+netic alterations in divergent nuclei from different cell typesin human muscle is potentially not as strong as that
+observed in mouse muscle. However, it is clear that future
+studies need to determine the relative contribution of differ-ential methylation between nuclei from differing cell types
+SKELETAL MUSCLE MEMORY
+C1286 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+resident in human muscle tissue after resistance exercise to
+be able to quantify this appropriately and draw conclusions.
+It is also important to highlight that in published human
+data after both acute and chronic resistance exercise training,growth-related pathways demonstrate enriched hypomethyla-
+tion ( 4,88,89). Although Wnt signaling, ident ﬁed in the mouse
+study described in this section, did not seem to be signi ﬁcantly
+altered in humans after resistance exercise ( 4), in unpublished
+observations, Wnt signaling in the DNA from whole muscle tis-
+sue was enriched with hypomethylation after high-intensitytraining in humans (Pilloto et al., unpublished data), corrobo-
+rating the hypomethylation observed in the DNA from myonu-
+clei after PoWeR training in mice ( 6). Where, PoWeR training is
+perhaps more similar to high-intensity exercise than heavy re-sistance exercise in humans ( 107), and therefore this unpub-
+lished human data potentially support the role of enriched
+h y p o m e t h y l a t i o ni nt h eW n ts i g n a l i n gp a t h w a yo b s e r v e di nmouse myonuclei.
+I nt h es a m em o u s es t u d yb yK e v i nM u r a c h ’sg r o u p ,t h e
+authors were also able to identify that DNA methylation signa-
+tures altered after the initial PoWeR training period wereretained, indicating an epigenetic memory in muscle following
+training in mice ( 6). Therefore, this study further substantiated
+cross-species evidence for an epigenetic muscle memory thatwasﬁrst observed in human muscle ( 4,7). Interestingly, in
+these mouse studies, hypomethylation was also maintained
+throughout detraining in the interstitial nuclei and hypermeth-ylation was predominantly retained in the myonuclei ( 91). This
+indicated that the hypomethylation that persisted in the
+human DNA of whole muscle tissue, aligned with the trend
+observed in the mouse interstitial derived nuclei comparedwith the myonuclei. Having said this, the authors also reported
+retention of hypomethylation in the myonuclei, albeit with
+fewer genes than the number of those that were hypermethy-lated. Furthermore, we also identi ﬁed retained hypermethyl-
+ation in the muscle tissue homogenate in humans, just the
+predominant pro ﬁle was that of retained hypomethylation ( 4).
+The proportion of myonuclei to interstitial nuclei in human
+versus mice studies, described earlier, may also play a role in
+these differences observed between species. However, theseintricacies across species require further investigation to fur-ther tease out the nuclei-speci ﬁc alterations in human muscle
+and their relative contribution to muscle memory.
+Finally, it is important to note that in these repeated training
+studies in mice, the authors did not report the DNA methylomeor transcriptome analyses after later retraining ( 6). Therefore,
+the authors were unable to test the existence of the second epi-
+genetic memory pro ﬁle to repeated training as described earlier
+in humans ( 4)(Fig. 2 ). Speci ﬁcally, whether initial hypomethy-
+lation after training is further enhanced leading to a greater
+level of hypomethylation during later retaining ( 4), something
+that would be important to corroborate in mice studies in the
+future. Nevertheless, these studies in mice have advanced the
+ﬁeld and highlighted the need for further analysis of cell-spe-
+ciﬁc epigenetic responses for understanding epigenetic mem-
+ory in skeletal muscle. In the future, it would also be important
+to determine the methylation of nuclei from different cell types
+making up the interstitial component. Given that in the studydesign aforementioned, satellite cell-derived myonuclei would
+also be in the interstitial fraction ( 6). Therefore, given that satel-
+lite cells are also incorporated into the muscle
+ﬁbers to becomemyonuclei following training, this means that the epigenetic
+alterations in satellite cells following training, detraining, and
+retaining have not yet been distinguished. Earlier work by thesame group has attempted to determine methylome differences
+between myonuclei versus myonuclei plus satellite cells using
+genetic mouse models ( 108). Here, the authors were able to ﬂuo-
+r e s c e n t l yt a gm y o n u c l e iw i t hh i g hs p e c i ﬁcity before and follow-
+ing PoWeR training. Using this approach, myonuclei residing in
+the muscle at the start of training and that persisted during thetraining period were ﬂuorescently labeled and compared with
+all the post-training myonuclear pools that included both resi-
+dent myonuclei present at the start of training plus satellite
+cell-derived myonuclei acquired from the training period.Therefore, the contribution of satellite cell-derived myonuclei-
+induced alterations in the methylome could therefore be, in
+part, deduced by comparing these two groups. One caveat ofusing this design means that it is dif ﬁcult to separate absolute
+changes in the myonuclear versus satellite cell only methylome.
+However, thus far this is the best attempt using a novel andexciting genetic mouse model to investigate the satellite cellmethylome. The authors identi ﬁed that myonuclear DNA was
+hypomethylated after PoWeR training and this hypomethyla-
+tion was enriched in gene promoters involved in growth-relatedpathways and protein turnover, whereas the myonuclear plus
+satellite cell methylome pro ﬁles were shifted toward transcrip-
+tion factor regulation and cell-cell signaling. Furthermore, com-paring myonuclei-speci ﬁcm e t h y l a t i o np r o ﬁles to already
+published single-nucleus transcriptional analysis from the
+same conditions, suggested that satellite cell-derived myonuclei
+may preferentially provide speci ﬁc ribosomal proteins to mus-
+cleﬁbers and therefore could provide a memory of these genes
+to the growing muscle ﬁber. Interestingly, methylation in ribo-
+somal protein gene, rpl35a ,w a si d e n t i ﬁed as hypomethylated
+in the myonuclei plus satellite cell condition as well as
+increased at the gene expression level relative to the myonuclei
+only condition after PoWeR training in mice. Importantly, thisgene was also identi ﬁed as having an epigenetic memory pro ﬁle
+in human skeletal muscle tissue ( 108). Taken together, these
+data across human and rodent studies suggest that an epige-
+netic memory of speci ﬁc genes involved in different processes
+may come from distinct cell nucleus types within the muscle
+niche ( Fig. 3 ). For example, growth-related epigenetic memory
+genes from myonuclei, compared with transcription factor,cell-cell signaling, and ribosomal protein genes from satellitecell nuclei. In addition to these existing studies attempting to
+investigate satellite cell-speci ﬁcm e t h y l o m ep r o ﬁles and muscle
+memory, there has been some recent DNA methylation datafrom isolated satellite cells that demonstrated epigenetic reten-
+tion of DNA methylation can occur speci ﬁcally in this cell type
+after muscle injury and therefore may impact adaptation ofmuscle into adulthood ( 109). Something we will discuss in
+more detail in the following section.
+Overall, the determination of epigenetic pro ﬁles of both
+activated, fused, and retained satellite cells versus already res-ident myonuclei could be important for de ﬁning the integra-
+tion of both the cellular and epigenetic memory theories of
+skeletal muscle adaptation to exercise stimuli. However,
+many challenges to this work in humans arise from the lownumber of satellite cells in a muscle tissue biopsy [ /C241%–5% of
+total nuclei in human muscle (
+110,111)], and therefore genetic
+mouse models and human-derived cell cultures will most
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1287
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+likely be required to investigate the contribution of epigenetic
+memory that resides in satellite cells themselves. However,
+satellite cells are potentially an important source of epigeneti-
+cally retained imprints given they can be activated and prolif-
+erate, thus may pass their epigenetic information to their
+daughter cells that can then fuse to the existing muscle ﬁbers
+when encountering growth stimuli. Overall, we propose there
+may be a synergistic interaction between the myonuclei
+accrued (cellular memory theory) and a speci ﬁce p i g e n e t i c
+contribution from both the myonuclei and satellite cells
+themselves (epigenetic memory theory) that in turn may beintertwined with epigenetic changes in other cell types within
+t h em u s c l et i s s u en i c h e .F o re x a m p l e ,i ti sk n o w nt h a te v e ni n
+the absence of fusion, satellite cells can communicate with
+other cell types such as interstitial ﬁbrogenic cells, as well as
+the muscle ﬁbers themselves ( 40,41). Therefore, studies
+investigating the integration of both the cellular and epige-
+netic components of muscle memory in different cell types
+w i t h i nt h em u s c l et i s s u en i c h ew i l lp r o v i d eav e r yf r u i t f u la v e -
+nue for future discovery in the ﬁeld of muscle memory.
+Is There a Negative Epigenetic Memory in Skeletal
+Muscle?
+So far, the focus of this review has addressed whether skele-
+tal muscle possesses a memory of positive stimuli. However, it
+is also possible that a “negative ”memory may also exist in skel-
+etal muscle. For example, an encounter with a muscle wasting
+or atrophic stimuli such as disuse or immobilization caused byan injury or hospitalization may result in the muscle becoming
+more susceptible to muscle wasting if the same/similar wasting
+stimuli is encountered again in the future. It is therefore also
+possible that muscle may possess a “negative ”memory after
+muscle loss associated with metabolic disease or cancer.Indeed, as summarized in
+INTRODUCTION ,s t u d i e sd e m o n s t r a t e
+that muscle cells remember negative encounters once isolated
+in vitro, such as impaired lipid metabolism and insulin sensi-tivity, when cells are obtained from type II diabetes (T2D) andobese individuals, or uncontrolled cell growth in cells isolated
+from patients with cancer (for review, see Refs. 2and 9).
+Furthermore, evidence from undernutrition in utero in animalmodels and epigenetic changes skeletal muscle of the offspring
+demonstrate that early life in utero encounters with growth-
+restricting environments can negatively alter muscle size, ﬁber
+type, and function of the offspring ’sm u s c l e( f o rr e v i e w ,s e e
+Refs. 2and 9). With recent evidence that maternal exercise
+mediates epigenetic changes in the offspring at both the DNA
+methylation ( 112) and histone level ( 113).
+Proof of concept for a negative muscle memory exists from
+in vitro experiments, where muscle cells retain an epigeneticsignature of an early proliferative life encounter with a muscle
+wasting dose of in ﬂammation (high dose TNF- ato levels
+experienced in muscle wasting conditions such as cancercachexia) ( 8). Consequently, when TNF- ais encountered later
+in the muscle cells ’proliferative lifespan, they demonstrate
+an increased susceptibility to reductions in differentiation
+and myotube growth ( 8). In a most recent study in mice, there
+Figure 3. Hypothetical mechanisms for the integration of both cellular and epigenetic theories of muscle memory. Muscle (e.g., satellite cells and myonu-
+clei) and nonmuscle cells (e.g., interstitial cells including; osteocytes, ﬁbroblasts, adipocytes, and immune cells) resident in skeletal muscle tissue may
+demonstrate distinct DNA methylation changes in response to anabolic stimuli such as resistance exercise training. Distinct epigenetic pro ﬁles may also
+exist within the same cell type depending on its current state. For example, altered DNA methylation across resident, activated, and fusing satellit ec e l l s
+together with resident vs. newly acquired myonuclei as a result satellite cell fusion may all demonstrate divergent epigenetic pro ﬁles in genes that are
+responsible for different functions. For example, growth-related epigenetic memory genes from myonuclei vs. transcription factor, cell-cell sig naling, and
+ribosomal protein genes from satellite cell nuclei. Such exercise training-induced alterations in DNA methylation across different cell types may either
+be retained from earlier training or further enhanced when re-exposed to the same or similar stimuli in future. Such enhanced epigenetic changes arepotentially coupled with greater myonuclei accretion. Epigenetic changes in satellite cells may also mean that future generations of cells can pass on
+these epigenetic changes to the ﬁber when incorporated as myonuclei during training and retraining. Figure created with BioRender.com .
+SKELETAL MUSCLE MEMORY
+C1288 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+is also evidence for an epigenetic memory of negative stimuli
+from muscle injury in earlier life having a long-lasting epige-
+netic impact via DNA methylation in muscle stem cells afternormal development of mature muscle. Interestingly, having
+an earlier life muscle injury meant there were CpG sites that
+also retained their demethylated (hypomethylated) status inmature muscle from the earlier injury even when accounting
+for epigenetic changes that occur during normal development
+(109). Although the muscle injury caused predominantly
+hypomethylation in gene regions, transcriptome analysis sug-gested a downregulation of the transcripts associated with the
+methylation changes. Using Tet3 knockdown, the authors
+were also able to suggest that the changes in demethylationwere necessary for muscle stem cell activation and proper
+regeneration ( 109). In these studies, there was not a repeated
+later muscle injury, so while the authors hypothesized thatearlier injury could “prime ”t h em u s c l ef o rl a t e ra d a p t a t i o n ,
+this was not investigated. Having said this, these data seem to
+suggest that a negative encounter with muscle injury (multi-
+p l en e e d l es t i c ki n j u r yi nr o d e n t s )m a yh a v eap o s i t i v ee f f e c ton later regeneration and in this scenario may not ﬁti n t ot h e
+deﬁnition of “negative ”muscle memory and the notion that
+muscle becomes more susceptible to muscle wasting in laterlife if it has been encountered earlier. Based on these data, itis perhaps logical to hypothesize that a positive or negative
+memory of muscle wasting periods is likely to be highly de-
+pendent on the severity of the negative encounter of injury ordisuse, disease state, and age of the individual. Although this
+recent study sheds light on early life encounters with negative
+stimuli (the injury protocol was a severe model of multipleneedle stick injury in mice) there is currently no publishedstudy on negative memory from earlier wasting periods in
+adult humans caused by physiologically relevant stimuli such
+as injury or disuse, and how these encounters impact the abil-ity of the muscle to respond to the same encounter in later
+l i f e .T h i si se s p e c i a l l yp r u d e n t ,f o re x a m p l e ,i nt h ee l d e r l y ,
+where if these individuals encounter a fall and muscle injury,they will lose muscle mass and function, and are then more
+likely to encounter a repeated fall injury and repeated muscle
+wasting, with repeated encounters with wasting associatedwith earlier frailty, morbidity, and mortality ( 61). Identifying
+gene targets involved in negative muscle memory may there-
+fore help identify those genes that could be targeted to pro-
+vide a therapy. A strategy that could provide a clinicallyrelevant time window would be after an elderly person falls
+and loses muscle mass. Where, if known, memory genes
+would be targeted (e.g., via gene therapy) in the recovery pe-riod following the injury, with the idea that targeting thesegenes could protect the muscle if encountering another fall
+injury and a repeated period of muscle wasting in the future.
+Recent unpublished observations from our group suggest thatmuscle may possess a negative memory in some but not all
+muscles, as well as loss of strength that may be more indica-
+tive of a negative neural memory. In this unpublished study,young healthy humans (male and female) undertook 2 wk ofdisuse-induced atrophy via unilateral limb immobilization,
+followed by 7-wk recovery then another 2 wk of atrophy
+(referred to as repeated atrophy). We found there were compa-r a b l er e d u c t i o n si nt o t a ll e gl e a nm a s s( /C03%) and cross-sec-
+tional area (CSA) of the vastus lateralis (VL) ( /C09%) after
+atrophy and repeated atrophy. However, a loss of CSA of therectus femoris only occurred after repeated atrophy ( /C03%),
+coupled with a greater loss of muscle strength compared with
+the initial atrophy period (Turner et al., unpublished data).Ongoing myonuclei number, methylome, and transcriptomicanalyses will seek to determine whether a cellular or epige-
+netic memory of earlier and repeated atrophy exists.
+Finally, to the authors ’knowledge, there is only one study
+that has assessed, albeit indirectly, whether a negative epige-netic memory in human skeletal muscle exists, wherebypatients with breast cancer demonstrated retained DNA
+methylation pro ﬁles over 10 years after diagnosis and treat-
+ment compared with relevant age-matched controls ( 10).
+However, so far there is very little direct in vivo evidence inadult humans of negative epigenetic muscle memory in skel-
+etal muscle tissue and therefore this paradigm requires
+future investigation perhaps using the design of repeatedmuscle wasting stimuli with a period of recovery betweenthese stimuli. These studies are perhaps dif ﬁcult to justify
+ethically in elderly individuals, and therefore will probably
+require aged animal and or in vitro experimentation in el-derly derived muscle cells to progress this area.
+Can Exercise Reset the Epigenetic DNA Methylome
+after Negative Encounters?
+It has been demonstrated that aged human skeletal mus-
+cle tissue and muscle-derived cells demonstrate hypermeth-ylation of DNA compared with young adult skeletal muscletissue ( 7,98,110) and that this hypermethylation occurs in
+gene regulatory regions ( 114,115). Yet, in a recent large-scale
+meta-analysis of aging muscle across the genome, there wasa predominance of hypomethylation across the genome(116). Despite this, it is still perhaps the case that the hyper-
+methylation trend observed in aged muscle occurs in gene
+regulatory regions such as promoter regions ( 114,115)a n d
+more studies need to investigate, not just promoter andenhancer regions, but also silencer regions, as well as intra-genic and gene body methylation to determine whether the
+methylation and expression levels are correlated in aged
+skeletal muscle. Interestingly, the same meta-analysis sug-gested that 68% of the differentially expressed genes in agedskeletal are reduced ( 116). This would support that over time
+the signi ﬁcant DNA methylation changes, perhaps an accu-
+mulation of DNA methylation in gene regulatory regionsleads to an overall suppression of gene expression in skeletalmuscle with age. Indeed, 68 of the same genes signi ﬁcantly
+altered at the DNA methylation level demonstrated corre-
+sponding changes at the expression level with age in skeletalmuscle ( 116), perhaps suggesting a small, yet important num-
+ber of epigenetically modi ﬁed genes results in changes corre-
+sponding to gene expression in aged skeletal muscle. Even
+given this recent knowledge, when these DNA methylationchanges occur across the lifespan in skeletal muscle are notentirely clear. However, given the potential “accumulation ”
+of epigenetic marks in aged muscle and that exercise con-
+siderably remodels the DNA methylome landscape, asdescribed earlier, it could be hypothesized that exercisecould be epigenetically antiaging. Also, perhaps due to epi-
+genetic muscle memory, exercise could offset the impact of
+negative epigenetic events on skeletal muscle health duringthe lifespan.
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1289
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+To support this hypothesis, muscle taken from elderly
+individuals who have undertaken regular exercise through-
+out their life display a more hypomethylated DNA pro ﬁle
+compared with elderly individuals who have been less activethroughout their life ( 56). It has also been demonstrated that
+those who are aerobically physically active have inverselymethylated signatures to those observed in aged muscle ( 98).
+Moreover, aging has been shown to cause hypermethylationto the mitochondrial (mtDNA) genome in skeletal muscle,where progressive resistance training was able to “rejuve-
+nate ”the hypermethylated mtDNA signature toward a more
+hypomethylated state that was closely reminiscent of themethylation signature observed in trained young adult mus-cle (93). This was therefore also suggestive that the negative
+epigenetic signatures associated with aging muscle might becounteracted by undertaking exercise training. Recent stud-ies shed light on this hypothesis where exercise mitigates thenegative effects of maternal high-fat consumption on the off-spring ( 113), suggestive of a positive memory of exercise both
+before (in the offspring) or in later (aged) life. Similarly, re-
+sistance training and aerobic training have been shown topartially reset the skeletal muscle methylome of both agedindividuals ( 7) and cancer survivors ( 10)b a c kt o w a r dp r o ﬁles
+observed in relevant healthy young and relevant healthyage-matched controls respectively. In rodents, late lifePoWeR exercise training (mice aged 22 –24 mo) prevents
+aged associated promoter hypermethylation and promotes ayounger DNA methylation age by 8 wk (8% of total lifespan)as measured by epigenetic clocks ( 117,118). Finally, meta-
+analysis of over three thousand methylome and transcrip-tome samples from human skeletal muscle has also beenable to predict that for every additional unit of increasingV_
+O2max with age is accompanied by a change in methylation
+equivalent to 1.6 years of “rejuvenation ”of the age-related
+methylation changes ( 116). More simply, increased aerobic
+training into older age (that increases V _O2max)w i l li m p r o v e
+the epigenetic pro ﬁle in muscle to those observed in younger
+proﬁles. In terms of muscle memory, there is currently no
+data studying individuals that have trained in the past andencounter muscle wasting stimuli to see if the memory fromthe earlier training can help protect the muscle from a wast-ing encounter. Also, it has not been directly studied howlong epigenetic memory can last, however, it is intriguing tothink that it maybe be remembered for years after an initialstimulus ( 10), something that clearly warrants future study.
+Future Directions
+It is not currently known how long cellular or epigenetic
+memory lasts and this question is likely to be the focus offuture research in this area. It is also likely that other epige-netic modi ﬁcations such as those that occur on histone pro-
+teins and other factors such as the three-dimensionalchromatin con ﬁguration, could also be retained after exer-
+cise and lead to an enhanced genomic response to futureexercise. Therefore, these other epigenetic modi ﬁcations are
+also likely to be important areas of muscle memory research
+in the future.
+Furthermore, it is also interesting to hypothesize that by
+altering the exercise frequency, intensity, or timing of train-ing this could make memory of exercise last longer. Initialdata suggest that epigenetic alterations can be somewhatdistinct between acute exercise at different intensities within
+aerobic, high-intensity, and resistance exercise ( 87,89,92),
+and therefore requires studies of chronic training, detrain-
+ing, retraining to assess whether a speci ﬁce x e r c i s ei n t e n s i t y
+is advantageous to promote a longer lasting muscle memory.Hypothetically, addressing these important questions would
+allow the incorporation of this type of “optimized muscle
+memory ”training into an athletes or recreationally active
+persons periodized training program. This may help reduce
+the total volume or intensity of training required, meaningmore time could be spent recovering (therefore reducing
+injury) or on skill-speci ﬁc tasks for a given event/sport. For
+example, if athletes or the public could train at higher vol-
+ume/intensity less frequently and still have the same adapta-
+tion due to muscle memory this would be bene ﬁcial in
+enabling more time for recovery or enabling more time ef ﬁ-
+cient exercise programs. However, more studies that are
+designed to test these speci ﬁc exercise variables throughout
+training, detraining, and retraining periods are required to
+answer these questions.
+Finally, understanding negative muscle memory will be
+important for identifying the genes associated with retained
+epigenetic pro ﬁles associated with muscle wasting. It is
+becoming clearer that exercise can help, at least partially
+reset the epigenetic landscape in the muscle of aged and dis-
+eased individuals. However, given that exercise may not
+always be possible in elderly, frail, or diseased individuals,
+identifying gene targets involved in negative muscle mem-ory may help identify future strategies of therapeutic inter-
+vention for muscle wasting.
+ACKNOWLEDGMENTS
+The graphical abstract ﬁgure and Figs. 1 –3were created with
+BioRender.com .
+GRANTS
+A. P. Sharples group are funded by The Research Council of
+Norway under Project No. 314157.
+DISCLOSURES
+No con ﬂicts of interest, ﬁnancial or otherwise, are declared by
+the authors.
+AUTHOR CONTRIBUTIONS
+A.P.S. and D.C.T. conceived the manuscript; prepared ﬁgures;
+drafted manuscript; edited and revised manuscript; approved ﬁnal
+version of manuscript.
+REFERENCES
+1.Roubenoff R. Sarcopenia and its implications for the elderly. Eur J
+Clin Nutr 54: S40 –S47, 2000. doi: 10.1038/sj.ejcn.1601024 .
+2.Sharples AP ,Stewart CE ,Seaborne RA. Does skeletal muscle have
+an‘epi’-memory? The role of epigenetics in nutritional programming,
+metabolic disease, aging and exercise. Aging Cell 15: 603 –616,
+2016. doi: 10.1111/acel.12486 .
+3.Staron RS ,Leonardi MJ ,Karapondo DL ,Malicky ES ,Falkel JE ,
+Hagerman FC ,Hikida RS. Strength and skeletal muscle adaptations
+in heavy-resistance-trained women after detraining and retraining. J
+Appl Physiol (1985) 70: 631 –640, 1991. doi: 10.1152/jappl.1991.70.2.631 .
+SKELETAL MUSCLE MEMORY
+C1290 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+4.Seaborne RA ,Strauss J ,Cocks M ,Shepherd S ,O’Brien TD ,van
+Someren KA ,Bell PG ,Murgatroyd C ,Morton JP ,Stewart CE ,
+Sharples AP. Human skeletal muscle possesses an epigenetic memory
+of hypertrophy. Sci Rep 8: 1898, 2018. doi: 10.1038/s41598-018-20287-3 .
+5.Egner IM ,Bruusgaard JC ,Eftestøl E ,Gundersen K. Ac e l l u l a rm e m -
+ory mechanism aids overload hypertrophy in muscle long after anepisodic exposure to anabolic steroids. JP h y s i o l 591: 6221 –6230,
+2013. doi: 10.1113/jphysiol.2013.264457 .
+6.Wen Y ,Dungan CM ,Mobley CB ,Valentino T ,von Walden F ,
+Murach KA. Nucleus type-speci ﬁc DNA methylomics reveals epige-
+netic “memory ”of prior adaptation in skeletal muscle. Function 2:
+zqab038, 2021. doi: 10.1093/function/zqab038 .
+7.Blocquiaux S ,Ramaekers M ,Van Thienen R ,Nielens H ,Delecluse C ,
+De Bock K ,Thomis M. Recurrent training rejuvenates and enhances
+transcriptome and methylome responses in young and older human
+muscle. JCSM Rapid Commun 5: 10 –32, 2022. doi: 10.1002/rco2.52 .
+8.Sharples AP ,Polydorou I ,
+Hughes DC ,Owens DJ ,Hughes TM ,
+Stewart CE. Skeletal muscle cells possess a ‘memory ’of acute early
+life TNF- aexposure: role of epigenetic adaptation. Biogerontology
+17: 603 –617, 2016. doi: 10.1007/s10522-015-9604-x .
+9.Sharples AP ,Seaborne RA. Chapter 10 —Exercise and DNA methyla-
+tion in skeletal muscle. In: Sports, Exercise, and Nutritional Genomics ,
+edited by Barh D, Ahmetov II. Cambridge, MA: Academic Press, 2019,p. 211 –229.
+10. Gorski PP ,Raastad T ,Ullrich M ,Turner DC ,Hall /C19en J ,Savari SI ,
+Nilsen TS ,Sharples AP. Aerobic exercise training resets the human
+skeletal muscle methylome 10 years after breast cancer treatment
+and survival. FASEB J 37: e22720, 2023. doi: 10.1096/fj.202201510RR .
+11. Goldberg AL. Work-induced growth of skeletal muscle in normal
+and hypophysectomized rats. Am J Physiol 213: 1193 –1198, 1967.
+doi:10.1152/ajplegacy.1967.213.5.1193 .
+12. Heron MI ,Richmond FJR. In-series ﬁber architecture in long human
+muscles. JM o r p h o l 216: 35 –45, 1993. doi: 10.1002/jmor.1052160106 .
+13. Katz B. How cells communicate. Sci Am 205: 209 –220, 1961.
+doi:10.1038/scienti ﬁcamerican0961-209 .
+14. Mauro A. Satellite cell of skeletal muscle ﬁbers.
+J Biophys Biochem
+Cytol 9: 493 –495, 1961. doi: 10.1083/jcb.9.2.493 .
+15. Gayraud-Morel B ,Chr/C19etien F ,Flamant P ,Gom /C18es D ,Zammit PS ,
+Tajbakhsh S. A role for the myogenic determination gene Myf5 in
+adult regenerative myogenesis. Dev Biol 312: 13 –28, 2007 [Erratum
+inDev Biol 317: 705 –706, 2008]. doi: 10.1016/j.ydbio.2007.08.059 .
+16. Ustanina S ,Carvajal J ,Rigby P ,Braun T. The myogenic factor Myf5
+supports ef ﬁcient skeletal muscle regeneration by enabling transient
+myoblast ampli ﬁcation. Stem Cells 25: 2006 –2016, 2007. doi: 10.1634/
+stemcells.2006-0736 .
+17. Yin H ,Price F ,Rudnicki MA. Satellite cells and the muscle stem cell
+niche. Physiol Rev 93: 23 –67, 2013. doi: 10.1152/physrev.00043.2011 .
+18. Yablonka-Reuveni Z ,Rudnicki MA ,Rivera AJ ,Primig M ,Anderson
+JE,Natanson P. The transition from proliferation to differentiation is
+delayed in satellite cells from mice lacking MyoD. Dev Biol 210:
+440 –455, 1999. doi: 10.1006/dbio.1999.9284 .
+19. Sabourin LA ,Girgis-Gabardo A ,Seale P ,Asakura A ,Rudnicki MA.
+Reduced differentiation potential of primary MyoD/C0//C0myogenic
+cells derived from adult skeletal muscle. JC e l lB i o l 144: 631 –643,
+1999. doi: 10.1083/jcb.144.4.631 .
+20. Cornelison DD ,Wold BJ. Single-cell analysis of regulatory gene
+expression in quiescent and activated mouse skeletal muscle satel-
+lite cells. Dev Biol 191: 270 –283, 1997. doi: 10.1006/dbio.1997.8721 .
+21. Berkes CA ,Tapscott SJ. MyoD and the transcriptional control of
+myogenesis. Semin Cell Dev Biol 16: 585 –595, 2005. doi: 10.1016/j.
+semcdb.2005.07.006 .
+22. McKay BR ,Ogborn DI ,Bellamy LM ,Tarnopolsky MA ,Parise G.
+Myostatin is associated with age-related human muscle stem celldysfunction. FASEB J 26: 2509 –2521, 2012. doi: 10.1096/fj.11-198663 .
+23. Nederveen JP ,Joanisse S ,S/C19eguin CM ,Bell KE ,Baker SK ,Phillips
+SM,Parise G. The effect of exercise mode on the acute response of
+satellite cells in old men. Acta Physiol (Oxf) 215: 177 –190, 2015.
+doi:10.1111/apha.12601 .
+24. Petrella JK ,Kim JS ,Mayhew DL ,Cross JM ,Bamman MM. Potent
+myoﬁber hypertrophy during resistance training in humans is associ-
+ated with satellite cell-mediated myonuclear addition: a cluster analysis.
+J Appl Physiol (1985) 104: 1736 –1742, 2008. doi: 10.1152/japplphysiol.
+01215.2007 .25.
+Verdijk LB ,Gleeson BG ,Jonkers RA ,Meijer K ,Savelberg HH ,
+Dendale P ,van Loon LJ. Skeletal muscle hypertrophy following re-
+sistance training is accompanied by a ﬁber type-speci ﬁci n c r e a s ei n
+satellite cell content in elderly men. J Gerontol A Biol Sci Med Sci
+64: 332 –339, 2009. doi: 10.1093/gerona/gln050 .
+26. Bellamy LM ,Joanisse S ,Grubb A ,Mitchell CJ ,McKay BR ,Phillips
+SM,Baker S ,Parise G. The acute satellite cell response and skeletal
+muscle hypertrophy following resistance training. PLoS One 9:
+e109739, 2014. doi: 10.1371/journal.pone.0109739 .
+27. Borowik AK ,Davidyan A ,Peelor FF 3rd ,Voloviceva E ,Doidge SM ,
+Bubak MP ,Mobley CB ,McCarthy JJ ,Dupont-Versteegden EE ,
+Miller BF. Skeletal muscle nuclei in mice are not post-mitotic.
+Function 4: zqac059, 2022. doi: 10.1093/function/zqac059 .
+28. Rosenblatt JD ,Parry DJ. Gamma irradiation prevents compensatory
+hypertrophy of overloaded mouse extensor digitorum longus muscle.
+J Appl Physiol (1985) 73: 2538 –2543, 1992. doi: 10.1152/jappl.1992.
+73.6.2538 .
+29. McCarthy JJ ,Mula J ,Miyazaki M ,Erfani R ,Garrison K ,Farooqui
+AB,Srikuea R ,Lawson BA ,Grimes B ,Keller C ,Van Zant G ,
+Campbell KS ,Esser KA ,Dupont-Versteegden EE ,Peterson CA.
+Effective ﬁber hypertrophy in satellite cell-depleted skeletal muscle.
+Development 138: 3657 –3666, 2011. doi: 10.1242/dev.068858 .
+30. Egner IM ,Bruusgaard JC ,Gundersen K. Satellite cell depletion pre-
+vents ﬁber hypertrophy in skeletal muscle. Development 143: 2898 –
+2906, 2016. doi: 10.1242/dev.134411 .
+31. Egner IM ,Bruusgaard JC ,Gundersen K. An apparent lack of effect
+of satellite cell depletion on hypertrophy could be due to methodolog-ical limitations. Response to ‘Methodological issues limit interpretation
+of negative effects of satellite cell depletion on adult muscle hypertro-
+phy’.Development 144: 1365 –1367, 2017. doi: 10.1242/dev.148163 .
+32. McCarthy JJ ,Dupont-Versteegden EE ,Fry CS ,Murach KA ,
+Peterson CA. Methodological issues limit interpretation of negative
+effects of satellite cell depletion on adult muscle hypertrophy.
+Development 144: 1363 –1365, 2017. doi: 10.1242/dev.145797 .
+33. Hansson K-A ,Eftestøl E ,Bruusgaard JC ,Juvkam I ,Cramer AW ,
+Malthe-Sørenssen A ,Millay DP ,Gundersen K. Myonuclear content
+regulates cell size with similar scaling properties in mice and humans.
+Nat Commun 11: 6288, 2020. doi:
+10.1038/s41467-020-20057-8 .
+34. Cramer AAW ,Prasad V ,Eftestøl E ,Song T ,Hansson K-A ,Dugdale
+HF,Sadayappan S ,Ochala J ,Gundersen K ,Millay DP. Nuclear
+numbers in syncytial muscle ﬁbers promote size but limit the devel-
+opment of larger myonuclear domains. Nat Commun 11: 6287, 2020.
+doi:10.1038/s41467-020-20058-7 .
+35. Englund DA ,Figueiredo VC ,Dungan CM ,Murach KA ,Peck BD ,
+Petrosino JM ,Brightwell CR ,Dupont AM ,Neal AC ,Fry CS ,
+Accornero F ,McCarthy JJ ,Peterson CA. Satellite cell depletion dis-
+rupts transcriptional coordination and muscle adaptation to exercise.
+Function 2: zqaa033, 2020. doi: 10.1093/function/zqaa033 .
+36. Bagley JR ,Denes LT ,McCarthy JJ ,Wang ET ,Murach KA. The myo-
+nuclear domain in adult skeletal muscle ﬁbres: past, present and
+future. JP h y s i o l 601: 723 –741, 2023. doi: 10.1113/JP283658 .
+37. Fry CS ,Lee JD ,Jackson JR ,Kirby TJ ,Stasko SA ,Liu H ,Dupont-
+Versteegden EE ,McCarthy JJ ,Peterson CA. Regulation of the mus-
+cleﬁber microenvironment by activated satellite cells during hyper-
+trophy. FASEB J 28: 1654 –1665, 2014. doi: 10.1096/fj.13-239426 .
+38. Goh Q ,Millay DP. Requirement of myomaker-mediated stem cell
+fusion for skeletal muscle hypertrophy. eLife 6: e20007, 2017.
+doi:10.7554/eLife.20007 .
+39. Goh Q ,Song T ,Petrany MJ ,Cramer AAW ,Sun C ,Sadayappan S ,
+Lee S-J ,Millay DP. Myonuclear accretion is a determinant of exer-
+cise-induced remodeling in skeletal muscle. eLife 8: e44876, 2019.
+doi:10.7554/eLife.44876 .
+40. Murach KA ,Peck BD ,Policastro RA ,Vechetti IJ ,Van Pelt DW ,
+Dungan CM ,Denes LT ,Fu X ,Brightwell CR ,Zentner GE ,Dupont-
+Versteegden EE ,Richards CI ,Smith JJ ,Fry CS ,McCarthy JJ ,
+Peterson CA. Early satellite cell communication creates a permissive
+environment for long-term muscle growth. iScience 24: 102372,
+2021. doi: 10.1016/j.isci.2021.102372 .
+41. Fry CS ,Kirby TJ ,Kosmac K ,McCarthy JJ ,Peterson CA. Myogenic
+progenitor cells control extracellular matrix production by ﬁbroblasts
+during skeletal muscle hypertrophy. Cell stem cell 20: 56 –69, 2017.
+doi:10.1016/j.stem.2016.09.010 .
+42. Snijders T ,Aussieker T ,Holwerda A ,Parise G ,van Loon LJC ,
+Verdijk LB. The concept of skeletal muscle memory: evidence from
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1291
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+animal and human studies. Acta Physiol (Oxf) 229: e13465, 2020.
+doi:10.1111/apha.13465 .
+43. Bruusgaard JC ,Johansen IB ,Egner IM ,Rana ZA ,Gundersen K.
+Myonuclei acquired by overload exercise precede hypertrophy and
+are not lost on detraining. Proc Natl Acad Sci USA 107: 15111 –15116,
+2010. doi: 10.1073/pnas.0913935107 .
+44. Murach KA ,Mobley CB ,Zdunek CJ ,Frick KK ,Jones SR ,McCarthy
+JJ,Peterson CA ,Dungan CM. Muscle memory: myonuclear accre-
+tion, maintenance, morphology, and miRNA levels with training and
+detraining in adult mice. JC a c h e x i aS a r c o p e n i aM u s c l e 11: 1705 –
+1722, 2020. doi: 10.1002/jcsm.12617 .
+45. Lee H ,Kim K ,Kim B ,Shin J ,Rajan S ,Wu J ,Chen X ,Brown MD ,Lee
+S,Park JY. A cellular mechanism of muscle memory facilitates mito-
+chondrial remodelling following resistance training. JP h y s i o l 596:
+4413 –4426, 2018. doi: 10.1113/JP275308 .
+46. Eftestøl E ,Ochi E ,Juvkam IS ,Hansson KA ,Gundersen K. Aj u v e -
+nile climbing exercise establishes a muscle memory boosting the
+effects of exercise in adult rats. Acta Physiol (Oxf) 236: e13879,
+2022. doi: 10.1111/apha.13879 .
+47. Rahmati M ,McCarthy JJ ,Malakoutinia F. Myonuclear permanence
+in skeletal muscle memory: a systematic review and meta-analysis
+of human and animal studies. J Cachexia Sarcopenia Muscle 13:
+2276 –2297, 2022. doi: 10.1002/jcsm.13043 .
+48. Kadi F ,Schjerling P ,Andersen LL ,Chari ﬁN,Madsen JL ,
+Christensen LR ,Andersen JL. The effects of heavy resistance train-
+ing and detraining on satellite cells in human skeletal muscles. J
+Physiol 558: 1005 –1012, 2004. doi: 10.1113/jphysiol.2004.065904 .
+49. Psilander N ,Eftestøl E ,Cumming KT ,Juvkam I ,Ekblom MM ,
+Sunding K ,Wernbom M ,Holmberg H-C ,Ekblom B ,Bruusgaard
+JC,Raastad T ,Gundersen K. Effects of training, detraining, and
+retraining on strength, hypertrophy, and myonuclear number inhuman skeletal muscle. J Appl Physiol (1985) 126: 1636 –1645, 2019.
+doi:10.1152/japplphysiol.00917.2018 .
+50. Murach KA ,Dungan CM ,Dupont-Versteegden EE ,McCarthy JJ ,
+Peterson CA. “Muscle memory ”not mediated by myonuclear num-
+ber? Secondary analysis of human detraining data. JA p p lP h y s i o l
+(1985) 127: 1814 –1816, 2019. doi: 10.1152/japplphysiol.00506.2019 .
+51. Venturelli M ,Schena F ,Naro F
+,Reggiani C ,Pereira Guimarães M ,
+de Almeida Costa Campos Y ,Costa Moreira O ,Fernandes da
+Silva S ,Silva Marques de Azevedo PH ,Dixit A ,Srivastav S ,
+Hinkley JM ,Seaborne RA ,Viggars M ,Sharples AP ,Mahmassani
+ZS,Drummond MJ ,Gondin J. Commentaries on Viewpoint:
+“Muscle memory ”not mediated by myonuclear number? Secondary
+analysis of human detraining data. J Appl Physiol (1985) 127: 1817 –
+1820, 2019. doi: 10.1152/japplphysiol.00754.2019 .
+52. Blocquiaux S ,Gorski T ,Van Roie E ,Ramaekers M ,Van Thienen R ,
+Nielens H ,Delecluse C ,De Bock K ,Thomis M. The effect of resist-
+ance training, detraining and retraining on muscle strength and
+power, myo ﬁbre size, satellite cells and myonuclei in older men. Exp
+Gerontol 133: 110860, 2020 [Erratum in Exp Gerontol 134: 110897,
+2020]. doi: 10.1016/j.exger.2020.110860 .
+53. Snijders T ,Leenders M ,de Groot L ,van Loon LJC ,Verdijk LB.
+Muscle mass and strength gains following 6 months of resistance
+type exercise training are only partly preserved within one year with
+autonomous exercise continuation in older adults. Exp Gerontol 121:
+71–78, 2019. doi: 10.1016/j.exger.2019.04.002 .
+54. Bruusgaard JC ,Gundersen K. In vivo time-lapse microscopy reveals
+no loss of murine myonuclei during weeks of muscle atrophy. JC l i n
+Invest 118: 1450 –1457, 2008. doi: 10.1172/JCI34022 .
+55. Kirby TJ ,Dupont-Versteegden EE. Cross talk proposal: myonuclei
+are lost with ageing and atrophy. J Physiol 600: 2077 –2080, 2022.
+doi:10.1113/JP282380 .
+56. Kirby TJ ,Dupont-Versteegden EE. Cross talk rebuttal: Kirby and
+Dupont-Versteegden. J Physiol 600: 2085 –2086, 2022. doi: 10.1113/
+JP283000 .
+57. Schwartz L ,Gundersen K. Cross talk rebuttal: Schwartz and
+Gundersen. JP h y s i o l 600: 2087 –2088, 2022. doi: 10.1113/JP283001 .
+58. Schwartz LM ,Gundersen K. Cross talk opposing view: myonuclei
+do not undergo apoptosis during skeletal muscle atrophy. J Physiol
+600: 2081 –2084, 2022. doi: 10.1113/JP282381 .
+59. Viggars MR ,Owens DJ ,Stewart C ,Coirault C ,Mackey AL ,Jarvis
+JC.PCM1 labeling reveals myonuclear and nuclear dynamics in skel-
+etal muscle across species. Am J Physiol Cell Physiol 324: C85 –
+C97, 2023. doi: 10.1152/ajpcell.00285.2022 .60. Yang H ,Wang H ,Pan F ,Guo Y ,Cao L ,Yan W ,Gao Y. New ﬁndings:
+hindlimb unloading causes nucleocytoplasmic Ca2 þoverload and
+DNA damage in skeletal muscle. Cells 12: 1077, 2023. doi: 10.3390/
+cells12071077 .
+61. Ambrose AF ,Paul G ,Hausdorff JM. Risk factors for falls among
+older adults: a review of the literature. Maturitas 75: 51 –61, 2013.
+doi:10.1016/j.maturitas.2013.02.009 .
+62. Sharples AP. Skeletal muscle possesses an epigenetic memory of
+exercise: role of nucleus type-speci ﬁcD N Am e t h y l a t i o n . Function
+(Oxf) 2: zqab047, 2021. doi: 10.1093/function/zqab047 .
+63. Foulstone EJ ,Savage PB ,Crown AL ,Holly JM ,Stewart CE.
+Adaptations of the IGF system during malignancy: human skeletal
+muscle versus the systemic environment. Horm Metab Res 35: 667 –
+674, 2003. doi: 10.1055/s-2004-814159 .
+64. Sharples AP ,Seaborne RA ,Stewart CE. Epigenetics of skeletal
+muscle aging. In: Epigenetics of Aging and Longevity ,e d i t e db y
+Moskalev A, Vaiserman AM. Boston, MA: Academic Press, 2018, p.
+389 –416.
+65. Duncan GE ,Avery A ,Thorson JLM ,Nilsson EE ,Beck D ,Skinner
+MK. Epigenome-wide association study of physical activity and
+physiological parameters in discordant monozygotic twins. Sci Rep
+12: 20166, 2022. doi: 10.1038/s41598-022-24642-3 .
+66. Fisher AG ,Seaborne RA ,Hughes TM ,Gutteridge A ,Stewart C ,
+Coulson JM ,Sharples AP ,Jarvis JC. Transcriptomic and epigenetic
+regulation of disuse atrophy and the return to activity in skeletal
+muscle. FASEB J 31: 5268 –5282, 2017. doi: 10.1096/fj.201700089RR .
+67. Duan G ,Walther D. The roles of post-translational modi ﬁcations in
+the context of protein interaction networks. PLoS Comput Biol 11:
+e1004049, 2015. doi: 10.1371/journal.pcbi.1004049 .
+68. Minguez P ,Parca L ,Diella F ,Mende DR ,Kumar R ,Helmer-
+Citterich M ,Gavin AC ,van Noort V ,Bork P. Deciphering a global
+network of functionally associated post-translational modi ﬁcations.
+Mol Syst Biol 8: 599, 2012. doi: 10.1038/msb.2012.31 .
+69. Seaborne RA ,Sharples AP. The interplay between exercise metab-
+olism, epigenetics, and skeletal muscle remodeling. Exerc Sport Sci
+Rev48: 188 –200, 2020. doi: 10.1249/JES.0000000000000227 .
+70. Lister R ,Pelizzola M ,Dowen RH ,Hawkins RD ,Hon G ,Tonti-Filippini
+J,Nery JR ,Lee L ,Ye Z ,Ngo QM ,Edsall L ,Antosiewicz-Bourget J ,
+Stewart R ,Ruotti V ,Millar AH ,Thomson JA ,Ren B ,Ecker JR. Human
+DNA methylomes at base resolution show widespread epigenomic dif-
+ferences. Nature 462: 315 –322, 2009. doi: 10.1038/nature08514 .
+71. Ziller MJ ,Gu H ,M€uller F ,Donaghey J ,Tsai LT ,Kohlbacher O ,De
+Jager PL ,Rosen ED ,Bennett DA ,Bernstein BE ,Gnirke A ,Meissner
+A.Charting a dynamic DNA methylation landscape of the human ge-
+nome. Nature 500: 477 –481, 2013. doi: 10.1038/nature12433 .
+72. Bird AP. CpG-rich islands and the function of DNA methylation.
+Nature 321: 209 –213, 1986. doi: 10.1038/321209a0 .
+73. Suzuki MM ,Bird A. DNA methylation landscapes: provocative
+insights from epigenomics. Nat Rev Genet 9: 465 –476, 2008.
+doi:10.1038/nrg2341 .
+74. Trasler J ,Deng L ,Melnyk S ,Pogribny I ,Hiou-Tim F ,Sibani S ,
+Oakes C ,Li E,James SJ ,Rozen R. Impact of Dnmt1 de ﬁciency, with
+and without low folate diets, on tumor numbers and DNA methyla-
+tion in Min mice. Carcinogenesis 24: 39 –45, 2003. doi: 10.1093/
+carcin/24.1.39 .
+75. Denis H ,Ndlovu MN ,Fuks F. Regulation of mammalian DNA meth-
+yltransferases: a route to new mechanisms. EMBO Rep 12: 647 –656,
+2011. doi: 10.1038/embor.2011.110 .
+76. Bogdanovi ćO,Veenstra GJ. DNA methylation and methyl-CpG bind-
+ing proteins: developmental requirements and function. Chromosoma
+118: 549 –565, 2009. doi: 10.1007/s00412-009-0221-9 .
+77. Jones PL ,Veenstra GJ ,Wade PA ,Vermaak D ,Kass SU ,
+Landsberger N ,Strouboulis J ,Wolffe AP. Methylated DNA and
+MeCP2 recruit histone deacetylase to repress transcription. Nat
+Genet 19: 187 –191, 1998. doi: 10.1038/561 .
+78. Anastasiadi D ,Esteve-Codina A ,Piferrer F. Consistent inverse cor-
+relation between DNA methylation of the ﬁrst intron and gene
+expression across tissues and species. Epigenetics Chromatin 11: 37,
+2018. doi: 10.1186/s13072-018-0205-1 .
+79. Ball MP ,Li JB ,Gao Y ,Lee JH ,LeProust EM ,Park IH ,Xie B ,Daley
+GQ,Church GM. Targeted and genome-scale strategies reveal gene-
+body methylation signatures in human cells. Nat Biotechnol 27: 361 –
+368, 2009 [Erratum in Nat Biotechnol 27: 485, 2009]. doi: 10.1038/
+nbt.1533 .
+SKELETAL MUSCLE MEMORY
+C1292 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+80. Brenet F ,Moh M ,Funk P ,Feierstein E ,Viale AJ ,Socci ND ,
+Scandura JM. DNA methylation of the ﬁrst exon is tightly linked to
+transcriptional silencing. PLoS One 6: e14524, 2011. doi: 10.1371/
+journal.pone.0014524 .
+81. Jones PA. The DNA methylation paradox. Trends Genet 15: 34 –37,
+1999. doi: 10.1016/s0168-9525(98)01636-9 .
+82. Veloso A ,Kirkconnell KS ,Magnuson B ,Biewen B ,Paulsen MT ,
+Wilson TE ,Ljungman M. Rate of elongation by RNA polymerase II is
+associated with speci ﬁc gene features and epigenetic modi ﬁcations.
+Genome Res 24: 896 –905, 2014. doi: 10.1101/gr.171405.113 .
+83. Neri F ,Rapelli S ,Krepelova A ,Incarnato D ,Parlato C ,Basile G ,
+Maldotti M ,Anselmi F ,Oliviero S. Intragenic DNA methylation pre-
+vents spurious transcription initiation. Nature 543: 72 –77, 2017.
+doi:10.1038/nature21373 .
+84. Wu F ,Li X,Looso M ,Liu H ,Ding D ,G€unther S ,Kuenne C ,Liu S ,
+Weissmann N ,Boettger T ,Atzberger A ,Kolahian S ,Renz H ,
+Offermanns S ,G€artner U ,Potente M ,Zhou Y ,Yuan X ,Braun T.
+Spurious transcription causing innate immune responses is pre-
+vented by 5-hydroxymethylcytosine. Nat Genet 55: 100 –111, 2023.
+doi:10.1038/s41588-022-01252-3 .
+85. Shayevitch R ,Askayo D ,Keydar I ,Ast G. The importance of DNA
+methylation of exons on alternative splicing. RNA 24: 1351 –1362,
+2018. doi: 10.1261/rna.064865.117 .
+86. Seaborne RA ,Strauss J ,Cocks M ,Shepherd S ,O’Brien TD ,
+Someren KAV ,Bell PG ,Murgatroyd C ,Morton JP ,Stewart CE ,
+Mein CA ,Sharples AP. Methylome of human skeletal muscle after
+acute & chronic resistance exercise training, detraining & retraining.
+Sci Data 5: 180213, 2018. doi: 10.1038/sdata.2018.213 .
+87. Barr /C18es R ,Yan J ,Egan B ,Treebak JT ,Rasmussen M ,Fritz T ,
+Caidahl K ,Krook A ,O’Gorman DJ ,Zierath JR. Acute exercise
+remodels promoter methylation in human skeletal muscle. Cell
+Metab 15: 405 –411, 2012. doi: 10.1016/j.cmet.2012.01.001 .
+88. Turner DC ,Seaborne RA ,Sharples AP. Comparative transcriptome
+and methylome analysis in human skeletal muscle anabolism, hyper-trophy and epigenetic memory. Sci Rep 9: 4251, 2019. doi: 10.1038/
+s41598-019-40787-0 .
+89. Sexton CL ,Godwin JS ,McIntosh MC ,Ruple BA ,Osburn SC ,
+Hollingsworth BR ,Kontos NJ ,Agostinelli PJ ,Kavazis AN ,
+Ziegenfuss TN ,Lopez HL ,Smith R ,Young KC ,Dwaraka VB ,Frug /C19e
+AD,Mobley CB ,Sharples AP ,Roberts MD. Skeletal muscle DNA
+methylation and mRNA responses to a bout of higher versus lower
+load resistance exercise in previously trained men. Cells 12: 263,
+2023. doi: 10.3390/cells12020263 .
+90. Rowlands DS ,Page RA ,Sukala WR ,Giri M ,Ghimbovschi SD ,
+Hayat I ,Cheema BS ,Lys I ,Leikis M ,Sheard PW ,Wake ﬁeld SJ
+,
+Breier B ,Hathout Y ,Brown K ,Marathi R ,Orkunoglu-Suer FE ,
+Devaney JM ,Leiken B ,Many G ,Krebs J ,Hopkins WG ,Hoffman
+EP.Multi-omic integrated networks connect DNA methylation and
+miRNA with skeletal muscle plasticity to chronic exercise in type 2
+diabetic obesity. Physiol Genomics 46: 747 –765, 2014. doi: 10.1152/
+physiolgenomics.00024.2014 .
+91. V o nW a l d e nF ,Rea M ,Mobley CB ,Fondufe-Mittendorf Y ,McCarthy
+JJ,Peterson CA ,Murach KA. The myonuclear DNA methylome in
+response to an acute hypertrophic stimulus. Epigenetics 15: 1151 –1162,
+2020. doi: 10.1080/15592294.2020.1755581 .
+92. Maasar MF ,Turner DC ,Gorski PP ,Seaborne RA ,Strauss JA ,
+Shepherd SO ,Cocks M ,Pillon NJ ,Zierath JR ,Hulton AT ,Drust B ,
+Sharples AP. The comparative methylome and transcriptome after
+change of direction compared to straight line running exercise in
+human skeletal muscle. Front Physiol 12: 619447, 2021. doi: 10.3389/
+fphys.2021.619447 .
+93. Deshmukh A ,Coffey VG ,Zhong Z ,Chibalin AV ,Hawley JA ,
+Zierath JR. Exercise-induced phosphorylation of the novel Akt sub-
+strates AS160 and ﬁlamin A in human skeletal muscle. Diabetes 55:
+1776 –1782, 2006. doi: 10.2337/db05-1419 .
+94. Ulbricht A ,Gehlert S ,Leciejewski B ,Schiffer T ,Bloch W ,H€ohfeld J.
+Induction and adaptation of chaperone-assisted selective autophagy
+CASA in response to resistance exercise in human skeletal muscle.
+Autophagy 11: 538 –546, 2015. doi: 10.1080/15548627.2015.1017186 .
+95. Hughes DC ,Baehr LM ,Waddell DS ,Sharples AP ,Bodine SC.
+Ubiquitin ligases in longevity and aging skeletal muscle. Int J Mol Sci
+23: 7602, 2022. doi: 10.3390/ijms23147602 .
+96. Seaborne RA ,Hughes DC ,Turner DC ,Owens DJ ,Baehr LM ,
+Gorski P ,Semenova EA ,Borisov OV ,Larin AK ,Popov DV ,Generozov EV ,Sutherland H ,Ahmetov II ,Jarvis JC ,Bodine SC ,
+Sharples AP. UBR5 is a novel E3 ubiquitin ligase involved in skeletal
+muscle hypertrophy and recovery from atrophy. JP h y s i o l 597:
+3727 –3749, 2019. doi: 10.1113/JP278073 .
+97. Hughes DC ,Turner DC ,Baehr LM ,Seaborne RA ,Viggars M ,Jarvis
+JC,Gorski PP ,Stewart CE ,Owens DJ ,Bodine SC ,Sharples AP.
+Knockdown of the E3 ubiquitin ligase UBR5 and its role in skeletal
+muscle anabolism. Am J Physiol Cell Physiol 320: C45 –C56, 2021.
+doi:10.1152/ajpcell.00432.2020 .
+98. Turner DC ,Gorski PP ,Maasar MF ,Seaborne RA ,Baumert P ,
+Brown AD ,Kitchen MO ,Erskine RM ,Dos-Remedios I ,Voisin S ,
+Eynon N ,Sultanov RI ,Borisov OV ,Larin AK ,Semenova EA ,Popov
+DV,Generozov EV ,Stewart CE ,Drust B ,Owens DJ ,Ahmetov II ,
+Sharples AP. DNA methylation across the genome in aged human
+skeletal muscle tissue and muscle-derived cells: the role of HOXgenes and physical activity. Sci Rep 10: 15360, 2020. doi: 10.1038/
+s41598-020-72730-z .
+99. Pardo JV ,Siliciano JD ,Craig SW. A vinculin-containing cortical lat-
+tice in skeletal muscle: transverse lattice elements ( “costameres ”)
+mark sites of attachment between myo ﬁbrils and sarcolemma. Proc
+Natl Acad Sci USA 80: 1008 –1012, 1983. doi: 10.1073/pnas.80.4.1008 .
+100. Rindom E ,Vissing K. Mechanosensitive molecular networks involved
+in transducing resistance exercise-signals into muscle protein accre-
+tion.
+Front Physiol 7: 547, 2016. doi: 10.3389/fphys.2016.00547 .
+101. Chorev DS ,Volberg T ,Livne A ,Eisenstein M ,Martins B ,Kam Z ,
+Jockusch BM ,Medalia O ,Sharon M ,Geiger B. Conformational
+states during vinculin unlocking differentially regulate focal adhesion
+properties. Sci Rep 8: 2693, 2018. doi: 10.1038/s41598-018-21006-8 .
+102. Rezvani M ,Ornatsky OI ,Connor MK ,Eisenberg HA ,Hood DA.
+Dystrophin, vinculin, and aciculin in skeletal muscle subject tochronic use and disuse. Med Sci Sports Exerc 28: 79 –84, 1996.
+doi:10.1097/00005768-199601000-00017 .
+103. Li L,Fan CM. A CREB-MPP7-AMOT regulatory axis controls muscle
+stem cell expansion and self-renewal competence. Cell Rep 21:
+1253 –1266, 2017. doi: 10.1016/j.celrep.2017.10.031 .
+104. Lindholm ME ,Giacomello S ,Werne Solnestam B ,Fischer H ,Huss
+M,Kjellqvist S ,Sundberg CJ. The impact of endurance training on
+human skeletal muscle memory, global isoform expression and
+novel transcripts. PLoS Genet 12: e1006294, 2016. doi: 10.1371/
+journal.pgen.1006294 .
+105. Ruple BA ,Godwin JS ,Mesquita PHC ,Osburn SC ,Vann CG ,Lamb
+DA,Sexton CL ,
+Candow DG ,Forbes SC ,Frug /C19eA D ,Kavazis AN ,
+Young KC ,Seaborne RA ,Sharples AP ,Roberts MD. Resistance train-
+ing rejuvenates the mitochondrial methylome in aged human skeletal
+muscle. Faseb j 35: e21864, 2021. doi: 10.1096/fj.202100873RR .
+106. Bengtsen M ,Winje IM ,Eftestøl E ,Landskron J ,Sun C ,Nygård K ,
+Domanska D ,Millay DP ,Meza-Zepeda LA ,Gundersen K. Comparing
+the epigenetic landscape in myonuclei puri ﬁed with a PCM1 antibody
+from a fast/glycolytic and a slow/oxidative muscle. PLoS Genet 17:
+e1009907, 2021. doi: 10.1371/journal.pgen.1009907 .
+107. Dungan CM ,Murach KA ,Frick KK ,Jones SR ,Crow SE ,Englund DA
+Jr,VI J,Figueiredo VC ,Levitan BM ,Satin J ,McCarthy JJ ,Peterson
+CA.Elevated myonuclear density during skeletal muscle hypertrophy
+in response to training is reversed during detraining. A mJP h y s i o l
+Cell Physiol 316: C649 –C654, 2019. doi: 10.1152/ajpcell.00050.2019 .
+108. Murach KA ,Dungan CM ,Walden F ,Wen Y. Epigenetic evidence
+for distinct contributions of resident and acquired myonuclei during
+long-term exercise adaptation using timed in vivo myonuclear label-
+ing. Am J Physiol Cell Physiol 322: C86 –C93, 2022. doi: 10.1152/
+ajpcell.00358.2021 .
+109. Falick Michaeli T ,Sabag O ,Fok R ,Azria B ,Monin J ,Nevo Y ,
+Gielchinsky Y ,Berman BP ,Cedar H ,Bergman Y. Muscle injury
+causes long-term changes in stem-cell DNA methylation. Proc Natl
+Acad Sci U S A 119: e2212306119, 2022. doi: 10.1073/pnas.2212306119 .
+110. Zykovich A ,Hubbard A ,Flynn JM ,Tarnopolsky M ,Fraga MF ,
+Kerksick C ,Ogborn D ,MacNeil L ,Mooney SD ,Melov S. Genome-
+wide DNA methylation changes with age in disease-free human
+skeletal muscle. Aging Cell 13: 360 –366, 2014. doi: 10.1111/acel.12180 .
+111. Mackey AL ,Kjaer M ,Chari ﬁN,Henriksson J ,Bojsen-Moller J ,
+Holm L ,Kadi F. Assessment of satellite cell number and activity sta-
+tus in human skeletal muscle biopsies. Muscle Nerve 40: 455 –465,
+2009. doi: 10.1002/mus.21369 .
+112. Kusuyama J ,Alves-Wagner AB ,Conlin RH ,Makarewicz NS ,
+Albertson BG ,Prince NB ,Kobayashi S ,Kozuka C ,Møller M ,Bjerre M ,
+SKELETAL MUSCLE MEMORY
+AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org C1293
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+
+Fuglsang J ,Miele E ,Middelbeek RJW ,Xiudong Y ,Xia Y ,Garneau L ,
+Bhattacharjee J ,Aguer C ,Patti ME ,Hirshman MF ,Jessen N ,Hatta T ,
+Ovesen PG ,Adamo KB ,Nozik-Grayck E ,Goodyear LJ. Placental
+superoxide dismutase 3 mediates bene ﬁts of maternal exercise on off-
+spring health. Cell Metab 33: 939 –956.e8, 2021. doi: 10.1016/j.cmet.
+2021.03.004 .
+113. Kusuyama J ,Makarewicz NS ,Albertson BG ,Alves-Wagner AB ,
+Conlin RH ,Prince NB ,Alves CRR ,Ramachandran K ,Kozuka C ,
+Xiudong Y ,Xia Y ,Hirshman MF ,Hatta T ,Nagatomi R ,Nozik ES ,
+Goodyear LJ. Maternal exercise-induced SOD3 reverses the delete-
+rious effects of maternal high-fat diet on offspring metabolism
+through stabilization of H3K4me3 and protection against WDR82
+carbonylation. Diabetes 71: 1170 –1181, 2022. doi: 10.2337/db21-0706 .
+114. Voisin S ,Harvey NR ,Haupt LM ,Grifﬁths LR ,Ashton KJ ,Coffey VG ,
+Doering TM ,Thompson JM ,Benedict C ,Cedernaes J ,Lindholm
+ME,Craig JM ,Rowlands DS ,Sharples AP ,Horvath S ,Eynon N. An
+epigenetic clock for human skeletal muscle. J Cachexia Sarcopenia
+Muscle 11: 887 –898, 2020. doi: 10.1002/jcsm.12556 .
+115. Voisin S ,Jacques M ,Landen S ,Harvey NR ,Haupt LM ,Grifﬁths LR ,
+Gancheva S ,Ouni M ,J€ahnert M ,Ashton KJ ,Coffey VG ,Thompson
+JM,Doering TM ,Gabory A ,Junien C ,Caiazzo R ,Verkindt H ,
+Raverdy V ,Pattou F ,Froguel P ,Craig JM ,Blocquiaux S ,Thomis M ,Sharples AP ,Sch €urmann A ,Roden M ,Horvath S ,Eynon N. Meta-
+analysis of genome-wide DNA methylation and integrative omics ofage in human skeletal muscle. J Cachexia Sarcopenia Muscle 12:
+1064 –1078, 2021. doi: 10.1002/jcsm.12741 .
+116.
+Voisin S ,Seale K ,Jacques M ,Landen S ,Harvey NR ,Haupt LM ,
+Grifﬁths LR ,Ashton KJ ,Coffey VG ,Thompson JM ,Doering TM ,
+Lindholm ME ,Walsh C ,Davison G ,Irwin R ,McBride C ,Hansson O ,
+Asplund O ,Heikkinen AE ,Piiril €aP,Pietil €ainen KH ,Ollikainen M ,
+Blocquiaux S ,Thomis M ,Dawn CK ,Sharples AP ,Eynon N.
+Exercise is associated with younger methylome and transcriptomeproﬁles in human skeletal muscle. Aging Cell : e13859, 2023.
+doi:10.1111/acel.13859 .
+117. Murach KA ,Dimet-Wiley AL ,Wen Y ,Brightwell CR ,Latham CM ,
+Dungan CM ,Fry CS ,Watowich SJ. Late-life exercise mitigates skele-
+tal muscle epigenetic aging. Aging Cell 21: e13527, 2022. doi: 10.1111/
+acel.13527 .
+118. Jones RG 3rd ,Dimet-Wiley A ,Haghani A ,da Silva FM ,Brightwell
+CR
+,Lim S ,Khadgi S ,Wen Y ,Dungan CM ,Brooke RT ,Greene NP ,
+Peterson CA ,McCarthy JJ ,Horvath S ,Watowich SJ ,Fry CS ,
+Murach KA. A molecular signature de ﬁning exercise adaptation with
+ageing and in vivo partial reprogramming in skeletal muscle. J
+Physiol 601: 763 –782, 2023. doi: 10.1113/JP283836 .
+SKELETAL MUSCLE MEMORY
+C1294 AJP-Cell Physiol /C15doi:10.1152/ajpcell.00099.2023 /C15www.ajpcell.org
+Downloaded from journals.physiology.org/journal/ajpcell at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 21, 2023.
+

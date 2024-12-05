@@ -1,0 +1,1025 @@
+DIABETES AND OBESITY (CB CHAN, SECTION EDITOR)
+Targeting Carbohydrates and Polyphenols for a Healthy Microbiome
+and Healthy Weight
+Matthias Van Hul1&Patrice D. Cani1
+#The Author(s) 2019
+Abstract
+Purpose of Review In this review, we focus on microbiota modulation using non-digestible carbohydrate and polyphenols (i.e.,
+prebiotics) that have the potential to modulate body weight.
+Recent Findings Prebiotics derived from plants have gained the interest of public and scientific communities as they may prevent
+diseases and help maintain health.
+Summary Maintaining a healthy body weight is key to reducing the risk of developing chronic metabolic complications.
+However, the prevalence of obesity has increased to pandemic proportions and is now ranked globally in the top five risk factors
+for death. While diet and behavioral modification programs aiming to reduce weight gain and promote weight loss are effective in
+the short term, they remain insufficient over the long haul as compliance is often low and weight regain is very common. As a
+result, novel dietary strategies targeting the gut microbiota have been successful in decreasing obesity and metabolic disorders via
+different molecular mechanisms.
+Keywords Obesity .Gut microbiota .Polyphenols .Dietary fibers .Prebiotics
+Introduction
+The prevalence of obesity continues to increase dramati-
+cally worldwide [ 1] and is considered a major threat to
+public health [ 2]. Obesity is associated with low-grade
+chronic inflammation, which contributes directly to detri-
+mental health consequences such as metabolic disorders
+including cardiovascular disea ses, liver steatosis, insulin
+resistance, and type 2 diabetes mellitus [ 3,4]. The precise
+etiology of this obesity-related proinflammatory status re-
+mains to be fully elucidated, but dysfunction of the adi-
+pose tissue has long been regarded as the main culprit [ 5].
+Today, it is generally accepted that changes in gut homeo-
+stasis could represent anothe r potential source of inflam-
+mation. Indeed, over the last few years, the gut
+microbiome has been implicated in both beneficial andnegative health outcomes in humans (for review [ 6]).
+The gut microbiota refers to t he microbial community that
+resides in our intestinal tr act. These inhabitants of the
+human body are separated in different phyla. Among
+them, the phyla Firmicutes, Bacteroidetes, and
+Actinobacteria represent approximately 90% of the micro-
+biota, with the remaining portion belonging to the phyla
+Proteobacteria and Verrucomicrobia.
+In 2006, a series of seminal papers led by Prof. Jeff
+Gordon and colleagues were the first to demonstrate a dif-
+ference in the composition of the gut microbiota (i.e., a
+shift in the Firmicutes to Bacteroidetes ratio) and in the
+quantity of specific microbial metabolites such as short-
+chain fatty acids (SCFAs) between obese and lean humans
+or rodents [ 7,8]. Following these findings, different stud-
+ies encouraged a better in-depth analysis of the microbiota
+at the taxonomical level (i.e., family, genus, and species).
+More recently, disturbances in diversity and composition
+of the gut microbiota have been associated with a wide
+variety of inflammation-rela ted disorders and pathologies
+including metabolic disorders such as obesity and diabetes
+[7,9], inflammatory bowel disease [ 10,11], autoimmune
+diseases [ 12], allergy [ 13], and neurological disorders [ 14].
+It is now becoming more and more clear that there exist
+many host-microbe interactions, mediated through the releaseThis article is part of the Topical Collection on Diabetes and Obesity
+*Patrice D. Cani
+patrice.cani@uclouvain.be
+1Université catholique de Louvain, WELBIO- Walloon Excellence in
+Life Sciences and BIOtechnology, Louvain Drug Research Institute,
+Metabolism and Nutrition Research Group, UCLouvain, Av. E.
+Mounier, 73 box B1.73.11, B-1200 Brussels, Belgiumhttps://doi.org/10.1007/s13668-019-00281-5
+Published online: 3 June 2019Current Nutrition Reports (2019) 8:307 –316
+of bioactive molecules by bacteria in the gut and absorption of
+these metabolites into the circulation. Two key groups of such
+metabolites are SCFA, from the fermentation of non-
+digestible carbohydrates, and the by-products of polyphenols.
+Carbohydrates
+Carbohydrates, Fibers, and Health: A Brief History
+The impact of dietary fibers on health has been described over
+the last 40 years. Already in 1975, Trowell suggested that the
+etiology of type 2 diabetes could come from changes in the
+dietary habits and the lack of dietary fibers in the diet. It was
+also mentioned that the potential effect of sudden changes in
+dietary habits could partly explain the very high prevalence of
+diabetes observed in the Pima Indians. These hunter-gatherers
+shifted their classical diet —highly rich in non-digestible car-
+bohydrates (i.e., fibers) —to a Western diet very low in fibers
+and cereal products [ 15]. In 1976, David Jenkins, another
+pioneer in this field, published a paper showing that the addi-
+tion of non-digestible carbohydrates to the diet (i.e., guar and
+pectin fibers) “decreased markedly the rise in blood-glucose
+between 30 and 90 minutes also resulted in significantly lower
+insulin levels between 30 and 120 minutes ”postprandially
+[16]. In these studies, the initial mechanism proposed was
+the“gel-forming ”effect and the potential viscosity of the
+non-digestible carbohydrates. Indeed, pectin or guar gum
+may contribute to the so-called bulking effect (i.e., water re-
+tention), which was assumed to be the major mechanism
+explaining the effects observed [ 16–18]. Today, the positive
+association between non-digestible carbohydrates and health
+is undeniable and has been confirmed many times; however, it
+appears that their mechanisms of actions are more complex
+and cannot be explained merely by their bulking capacity.
+Non-digestible Carbohydrates and Microbiota-Derived
+Metabolites
+With growing insight into the role of non-digestible car-
+bohydrates, it has become clear that their fate in the gas-
+trointestinal tract is quite different than that of digestible
+carbohydrates, which are fully absorbed. Indeed, non-
+digestible carbohydrates escape the digestion that occurs
+in the first part of the gastrointestinal tract and find their
+way to the ileum and the colon, where they are digested
+by the gut microbes residing there.
+This fermentation of carbohydrates in the lower parts of the
+gut is associated with the proliferation or the reduction of
+different bacteria but also with the production of several end
+products such as the SCFAs (e.g., acetate, butyrate and propi-
+onate) (Fig. 1). Although SCFAs have been studied in various
+situations and linked with gut health (for review [ 19–21]), it is
+worth nothing that those compounds can also reach thecirculation and spread to different peripheric organs (e.g., the
+liver, the adipose tissue, the brain [ 22,23]). As a result, they
+have been implicated in the regulation of energy, glucose, and
+lipid homeostasis and they have also been closely associated
+with the regulation of immunity and cancer [ 19]. Thus, these
+microbial metabolites have abundant physiological effects.
+Non-digestible Carbohydrates, Microbes, and Body Weight
+Regulation
+The mechanisms explaining how fermented carbohydrate fi-
+bers improve metabolism have been initially revealed in ro-
+dents by using inulin-type fructans as prebiotics (e.g., inulin or
+oligofructose). We and others have contributed to the elucida-
+tion of the molecular mechanisms explaining how prebiotic
+feeding is associated with a decrease in body weight, fat mass
+gain, insulin resistance, and reduced food intake in rodents
+with genetic or diet-induced obesity [ 24–28]. Based on the
+reasoning of a potential impact of the microbial fermentation
+on a gut to brain axis, we discovered that fermentation of
+prebiotics leads to the modulation of gut peptides produced
+by the L-cells such as glucagon-like peptide-1 (GLP-1) and
+peptide YY (PYY), both involved in the regulation of appe-
+tite, body weight, and glucose metabolism [ 29].
+Consequently, we found that the endogenous production of
+GLP-1 was increased (i.e., higher mRNA expression, peptide
+production and secretion, as well as an increase in the number
+of producing cells). Hence, the healthier phenotype was linked
+to greater GLP-1 and PYY levels in the portal vein blood
+[25–27]. Later, this finding was reproduced using resistant
+starches or arabinoxylans [ 30–33]. The molecular event
+explaining how fermentation increases gut peptides is gener-
+ally attributed to the capacity of SCFAs to interact with spe-
+cific G protein-coupled receptors such as GPR-43 (also re-
+ferred to as FFAR2 for free fatty acid receptor 2) and GPR-
+41 (also referred to as FFAR3) [ 34–36]( F i g . 1). Mice with
+deletion of these specific receptors are resistant to the benefi-
+cial effects of exposure to SCFAs or specific prebiotics and are
+characterized by an altered production of GLP-1 and PYY
+[37,38,39]. Notably, in humans, we and others reported that
+modulation of the microbiome using prebiotics not only in-
+creased satiety and reduced hunger and appetite, but also in-
+creased the production of GLP-1 and PYY levels in both lean
+and obese volunteers [ 40–50]( f o rr e v i e w[ 51]).
+In 2018, a very interesting study was published by Liping
+Zhao and colleagues wherein they conducted a randomized
+clinical study that compared the impact of two isoenergetic
+diets that differed in their concentrations of prebiotics on the
+modulation of the microbiome [ 52]. In this study, they per-
+formed an in-depth investigation of the mechanisms potential-
+ly explaining the beneficial effects of a diet rich in fibers;
+hence, they analyzed the composition of the gut microbiome
+(i.e., taxa and gene functions), the levels of plasma GLP-1 andCurr Nutr Rep (2019) 8:307 –316 308
+PYY , and the measurements of SCFAs and other metabolites
+such as hydrogen sulfur and indoles. All subjects enrolled
+were diagnosed with type 2 diabetes and were treated with
+acarbose. At the completion of the study (i.e., 84 days), both
+groups exhibited a significantly lower level of hemoglobin
+A1c (HbA1c); however, a greater reduction was observed in
+the group that received the high-fiber diet (composed of whole
+grains, traditional Chinese medicinal foods, and prebiotics)
+than in the control group, which received the usual care and
+was administered a diet that followed the normal dietary rec-
+ommendations of the Chinese Diabetes Society. Only 50% of
+subjects in the control group achieved adequate glycemic con-
+trol (i.e., an HbA1c level < 7%), whereas this goal was
+reached by 89% of the patients consuming the high-fiber diet.
+Similarly, the experimental group achieved greater reductions
+in body weight (4.20 ± 0.93% of body weight loss versus 1.45
+± 0.91% in the control group).Since the microbial and metabolic profiles of both groups
+did not differ at the beginning of the study, the modulation of
+the gut microbiome by the fibers was likely to explain the
+phenotype. To causally link the different microbial and meta-
+bolic profile to the observed phenotype, the authors
+transplanted the gut microbiota from the participants into
+germ-free mice. Interestingly, when the mice were colonized
+with the gut microbiota collected after the dietary interven-
+tions, they displayed different metabolic improvements than
+mice that were colonized with the microbiota harvested before
+the intervention. However, the most interesting finding was
+that the mice colonized with the gut microbiota from the pa-
+tients treated with the experimental diet also showed lower
+fasting and postprandial blood glucose levels than the control
+mice. It is worth noting that the beneficial effects were likely
+due to the combination of the different fermentable fibers and
+plants contained in the diet. Therefore, the synergistic effects
+Fig. 1 Non-digestible
+carbohydrates and polyphenols
+present in food can induce a shift
+in the microbial composition and
+favor beneficial bacteria like
+Akkermansia muciniphila .I n
+addition, they can be fermented
+into short-chain fatty acids
+(SCFAs) or other metabolites that
+can either act locally, on epithelial
+cells and their receptors, or enter
+the blood circulation. SCFAs can
+activate receptors GPR41/43 and
+thereby increase GLP-1 and PYY
+hormone levels, while
+metabolites from polyphenols are
+able to activate AMPK in a broad
+range of tissues. Ultimately, both
+pathways result in the activation
+of cellular programs that favor the
+release of energy and promote
+energy expenditureCurr Nutr Rep (2019) 8:307 –316 309
+observed are probably resulting from the impact on the micro-
+biota of both, the sources of non-digestible carbohydrates and
+the different polyphenolic compounds (discussed in the next
+chapter of this review). These observations led the authors to
+conclude that the changes in the microbiome induced by in-
+creasing the consumption of non-digestible carbohydrates
+were sufficient to improve the metabolic parameters of pa-
+tients with type 2 diabetes. Among the mechanisms, here
+again the levels of SCFAs correlated with improvements in
+several metabolic parameters, such as lower glycemia, blood
+lipid levels, and fat mass, as well as increased blood levels of
+GLP-1 and PYY [ 52].
+Although this study and other related studies have correlat-
+ed the abundance of SCFAs and gut peptides with metabolic
+effects, researchers have not yet been able to completely as-
+certain whether the duo of SCFAs and gut hormones
+completely explain the observed results in humans.
+Polyphenols
+Polyphenols and Health
+The first definition of prebiotics —a non-digestible food ingre-
+dient that beneficially affects the host by selectively stimulat-
+ing the growth and/or activity of one or a limited number of
+bacteria in the colon, and thus improves host health [ 53]—was
+tailored to fibers. However, based on a fast-growing body of
+literature, this definition has continued to evolve over time
+[54], with the latest consensus being that a prebiotic is a sub-
+strate that is selectively utilized by host microorganisms con-
+ferring a health benefit, thus expanding the concept to also
+include non-carbohydrate substances [ 55]. Indeed, some
+beneficial microbes also gain proliferating advantages from
+other compounds that are not covered by the initial description
+of a prebiotic. Polyphenols fall into this category.
+Polyphenols constitute a large heterogenous family of over
+8000 phytochemicals characterized by hydroxylated phenyl
+moieties [ 56]. They are classified based on their chemical
+structure and complexity (i.e., the number of phenolic rings
+and substituting groups), but generally they are broken down
+into two categories: flavonoids and non-flavonoids [ 57]. Non-
+flavonoids include phenolic acids, stilbenes, and lignans.
+Flavonoids are further divided into subclasses including fla-
+vanones, flavones, dihydroflavonols, flavonols, flavanols,
+anthocyanidins, isoflavones, and proanthocyanidins.
+Polyphenols are bioactive compounds that are second only
+to carbohydrates when it comes to abundancy in plants, where
+they have a protective role against, for example, damage from
+UV radiation and pathogens.
+Although they have been used in traditional medicine
+for a long time, we are only now beginning to understand
+their mechanisms of action and accumulating literature is
+demonstrating that the consumption of polyphenol richfoods and beverages such as tea, coffee, fruits, vegetables,
+cereals, and wine could benefit human health. It is sug-
+gested that various polyphenols possess properties that
+could have preventive and/or therapeutic effects for car-
+diovascular diseases, neurodegenerative disorders, cancer,
+allergies, diabetes, and obesity [ 58–60].
+Polyphenols and Obesity
+T h e r ea r es e v e r a li nv i v os t u d i e s ,b o t hi na n i m a l sa n di n
+humans that suggest a negative association between polyphe-
+nol intake and body weight [ 58,60,61,62–64,65,66].
+Perhaps the best-studied polyphenols in this context are the
+polyphenols from green tea [ 67,68]. Green tea is the dried
+leaves of Camellia sinensis plants. It contains the highest
+amounts of phenolic compounds and exhibits the highest an-
+tioxidant capabilities of any major tea type. It is rich in flavo-
+noids (e.g., catechin, epicatechin, epicatechin gallate, epi-
+gallocatechin gallate, and proanthocyanidins). Of these, epi-
+gallocatechin gallate (EGCG) is considered the most signifi-
+cant active component. EGCG has been attributed antioxi-
+dant, anti-inflammatory and anti-mutagenic properties and is
+thought to help prevent weight gain [ 63,67–70].
+Besides (green) tea, many other sources of polyphenols
+have been studied for their potential preventive and therapeu-
+tic properties [ 63,65]. Coffee is rich in 3-caffeoylquinic acid,
+fruits such as blueberries have anthocyanins, red grapes and
+wine are a source of resveratrol, and spice like turmeric con-
+tains curcumin. All of these foods have been inversely asso-
+ciated with the metabolic syndrome and BMI in epidemiolog-
+ical studies [ 60].
+Itis important to note that some human epidemiologi-
+cal studies have shown inconsistent results. This may in-
+dicate that the benefits of polyphenols may depend on the
+method of administration or on the population studied
+[63,65]. Also, the number of interventional studies pro-
+viding direct evidence for these associations are still few,
+use relatively low doses of specific polyphenols, and oc-
+c u ro v e ras h o r tp e r i o do ft i m e[ 65].
+Mechanisms of Action of Polyphenols
+How polyphenols exert their beneficial effects in the context
+of obesity is still a matter of debate. Polyphenols possess
+electron-donating phenolic groups in their structures, which
+allow them to locally prevent cellular damage caused by reac-
+tive oxygen species in the intestinal tract. However, although
+their antioxidant capacity is often cited, recent research sug-
+gests this is not the major cause for their effects on body fat
+accumulation [ 67]. A number of polyphenols have been
+shown to reduce nutrient intake in the gastrointestinal tract
+by interacting with and inhibiting digestive enzymes, thereby
+hampering starch, lipid, and protein digestion and absorptionCurr Nutr Rep (2019) 8:307 –316 310
+to reduce energy efficiency [ 71–76]. Other potential mecha-
+nisms of action include reduction of inflammation, modu-
+lation of glucose homeostasis, suppression of adipogenesis
+and lipid synthesis, increase of energy expenditure via
+thermogenesis, stimulation of fat oxidation, and excretion
+of fecal lipids [ 60,61,62,77,78]. The precise underlying
+molecular mechanisms, however, remain unclear. One pos-
+sibility, the so-called “AMPK hypothesis ”proposed by
+Yang et al., is that the polyphenols activate AMPK (aden-
+osine monophosphate-activ ated protein kinase) [ 61,79].
+This “master switch ”is ubiquitously expressed and serves
+as the master metabolic molecule that regulates how cells
+process energy, making it a heavily pursued target for treat-
+ment of metabolic diseases [ 80,81]. Polyphenols have
+b e e ns h o w ni nv i v oa n di nv i t r ot oa c t i v a t eA M P K .
+Polyphenols and Microbiota
+Most polyphenols, however, display poor bioavailability.
+They are not well absorbed in the small intestine [ 82]a n d
+are rapidly metabolized and excreted in urine and feces.
+However, when reaching the colon, they come in direct
+contact with the gut microbes, resulting in a complex and
+multidirectional interaction.
+First, the antioxidant capacity of polyphenols ensures the
+protection of the colonic epithelial and mucosa architecture
+and shapes the environment in which gut microbes can thrive
+[83]. Second, since the vast majority of the polyphenols reach
+the colon almost unaltered, they are able to modify the intes-
+tinal microbiota, possibly affecting its capacity for energy har-
+vest, and contributing to the improvement of health [ 84,85].
+As a major source of nutrients for some microbes residing in
+the colon, polyphenols may also act as prebiotics and favor the
+growth of specific species [ 83,86–91]. In addition, polyphe-
+nols may be involved in the adhesion of probiotic bacteria to
+the intestinal epithelia [ 92,93]. This could be important for
+their colonization and for their subsequent efficacy to exert
+physiological effects [ 94].
+Third, polyphenols are subjected to catabolism by the mi-
+crobiota and are degraded into low molecular weight bioactive
+compounds that are more easily absorbed through the intesti-
+nal barrier and are capable of exerting effects in peripheric
+organs [ 86,95–98]. Perhaps the best known metabolites are
+the phenolic acids, to which several potential health benefits
+have been attributed, such as anti-microbial activities, anti-
+inflammatory and anti-oxidative properties, reinforcement of
+the gut barrier, and also for regulating cyclooxygenase 2 ac-
+tivity [ 99,100]. Interestingly, it has been suggested that poly-
+phenols may also be able to induce the production of SCFAs
+bycolonic bacteria [ 67,101–104]. This occurs either by the
+growth promotion of SCFA-producing bacteria (prebiotic ef-
+fect), or by stimulation of their metabolic functions [ 105].
+Finally, the intrinsic toxicity of the phenolic group givespolyphenols antibacterial activity [ 106–108]. As this may pre-
+vent biofilm formation and favor some bacterial species above
+others this feature allows polyphenols to further impact the
+microbial composition [ 109].
+Although short-term animal studies clearly showed an ef-
+fect of polyphenols on gut microbiota composition and obesi-
+ty [110–114], it remains to be established whether these
+changes are significant enough to explain, at least in part,
+the health benefits of polyphenols in the long-term in human
+populations. For example, it has been described how the long-
+term supplementation of green tea did not change the gut
+microbiota in humans [ 115].
+Polyphenols and Akkermansia muciniphila
+Akkermansia muciniphila is a Gram-negative mucin-
+degrading bacterium that, in contrast to most other gut
+microbes, resides within the mucus layer that covers the
+gut. It makes up 1 –5% of the microbes in a healthy hu-
+man gut, but its abundance is strongly reduced in the
+intestine of obese individuals. A. muciniphila is inversely
+associated with obesity, diabetes, cardiometabolic dis-
+eases, and low-grade inflamma tion, and the supplementa-
+tion with A. muciniphila has been linked to beneficial
+effects in a variety of preclinical models [ 116–118].
+In 2014, a study demonstrated that a polyphenol-rich cran-
+berry extract prevented weight gain and ameliorated several
+features of the metabolic syndrome in diet-induced obese mice
+[111]. This was associated with a strong increase in the abun-
+dance of A. muciniphila in the gut microbiota. The exact
+mechanisms behind this increase are not known, but interest-
+ingly, it was shown that cranberry proanthocyanidins are also
+associated with an increase in the production of mucus, a
+major energy source for these mucin-degrading bacteria
+[119]. The increase in Akkermansia was later also observed
+in experiments that used extracts from grapes, that, like
+berries, contain abundant proanthocyanidins [ 85,120], and
+also in studies using other types of berries and polyphenols
+[84,121–124]. This suggests that polyphenols may exert at
+least part of their beneficial effects via a prebiotic effect on
+certain bacteria such as Akkermansia .
+Polyphenols as an Anti-obesity Drug
+The amplitude of the anti-obesity effects in humans will prob-
+ably depend on many factors. Beside the classical interindi-
+vidual variations (genetics and differences in gut microbiota
+composition), other factors such as how and when polyphe-
+nols are administered, may play a role. Since polyphenols and
+fibers share common plant-based sources, they are often con-
+sumed together. Interactions between polyphenols and poly-
+saccharides are therefore inevitable. These interactions can
+have profound consequenc es on the extractability,Curr Nutr Rep (2019) 8:307 –316 311
+bioavailability, functional characteristics, and on the fermen-
+tation kinetics of dietary fibers and/or polyphenols [ 125]. A
+study by Edwards et al. [ 126] aims at exploring this interplay
+and may lead to new product designs that further optimize the
+positive actions of dietary fibers and polyphenols. For exam-
+ple, because fibers are fermented, they may selectively in-
+crease the activity of specific bacteria which in turn may
+potentialize the presence of bacteria responsible for polyphe-
+nol catabolism. Moreover, polyphenols may also influence the
+fermentation of the fibers as numerous polyphenols exhibit
+both anti-microbial and prebiotic effects. Therefore, under-
+standing the complex interaction between both dietary fibers
+and polyphenolic compounds will pave the way for designing
+future nutritional composition or food combination with an
+optimal health benefit [ 126].
+Another critical factor is dosage. It is important to achieve
+high enough levels to have an effect, but overconsumption of
+polyphenols may not be without risk and caution is advised
+when preparing concentrated extracts [ 127,128].
+The anti-obesity effects of polyphenols may be further en-
+hanced by habitual exercise [ 129,130]. In vitro data suggest
+that catechins inhibit the enzyme catechol-O-
+methyltransferase (COMT). This enzyme is partially respon-
+sible for the breakdown of norepinephrine, which is involved
+in the mobilization of fat from adipose tissues. If the lipids that
+are liberated are not maximally utilized by increasing physical
+a c t i v i t y ,t h e yw i l lb es t o r e da g a i n ,a t t e n u a t i n gt h ea n t i - o b e s i t y
+effects; however, whether this mechanism may explain the
+in vivo effects remains controversial [ 131].
+Conclusion
+While the obesity problem is often reduced to a simple math-
+ematical imbalance between energy intake and energy expen-
+diture, understanding how it develops and progresses is a
+complex problem that requires comprehension of multiple ge-
+netic, biologic, environmental, and socioeconomic factors.
+Countering its advance will require multidisciplinary and in-
+novative approaches, combining dietary and behavioral
+changes with nutritional or therapeutic supplements, if need-
+ed. One of the components that can directly influence the
+outcome of such strategies is the gut microbiota. Indeed, the
+microbial community that colonizes the border between lu-
+men of the gut and the inside of the body plays a decisive role
+in the host metabolism.
+Non-digestible carbohydrates and polyphenols, two types of
+substrates that are metabolized by the gut microbes, represent
+an interesting set of tools to bend the microbiota to our advan-
+tage because they can modify the gut microbiota composition
+and be converted by the microbiota into useful metabolites.
+Which fibers or polyphenols will prove the most suited to max-
+imize beneficial effects will probably depend on the specificsituation and the individual (and its microbiota). While we have
+gained a lot of insights regarding the effects and mechanism of
+actions of these promising compounds, further investigations
+are still warranted in order to design optimal associations of
+compounds according to the health benefit expected, that is
+improving weight management, as well as glucose metabolism
+or even anti-inflammatory properties.
+Acknowledgements PDC is a senior research associate at FRS-FNRS
+(Fonds de la Recherche Scientifique). PDC is a recipient of grants from
+FNRS, FRFS-WELBIO, under grant: WELBIO-CR-2017-C02, The
+Excellence Of Science (EOS 30770923), and the Funds Baillet Latour
+(Grant for Medical Research 2015).
+Compliance with Ethical Standards
+Conflict of Interest Matthias Van Hul declares that he has no conflict of
+interest.
+Patrice D. Cani is an inventor listed on patent applications dealing
+with the use of A. muciniphila and its components to treat obesity and
+related disorders, and is also co-founder of A-Mansia biotech SA.
+Human and Animal Rights and Informed Consent This article does not
+contain any studies with human or animal subjects performed by any of
+the authors.
+Open Access This article is distributed under the terms of the Creative
+Commons Attribution 4.0 International License (http://
+creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided you give appro-
+priate credit to the original author(s) and the source, provide a link to the
+Creative Commons license, and indicate if changes were made.
+References
+Papers of particular interest, published recently, have been
+highlighted as:
+Of importance
+Of major importance
+1. NCD Risk Factor Collaboration (NCD-RisC). Worldwide trends
+in body-mass index, underweight, overweight, and obesity from
+1975 to 2016: a pooled analysis of 2416 population-based mea-
+surement studies in 128.9 million children, adolescents, and
+adults. Lancet. 2017;390(10113):2627 –42.https://doi.org/10.
+1016/S0140-6736(17)32129-3 .
+2. Ng M, Fleming T, Robinson M, Thomson B, Graetz N, Margono C,
+et al. Global, regional, and nati onal prevalence of overweight and
+obesity in children and adults during 1980-2013: a systematic analysis
+for the global burden of disease study 2013. Lancet. 2014;384(9945):
+766–81.https://doi.org/10.1016 /S0140-6736( 14)60460-8 .
+3. Masoodi M, Kuda O, Rossmeisl M, Flachs P, Kopecky J. Lipid
+signaling in adipose tissue: connecting inflammation & metabo-
+lism. Biochim Biophys Acta. 2015;1851(4):503 –18.https://doi.
+org/10.1016/j.bbalip.2014.09.023 .
+4. Hotamisligil GS. Inflammation and metabolic disorders. Nature.
+2006;444(7121):860 –7.Curr Nutr Rep (2019) 8:307 –316 312
+5. Maury E, Brichard SM. Adipokine dysregulation, adipose tissue
+inflammation and metabolic syndrome. Mol Cell Endocrinol.
+2010;314(1):1 –16.https://doi.org/10.1016/j.mce.2009.07.031 .
+6. Cani PD. Human gut microbiome: hopes, threats and promises.
+Gut. 2018;67(9):1716 –25.https://doi.org/10.1136/gutjnl-2018-
+316723 .
+7. Turnbaugh PJ, Ley RE, Mahowald MA, Magrini V , Mardis ER,
+Gordon JI. An obesity-associated gut microbiome with increased
+capacity for energy harvest. Nature. 2006;444(7122):1027 –31.
+8. Ley RE, Turnbaugh PJ, Klein S, Gordon JI. Microbial ecology:
+human gut microbes associated with obesity. Nature.
+2006;444(7122):1022 –3.
+9. Khan MJ, Gerasimidis K, Edwards CA, Shaikh MG. Role of gut
+microbiota in the aetiology of obesity: proposed mechanisms and
+review of the literature. J Obes. 2016;2016:7353642. https://doi.
+org/10.1155/2016/7353642 .
+10. Knox NC, Forbes JD, Van Domselaar G, Bernstein CN. The gut
+microbiome as a target for IBD treatment: are we there yet? Curr
+Treat Options Gastroenterol. 2019;17:115 –26.https://doi.org/10.
+1007/s11938-019-00221-w .
+11. Zuo T, Ng SC. The gut microbiota in the pathogenesis and thera-
+peutics of inflammatory bowel disease. Front Microbiol. 2018;9:
+2247. https://doi.org/10.3389/fmicb.2018.02247 .
+12. Maeda Y , Takeda K. Role of gut microbiota in rheumatoid arthri-
+tis. J Clin Med. 2017;6(6). https://doi.org/10.3390/jcm6060060 .
+13. Lynch SV , Boushey HA. The microbiome and development of
+allergic disease. Curr Opin Allergy Clin Immunol. 2016;16(2):
+165–71.https://doi.org/10.1097/ACI.0000000000000255 .
+14. Wang Y , Kasper LH. The role of microbiome in central nervous
+system disorders. Brain Behav Immun. 2014;38:1 –12.https://doi.
+org/10.1016/j.bbi.2013.12.015 .
+15. Trowell HC. Dietary-fiber hypothesis of the etiology of diabetes
+mellitus. Diabetes. 1975;24(8):762 –5.
+16. Jenkins DJ, Goff DV, Leeds AR, Alberti KG, Wolever TM, Gassull
+MA, et al. Unabsorbable carbohydrates and diabetes: decreased
+post-prandial hyperglycaemia. Lancet. 1976;2(7978):172 –4.
+17. Jenkins DJ, Wolever TM, Hockaday TD, Leeds AR, Howarth R,
+Bacon S, et al. Treatment of diabetes with guar gum. Reduction of
+urinary glucose loss in diabetics. Lancet. 1977;2(8042):779 –80.
+18. Jenkins DJ, Wolever TM, Leeds AR, Gassull MA, Haisman P,
+Dilawari J, et al. Dietary fibres, fibre analogues, and glucose tol-
+erance: importance of viscosity. Br Med J. 1978;1(6124):1392 –4.
+19. Cani PD, Jordan BF. Gut microbiota-mediated inflammation
+in obesity: a link with gastrointestinal cancer. Nat Rev
+Gastroenterol Hepatol. 2018;15(11):671 –82.https://doi.org/
+10.1038/s41575-018-0025-6 .
+20. Louis P, Flint HJ. Formation of propionate and butyrate by the
+human colonic microbiota. Environ Microbiol. 2017;19(1):29 –
+41.https://doi.org/10.1111/1462-2920.13589 .
+21. Chambers ES, Preston T, Frost G, Morrison DJ. Role of gut
+microbiota-generated short-chain fatty acids in metabolic and car-
+diovascular health. Curr Nutr Rep. 2018;7(4):198 –206. https://
+doi.org/10.1007/s13668-018-0248-8 .
+22. Frost G, Sleeth ML, Sahuri-Arisoylu M, Lizarbe B, Cerdan S,
+Brody L, et al. The short-chain fatty acid acetate reduces appetite
+via a central homeostatic mechanism. Nat Commun. 2014;5:3611.
+https://doi.org/10.1038/ncomms4611 .
+23. Canfora EE, Jocken JW, Blaak EE. Short-chain fatty acids in con-
+trol of body weight and insulin sensitivity. Nat Rev Endocrinol.
+2015;11(10):577 –91.https://doi.org/10.1038/nrendo.2015.128 .
+24. Daubioul CA, Taper HS, De Wispelaere LD, Delzenne NM.
+Dietary oligofructose lessens hepatic steatosis, but does not pre-
+vent hypertriglyceridemia in obese zucker rats. JNutr.
+2000;130(5):1314 –9.
+25. Cani PD, Dewever C, Delzenne NM. Inulin-type fructans modu-
+late gastrointestinal peptides involved in appetite regulation(glucagon-like peptide-1 and ghrelin) in rats. Br J Nutr.
+2004;92(3):521 –6.
+26. Cani PD, Neyrinck AM, Maton N, Delzenne NM. Oligofructose
+promotes satiety in rats fed a high-fat diet: involvement of
+glucagon-like peptide-1. Obes Res. 2005;13(6):1000 –7.
+27. Cani PD, Knauf C, Iglesias MA, Drucker DJ, Delzenne NM,
+Burcelin R. Improvement of glucose tolerance and hepatic insulin
+sensitivity by oligofructose requires a functional glucagon-like
+peptide 1 receptor. Diabetes. 2006;55(5):1484 –90.
+28. Delzenne NM, Cani PD, Daubioul C, Neyrinck AM. Impact of
+inulin and oligofructose on gastrointestinal peptides. BrJNutr.
+2005;93(Suppl 1):S157 –S61.
+29. Drucker DJ. Mechanisms of action and therapeutic application of
+glucagon-like peptide-1. Cell Metab. 2018;27(4):740 –56.https://
+doi.org/10.1016/j.cmet.2018.03.001 .
+30. Wang X, Gibson GR. Effects of the in vitro fermentation of
+oligofructose and inulin by bacteria growing in the human large
+intestine. J Appl Bacteriol. 1993;75(4):373 –80.
+31. Aziz AA, Kenney LS, Goulet B, Abdel-Aal E. Dietary starch type
+affects body weight and glycemic control in freely fed but not
+energy-restricted obese rats. J Nutr. 2009;139(10):1881 –9.
+32. Keenan MJ, Zhou J, McCutcheon KL, Raggio AM, Bateman HG,
+Todd E, et al. Effects of resistant starch, a non-digestible ferment-
+able fiber, on reducing body fat . Obesity(SilverSpring).
+2006;14(9):1523 –34.
+33. Zhou J, Martin RJ, Tulley RT, Raggio AM, McCutcheon KL,
+Shen L, et al. Dietary resistant starch upregulates total GLP-1
+and PYY in a sustained day-long manner through fermentation
+in rodents. Am J Physiol E ndocrinol Metab. 2008;295(5):
+E1160 –E6.
+34. Samuel BS, Shaito A, Motoike T, Rey FE, Backhed F, Manchester
+JK, et al. Effects of the gut microbiota on host adiposity are modu-
+lated by the short-chain fatty-acid binding G protein-coupled recep-
+tor, Gpr41. Proc Natl Acad Sci U S A. 2008;105(43):16767 –72.
+35. Tolhurst G, Heffron H, Lam YS, Parker HE, Habib AM,
+Diakogiannaki E, et al. Short-chain fatty acids stimulate
+glucagon-like peptide-1 secretion via the G-protein-coupled re-
+ceptor FFAR2. Diabetes. 2012;61(2):364 –71.
+36. Nohr MK, Pedersen MH, Gille A, Egerod KL, Engelstoft MS,
+Husted AS, et al. GPR41/FFAR3 and GPR43/FFAR2 as cosensors
+for short-chain fatty acids in enteroendocrine cells vs FFAR3 in
+enteric neurons and FFAR2 in enteric leukocytes. Endocrinology.
+2013;154(10):3552 –64.https://doi.org/10.1210/en.2013-1142 .
+37. Brooks L, Viardot A, Tsakmaki A, Stolarczyk E, Howard JK, Cani
+PD, et al. Fermentable carbohydrate stimulates FFAR2-dependent
+colonic PYY cell expansion to increase satiety. Mol Metab.
+2017;6(1):48 –60.https://doi.org/10.1016/j.molmet.2016.10.011 .
+38. Psichas A, Sleeth ML, Murphy KG, Brooks L, Bewick GA,
+Hanyaloglu AC, et al. The short chain fatty acid propionate stimulates
+GLP-1 and PYY secretion via free fatty acid receptor 2 in rodents. Int
+J Obes. 2015;39(3):424 –9.https://doi.org/10.1038/ijo.2014.153 .
+39.Koh A, De Vadder F, Kovatcheva-Datchary P, Backhed F. From
+dietary fiber to host physiology: short-chain fatty acids as key
+bacterial metabolites. Cell. 2016;165(6):1332 –45.https://doi.org/
+10.1016/j.cell.2016.05.041 .An excellent review exploring how
+the gut bacteria are producing SCFAs and how they
+contribute to host metabolism.
+40. Cani PD, Joly E, Horsmans Y , Delzenne NM. Oligofructose pro-
+motes satiety in healthy human: a pilot study. Eur J Clin Nutr.
+2006;60(5):567 –72.
+41. Cani PD, Lecourt E, Dewulf EM, Sohet FM, Pachikian BD,
+Naslain D, et al. Gut microbiota fermentation of prebiotics in-
+creases satietogenic and incretin gut peptide production with con-
+sequences for appetite sensation and glucose response after a
+meal. Am J Clin Nutr. 2009;90(5):1236 –43.Curr Nutr Rep (2019) 8:307 –316 313
+42. Parnell JA, Reimer RA. Weight loss during oligofructose supple-
+mentation is associated with decreased ghrelin and increased pep-
+tide YY in overweight and obese adults. Am J Clin Nutr.
+2009;89(6):1751 –9.
+43. Peters HP, Boers HM, Haddeman E, Melnikov SM, Qvyjt F. No
+effect of added beta-glucan or of fructooligosaccharide on appetite
+or energy intake. Am J Clin Nutr. 2009;89(1):58 –63.
+44. Tarini J, Wolever TM. The fermentable fibre inulin increases post-
+prandial serum short-chain fatty acids and reduces free-fatty acids
+and ghrelin in healthy subjects. Appl Physiol Nutr Metab.
+2010;35(1):9 –16.
+45. Klosterbuer AS, Thomas W, Slavin JL. Resistant starch and
+pullulan reduce postprandial glucose, insulin, and GLP-1, but
+have no effect on satiety in healthy humans. J Agric Food
+Chem. 2012;60(48):11928 –34.https://doi.org/10.1021/jf303083r .
+46. Frost G, Brynes A, Leeds A. Effect of large bowel fermentation on
+insulin, glucose, free fatty acids, and glucagon-like peptide 1 (7-
+36) amide in patients with coronary heart disease. Nutrition.
+1999;15(3):183 –8.
+47. Bird AR, Conlon MA, Christophersen CT, Topping DL. Resistant
+starch, large bowel fermentation and a broader perspective of pre-
+biotics and probiotics. Benefic Microbes. 2010;1(4):423 –31.
+https://doi.org/10.3920/BM2010.0041 .
+48. Robertson MD. Dietary-resistant starch and glucose metabolism.
+Curr Opin Clin Nutr Metab Care. 2012;15(4):362 –7.https://doi.
+org/10.1097/MCO.0b013e3283536931 .
+49. Nilsson A, Johansson E, Ekstrom L, Bjorck I. Effects of a brown
+beans evening meal on metabolic risk markers and appetite regu-
+lating hormones at a subsequent standardized breakfast: a random-
+ized cross-over study. PLoS One. 2013;8(4):e59985. https://doi.
+org/10.1371/journal.pone.0059985 .
+50. Daud NM, Ismail NA, Thomas EL, Fitzpatrick JA, Bell JD,
+Swann JR, et al. The impact of oligofructose on stimulation of
+gut hormones, appetite regulation and adiposity. Obesity (Silver
+Spring). 2014;22(6):1430 –8.https://doi.org/10.1002/oby.20754 .
+51. Korczak R, Slavin JL. Fructooligosaccharides and appetite. Curr
+Opin Clin Nutr Metab Care. 2018;21(5):377 –80.https://doi.org/
+10.1097/MCO.0000000000000502 .
+52.Zhao L, Zhang F, Ding X, Wu G, Lam YY , Wang X, et al. Gut
+bacteria selectively promoted by dietary fibers alleviate type 2
+diabetes. Science. 2018;359(6380):1151 –6.https://doi.org/10.
+1126/science.aao5774 .An outstanding example of
+investigation in humans showing how the modification of the
+source of carbohydrates and polyphenols can positively affect
+the host metabolism and their link with both the gut
+microbiota composition and the metabolites produced .
+53. Gibson GR, Roberfroid MB. Dietary modulation of the human
+colonic microbiota: introducing the concept of prebiotics. J Nutr.
+1995;125(6):1401 –12.https://doi.org/10.1093/jn/125.6.1401 .
+54. Carlson JL, Erickson JM, Lloyd BB, Slavin JL. Health effects and
+sources of prebiotic dietary fiber. Curr Dev Nutr. 2018;2(3):
+nzy005. https://doi.org/10.1093/cdn/nzy005 .
+55.Gibson GR, Hutkins R, Sanders ME, Prescott SL, Reimer RA,
+Salminen SJ, et al. Expert consensus document: The International
+Scientific Association for Probiotics and Prebiotics (ISAPP) con-
+sensus statement on the definition and scope of prebiotics. Nat
+Rev Gastroenterol Hepatol. 2017;14(8):491 –502. https://doi.org/
+10.1038/nrgastro.2017.75 .In this statement, a panel of experts
+discuss the term and scope of “prebiotics ”in order to define a
+consensus characterisation that is uniformly applicable in
+research, marketing and regulation. They also review several
+aspects of prebiotic science including its development, health
+benefits and legislation.
+56. Tsao R. Chemistry and biochemistry of dietary polyphenols.
+Nutrients. 2010;2(12):1231 –46.https://doi.org/10.3390/
+nu2121231 .57. Neveu V, Perez-Jimenez J, Vos F, Crespy V, du Chaffaut L,
+Mennen L, et al. Phenol-explorer: an online comprehensive data-
+base on polyphenol contents in foods. Database (Oxford).
+2010;2010:bap024. https://doi.org/10.1093/database/bap024 .
+58. Cory H, Passarelli S, Szeto J, Tamez M, Mattei J. The role of
+polyphenols in human health and food systems: a mini-review.
+Front Nutr. 2018;5:87. https://doi.org/10.3389/fnut.2018.00087 .
+59. Singh A, Holvoet S, Mercenier A. Dietary polyphenols in the
+prevention and treatment of allergic diseases. Clin Exp
+Allergy. 2011;41(10):1346 –59.https://doi.org/10.1111/j.
+1365-2222.2011.03773.x .
+60. Wang S, Moustaid-Moussa N, Chen L, Mo H, Shastri A, Su R,
+et al. Novel insights of dietary polyphenols and obesity. J Nutr
+Biochem. 2014;25(1):1 –18.https://doi.org/10.1016/j.jnutbio.
+2013.09.001 .
+61.Yang CS, Zhang J, Zhang L, Huang J, Wang Y . Mechanisms of
+body weight reduction and metabolic syndrome alleviation by tea.
+Mol Nutr Food Res. 2016;60(1):160 –74.https://doi.org/10.1002/
+mnfr.201500428 .In this publication, Yang et al introduce their
+so-called “AMPK hypothesis ”in which polyphenols are sug-
+gested to activate AMP-activated protein kinase (AMPK) by
+phosphorylation, thereby modulating some proteins involved
+in adipogenesis, lipogenesis, and lipolysis.
+62. Hiroki T, Monira P, Shingo G, Mamoru I, Yoriyuki N. Beneficial
+effects of plant polyphenols on obesity. Obes Control Ther.
+2017;4(3):1 –16.https://doi.org/10.15226/2374-8354/4/3/00142 .
+63. Meydani M, Hasan ST. Dietary polyphenols and obesity.
+Nutrients. 2010;2(7):737 –51.https://doi.org/10.3390/nu2070737 .
+64. Springer M, Moco S. Resveratrol and its human metabolites-
+effects on metabolic health and obesity. Nutrients. 2019;11(1).
+https://doi.org/10.3390/nu11010143 .
+65.Chiva-Blanch G, Badimon L. Effects of polyphenol intake on
+metabolic syndrome: current evidences from human trials.
+Oxidative Med Cell Longev. 2017;2017:5812401. https://doi.
+org/10.1155/2017/5812401 .Overview of the human
+interventional trials investigating the effects of polyphenols
+in patients with metabolic syndrome, suggesting that the
+protective effects of polyphenols may be reached through a
+long-term regular, daily consumption.
+66. Guo X, Tresserra-Rimbau A, Estruch R, Martínez-González
+MA, Medina-Remón A, Fitó M, Corella D, et al. Polyphenol
+levels are inversely correlated with body weight and obesity
+in an elderly population after 5 years of follow up (The
+Randomised PREDIMED Study). Nutrients. 2017;9(5):
+E452. https://doi.org/10.3390/nu9050452 .
+67. Rothenberg DO, Zhou C, Zhang L. A review on the weight-loss
+effects of oxidized tea polyphenols. Molecules. 2018;23(5):
+E1176. https://doi.org/10.3390/molecules23051176 .
+68. Vazquez Cisneros LC, Lopez-Uriarte P, Lopez-Espinoza A,
+Navarro Meza M, Espinoza-Gallardo AC, Guzman Aburto MB.
+Effects of green tea and its epigallocatechin (EGCG) content on
+body weight and fat mass in humans: a systematic review. Nutr
+Hosp. 2017;34(3):731 –7.https://doi.org/10.20960/nh.753 .
+69. Rains TM, Agarwal S, Maki KC. Antiobesity effects of green tea
+catechins: a mechanistic review. J Nutr Biochem. 2011;22(1):1 –7.
+https://doi.org/10.1016/j.jnutbio.2010.06.006 .
+70. Miyatake N, Sakano N, Numata T. Comparison of coffee, tea and
+green tea consumption between Japanese with and without meta-
+bolic syndrome in a cross-sectional study. Open J Epidemiol.
+2012;2:44 –9.https://doi.org/10.4236/ojepi.2012.22007 .
+71. Zhang B, Deng Z, Ramdath DD, Tang Y , Chen PX, Liu R, et al.
+Phenolic profiles of 20 Canadian lentil cultivars and their contri-
+bution to antioxidant activity and inhibitory effects on alpha-
+glucosidase and pancreatic lipase. Food Chem. 2015;172:862 –
+72.https://doi.org/10.1016/j.foodchem.2014.09.144 .Curr Nutr Rep (2019) 8:307 –316 314
+72. Yamagata K, Tagami M, Yamori Y . Dietary polyphenols regulate
+endothelial function and prevent cardiovascular disease. Nutrition.
+2015;31(1):28 –37.https://doi.org/10.1016/j.nut.2014.04.011 .
+73. Xiao JB, Hogger P. Dietary polyph enols and type 2 diabetes: current
+insights and future perspectiv es. Curr Med Chem. 2015;22(1):23 –38.
+74. Wang S, Sun Z, Dong S, Liu Y, Liu Y. Molecular interactions
+between ( −)-epigallocatechin gallate analogs and pancreatic li-
+pase. PLoS One. 2014;9(11):e111143. https://doi.org/10.1371/
+journal.pone.0111143 .
+75. Jakobek L. Interactions of polyphenols with carbohydrates, lipids
+and proteins. Food Chem. 2015;175:556 –67.https://doi.org/10.
+1016/j.foodchem.2014.12.013 .
+76. Barrett AH, Farhadi NF, Smith TJ. Slowing starch digestion and
+inhibiting digestive enzyme activity using plant flavanols/tan-
+nins—a review of efficacy and mechanisms. LWT. 2018;87:
+394–9.https://doi.org/10.1016/j.lwt.2017.09.002 .
+77. Huang J, Wang Y , Xie Z, Zhou Y , Zhang Y , Wan X. The anti-
+obesity effects of green tea in human intervention and basic mo-
+lecular studies. Eur J Clin Nutr. 2014;68(10):1075 –87.https://doi.
+org/10.1038/ejcn.2014.143 .
+78. Pan MH, Tung YC, Yang G, Li S, Ho CT. Molecular mechanisms
+of the anti-obesity effect of bioactive compounds in tea and coffee.
+Food Funct. 2016;7(11):4481 –91.https://doi.org/10.1039/
+c6fo01168c .
+79. Rocha A, Bolin AP, Cardoso CA, Otton R. Green tea extract
+activates AMPK and ameliorates white adipose tissue metabolic
+dysfunction induced by obesity. Eur J Nutr. 2016;55(7):2231 –44.
+https://doi.org/10.1007/s00394-015-1033-8 .
+80. Garcia D, Shaw RJ. AMPK: mechanisms of cellular energy sens-
+ing and restoration of metabolic balance. Mol Cell. 2017;66(6):
+789–800. https://doi.org/10.1016/j.molcel.2017.05.032 .
+81. Yang CS, Wang H, Sheridan ZP. Studies on prevention of obesity,
+metabolic syndrome, diabetes, cardiovascular diseases and cancer
+by tea. J Food Drug Anal. 2018;26(1):1 –13.https://doi.org/10.
+1016/j.jfda.2017.10.010 .
+82. Williamson G, Manach C. Bioavailability and bioefficacy of
+polyphenols in humans. II. Review of 93 intervention studies.
+Am J Clin Nutr. 2005;81(1 Suppl):243S –55S. https://doi.org/
+10.1093/ajcn/81.1.243S .
+83. Hervert-Hernandez D, Pintado C, Rotger R, Goni I. Stimulatory
+role of grape pomace polyphenols on Lactobacillus acidophilus
+growth. Int J Food Microbiol. 2009;136(1):119 –22.https://doi.
+org/10.1016/j.ijfoodmicro.2009.09.016 .
+84. Masumoto S, Terao A, Yamamoto Y , Mukai T, Miura T, Shoji T.
+Non-absorbable apple procyanidins prevent obesity associated
+with gut microbial and metabolomic changes. Sci Rep. 2016;6:
+31208. https://doi.org/10.1038/srep31208 .
+85. Roopchand DE, Carmody RN, Kuhn P, Moskal K, Rojas-Silva P,
+Turnbaugh PJ, et al. Dietary polyphenols promote growth of the
+gut bacterium Akkermansia muciniphila and attenuate high-fat
+diet-induced metabolic syndrome. Diabetes. 2015;64(8):2847 –
+58.https://doi.org/10.2337/db14-1916 .
+86. Cardona F, Andres-Lacueva C, Tulipani S, Tinahones FJ, Queipo-
+Ortuno MI. Benefits of polyphenols on gut microbiota and impli-
+cations in human health. J Nutr Biochem. 2013;24(8):1415 –22.
+https://doi.org/10.1016/j.jnutbio.2013.05.001 .
+87. Duda-Chodak A, Tarko T, Satora P, Sroka P. Interaction of dietary
+compounds, especially polyphenols, with the intestinal microbio-
+ta: a review. Eur J Nutr. 2015;54(3):325 –41.https://doi.org/10.
+1007/s00394-015-0852-y .
+88. Etxeberria U, Fernandez-Quintela A, Milagro FI, Aguirre L,
+Martinez JA, Portillo MP. Impact of polyphenols and polyphenol-
+rich dietary sources on gut microbiota composition. J Agric Food
+Chem. 2013;61(40):9517 –33.https://doi.org/10.1021/jf402506c .
+89. Marin L, Miguelez EM, Villar CJ, Lombo F. Bioavailability of
+dietary polyphenols and gut microbiota metabolism: antimicrobialproperties. Biomed Res Int. 2015;2015:905215. https://doi.org/10.
+1155/2015/905215 .
+90. Bialonska D, Ramnani P, Kasimsetty SG, Muntha KR, Gibson
+GR, Ferreira D. The influence of pomegranate by-product and
+punicalagins on selected groups of human intestinal microbiota.
+Int J Food Microbiol. 2010;140(2 –3):175 –82.https://doi.org/10.
+1016/j.ijfoodmicro.2010.03.038 .
+91. Tuohy KM, Conterno L, Gasperotti M, Viola R. Up-regulating the
+human intestinal microbiome using whole plant foods, polyphe-
+nols, and/or fiber. J Agric Food Chem. 2012;60(36):8776 –82.
+https://doi.org/10.1021/jf2053959 .
+92. Bustos I, Garcia-Cayuela T, Hernandez-Ledesma B, Pelaez C,
+Requena T, Martinez-Cue sta MC. Effect of flavan-3-ols on the adhe-
+sion of potential probiotic lactobaci lli to intestinal cells. J Agric Food
+Chem. 2012;60(36):9082 –8.https://doi.org/10.1021/jf301133g .
+93. Celebioglu HU, Svensson B. Dietary nutrients, proteomes, and
+adhesion of probiotic lactobacilli to mucin and host epithelial
+cells. Microorganisms. 2018;6(3):E90. https://doi.org/10.3390/
+microorganisms6030090 .
+94. Kailasapathy K, Chin J. Survival and therapeutic potential of pro-
+biotic organisms with reference to Lactobacillus acidophilus and
+Bifidobacterium spp. Immuno l Cell Biol. 2000;78(1):80 –8.
+https://doi.org/10.1046/j.1440-1711.2000.00886.x .
+95. Kawabata K, Yoshioka Y , Terao J. Role of intestinal microbiota in
+the bioavailability and physiological functions of dietary polyphe-
+nols. Molecules. 2019;24(2). https://doi.org/10.3390/
+molecules24020370 .
+96. Luca SV , Macovei I, Bujor A, Miron A, Skalicka-Wozniak K,
+Aprotosoaie AC, et al. Bioactivity of dietary polyphenols: the role
+of metabolites. Crit Rev Food Sci Nutr. 2019:1 –34.https://doi.org/
+10.1080/10408398.2018.1546669 .
+97. Del Rio D, Rodriguez-Mateos A, Spencer JP, Tognolini M, Borges
+G, Crozier A. Dietary (poly)phenolics in human health: structures,
+bioavailability, and evidence of protective effects against chronic
+diseases. Antioxid Redox Signal. 2013;18(14):1818 –92.https://
+doi.org/10.1089/ars.2012.4581 .
+98. Filosa S, Di Meo F, Crispi S. Polyphenols-gut microbiota interplay
+and brain neuromodulation. Neural Regen Res. 2018;13(12):
+2055 –9.https://doi.org/10.4103/1673-5374.241429 .
+99.Ozdal T, Sela DA, Xiao J, Boyacioglu D, Chen F, Capanoglu E.
+The reciprocal interactions between polyphenols and gut microbi-
+ota and effects on bioaccessibility. Nutrients. 2016;8(2):78. https://
+doi.org/10.3390/nu8020078 .Review summarizing how
+polyphenols are metabolized by the gut microbiota and how
+the gut microbiota is modulated by polyphenols.
+100. Russell W, Duthie G. Plant secondary metabolites and gut health:
+the case for phenolic acids. Proc Nutr Soc. 2011;70(3):389 –96.
+https://doi.org/10.1017/S0029665111000152 .
+101. Aprikian O, Duclos V , Guyot S, Besson C, Manach C, Bernalier
+A, et al. Apple pectin and a polyphenol-rich apple concentrate are
+more effective together than separately on cecal fermentations and
+plasma lipids in rats. J Nutr. 2003;133(6):1860 –5.https://doi.org/
+10.1093/jn/133.6.1860 .
+102. Zdunczyk Z, Juskiewicz J, Estrella I. Cecal parameters of rats fed
+diets containing grapefruit polyphenols and inulin as single sup-
+plements or in a combination. Nutrition. 2006;22(9):898 –904.
+https://doi.org/10.1016/j.nut.2006.05.010 .
+103. Sadeghi Ekbatan S, Sleno L, Sabally K, Khairallah J, Azadi B,
+Rodes L, et al. Biotransformation of polyphenols in a dynamic
+multistage gastrointestinal model. Food Chem. 2016;204:453 –
+62.https://doi.org/10.1016/j.foodchem.2016.02.140 .
+104. Fotschki B, Juskiewicz J, Jurgonski A, Kolodziejczyk K, Milala J,
+Kosmala M, et al. Anthocyanins in strawberry polyphenolic ex-
+tract enhance the beneficial effects of diets with fructooligosaccha-
+rides in the rat cecal environment. PLoS One. 2016;11(2):
+e0149081. https://doi.org/10.1371/journal.pone.0149081 .Curr Nutr Rep (2019) 8:307 –316 315
+105. Kawabata K, Kato Y , Sakano T, Baba N, Hagiwara K, Tamura A,
+et al. Effects of phytochemicals on in vitro anti-inflammatory ac-
+tivity of Bifidobacterium adolescentis. Biosci Biotechnol
+Biochem. 2015;79(5):799 –807. https://doi.org/10.1080/
+09168451.2015.1006566 .
+106. Bialonska D, Kasimsetty SG, Schrader KK, Ferreira D. The effect
+of pomegranate (Punica granatum L.) byproducts and
+ellagitannins on the growth of human gut bacteria. J Agric Food
+Chem. 2009;57(18):8344 –9.https://doi.org/10.1021/jf901931b .
+107. Puupponen-Pimia R, Nohynek L, Hartmann-Schmidlin S,
+Kahkonen M, Heinonen M, Maatta-Riihinen K, et al. Berry phe-
+nolics selectively inhibit the growth of intestinal pathogens. J
+Appl Microbiol. 2005;98(4):991 –1000. https://doi.org/10.1111/j.
+1365-2672.2005.02547.x .
+108. Taguri T, Tanaka T, Kouno I. Antimicrobial activity of 10 different
+plant polyphenols against bacteria causing food-borne disease.
+Biol Pharm Bull. 2004;27(12):1965 –9.
+109. Espin JC, Gonzalez-Sarrias A, Tomas-Barberan FA. The gut mi-
+crobiota: a key factor in the therapeutic effects of (poly)phenols.
+Biochem Pharmacol. 2017;139:82 –93.https://doi.org/10.1016/j.
+bcp.2017.04.033 .
+110. Van Hul M, Geurts L, Plovier H, Druart C, Everard A, Stahlman M,
+et al. Reduced obesity, diabete s, and steatosis upon cinnamon and
+grape pomace are associated with changes in gut microbiota and
+markers of gut barrier. Am J Physiol Endocrinol Metab.
+2018;314(4):E334-E52. https://doi.org/10.1 152/ajpendo.00107.2017 .
+111. Anhe FF, Roy D, Pilon G, Dudonne S, Matamoros S, Varin TV ,
+et al. A polyphenol-rich cranberry extract protects from diet-
+induced obesity, insulin resistance and intestinal inflammation in
+association with increased Akkermansia spp. population in the gut
+microbiota of mice. Gut. 2015;64(6):872 –83.https://doi.org/10.
+1136/gutjnl-2014-307142 .
+112.Anhê FF, Nachbar RT, Varin TV, Trot tier J, Dudonné S, Le Barz M,
+et al. Treatment with camu camu (Myrciaria dubia) prevents obesity
+by altering the gut microbiota and increasing energy expenditure in
+diet-induced obese mice. Gut. 2018;68:453 –64:gutjnl-2017-
+315565. https://doi.org/10.1136/gutjnl-2017-315565 .Key
+example of a study in mice that shows how polyphenols (an
+extract from Camu camu in this case) causally prevent obesity
+and metabolic disease and exert its positive effects, at least in
+part, through the modulation of the gut microbiota (here: a
+blooming of A. muciniphila and a significant reduction in
+Lactobacillus bacteria).
+113. Jiao X, Wang Y, Lin Y, Lang Y, Li E, Zhang X, et al. Blueberry
+polyphenols extract as a potential preb iotic with anti-obesity effects on
+C57BL/6 J mice by modulating the g ut microbiota. J Nutr Biochem.
+2019;64:88 –100.https://doi.org/10.101 6/j.jnutbio. 2018.07.008 .
+114. Wang P, Li D, Ke W, Liang D, Hu X, Chen F. Resveratrol-induced
+gut microbiota reduces obesity in high-fat diet-fed mice. Int J Obes
+(Lond). 2019. https://doi.org/10.1038/s41366-019-0332-1 .
+115. Janssens PL, Penders J, Hursel R, Budding AE, Savelkoul PH,
+Westerterp-Plantenga MS. Long-term green tea supplementation
+does not change the human gut microbiota. PLoS One. 2016;11(4):
+e0153134. https://doi.org/10.1371/journal.pone.0153134 .
+116. Cani PD, de V os WM. Next-generation beneficial microbes: the
+case of Akkermansia muciniphila. Front Microbiol. 2017;8:1765.
+https://doi.org/10.3389/fmicb.2017.01765 .
+117. Everard A, Belzer C, Geurts L, Ouwerkerk JP, Druart C, Bindels
+LB, et al. Cross-talk between Akkermansia muciniphila and intes-
+tinal epithelium controls die t-induced obesity. PNAS United
+States of America. 2013;110(22):9066 –71.htt ps://doi.org/10.
+1073/pnas.1219451110 .
+118. Plovier H, Cani PD. Microbial impact on host metabolism: oppor-
+tunities for novel treatments of nutritional disorders? Microbiol
+Spectr. 2017;5(3):1 –13.https://doi.org/10.1128/microbiolspec.
+BAD-0002-2016 .119. Pierre JF, Heneghan AF, Feliciano RP, Shanmuganayagam D,
+Roenneburg DA, Krueger CG, et al. Cranberry proanthocyanidins
+improve the gut mucous layer morphology and function in mice
+receiving elemental enteral nutrition. JPEN J Parenter Enteral Nutr.
+2013;37(3):401 –9.https://doi.org/10.1177/0148607112463076 .
+120. Baldwin J, Collins B, Wolf PG, Martinez K, Shen W, Chuang CC,
+et al. Table grape consumption reduces adiposity and markers of
+hepatic lipogenesis and alters gut microbiota in butter fat-fed mice.
+J Nutr Biochem. 2016;27:123 –35.https://doi.org/10.1016/j.
+jnutbio.2015.08.027 .
+121. Anhe FF, Pilon G, Roy D, Desjardins Y, Levy E, Marette A.
+Triggering Akkermansia with dietary polyphenols: a new weapon
+to combat the metabolic syndrome? Gut Microbes. 2016;7(2):
+146–53.https://doi.org/10.1080/19490976.2016.1142036 .
+122. Etxeberria U, Arias N, Boque N, Macarulla MT, Portillo MP,
+Martinez JA, et al. Reshaping faecal gut microbiota composition
+by the intake of trans-resveratrol and quercetin in high-fat sucrose
+diet-fed rats. J Nutr Biochem. 2015;26(6):651 –60.https://doi.org/
+10.1016/j.jnutbio.2015.01.002 .
+123. Li Z, Henning SM, Lee RP, Lu QY , Summanen PH, Thames G,
+et al. Pomegranate extract induces ellagitannin metabolite forma-
+tion and changes stool microbiota in healthy volunteers. Food
+Funct. 2015;6(8):2487 –95.https://doi.org/10.1039/c5fo00669d .
+124. Anhe FF, Varin TV , Le Barz M, Pilon G, Dudonne S, Trottier J,
+et al. Arctic berry extracts target the gut-liver axis to alleviate
+metabolic endotoxaemia, insulin resistance and hepatic steatosis
+in diet-induced obese mice. Diabetologia. 2018;61(4):919 –31.
+https://doi.org/10.1007/s00125-017-4520-z .
+125. Renard CMGC, Watrelot AA, Le Bourvellec C. Interactions be-
+tween polyphenols and polysaccharides: mechanisms and conse-
+quences in food processing an d digestion. Trends Food Sci
+Technol. 2017;60:43 –51.https://doi.org/10.1016/j.tifs.2016.10.022 .
+126. Edwards CA, Havlik J, Cong W, Mullen W, Preston T, Morrison
+DJ, et al. Polyphenols and health: interactions between fibre, plant
+polyphenols and the gut microbiota. Nutr Bull. 2017;42(4):356 –
+60.https://doi.org/10.1111/nbu.12296 .
+127. Crowe KM, Francis C. Academy of N, Dietetics. Position of
+the academy of nutrition and dietetics: functional foods. J
+Acad Nutr Diet. 2013;113(8):1096 –103. https://doi.org/10.
+1016/j.jand.2013.06.002 .
+128. Williamson G, Holst B. Dietary reference intake (DRI) value for
+dietary polyphenols: are we heading in the right direction? Br J
+Nutr. 2008;99(Suppl 3):S55 –8.https://doi.org/10.1017/
+S0007114508006867 .
+129. Murase T, Haramizu S, Shimotoyodome A, Tokimitsu I.
+Reduction of diet-induced obe sity by a combination of tea-
+catechin intake and regular swimming. Int J Obes. 2006;30(3):
+561–8.https://doi.org/10.1038/sj.ijo.0803135 .
+130. Shimotoyodome A, Haramizu S, Inaba M, Murase T, Tokimitsu I.
+Exercise and green tea extract stimulate fat oxidation and prevent
+obesity in mice. Med Sci Sports Exerc. 2005;37(11):1884 –92.
+131. Lorenz M, Paul F, Moobed M, Baumann G, Zimmermann BF,
+Stangl K, et al. The activity of catechol-O-methyltransferase
+(COMT) is not impaired by high doses of epigallocatechin-3-
+gallate (EGCG) in vivo. Eur J Pharmacol. 2014;740:645 –51.
+https://doi.org/10.1016/j.ejphar.2014.06.014 .
+Publisher ’sN o t e Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.Curr Nutr Rep (2019) 8:307 –316 316

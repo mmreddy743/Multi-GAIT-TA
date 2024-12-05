@@ -1,0 +1,104 @@
+Received: August 12, 2021. Accepted: September 23, 2021
+© The Author(s) 2021. Published by Oxford University Press on behalf of the American Physical Therapy Association. All rights reserved.
+For permissions, please e-mail: journals.permissions@oup.comPTJ: Physical Therapy & Rehabilitation Journal | Physical Therapy , 2022;102:1 –2
+https://doi.org/10.1093/ptj/pzab248
+Advance access publication date November 1, 2021
+Editorial
+Precision Rehabilitation: How Lifelong Healthy Behaviors
+Modulate Biology, Determine Health, and
+Affect Populations
+Most rehabilitation specialists will be familiar with the term
+“personalized medicine,” which was coined in the 1990s to
+capture the clinical promise of the Human Genome Project.1
+By sequencing the human genome, we assumed that we would
+unlock the biological foundations of health and disease,
+enabling health care to move away from “one-size-fits-all”
+therapies and toward “personalized” therapeutic strategiestailored specifically for each patient’s unique genotype.
+Except it wasn’t that simple.
+As described in this special series, biomedical science
+quickly learned that our genetic blueprint does not always
+determine our destiny . Although a person’s genetic inheritance
+is fixed, the activity of their genome is biologically regulated
+by everything they do and everything they experience in
+their lifetime—as well as what their parents and grandpar-ents experienced. Everything that a person experiences—
+from childhood stress, to educational opportunities, to
+lifestyle habits—converges on their genetic code throughthe epigenome to influence health, disease, and quality of
+life.
+As this complex network of influences became apparent,
+biomedical science adopted a new term: “precision medicine.”
+According to the National Institutes of Health,
+2this term
+describes therapies that depend on a wide range of biomedicalinformation, including the original molecular, genomic, and
+cellular components, but with clinical, behavioral, physiolog-
+ical, and environmental parameters added.
+Precision medicine casts a far wider net than an individual’s
+genome and has significance to the field of rehabilitation.
+Our chief therapeutic tools—movement, physical activity, andexercise—operate at multiple levels of this “precision” hierar-
+chy, relying heavily on “how to change a behavior”to improve
+a patient’s health.
+The articles in this special series illustrate the intrinsic
+power and challenges of a precision medicine approach in
+rehabilitation:
+• Shields and Dudley-Javoroski
+3describe the biological
+bridges between genetics, lifestyle, and sociobehav-ioral factors, advocating for greater attention to social
+determinants of health and population-level influences
+by embedding these concepts into the International
+Classification of Functioning, Disability and Health (ICF)
+model.
+• Noah and Lynn Snyder-Mackler
+4provide novel evidence
+on how social stressors become “biologically embedded,”
+yielding health-limiting changes in clinically importantphysiologic systems.• Severin et al
+5show that rehabilitation specialists are ide-
+ally positioned within the health care team to embracethe Healthy Living Model (HLM) and influence health
+by screening and understanding our clients’ healthy living
+behaviors.
+• Magnusson and Rethorn
+6share an important perspec-
+tive regarding the placement of epigenetic and epige-
+nomic insights within a population health framework tostrengthen the physical therapy profession’s understand-
+ing of variations in health, to inform integrated action, and
+to further support the physical therapist’s role in reducinghealth-related disparities.
+• Petrie and Shields
+7offer an illustration of genomic and
+epigenetic research being used to develop a more precisephysical therapist intervention for people with spinal cord
+injury.
+While these articles point to possible vistas for the future
+of rehabilitation, they also reveal the conundrum facing clini-
+cians and patients alike. Will physical therapists of the future
+be as well-versed in epigenetics and population-level public
+health factors as they are in exercise prescription? This special
+series provides the platform to open this important discussionas the American Physical Therapy Association’s Centennial
+year closes and as we prepare for the next 100 years of success
+in the physical therapy profession.
+Richard K. Shields, PT , PhD, FAPTA1,*
+1Department of Physical Therapy and Rehabilitation Science, Lucille and
+Roy Carver College of Medicine, The University of Iowa, Iowa City, Iowa
+*Address all correspondence to Dr Shields at: richard-shields@uiowa.edu
+References
+1. The Human Genome Project. National Human Genome Research
+Institute. National Institutes of Health Last updated: December 22,
+2020. Accessed: October 12, 2021. https://www.genome.gov/huma
+n-genome-project .
+2. The Promise of Precision Medicine. NIH ...Turning Discovery Into
+Health . National Institutes of Health, US Department of Health
+& Human Services. Last reviewed: February 12, 2020. Accessed:October 12, 2021. https://www.nih.gov/about-nih/what-we-do/nih-
+turning-discovery-into-health/promise-precision-medicine .
+3. Shields R, Dudley-Javoroski S. Epigenetics and the International
+Classification of Functioning, Disability and Health model: bridgingnature, nurture, and patient-centered population health. Phys Ther .
+2022;102:pzab247. https://doi.org/10.1093/ptj/pzab247 .Downloaded from https://academic.oup.com/ptj/article/102/1/pzab248/6413901 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+2 Editorial
+4. Snyder-Mackler N, Snyder-Mackler L. Holistic rehabilitation: bio-
+logical embedding of social adversity and its health implica-tions. Phys Ther . 2022;102:pzab245. https://doi.org/10.1093/ptj/
+pzab245 .
+5. Severin R, Sabbahi A, Arena R, Phillips SA. Precision medicine and
+physical therapy: a healthy living medicine approach for the nextcentury. Phys Ther . 2022;102:pzab253. https://doi.org/10.1093/ptj/
+pzab253 .6. Magnusson DM, Rethorn ZD. Strengthening population health
+perspectives in physical therapist practice using epigenetics. Phys
+Ther . 2022;102:pzab244. https://doi.org/10.1093/ptj/pzab244 .
+7. Petrie M, Taylor E, Suneja M, Shields R. Genomic and epige-
+nomic evaluation of electrically induced exercise in peoplewith spinal cord injury: application to precision rehabilita-tion. Phys Ther . 2022;102:pzab243. https://doi.org/10.1093/ptj/
+pzab243 .Downloaded from https://academic.oup.com/ptj/article/102/1/pzab248/6413901 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+

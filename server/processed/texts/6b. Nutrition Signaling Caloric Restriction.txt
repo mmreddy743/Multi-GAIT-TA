@@ -1,0 +1,815 @@
+CRITICAL REVIEW
+Factors that affect the translation of dietary restriction into
+a longer life
+Jakob von Frieling1| Thomas Roeder1,2
+1Department of Zoology, Molecular
+Physiology, Kiel University, Kiel,Germany
+2DZL, German Center for Lung Research,
+ARCN, Kiel, Germany
+Correspondence
+Thomas Roeder, Department of Zoology,Molecular Physiology, Kiel University,Olshausenstrasse 40, 24098 Kiel,Germany.Email: troeder@zoologie.uni-kiel.de
+Funding information
+Deutsche Forschungsgemeinschaft, Grant/Award Number: CRC1182Abstract
+Nutritional interventions, such as dietary or calorie restriction, are known tohave a variety of health-promoting effects. The most impressive are the direct
+effects on life expectancy, which have been reproduced in many animal
+models. A variety of dietary restriction protocols have been described, which
+differ either in their macronutrient composition or in the time window for con-
+sumption. Mechanistically, the effects of dietary restriction are mediatedmainly through signaling pathways that have central roles in the maintenance
+of cellular energy balance. Among these, target of rapamycin and insulin sig-
+naling appear to be the most important. Such nutritional interventions can
+have their effects in two different ways: either by direct interaction with the
+metabolism of the host organism, or by modulating the composition and per-
+formance of its endogenous microbiome. Various dietary restriction regimens
+have been identified that significantly alter the microbiome and thus pro-foundly modulate host metabolism. This review aims to discuss the mecha-
+nisms by which dietary restriction can affect life expectancy, and in particular
+the role of the microbiome.
+KEYWORDS
+C. elegans , caloric restriction, dietary restriction, Drosophila , insulin, microbiota, TOR
+1|INTRODUCTION
+Very few dietary interventions have been described that
+have undisputed health-promoting effects. Caloric restric-
+tion (CR) and dietary restriction (DR) are the most signif-
+icant dietary regimens for which such health-promotingeffects have been demonstrated.
+1–5These positive effectsinclude an increase in lifespan in a great variety of model
+organisms, ranging from yeast to mammals.6The publi-
+cation of a plethora of reports claiming a prolongation oflifespan has led to the general perception that CR and/or
+DR might also represent a “fountain of youth ”in
+humans.
+7In the current review, the mechanisms under-
+lying the health-promoting effects of DR, especially those
+mediated via modification of the intestinal microbiome,
+will be discussed.
+The terms CR and DR are often used synonymously,
+but they represent different nutritional interventions. CR
+involves a lower energy intake compared with ad libitum
+feeding, whereas DR is a generic term encompassing anyAbbreviations: Akt, v-akt murine thymoma viral oncogene homolog;
+AMPK, AMP-activated protein kinase; Aop, anterior open protein;CR, caloric restriction; DR, dietary restriction; Erk, extracellular signalregulated kinase; FoxO, forkhead box O proteins; GF, germ free; IGF-1,insulin/insulin-like growth factor-1; mTOR, mechanistic target ofrapamycin; PI3K, phosphatidylinositol 3-kinase; Ras, rat sarcoma;Tsc, tuberous sclerosis proteins.Received: 20 December 2019 Accepted: 20 December 2019
+DOI: 10.1002/iub.2224
+© 2019 International Union of Biochemistry and Molecular Biology
+IUBMB Life. 2019;1 –11. wileyonlinelibrary.com/journal/iub 1
+dietary regimen that differs from a conventional diet in at
+least one major respect. The reduction in calorie intakeusing CR is usually in the range of 20 –40%, which is
+insufficient to cause malnutrition.
+8Because the purpose
+of CR is a reduction in energy intake, the amount of foodconsumed is lower, but the composition of the diet is
+usually unaltered. By contrast, “DR”can signify a very
+broad range of dietary regimens that differ from conven-tional diets with respect to at least one major compo-
+nent.
+8Thus, CR can be understood as a particular subset
+of DR. Because a plethora of different nutritional regi-mens can be summarized under the umbrella term“DR,”its definition is fairly vague, and uncertainty in
+the meaning of the term is further increased by differing
+understandings of what a conventional, normal, or con-trol diet is. This means that direct study-to-study com-
+parisons can be difficult, which at least partly explains
+the challenges encountered in reproducing publishedfindings.
+2|CR, MACRONUTRIENT
+RESTRICTION AND TIME
+RESTRICTED FOOD INTAKE
+In addition to CR, which can be described as the mother
+of all dietary interventions, other DR protocols are of
+particular interest. Macronutrient restriction and restric-tions in food availability are DR regimens that have
+repeatedly been shown to prolong lifespan. Numerous
+different diets that are restricted with regard to particu-lar macronutrients have been described, but those char-
+acterized by substantially lower protein content are of
+particular interest because they have been reproduciblyassociated with longer life.
+9–11Indeed, it has been
+hypothesized that the beneficial effects of CR on lifespan
+can be attributed mainly to the associated reduction in
+protein intake11,12; however, this view has recently been
+challenged.13Nevertheless, studies performed in a num-
+ber of animal species have shown that protein restric-
+t i o ni n c r e a s e sb o t hl i f e s p a na n dh e a l t h yl i f e s p a n ,implying that these effects involve evolutionarily con-
+served mechanisms that might also be operational in
+humans.
+14,15The positive effects on lifespan achieved
+using diets with low protein or amino acid content can
+also be achieved by reductions in specific amino acids,
+with substantial restriction of methionine beingmost effective.
+5,15 –19Moreover, this reduction in methio-
+nine levels changes the cellular metabolism and has a
+supportive effect in cancer treatment.20Depending
+on the organism under investigation, the experimentalconditions must be carefully controlled to permit study-
+to-study comparisons; however, this can be a majorproblem, especially in studies employing mammals, and
+will be discussed later.
+2.1 |Time-restricted food intake
+The second major type of DR that is associated with a
+positive effect on lifespan is time-restricted feeding.Time-restricted feeding regimens typically employ one of
+two simple approaches: a reduction in overall caloric
+intake, achieved by reducing or preventing food intakefor a period of time, or an effort to benefit from theadvantages of DR or starvation while not following a
+strict, lifelong diet. Thus, as for macronutrient restriction,
+a large number of different nutritional regimens can besummarized under the umbrella of “time-restricted feed-
+ing.”In practice, starvation (no food intake), CR, or DR
+are applied for defined time periods, which are usuallyrepeated. Although starvation is an extreme form of DR,
+the effects of starvation, CR, or DR during these time
+periods may be dissimilar, although a systematic compar-ison of the effects of each has yet to be performed.
+Time-restricted feeding or intermittent fasting
+involves repeated periods of starvation. In flies, therestriction of food intake to 12 hr per day, which resultsin a daily 12 hr fast, is sufficient to ameliorate the age-
+associated decline in cardiac function.
+21Other daily
+recurring regimens include the 16:8 diet, in which feed-ing is restricted to an 8 hr period daily. The application of
+these types of intermittent fasting has been shown to
+improve a number of health-related parameters inhumans
+22and increase lifespan in mice.23In addition to
+this seemingly minor prolongation of the normal daily
+phase of fasting, the effects of longer periods of starvationhave also been studied. The most notable of these are theevery-other-day diets, in which 1 day of ad libitum feed-
+ing alternates with 1 day of fasting. Although this type of
+time-restricted food intake is associated with improve-ments in health,
+24–26its effects on lifespan are inconsis-
+tent.27In contrast to the inconsistent results achieved
+using this regimen, longer periods of fasting ( ≥48 hr),
+or the consumption of a diet that mimics fasting, have
+been shown to reproducibly improve numerous health-
+associated traits in mice and humans.28,29
+Other time-restricted feeding regimens that employ
+periods of DR instead of periods of starvation have also
+been studied. These approaches are frequently used bypeople aiming to reduce their body weight. In theseinstances, a diet is followed for a certain period of time,
+after which the person returns to their normal dietary
+regimen. In general, the response of the organism to DRcan be characterized temporally in at least two ways: the
+first is the time from which the positive effects of2 VON FRIELING ANDROEDER
+DR, CR, or starvation unfold, and the second is the
+degree of persistence of these effects, even after a returnto normal food intake. Significantly, a shift at a relatively
+late life stage from normal food intake to DR has just as
+large an effect as lifelong DR.
+1,30,31Furthermore, recur-
+rent DR has recently been shown to be as effective as life-
+long DR if the periods of DR are of at least 2 –3 days in
+length.32However, the underlying molecular mecha-
+nisms of these effects are far less well characterized than
+those of CR or specific protein restriction. In addition, it
+is still not conclusively clarified whether the energy ormacronutrient restriction has the decisive contribution tothe positive effects of CR and/or DR.
+2.2 |Energy versus protein restriction as
+inducers of lifespan prolongation
+Energy and protein restriction have both been identified
+as the major mechanisms underlying lifespan extension
+in response to dietary interventions. Traditionally,lifespan extension has been attributed to the lower
+energy contribution of CR diets.
+5However, studies per-
+formed in yeast, Drosophila and other invertebrate
+models have focused on the importance of reducing theprotein content of the diet,
+10and consequently it has
+been concluded that protein restriction is the most
+important component of a CR regimen for its lifespan-extending effects. However, recent analyses have chal-
+lenged this view and claimed that, at least in rodents, it is
+the lower energy contribution of a CR diet that is causallylinked to lifespan extension, rather than protein restric-
+tion.
+13These seemingly conflicting results were obtained
+in studies carried out using different models: groupsworking with invertebrates have repeatedly identifiedprotein restriction as causing lifespan extension, whereas
+other groups working with rodents have identified energy
+restriction as the cause.
+9–11,13This has led to the hypothe-
+sis that the mechanism of lifespan extension resulting
+from nutrient restriction (energy or protein) is not phylo-
+genetically conserved.13However, this view has been
+contradicted by more recent work demonstrating exten-
+sive similarities between vertebrates and invertebrates
+with regard to lifespan extension.10
+To understand these apparent differences, it is neces-
+sary to compare the experimental systems used in more
+detail. CR is easy to perform in rodents because theamount of food ingested by the animals can be preciselycontrolled, which makes CR experiments in these larger
+model organisms straightforward. However, such an
+experimental approach is not possible in invertebratesbecause the amount of food ingested cannot be con-
+trolled. Therefore, food dilution has been used to achieveCR, but this approach has severe limitations, for example,
+compensatory food ingestion.
+13Consequently, the restric-
+tion of macronutrients, especially protein, or even spe-
+cific amino acids, has been widely used because this can
+be more easily managed. CR and DR should interact withmajor sensor systems within cells in different ways.
+Whereas CR activates both, energy sensing and protein
+sensing systems, DR primarily affects the protein sensingsystems (Figure 1). However, it should be noted that data
+interpretation is hampered by the fact that food regimens
+are not sufficiently standardized, even for Drosophila .
+33
+Nevertheless, the early macronutrient restriction models
+have evolved into more sophisticated approaches, such as
+nutritional geometry,34in which the relative and absolute
+amounts of major macronutrients are taken into account.However, these approaches are less frequently used in
+rodents and nutritional studies in rodents are associated
+with additional limitations that make comparisonsamong laboratories and species difficult. As already
+pointed out, a major problem in comparing studies, espe-
+cially those dealing with different relative proteinamounts is the lack of standardization. This is a general
+problem in this area, but both the protein origin and the
+relative amount of protein appear to have a major impacton the experimental results. Proteins from differentsources have either been associated with a positive, a
+negative, or no effect on health- and/or lifespan. Proteins
+derived from plant sources and from fish appear to havemore positive effects than those from most animals.
+35
+Furthermore, a reduction in protein content leads to phe-nomena such as food aversion in rodents, which in turncan act as a confounder.
+36Last but not least, the case of
+the reducing relative protein levels in the diet appears to
+induce a biphasic response. During most parts of life, thistype of DR seems to be beneficial as it reduces a numberof disease states and therewith premature death, but for
+the very last phases of life, it may be detrimental. Thus,
+depending on minor changes in the experimentaldesigns, different outcomes for this biphysic response
+might account for major differences in DR experiments
+employing protein restriction.
+14,36
+As previously mentioned, the meta-analysis that
+showed that only a reduction in energy intake leads to
+lifespan elongation in rodent experiments13has been
+challenged by other vertebrate studies, leading to the
+reinstatement of the previous view that a reduction in
+protein intake is more important than a reduction inenergy intake.
+10Thus, it is still a matter of debate
+whether energy or protein restriction leads to longer life.
+Moreover, the concept that lifespan prolongation
+resulting from nutritional restriction is an evolutionarilyconserved phenomenon has been brought into question.
+However, on the basis of the most recent studies, theVON FRIELING ANDROEDER 3
+authors believe that the seemingly different results
+obtained using rodents and invertebrates may be the
+result of methodologic, rather than biologic differences.
+Therefore, we anticipate that this discussion will con-tinue. Despite these differences between DR and CR, theunderlying molecular frameworks that are responsible
+for mediating longer life in response to these interven-
+tions share numerous similarities.
+2.3 |Molecular mechanisms underlying
+the lifespan extension induced by
+DR or CR
+Studies conducted using a number of different model
+organisms, especially yeast, Caenorhabditis elegans ,Dro-
+sophila , and mice, have paved the way to an understand-
+ing of how DR and CR exert their positive effects onlifespan.
+5,37In accordance with the proposition that
+energy restriction underpins CR, whereas protein restric-
+tion underpins DR, the cellular systems that are directlyinvolved in maintaining energy homeostasis or in sensing
+protein (amino acid) status are particularly important.
+Specifically, the nutrient-sensing mechanistic target ofrapamycin (mTOR) and insulin/insulin-like growth fac-
+tor (IGF)-1 pathways are the primary mediators of the
+effects of DR and CR. The most impressive results linkinglonger lifespan with nutritional interventions are thosegenerated by studies of the insulin/IGF-1 signaling path-
+way. Age-1, a C. elegans mutant that has a lifespan up to
+twice as long as that of control worms, is deficient in pho-sphatidylinositol 3-kinase (PI3K).
+38Following this initial
+finding, a large body of work has been published thatmostly used C. elegans and Drosophila as model organ-
+isms, which has found that mutations in components of
+the pathways responsible for the activation of forkhead
+transcription factors (FoxOs) are associated with longerlifespan.
+39,40These studies have placed FoxOs in a central
+role with regard to lifespan extension, and the impor-
+tance of these transcription factors was further empha-
+sized by the identification of FoxO3A as a humanlongevity gene.
+41However, FoxOs are not the only medi-
+ators of lifespan prolongation because an interaction with
+the Ras-extracellular signal-related kinase (Erk)-anterioropen (Aop) arm of the insulin receptor substrate (IRS)
+pathway appears to be required for this effect.
+42,43Taken
+together, these findings imply that a reduction in insulinsignaling has a beneficial effect on lifespan, and providesa direct link with interventions such as DR and CR.
+In addition to insulin/IGF-1 signaling, other signaling
+pathways have also been implicated. Reductions in TORsignaling at various levels have been shown to be directly
+linked with longer lifespan in diverse models, ranging
+from yeast to mice.
+44–47TOR (or mTOR) functions as a
+cellular hub that translates information about the energy
+status of the cell into a suitable physiologic response. In
+general, the pathway is activated by nutrients and isinhibited in response to stressors, including a lack of
+specific nutrients. In addition, upstream of TOR is the
+energy sensor AMP-activated protein kinase (AMPK),which serves as a sentinel and master regulator of cellularenergy homeostasis.
+48AMPK regulates TOR activity
+through either tuberous sclerosis proteins (TSCs) or rap-
+tor, and the kinase Akt, which is central to the insulin/IRS1 pathway, inhibits TSC, thereby also controlling TOR
+activity.
+49Furthermore, the mTOR complex (mTORC1)
+FIGURE 1 Control diets (CD), which are characterized by sufficient energy and macronutrient intake, activate the two most important
+cellular nutrient sensor systems, which serve to control the energy status (insulin signaling) and the availability of amino acids (mechanistic
+target of rapamycin [mTOR] signaling), to a similar extent.111,112Caloric restriction (CR), which is characterized by a reduced food intake,
+leads to a strongly reduced signaling of the energy sensing pathway, but also to a reduced activation of the amino acid sensing pathway(left).
+113Dietary restriction (DR), with a reduced protein concentration, leads to a strong reduction of the amino acid concentration and thus
+to a strong inhibition of the corresponding amino sensing pathways. The corresponding energy sensors are much less influenced by a DR
+with reduced protein amount4 VON FRIELING ANDROEDER
+has a direct nutrient-sensing activity, and is particularly
+sensitive to amino acid status.50During CR, energy intake
+is lower, which on the one hand leads to lower cellular
+energy storage, which inhibits TOR activation via AMPK,
+but on the other hand downregulates insulin signaling,which reduces TOR activity via Akt.
+49The effects of DR,
+or more specifically of protein restriction, appear to be
+mediated though a reduction in amino acid-inducedmTORC1 activation
+50(Figure 2).
+To understand the central position of TOR in the reg-
+ulation of lifespan and the responses to CR and DR, wemust evaluate its downstream targets in more detail, inparticular ribosomal S6 protein kinase (S6K1/2) and 4E-
+BP, a translational repressor that binds the eukaryotic
+initiation factor 4E. Active TOR inhibits 4E-BP, thus pro-moting protein synthesis and cell growth, whereas DR
+increases 4E-BP activity, which is associated with longer
+lifespan.
+514E-BP-mediated signaling is a major target of
+nutrient-related signals, but also of other stress signals,
+which implies that signaling through this pathway may
+mediate the effects of various stressors on lifespan.52
+Another molecule downstream of TOR is ribosomal pro-
+tein S6 kinase (S6K), deficiencies of which are associated
+with longer lifespan in mice,53flies,45and worms.54
+A reduction in S6K activity leads to a reduction in trans-lation and consequent growth arrest. The relevance ofthese signaling pathways for controlling lifespan has
+recently been further. The importance of these signalingpathways for the determination of life span has recently
+been confirmed by a combined pharmacological inter-
+vention. Three drugs influencing three important signal-ing pathways were used in a Drosophila system, which
+led to a dramatic extension of life span.
+55
+Whereas the roles of insulin and TOR signaling in
+lifespan extension seem to be directly linked to DR, the
+mechanisms that connect sirtuin activity with longevity
+are less clear. Sirtuins are protein deacetylases that linkdeacetylation at lysine residues with NAD hydrolysis.The members of the sirtuin family are present in various
+cell compartments, including the nucleus, cytosol, and
+mitochondria. Greater sirtuin activity has been linked tolonger lifespan in a number of different studies in yeast,
+worms, flies, and mice.
+56–60The mechanism likely
+involves the effect of nutritional status on cellular NAD:NADH ratio, which determines the activation state of
+sirtuins, thereby influencing health and lifespan.
+61
+Although the effects of sirtuin overexpression are
+controversial,62directed sirtuin overexpression in specific
+organs of Drosophila induces lifespan prolongation.63,64
+Nevertheless, the underlying mechanisms are still not
+fully understood. The methylation of nicotinamide seemsto be a major effect of sirtuins that is necessary for
+FIGURE 2 Diagram of the most important signaling pathways directly involved in mediating the effects of dietary restriction/caloric
+restriction (DR/CR) in life span extension. These signaling pathways are also of central importance for the perception of the energy and
+amino acid levels of the cells. In different model systems, the altered activity of the genes listed here could be associated with the change inlife span. CR or DR leads to reduced activation of the respective signaling pathways, which in turn leads to an extension of the life span.
+114
+This is particularly valid for insulin/IGF1 and the mTOR pathway. In addition, important pharmacologic drugs are shown with their site ofaction in this signal network, the use of which has already led to a prolongation of life. These include resveratrol on the one hand and tripletreatment with trametinib, rapamycin, and lithium on the other.
+55,115Abbreviations: 4EBP-, Erk, extracellular signal regulated kinase; Akt,
+v-akt murine thymoma viral oncogene homolog; AMPK, AMP activated protein kinase; Aop/Ets, anterior open protein/Ets transcription
+factor; FoxO, forkhead box protein O; GSK3, glycogen synthase kinase-3; IGF1, insulin like growth factor 1; InR, insulin receptor; MEK,mitogen-activated protein kinase; Nrf2, nuclear factor erythroid 2-related factor 2; PI3K, phosphatidylinositol 3-kinase; Ras, rat sarcoma;
+S6K, ribosomal protein S6 kinase; Sir, silent information regulator; TOR, target of rapamycin; TSC, tuberous sclerosis proteinVON FRIELING ANDROEDER 5
+lifespan extension.65Furthermore, a link between sirtuin
+activation and the induction of autophagy has beenestablished in C. elegans , which represents a direct link
+between DR and lifespan extension.
+66Recent studies rev-
+ealed that the full set of mechanisms governing DR medi-ated increases in lifespan is much more complex than
+anticipated. In Drosophila mechanisms that govern post-
+transcriptional modifications are essential for DR medi-ated lifespan extensions,
+67InC. elegans , downstream of
+TOR signaling, DR interferes with the innate immune
+system to enable lifespan prolongation.68Furthermore,
+DR has been shown to improve proteostasis throughimproving ER stress homeostasis.
+69Despite the large
+number of studies that have shown a positive effect of
+DR/CR on health and lifespan, some investigators arguethat these are effects that are restricted to short-lived
+organisms, but are not relevant in long-lived organisms.
+2.4 |Implications of dietary
+interventions in long-lived organisms
+Since the seminal study of McCay et al.,4who showed an
+increase in lifespan in response to CR in rats, comparablestudies have been performed in a great variety of models,ranging from yeast to mammals.
+70,71In rhesus monkeys,
+which are long-lived and closely related to humans, two
+long-term studies have been performed. Lifelong CR wasshown to have health-promoting effects,
+7,72but only one
+of these studies showed a CR-associated increase in
+lifespan.7,72Reevaluation of these data sets identified dif-
+ferences in study design that may explain this disparity,
+and supported a positive effect of CR on healthy
+lifespan.73In addition, a recent study conducted in a
+small primate, the gray mouse lemur, revealed a clearDR-induced positive effect on median lifespan, further
+supporting the hypothesis that CR (or DR) also increases
+lifespan in primates.
+74Furthermore, the health-
+promoting effects of CR have been reported a number of
+times in humans,2,6but the assumption that a reduction
+in energy intake is responsible for the effects of CR havebeen challenged.
+71Instead, the ratio of proteins to carbo-
+hydrates consumed appears to be more important in the
+determination of lifespan.6,14,75,76Taken together, studies
+using a great variety of model organisms, including inver-
+tebrates, but also primates and humans, have consistently
+shown that dietary protein content is a major determi-nant of lifespan.
+Despite the ongoing discussions regarding the effects
+of DR on lifespan in humans, this type of intervention
+has been shown to have a wide range of positive effectson health. Thus, it may be worth considering this inter-
+vention as a preventive measure or a component of thetherapy for a number of different conditions, especially
+metabolic diseases. This is exemplified by a recent studythat showed a positive effect of DR on type 2 diabetes.
+77
+The treatment of certain cancers appears to representanother highly promising field for the application of DR-based nutritional interventions.
+78,79Finally, specific DR
+regimens might also induce long-term improvements in
+patients with neurodegenerative disorders, such asAlzheimer's disease.
+80Other factors that do not show the
+straightforward coupling to dietary habits might also
+have an important role in the translation of dietary regi-mens into lifespan prolongation. Among them, themicrobiome takes an outstanding position, as it appears
+to act as a mediator that contributes to translate the
+effects of dietary changes into physiological responses.
+3|DR AND THE MICROBIOME
+Dietary interventions affect health and lifespan through
+at least two different routes: by directly influencing theactivity of important signaling pathways, such as TOR or
+insulin signaling; or indirectly, by influencing the compo-
+sition of the microbiome, which in turn affects the host(Figure 3). Nutrition-induced changes in the compositionand functionality of this highly important part of the
+holobiont might be of greater than expected importance
+for the effects of DR. Gut dysbiosis, which is character-ized by changes in the microbial composition that disrupt
+the homeostasis between the host and the microbiome,
+has been associated with a range of diseases.
+81,82More-
+over, gut dysbiosis seems to be intrinsically associated
+with biologic aging.83,84Thus, any intervention that helps
+maintain a healthy microbiome should also affect theprocess of aging, and thus lifespan. In short-lived modelorganisms, such as the killifish, this hypothesis has been
+addressed experimentally. In these animals, dysbiosis is a
+major change associated with aging, and the extent of thedysbiosis correlates directly with lifespan. Microbiome
+transfer experiments have revealed that the transplanta-
+tion of “young ”microbiota into older animals can
+increase their lifespan significantly.
+85,86Similar observa-
+tions have been made in Drosophila : aging-associated
+dysbiosis of the microbiome also occurs, and is associatedwith dysplasia of the intestine, which leads to an impair-
+ment in barrier function,
+87,88an exaggerated immune
+response that is the equivalent of an inflammatoryresponse, and a consequent reduction in lifespan.
+87How-
+ever, these relationships between aging, dysbiosis, and
+health or lifespan are not restricted to very short-lived
+animals, but have also been shown in rodents. In parti-cular, microbial transplantation from older animals
+to young, germ-free (GF) ones induces inflammatory6 VON FRIELING ANDROEDER
+responses that mirror “inflammaging. ”89Dietary inter-
+ventions that mimic fasting change the microbiota, there-
+with enhancing intestinal regeneration and reducingintestinal bowel disease.
+90This general idea has further
+been employed in mouse models of progeria, where the
+premature aging is associated with a dysbiotic micro-
+biota. Here, fecal transplantation of a healthy microbiotaincreased lifespan substantially.
+91
+Studies using Drosophila have revealed that the pres-
+ence of a microbiome has different effects in differentphases of life. Whereas being GF can be detrimental dur-
+ing early life, it seems to be beneficial during the very late
+life.
+92Very few studies performed in vertebrates have
+addressed the interaction between the presence of amicrobiome and CR. Being GF under normal nutritional
+conditions increased lifespan in two studies of mice and
+rats,
+93,94and CR increased lifespan in animals consuming
+a conventional diet, but had no additional positive effect
+in GF animals.
+In principle, CR and DR should have different effects
+on the composition of the microbiome. In CR, the total
+energy content of the diet is reduced, whereas in many
+DR experiments, only protein content is restricted.Although these two interventions would be expected to
+have different effects on both the microbiome and host,
+there have been no comprehensive assessments of theimportant interplay between nutrition, the microbiome,and health. Nevertheless, some recent studies have
+assisted with our understanding of the mechanisms
+involved. As already discussed, the TOR pathway isinvolved in the mechanism of lifespan extension induced
+by DR.
+44It has been shown in GF Drosophila that theintestinal microbiome regulates the expression of compo-
+nents of the TOR and insulin signaling pathways.95GF
+fly larvae fed a protein-restricted diet show a delay indevelopment compared with conventionally reared ani-mals. Interestingly, recolonization with a single bacterial
+species, in this case Lactobacillus plantarum , was suffi-
+cient to restore normal development,
+96and this positive
+effect was critically dependent on TOR signaling.96In
+mice, pharmacologic interference with TOR signaling
+using metformin, resveratrol, or rapamycin leads tochanges in intestinal microbial communities,
+97which
+implies that TOR signaling itself affects the intestinal
+microbial composition. Overactivation of mTORC1 inmice suppresses the differentiation of intestinal gobletcells, which are responsible for mucus production,
+98and
+lower mucus production is known to alter the microbial
+composition.99The hypothesis that intestinal TOR signal-
+ing has a central role in controlling the microbiome was
+further supported by studies in Drosophila ,i nw h i c ht h e
+feeding of a yeast-restricted diet (DR) reduces mortality fol-lowing oral infection with Pseudomonas aeruginosa . Inter-
+estingly, antimicrobial peptides were more abundant after
+infection in flies subjected to DR than in controls, and theDR phenotype could be fully recapitulated in flies fed a
+normal diet by rapamycin treatment. Myc, a target of the
+TOR pathway, appears to mediate these effects of alteredTOR signaling on the expression of antimicrobial peptides,and thus on the composition of the microbiome.
+100
+In some animal models, metformin, which is used for
+the treatment of type 2 diabetes, has been used as a DRmimetic, and it reproducibly increases lifespan.
+101This
+positive effect of metformin has been shown in
+FIGURE 3 Schematic representation of the interaction between diet, microbiome and host. The food directly influences both the host
+and the microbiome. In both cases, the ingested food provides both the required energy and the building blocks for biosynthesis. The
+microbiome directly influences the host by providing metabolites, energy, and components for the host. The host, in turn, influences the
+microbiome by providing different, energy-rich resources and provides a habitat for the microbiome, but at the same time stronglyinfluences their composition through its own immune system. In particular, this complex interplay between diet, microbiome, and host is
+responsible for dietary restriction/caloric restriction (DR/CR) mediated life span extensionVON FRIELING ANDROEDER 7
+C. elegans , in which a direct interaction with the micro-
+biome appears to be responsible. Metformin inhibits thebacterial folate cycle and methionine metabolism, which
+reduces the supply of bacterially derived methionine to the
+host, and might explain its effects because the restriction ofmethionine alone also increases lifespan.
+15,101Further-
+more, DR of tryptophan partially mimics protein restric-
+tion, prolonging lifespan in rodents and C. elegans ,102,103an
+effect that may be mediated by the increase in bacterial
+diversity induced by tr yptophan restriction.104However,
+whether such changes in the microbial community medi-ate the effects of single amino acid restriction on lifespanremains to be determined.
+Intermitting fasting is a very interesting type of DR
+that prolongs lifespan and has positive effects on healthand metabolism.
+6,105These positive effects include resis-
+tance to bacterial infection, as demonstrated by an
+improvement in the clearance of Salmonella typ-
+himurium in mice.106The wide range of health-
+promoting effects of intermittent fasting also includes the
+amelioration of various metabolic diseases associatedwith obesity. The importance of the microbiome in this
+has been shown by experiments conducted in GF mice,
+in which positive effects of intermittent fasting on obesitywere not observed,
+107leading to the conclusion that
+intermittent fasting ameliorates obesity in mice by
+influencing the intestinal microbiome. Indeed, fecal
+transplantation from intermittently fasted mice to GFmice promotes beige fat development, which has an anti-
+obesity effect. Furthermore, in a mouse model of experi-
+mental autoimmune encephalomyelitis, intermittentfasting leads to lower demyelination and disease inci-
+dence. The transfer of the intestinal microbiome from
+mice that are fed intermittently to GF mice amelioratesthe encephalomyelitis of mice fed a normal diet.
+108
+Specifically, at the phylum level, intermittent fasting
+leads to a shift in the bacterial community from the phy-
+lum Bacteroidetes to the phylum Firmicutes. The intestinalmicrobiome of intermittently fasted mice shows an increase
+in bacterial diversity and an enrichment of Bacteroidaceae,
+Lactobacillaceae, and Prevotellaceae.
+108These effects on
+the microbiome are also associated with increases in the
+number of goblet cells and intestinal mucus production.109
+Taken together, these findings show that DR and CR
+exert their positive effects on health and lifespan through
+various ways, through interaction with specific signaling
+systems of the host, and through modification of themicrobiome. Moreover, these two ways of actions arehighly interconnected, which complicates the dis-
+entangling of direct from microbiome-mediated effects.
+Beside focusing on the host signaling systems, targetedalterations in the intestinal microbial community could
+contribute to the improvements in health induced by DRand that the transplantation of a “healthy ”microbiome
+represents a promising therapeutic approach for severalmetabolic disorders.
+110DR and CR might help to rejuve-
+nate the microbiome, thereby eliminating the negative
+effect of an aging microbiome on organismal health, thusrepresenting a major mechanism how these nutritional
+regimens translate into longer life.
+4|OUTLOOK
+Our understanding of the effects of DR and its underlying
+mechanisms has improved substantially over the last
+years. Nevertheless, a number of very important ques-
+tions remain unanswered and await being resolved. Oneof the most important tasks for the future is to show how
+the findings of DR research can be transferred into the
+daily lives of potential users. Which forms of DR are bestsuited for which groups of people? Are there significant
+costs associated with DR? These are just some of the ques-
+tions that should be better understood when transformingDR concepts into daily routines. In addition to these
+application-oriented questions, some very important mech-
+anisms have still not been finally clarified. These includethe differentiation between CR and DR, and the mecha-nisms underlying a long-lasting effect of CR/DR. A better
+understanding of the significance that epigenetic modifica-
+tions play could be very helpful in this context? The use ofnewly developed DR mimetics and the directed manipula-
+tion of microbiota could be further starting points for the
+application of these concepts in humans.
+ACKNOWLEDGMENT
+The work of J.v.F. and T.R. was supported by the GermanResearch Foundation (DFG) as part of the CRC1182(Project C2).
+ORCID
+Thomas Roeder
+https://orcid.org/0000-0002-3489-3834
+REFERENCES
+1. Weindruch R, Walford RL. Dietary restriction in mice begin-
+ning at 1 year of age: Effect on life-span and spontaneous can-cer incidence. Science. 1982;215:1415 –1418.
+2. Fontana L, Meyer TE, Klein S, Holloszy JO. Long-term calorie
+restriction is highly effective in reducing the risk for athero-sclerosis in humans. Proc Natl Acad Sci U S A. 2004;101:6659 –6663.
+3. Liang Y, Liu C, Lu M, et al. Calorie restriction is the most rea-
+sonable anti-ageing intervention: A meta-analysis of survivalcurves. Sci Rep. 2018;8:5779.
+4. McCay CM, Crowell MF, Maynard LA. The effect of retarded
+growth upon the length of life and upon the ultimate bodysize. J Nutr. 1935;10:63 –79.8 VON FRIELING ANDROEDER
+5. Speakman JR, Mitchell SE. Caloric restriction. Mol Aspects
+Med. 2011;32:159 –221.
+6. Fontana L, Partridge L. Promoting health and longevity through
+diet: From model organisms to humans. Cell. 2015;161:106 –118.
+7. Colman RJ, Anderson RM, Johnson SC, et al. Caloric restric-
+tion delays disease onset and mortality in rhesus monkeys.
+Science. 2009;325:201 –204.
+8. Lee C, Longo V. Dietary restriction with and without caloric
+restriction for healthy aging. F1000Res. 2016;5:117.
+9. Hoedjes KM, Rodrigues MA, Flatt T. Amino acid modulation
+of lifespan and reproduction in Drosophila. Curr Opin InsectSci. 2017;23:118 –122.
+10. Moatt JP, Fyfe MA, Heap E, Mitchell LJM, Moon F,
+Walling CA. Reconciling nutritional geometry with classicaldietary restriction: Effects of nutrient intake, not calories, onsurvival and reproduction. Aging Cell. 2019;18:e12868.
+11. Nakagawa S, Lagisz M, Hector KL, Spencer HG. Comparative
+and meta-analytic insights into life extension via dietaryrestriction. Aging Cell. 2012;11:401 –409.
+12. Mirzaei H, Suarez JA, Longo VD. Protein and amino acid
+restriction, aging and disease: From yeast to humans. TrendsEndocrinol Metab. 2014;25:558 –566.
+13. Speakman JR, Mitchell SE, Mazidi M. Calories or protein?
+The effect of dietary restriction on lifespan in rodents isexplained by calories alone. Exp Gerontol. 2016;86:28 –38.
+14. Levine ME, Suarez JA, Brandhorst S, et al. Low protein intake
+is associated with a major reduction in IGF-1, cancer, andoverall mortality in the 65 and younger but not older popula-tion. Cell Metab. 2014;19:407 –417.
+15. Grandison RC, Piper MD, Partridge L. Amino-acid imbalance
+explains extension of lifespan by dietary restriction in Dro-sophila. Nature. 2009;462:1061 –1064.
+16. Brown-Borg HM, Buffenstein R. Cutting back on the essen-
+tials: Can manipulating intake of specific amino acids modu-late health and lifespan? Ageing Res Rev. 2017;39:87 –95.
+17. McIsaac RS, Lewis KN, Gibney PA, Buffenstein R. From yeast
+to human: Exploring the comparative biology of methioninerestriction in extending eukaryotic life span. Ann N Y Acad
+Sci. 2016;1363:155 –170.
+18. Orentreich N, Matias JR, DeFelice A, Zimmerman JA. Low
+methionine ingestion by rats extends life span. J Nutr. 1993;123:269 –274.
+19. Sun L, Sadighi Akha AA, Miller RA, Harper JM. Life-span
+extension in mice by preweaning food restriction and by
+methionine restriction in middle age. J Gerontol A Biol Sci
+Med Sci. 2009;64:711 –722.
+20. Gao X, Sanderson SM, Dai Z, et al. Dietary methionine influ-
+ences therapy in mouse cancer models and alters humanmetabolism. Nature. 2019;572:397 –401.
+21. Gill S, Le HD, Melkani GC, Panda S. Time-restricted feeding
+attenuates age-related cardiac decline in Drosophila. Science.
+2015;347:1265 –1269.
+22. Gabel K, Hoddy KK, Haggerty N, et al. Effects of 8-hour time
+restricted feeding on body weight and metabolic disease riskfactors in obese adults: A pilot study. Nutr Healthy Aging.2018;4:345 –353.
+23. Mitchell SJ, Bernier M, Mattison JA, et al. Daily fasting
+improves health and survival in male mice independent of
+diet composition and calories. Cell Metab. 2019;29:e223.24. Goodrick CL, Ingram DK, Reynolds MA, Freeman JR,
+Cider NL. Differential effects of intermittent feeding and vol-untary exercise on body weight and lifespan in adult rats.J Gerontol. 1983;38:36 –45.
+25. Goodrick CL, Ingram DK, Reynolds MA, Freeman JR,
+Cider NL. Effects of intermittent feeding upon growth, activ-
+ity, and lifespan in rats allowed voluntary exercise. Exp Aging
+Res. 1983;9:203 –209.
+26. Mager DE, Wan R, Brown M, et al. Caloric restriction and
+intermittent fasting alter spectral measures of heart rate andblood pressure variability in rats. FASEB J. 2006;20:631 –637.
+27. Goodrick CL, Ingram DK, Reynolds MA, Freeman JR,
+Cider N. Effects of intermittent feeding upon body weight and
+lifespan in inbred mice: Interaction of genotype and age.Mech Ageing Dev. 1990;55:69 –87.
+28. Longo VD, Panda S. Fasting, circadian rhythms, and time-
+restricted feeding in healthy lifespan. Cell Metab. 2016;23:1048 –1059.
+29. Brandhorst S, Choi IY, Wei M, et al. A periodic diet that
+mimics fasting promotes multi-system regeneration, enhanced
+cognitive performance, and healthspan. Cell Metab. 2015;22:
+86–99.
+30. Mair W, Goymer P, Pletcher SD, Partridge L. Demography of
+dietary restriction and death in Drosophila. Science. 2003;301:1731 –1733.
+31. Whitaker R, Gil MP, Ding F, Tatar M, Helfand SL, Neretti N.
+Dietary switch reveals fast coordinated gene expressionchanges in Drosophila melanogaster . Aging (Albany NY).
+2014;6:355 –368.
+32. Romey-Glusing R, Li Y, Hoffmann J, et al. Nutritional regi-
+mens with periodically recurring phases of dietary restrictionextend lifespan in Drosophila. FASEB J. 2018;32:1993 –2003.
+33. Luersen K, Roder T, Rimbach G. Drosophila melanogaster in
+nutrition research-the importance of standardizing experi-mental diets. Genes Nutr. 2019;14:3.
+34. Lee KP, Simpson SJ, Clissold FJ, et al. Lifespan and reproduc-
+tion in Drosophila: New insights from nutritional geometry.Proc Natl Acad Sci U S A. 2008;105:2498 –2503.
+35. Soultoukis GA, Partridge L. Dietary protein, metabolism, and
+aging. Annu Rev Biochem. 2016;85:5 –34.
+36. Mirzaei H, Raynes R, Longo VD. The conserved role of pro-
+tein restriction in aging and disease. Curr Opin Clin NutrMetab Care. 2016;19:74 –79.
+37. Derous D, Mitchell SE, Wang L, et al. The effects of graded
+levels of calorie restriction: XI. Evaluation of the main
+hypotheses underpinning the life extension effects of CRusing the hepatic transcriptome. Aging (Albany NY). 2017;9:1770 –1824.
+38. Friedman DB, Johnson TE. A mutation in the age-1 gene in
+Caenorhabditis elegans lengthens life and reduces hermaphro-
+dite fertility. Genetics. 1988;118:75 –86.
+39. Martins R, Lithgow GJ, Link W. Long live FOXO: Unraveling
+the role of FOXO proteins in aging and longevity. Aging Cell.2016;15:196 –207.
+40. Clancy DJ, Gems D, Harshman LG, et al. Extension of life-
+span by loss of CHICO, a Drosophila insulin receptor sub-strate protein. Science. 2001;292:104 –106.
+41. Flachsbart F, Caliebe A, Kleindorp R, et al. Association of
+FOXO3A variation with human longevity confirmed inVON FRIELING ANDROEDER 9
+German centenarians. Proc Natl Acad Sci U S A. 2009;106:
+2700 –2705.
+42. Slack C, Alic N, Foley A, Cabecinha M, Hoddinott MP,
+Partridge L. The Ras-Erk-ETS-signaling pathway is a drug tar-get for longevity. Cell. 2015;162:72 –83.
+43. Alic N, Giannakou ME, Papatheodorou I, et al. Interplay of
+dFOXO and two ETS-family transcription factors determines
+lifespan in Drosophila melanogaster . PLoS Genet. 2014;10:
+e1004619.
+44. Kaeberlein M, Powers RW III, Steffen KK, et al. Regulation of
+yeast replicative life span by TOR and Sch9 in response tonutrients. Science. 2005;310:1193 –1196.
+45. Kapahi P, Zid BM, Harper T, Koslover D, Sapin V, Benzer S.
+Regulation of lifespan in Drosophila by modulation of genesin the TOR signaling pathway. Curr Biol. 2004;14:885 –890.
+46. Johnson SC, Rabinovitch PS, Kaeberlein M. mTOR is a key
+modulator of ageing and age-related disease. Nature. 2013;493:338 –345.
+47. Robida-Stubbs S, Glover-Cutter K, Lamming DW, et al. TOR
+signaling and rapamycin influence longevity by regulating
+SKN-1/Nrf and DAF-16/FoxO. Cell Metab. 2012;15:713 –724.
+48. Hardie DG, Ross FA, Hawley SA. AMPK: A nutrient and
+energy sensor that maintains energy homeostasis. Nat RevMol Cell Biol. 2012;13:251 –262.
+49. Sharp ZD, Strong R. The role of mTOR signaling in control-
+ling mammalian life span: What a fungicide teaches us about
+longevity. J Gerontol A Biol Sci Med Sci. 2010;65:580 –589.
+50. Goberdhan DC, Wilson C, Harris AL. Amino acid sensing by
+mTORC1: Intracellular transporters mark the spot. CellMetab. 2016;23:580 –589.
+51. Zid BM, Rogers AN, Katewa SD, et al. 4E-BP extends lifespan
+upon dietary restriction by enhancing mitochondrial activity
+in Drosophila. Cell. 2009;139:149 –160.
+52. Carvalho GB, Drago I, Hoxha S, et al. The 4E-BP growth path-
+way regulates the effect of ambient temperature on Drosoph-ila metabolism and lifespan. Proc Natl Acad Sci U S A. 2017;114:9737 –9742.
+53. Selman C, Tullet JM, Wieser D, et al. Ribosomal protein S6
+kinase 1 signaling regulates mammalian life span. Science.
+2009;326:140 –144.
+54. Hansen M, Taubert S, Crawford D, Libina N, Lee SJ,
+Kenyon C. Lifespan extension by conditions that inhibit trans-lation in Caenorhabditis elegans . Aging Cell. 2007;6:95 –110.
+55. Castillo-Quan JI, Tain LS, Kinghorn KJ, et al. A triple drug
+combination targeting components of the nutrient-sensing
+network maximizes longevity. Proc Natl Acad Sci U S A. 2019;116:20817 –20819.
+56. Satoh A, Brace CS, Rensing N, et al. Sirt1 extends life span
+and delays aging in mice through the regulation of Nk2homeobox 1 in the DMH and LH. Cell Metab. 2013;18:416–430.
+57. Pan H, Finkel T. Key proteins and pathways that regulate
+lifespan. J Biol Chem. 2017;292:6452 –6460.
+58. Kaeberlein M, McVey M, Guarente L. The SIR2/3/4 complex
+and SIR2 alone promote longevity in Saccharomyces cerevisiae
+by two different mechanisms. Genes Dev. 1999;13:2570 –2580.
+59. Tissenbaum HA, Guarente L. Increased dosage of a sir-2 gene
+extends lifespan in Caenorhabditis elegans . Nature. 2001;410:
+227–230.60. Rogina B, Helfand SL. Sir2 mediates longevity in the fly
+through a pathway related to calorie restriction. Proc NatlAcad Sci U S A. 2004;101:15998 –16003.
+61. Houtkooper RH, Pirinen E, Auwerx J. Sirtuins as regulators of
+metabolism and healthspan. Nat Rev Mol Cell Biol. 2012;13:225–238.
+62. Burnett C, Valentini S, Cabreiro F, et al. Absence of effects of
+Sir2 overexpression on lifespan in C. elegans and Drosophila.Nature. 2011;477:482 –
+485.
+63. Hoffmann J, Romey R, Fink C, Yong L, Roeder T. Over-
+expression of Sir2 in the adult fat body is sufficient to extendlifespan of male and female Drosophila. Aging (Albany NY).
+2013;5:315 –327.
+64. Banerjee KK, Ayyub C, Ali SZ, Mandot V, Prasad NG,
+Kolthur-Seetharam U. dSir2 in the adult fat body, but not inmuscles, regulates life span in a diet-dependent manner. CellRep. 2012;2:1485 –1491.
+65. Schmeisser K, Mansfeld J, Kuhlow D, et al. Role of sirtuins in
+lifespan regulation is linked to methylation of nicotinamide.
+Nat Chem Biol. 2013;9:693 –700.
+66. Morselli E, Maiuri MC, Markaki M, et al. Caloric restriction
+and resveratrol promote longevity through the Sirtuin-1-dependent induction of autophagy. Cell Death Dis. 2010;1:e10.
+67. Rollins JA, Shaffer D, Snow SS, Kapahi P, Rogers AN. Dietary
+restriction induces posttranscriptional regulation of longevity
+genes. Life Sci Alliance. 2019;2:e201800281.
+68. Hahm JH, Jeong C, Nam HG. Diet restriction-induced healthy
+aging is mediated through the immune signaling componentZIP-2 in Caenorhabditis elegans . Aging Cell. 2019;18:e12982.
+69. Matai L, Sarkar GC, Chamoli M, et al. Dietary restriction
+improves proteostasis and increases life span through endo-
+plasmic reticulum hormesis. Proc Natl Acad Sci U S A. 2019;
+116:17383 –17392.
+70. Lin SJ, Kaeberlein M, Andalis AA, et al. Calorie restriction
+extends Saccharomyces cerevisiae lifespan by increasing respi-
+ration. Nature. 2002;418:344 –348.
+71. Partridge L, Piper MD, Mair W. Dietary restriction in Dro-
+sophila. Mech Ageing Dev. 2005;126:938 –950.
+72. Mattison JA, Roth GS, Beasley TM, et al. Impact of caloric
+restriction on health and survival in rhesus monkeys from theNIA study. Nature. 2012;489:318 –321.
+73. Mattison JA, Colman RJ, Beasley TM, et al. Caloric restriction
+improves health and survival of rhesus monkeys. Nat
+Commun. 2017;8:14063.
+74. Pifferi F, Terrien J, Perret M, et al. Promoting healthspan and
+lifespan with caloric restriction in primates. Commun Biol.2019;2:107.
+75. Lee D, Hwang W, Artan M, Jeong DE, Lee SJ. Effects of nutri-
+tional components on aging. Aging Cell. 2015;14:8 –16.
+76. Couzin-Frankel J. Nutrition. Diet studies challenge thinking
+on proteins versus carbs. Science. 2014;343:1068.
+77. Cheng CW, Villani V, Buono R, et al. Fasting-mimicking diet
+promotes Ngn3-driven beta-cell regeneration to reverse diabe-tes. Cell. 2017;168(775 –788):e712.
+78. Buono R, Longo VD. Starvation, stress resistance, and cancer.
+Trends Endocrinol Metab. 2018;29:271 –280.
+79. Obrist F, Michels J, Durand S, et al. Metabolic vulnerability of
+cisplatin-resistant cancers. EMBO J. 2018;37:e98597.10 VON FRIELING ANDROEDER
+80. Wang J, Ho L, Qin W, et al. Caloric restriction attenuates beta-
+amyloid neuropathology in a mouse model of Alzheimer's dis-ease. FASEB J. 2005;19:659 –661.
+81. Sharon G, Cruz NJ, Kang DW, et al. Human gut microbiota
+from autism spectrum disorder promote behavioral symptomsin mice. Cell. 2019;177:e1617.
+82. Sampson TR, Debelius JW, Thron T, et al. Gut microbiota reg-
+ulate motor deficits and Neuroinflammation in a model ofParkinson's disease. Cell. 2016;167:e1412.
+83. Maffei VJ, Kim S, Blanchard Et, et al. Biological aging and the
+human gut microbiota. J Gerontol A Biol Sci Med Sci. 2017;72:1474 –1482.
+84. Bana B, Cabreiro F. The microbiome and aging. Annu Rev
+Genet. 2019;53:239 –261.
+85. Smith P, Willemsen D, Popkes M, et al. Regulation of life span
+by the gut microbiota in the short-lived African turquoise kil-lifish. Elife. 2017;6:e27014.
+86. Zmora N, Suez J, Elinav E. You are what you eat: Diet, health
+and the gut microbiota. Nat Rev Gastroenterol Hepatol. 2019;
+16:35 –56.
+87. Guo L, Karpac J, Tran SL, Jasper H. PGRP-SC2 promotes gut
+immune homeostasis to limit commensal dysbiosis andextend lifespan. Cell. 2014;156:109 –122.
+88. Ren C, Webster P, Finkel SE, Tower J. Increased internal and
+external bacterial load during Drosophila aging without life-
+span trade-off. Cell Metab. 2007;6:144 –152.
+89. Fransen F, van Beek AA, Borghuis T, et al. Aged gut micro-
+biota contributes to systemical inflammaging after transfer togerm-free mice. Front Immunol. 2017;8:1385.
+90. Rangan P, Choi I, Wei M, et al. Fasting-mimicking diet modu-
+lates microbiota and promotes intestinal regeneration to reduceinflammatory bowel disease pathology. Cell Rep. 2019;26:e2706.
+91. Barcena C, Valdes-Mas R, Mayoral P, et al. Healthspan and
+lifespan extension by fecal microbiota transplantation intoprogeroid mice. Nat Med. 2019;25:1234 –1242.
+92. Brummel T, Ching A, Seroude L, Simon AF, Benzer S. Dro-
+sophila lifespan enhancement by exogenous bacteria. ProcNatl Acad Sci U S A. 2004;101:12974 –12979.
+93. Tazume S, Umehara K, Matsuzawa H, Aikawa H, Hashimoto K,
+Sasaki S. Effects of germfree status and food restriction on lon-gevity and growth of mice. Jikken Dobutsu. 1991;40:517 –522.
+94. Snyder DL, Pollard M, Wostmann BS, Luckert P. Life span,
+morphology, and pathology of diet-restricted germ-free andconventional Lobund-Wistar rats. J Gerontol. 1990;45:
+B52–B58.
+95. Dobson AJ, Chaston JM, Douglas AE. The Drosophila tran-
+scriptional network is structured by microbiota. BMC Geno-mics. 2016;17:975.
+96. Storelli G, Defaye A, Erkosar B, Hols P, Royet J, Leulier F.
+Lactobacillus plantarum promotes Drosophila systemicgrowth by modulating hormonal signals through TOR-
+dependent nutrient sensing. Cell Metab. 2011;14:403 –414.
+97. Shin NR, Lee JC, Lee HY, et al. An increase in the
+Akkermansia spp. population induced by metformin treat-ment improves glucose homeostasis in diet-induced obesemice. Gut. 2014;63:727 –735.
+98. Zhou Y, Rychahou P, Wang Q, Weiss HL, Evers BM.
+TSC2/mTORC1 signaling controls Paneth and goblet cell differen-
+tiation in the intestinal epithe lium. Cell Death Dis. 2015;6:e1631.99. Sommer F, Adam N, Johansson ME, Xia L, Hansson GC,
+Backhed F. Altered mucus glycosylation in core 1 O-glycan-deficient mice affects microbiota composition and intestinalarchitecture. PLoS One. 2014;9:e85254.
+100. Lee JE, Rayyan M, Liao A, Edery I, Pletcher SD. Acute dietary
+restriction acts via TOR, PP2A, and Myc signaling to boost
+innate immunity in Drosophila. Cell Rep. 2017;20:479 –490.
+101. Cabreiro F, Au C, Leung KY, et al. Metformin retards aging in
+C. elegans by altering microbial folate and methionine metab-
+olism. Cell. 2013;153:228 –239.
+102. Edwards C, Canfield J, Copes N, et al. Mechanisms of amino
+acid-mediated lifespan extension in Caenorhabditis elegans .
+BMC Genet. 2015;16:8.
+103. De Marte ML, Enesco HE. Influence of low tryptophan diet
+on survival and organ growth in mice. Mech Ageing Dev.1986;36:161 –171.
+104. Zapata RC, Singh A, Ajdari NM, Chelikani PK. Dietary trypto-
+phan restriction dose-dependently modulates energy balance,gut hormones, and microbiota in obesity-prone rats. Obesity
+(Silver Spring). 2018;26:730 –739.
+105. Longo VD, Mattson MP. Fasting: Molecular mechanisms and
+clinical applications. Cell Metab. 2014;19:181 –192.
+106. Godinez-Victoria M, Campos-Rodriguez R, Rivera-Aguilar V,
+et al. Intermittent fasting promotes bacterial clearance and
+intestinal IgA production in Salmonella typhimurium-infected
+mice. Scand J Immunol. 2014;79:315 –324.
+107. Li G, Xie C, Lu S, et al. Intermittent fasting promotes white
+adipose browning and decreases obesity by shaping the gutmicrobiota. Cell Metab. 2017;26:e674.
+108. Cignarella F, Cantoni C, Ghezzi L, et al. Intermittent fasting
+confers protection in CNS autoimmunity by altering the gutmicrobiota. Cell Metab. 2018;27:e1226.
+109. Beli E, Yan Y, Moldovan L, et al. Restructuring of the gut
+microbiome by intermittent fasting prevents retinopathy andprolongs survival in db/db mice. Diabetes. 2018;67:1867 –1879.
+110. von Frieling J, Fink C, Hamm J, et al. Grow with the chal-
+lenge - microbial effects on epithelial proliferation, carcino-genesis, and Cancer therapy. Front Microbiol. 2018;9:2020.
+111. Kapahi P, Chen D, Rogers AN, et al. With TOR, less is more:
+A key role for the conserved nutrient-sensing TOR pathway inaging. Cell Metab. 2010;11:453 –465.
+112. Lushchak O, Strilbytska OM, Yurkevych I, Vaiserman AM,
+Storey KB. Implications of amino acid sensing and dietaryprotein to the aging process. Exp Gerontol. 2019;115:69 –78.
+113. Narasimhan SD, Yen K, Tissenbaum HA. Converging path-
+ways in lifespan regulation. Curr Biol. 2009;19:R657 –R666.
+114. Greer EL, Brunet A. Signaling networks in aging. J Cell Sci.
+2008;121:407 –412.
+115. Pallauf K, Rimbach G, Rupp PM, Chin D, Wolf IM. Resvera-
+trol and lifespan in model organisms. Curr Med Chem. 2016;23:4639 –4680.
+How to cite this article: von Frieling J, Roeder T.
+Factors that affect the translation of dietaryrestriction into a longer life. IUBMB Life . 2019;
+1–11.
+https://doi.org/10.1002/iub.2224VON FRIELING ANDROEDER 11

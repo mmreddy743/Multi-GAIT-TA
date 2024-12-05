@@ -1,0 +1,1591 @@
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Received:08June2020
+Revised:23July2020Accepted:29July2020
+VersionofRecordpublished:
+24August2020Review Article
+Metabolism
+Ayesha Judge and
+ Michael S. Dodd
+CentreforSport,ExerciseandLifeSciences,FacultyofHealthandLifeSciences,CoventryUniversity,WhitefriarsRoad,Coventry,U.K.
+Correspondence: MichaelS.Dodd( mike.dodd@coventry.ac.uk )
+Metabolism consists of a series of reactions that occur within cells of living organisms to
+sustain life. The process of metabolism involves many interconnected cellular pathways to
+ultimately provide cells with the energy required to carry out their function. The importanceandtheevolutionaryadvantageofthesepathwayscanbeseenasmanyremainunchanged
+by animals, plants, fungi, and bacteria. In eukaryotes, the metabolic pathways occur within
+the cytosol and mitochondria of cells with the utilisation of glucose or fatty acids providing
+the majority of cellular energy in animals. Metabolism is organised into distinct metabolic
+pathways to either maximise the capture of energy or minimise its use. Metabolism can besplit into a series of chemical reactions that comprise both the synthesis and degradation
+of complex macromolecules known as anabolism or catabolism, respectively. The basic
+principlesofenergyconsumption andproductionarediscussed, alongsidethebiochemicalpathways that make up fundamental metabolic processes for life.
+Introduction
+The basics of metabolism
+Whenmanypeoplethinkaboutmetabolism,theythinkoffoodanddrinkorthehugemetabolicpathwaydiagram with thousands of connections. However, understanding metabolism is key to understanding
+lifeandthishasbeenasubjectoffascinationwithbiochemistsformorethan150years.ThegreatNobel
+Prize-winning scientist Hans Krebs was inspired to study metabolism by his university professor ProfFrance Knoop (who discovered β-oxidation of fatty acids). He unpicked and described both the citric
+acidcycleandtheureacyclewhichlieasfundamentalprocessesofmetabolism.ProfFranzKnoopsaid:
+“Thefinalgoalofphysiologicalchemistry/(metabolism)”isto“presentaschemethatputstogetheran
+unbrokenseriesofequationsofallofthereactionsfromthefoodstuffswhichcontinuouslysupply
+totheorganismitsenergyneeds,allthewaytotheslagthatagainleavestheorganismasenergyless
+final oxidation products.” Prof Franz Knoop 1931-Hans Krebs:The formation of ascientific life1900–1933byF.L.Holmes.
+Whilst it can be daunting to think about every metabolic pathway that is occurring, we can break it
+downandunderstanditssmalleraspects.Knoop’swordsunderpinthetruemeaningofmetabolismandoneofitscentralrolesinbiochemistryandphysiologicalchemistry.MetabolismisderivedfromtheGreek
+word,metabol¯emeaning ‘to change’ and comprises the total of all chemical reactions that take place in
+thecellthatareessentialforlife.Thesechemicalreactionscompriseboththesynthesisanddegradationofcomplexmacromoleculesandcanbedividedintoeithercatabolismoranabolism(Figure1–catabolism
+vs anabolism). Catabolism is the degradation of complex macromolecules into simpler molecules such
+as carbon dioxide, water, and ammonia. Anabolism is the biosynthetic pathways that generate complex
+macromoleculessuchasnucleicacids,proteins,polysaccharides,andlipids.
+Tomaintaincellularandwhole-bodyfunction,livingorganismsrequireenergycontinuously.Energyis
+requiredformechanicalwork(contractionandcellularmovement),activetransportofions/substrates(i.e.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).607
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 1. Coupling of anabolic and catabolic pathways
+Anabolismutilisesenergytomakemacromoleculesandbiomolecularpolymers.Catabolismreleasesenergywhenthesearebroken
+down into simpler molecules.
+K+,M g2+,a n dC a2+, for example in cardiac contraction) and the biosynthesis of complex macromolecules (such as
+glycogen).
+This review will focus on the basics of metabolism with in mammals, with mentions of other organisms too. The
+aim is to provide you with an understanding of the metabolic pathways that are present in animals, how energy isderived from these systems, and how they are controlled. Finally, we will touch on the exciting elements of research
+in metabolism, including how understanding metabolism could help with treating cancer, how it can be used in
+biotechnologytogeneratebioethanol,andhowmetabolicdiseasesmakeupseveralkeyinheritedconditions.
+Why pathways?
+Metabolic pathways are vital in capturing useful energy. This is in contrast with uncontrolled combustion, where
+energyisrapidlyreleasedintotheenvironment,asheatandlight,whichwouldbeunsustainableforlife.Metabolismis
+organisedintodistinctmetabolicpathwaystoeithermaximisethecaptureofenergyorminimiseitsuse.Incatabolism,
+metabolicpathwaysareorganisedsuchthatenergyisreleasedslowlyindiscretequantaofenergy,whichiscaptured
+bythesynthesisofadenosinetriphosphate(ATP),guanosinetriphosphate(GTP),NAD(P)H(nicotinamideadeninenucleotide(phosphate))orbytheelectrontransportchain(ETC).Inanabolism,metabolicpathwaysusethesediscrete
+quantaofenergyintheformofATPandNADPHtoperformwork,suchasthesynthesisofbiomolecules.
+Theactionofmetabolicpathwaysinthecellisparticularlyimpressivewiththeabilitytoorganiseseveralhundred
+metabolic reactions occurring simultaneously within the cell and occurring at a relatively low temperature. Most
+of this is achieved by specific enzymes and compartmentalisation of reactions and enzymes. Sometimes this com-
+partmentalisation is achieved by separating reactions into different organelles, or by coupling reactions together, toprevent uncontrolled combustion. Enzymes allow discrete reactions to occur, which when combined give the same
+overall effect as combustion, but in a controlled fashion. In this review, we will discuss the energy of reactions, the
+roleofmetabolicenzymes,keymetabolicpathways,andthenthevitalorganellesforenergygeneration.
+Energy within the system
+One of the most important biomolecules in the cell is the nucleotide; ATP. ATP has a linear triphosphate structure
+whichprovidesfournegativechargesandthereforeitexistsasahighlychargedmolecule.Duetothisnegativecharge,
+these bonds can store a large amount of energy, which can be liberated easily at the site of work. Along with ATP,NAD
++alsoactsasastoreforenergyinitsreducedform,NADH+H.NAD+actsasauniversalelectroncarrierinthe
+cell,transportingelectronsfromcatabolismsitetotheETC.
+´EmilieduCh ˆateletproposedthelawofconservation,whichstatedthatenergycanbeneithercreatednordestroyed;
+rather,itcanonlybetransformedfromoneformintoanother.Thisislinkedtothefirstlawofthermodynamicsandit
+helpsustoexplainhowenergyflowsthroughbiologicalsystems.Thelawsofthermodynamicsalsohelpustopredictif a reaction is possible and how much energy is required or released in the process. This brings us to an important
+608 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 2. Reaching equilibrium
+If you increase the concentration of A and B, this pushes the reaction to make more C and D. If you do the opposite and add more
+C and D, then the reverse reaction occurs. The aim is to bring the reaction back to equilibrium.
+Figure 3. The effect of changes in /Delta1G on the reaction A+B and C+D
+concept:theroleofchemicalequilibria,whereareactioncanbereversible(seeFigure2).Atequilibrium,thereisno
+netreactionasboththeforwardandreversereactionsaremovingequallyfast.Thesystemaimstobringreactionsto
+equilibrium.However,trueequilibriumisnotcompatiblewithlife,asthereisnolongeraflowofenergy.
+Thedirectionofthereactioncanbegovernedbymanyaspects,includingtheconcentrationofsubstrateorprod-
+ucts,theenergyreleasedorrequiredforthereaction,andinthecaseofmetabolicpathways,theactivityoftheenzyme.
+Figure2showsthatsimpleequilibriacanbeinfluencedbythechangeinsubstratesandproductsandthatthedirectionofthereactionisgovernedbywhichhasahigherconcentration.However ,thefulcrumofthemetaphoricalseesawis
+notalwaysinthecentreandthisisdescribedbytheequilibriumconstantorstandardfreeenergychange.
+Gibbsfreeenergyisusedtodescribewhetherourreactionwillruninonedirectionortheotherandistermedas
+the energy available to do work. This is different from total energy, which is the energy obtained from combustion.
+StandardfreeenergychangeisaspecialformoftheGibbsfreeenergyandprovidesaconstantenergychangeduring
+the standard state – pH 7.0 at 25
+◦C and 1 atm, when the concentration of substrates is 1.0 M. This is termed as
+/Delta1G◦/primeandhasacharacteristicconstantvalueforagivenreactionandtellsuswherethebalancingpointis.However,
+we still want to know if the reaction is going in one direction or the other. Change in free energy ( /Delta1G) is a much
+more realistic measure of the energy available to the system under normal cellular environments. This is because in
+mammals internal body temperatures are not at 25◦C and metabolic substrates are not at 1 M. Whilst /Delta1G◦/primehas a
+characteristicconstantvalueforagivenreaction, /Delta1Gisnotaconstantasitisdependenton /Delta1G◦/prime,theconcentration
+ofsubstrates,andthetemperature. /Delta1Gcanbedescribedbythefollowing(eqn1):
+/Delta1G=/Delta1H−T/Delta1S (1)
+Enthalpy(H) =totalenergy;Entropy(S) =disorderofthesystem;T =temperature(measuredinKelvin)
+The second law of thermodynamics states that for a process (reaction) to take place, there must be an increase in
+entropyintheuniverse(orsystem).Thismeansthatforareactiontotakeplacespontaneouslythereneedstobean
+increase in entropy and therefore a negative change in free energy ( /Delta1G). We can now consider what this means in
+termsofreactionkineticsandhow /Delta1Gcandictatethedirectionofthereaction,usingtheanalogyofbicycling(Figure
+3). If the /Delta1G is negative, a reaction proceeds spontaneously and with a loss of free energy. Using our bike analogy,
+thiswouldbeliketheenergyreleasedasyoucyclefromthetopofahilldowntothebottom.ThiskindofreactionistermedEXERGONIC,orifitreleasesheat,exothermic.Ifontheotherhand, /Delta1Gispositive,andyouarelookingup
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).609
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Table 1 Standard free energy and Gibbs free energy of each step in glycolysis
+Enzyme /Delta1G◦/primein kJ.mol−1/Delta1Gi nk J . m o l−1
+Hexokinase −16.7 −33.5
+G6PI +1.7 −2.5
+PFK −14.2 −22.2
+Aldolase +23.8 −1.3
+Triose phosphate isomerase +7.5 +2.5
+Glyceraldehyde 3 phosphate dehydrogenase +6.3 −1.7
+Phosphoglycerate kinase −18.8 +1.3
+Phosphoglycerate mutase +4.6 +0.8Enolase +1.7 −3.3
+Pyruvate kinase −31.4 −16.7
+atthehill,thenthereactionisunfavourableornotspontaneous,i.e.thereactionisENDERGONIC,orinthecaseof
+heat,endothermic.Asreactionscanbereversible,iftheforwardreactionhasapositive /Delta1G,thenthereversereaction
+willbenegative,thereforethereactioncouldoccurinreverse.
+If we put this into practical terms to consider the second reaction in glycolysis catalysed by glucose-6-phosphate
+(G6P)isomerase(G6PI)(eqn2):
+Glucose-6-phosphateG6PI/harpoonrightleftFructose-6-phosphate (2)
+The/Delta1G◦/primeforthisreactionis+1.7kJ.mol−1,whichisclosetoequilibrium,wouldbeendogenicandthereforenot
+spontaneous.However /Delta1G◦/primedescribesthefreeenergyavailableunderstandardstateconditions.Ifwelookatamore
+physiologicalcondition,i.e.at37◦C, then if the concentrationof G6P increases, this decreases the /Delta1Gin tonega tive
+a n dd r i v e st h ef o rw a r dr e a c t i o n .T h ec o u n t e ri st r u e ,s oi ff r u c t o s e - 6 - p h o s p h a t e( F 6 P )a c c u m u l a t e st h ef o rw a r dr e -
+action is inhibited (due to /Delta1G now becoming positive) then the reverse reaction is favoured (as the /Delta1G for this is
+negative).Thisisanexampleofoneofthefreelyreversiblereactionsinglycolysis.
+Anotherthingtotakeintoaccountisthatsomereactionswillnotbereversibleunderphysiologicalconditions.For
+example,ifthe /Delta1Gisverynegative,thenchangingtheamountofproductorsubstratewillnotaffect,especiallyasthe
+temperaturecanveryrarelybealteredtoanyrealdegree.Oneexampleofwherethisisparticularlyseenisinoneofthekey regulatory steps in glycolysis – the reaction catalysed by phosphofructokinase 1 (PFK1), shown in (eqn 3). The
+/Delta1G
+◦/primeis−14.2 kJ.mol−1, meaning that under physiological conditions the /Delta1G is very negative, and therefore even
+a build-up of fructose-1-phosphate is not sufficient to reverse the reaction. This reaction is effectively irreversibleunderphysiologicalconditions;wewilldiscussthisinmoredetaillater.
+Fructose-6-phosphate +ATPPFK1
+→Fructose-1,6-bisphosphate +ADP (3)
+Oneimportantcaveatabout /Delta1Gandreactionsisthat /Delta1Gdoesnotpredicttherateofreaction.Therateofreaction
+is governed by the activation energy and is catalysed by enzymes. If /Delta1G is negative, then the reaction should occur
+spontaneously,butthereisstillaneedtoovercometheinitialactivationenergy.Reactionsthatneedcatalysiscanbe
+controlledbytheactivityoftheenzyme.Forexample,whilstthe /Delta1Gfor(eqn3)isverynegative,PFK1isregulatedby
+feedbackinhibitionandactivation.Increasingconcentrationsofeitherphosphoenolpyruvate(PEP;thepenultimate
+intermediateinglycolysis)orATPinhibitPFK1,astheyactasasignalforsufficientenergydemand.Conversely,anincreaseintheconcentrationofadenosinemonophosphate(AMP)signalsanenergydeficitinthecellandtherefore
+activates PFK1. For further information on enzyme inhibition and feedback, then look at the Enzymes: principles
+and biotechnological applications ( Essays in Biochemistry (2015), 59, 1–41; DOI: 10.1042/bse0590001).
+Coupled reactions and pathways
+There is an intrinsic value to coupling reactions together to form complex pathways. As we can see from Table 1,
+several reactions have a positive /Delta1G and so in theory, should not be spontaneous nor go in reverse. However, by
+linking the reactions together, the product of one reaction becomes the substrate for the next. Thus, by coupling
+reactions together, substrates can build up and products can be rapidly removed, changing the equilibrium seesaw
+(Figure2)makingthe /Delta1Gnegative(forreversiblereactions).Wewilldiscussglycolysisinmoredetaillaterandhow
+regulationcancontrolkeystepsandtheotherfatesofG6P.
+610 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 4. The role of nitrogen in generating macromolecules in chemoautotrophs – AOB, NOB, NH 4+,N O 2−,a n dN O 3−
+Finally,ATPcanbeusedtodrivereactionsforwardbycouplingthereleaseofenergyfromitshydrolysistoovercome
+apositive /Delta1G.Aswehavepreviouslyseen,ATPstoresalargeamountofenergyinthephosphatebondsandcleavage
+ofonephosphateliberates −31kJ.mol−1.Thiscanbeusedtoovercomeendergonicreactionssuchasthefirstreaction
+inglycolysis:
+Glucose +Pi+H+→Glucose-6-phosphate +H2O/parenleftbig
+endergonic/parenrightbig
+/Delta1G°’=+14 kJ.mol−1
+ATP+H2O→ADP+Pi+H+/parenleftbig
+exergonic/parenrightbig
+/Delta1G°’=−31 kJ.mol−1
+Glucose +ATP→G-6-phosphate +ADP/parenleftbig
+exergonic/parenrightbig
+/Delta1G°’=−17 kJ.mol−1
+The native reaction, the addition of inorganic phosphate, is endergonic and requires +14 kJ.mol−1. However, be-
+causethehydrolysisofATPliberatesPiandPiisasubstrateforthefirstreaction,thesereactionscanbecoupledand
+theenergyo fh y dr olysiso fA TPisusedtodrivether eactio n.N o te thiscoupling onlyworksbecauseP iis ashared
+intermediateinbothreactions.
+Insummary,reactionsarefavouredwhentheyhaveanegative /Delta1G.Couplingreactionstogetherinpathwaysenable
+unfavourablereactionstooccur.Metabolismisorganisedintodistinctmetabolicpathwaystomaximisethecapture
+ofenergyandpreventuncontrolledcombustion.
+Metabolism from thin air
+Organismsfallintotwodistinctgroups,eitherheterotrophsorautotrophs.Autotrophsderivedfromthewords‘auto’for ‘self’ and ‘-trophs’ for ‘food’ are a set of organisms that can obtain energy from sunlight and inorganic nutrients
+fromtheirenvironmenttofixcarbonintocomplexmacromolecules.Heterotrophsrepresentamuchlargergroupof
+organisms,includingmostmicroorganismsandanimalcells.Incontrastwithautotrophs,theyarenotabletofixtheirowncarbon,butinsteadusethecarbonfixedbyautotrophstogrow .
+Autotrophs can generally be split into two groups, chemoautotrophs, and photoautotrophs. These organisms use
+the energy from inorganic chemical reactions (chemoautotrophs, i.e. Nitrobacter ) or light (photoautotrophs, i.e.
+plants) to fix carbon dioxide as a usable energy source. One example of a key group of chemoautotrophs are the
+diazotrophs, which are nitrogen-fixing bacteria and archaea. They are responsible for fixing nitrogen from the air
+(N
+2) into inorganic nitrogen compounds such as ammonia (NH 4+), nitrite (NO 2−), and nitrate (NO 3−). They are
+also capable of using these compounds to obtain energy for biosynthesis of macromolecules. Ammonia-oxidising
+(AOB)andnitrite-oxidising(NOB)bacteriatakeadvantageofprocessessimilartotheeukaryoticETC(inmitochon-
+dria)togeneratetheirATP(Figure4).Oxidationofinorganicnitrogencompounds,suchasNH 4+andNO 2−release
+electronsthatarecapturedandtransferredbycopper-containingenzymestoafinalelectronacceptor.Thetransferof
+theseelectronsdriveprotons(H+)tobepumpedouttogenerateaprotongradient,alsoknownastheprotonmotive
+force. These protons then flow back down their concentration gradient through an ATP synthase, to generate ATP.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).611
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 5. Basic pathway of photosynthesis and biosynthesis in green plants
+ThisATPcanthenbeutilisedinbiosyntheticprocessessuchastheCalvincycle,whichcapturesCO 2andconvertsit
+intocarbohydrates.
+Photoautotrophsrepresentthemajorclassofautotrophs,whichutiliselightasanenergysourcetofixcarbondiox-
+ide(Figure5).Multicellularplantsandunicellularorganisms(algaeandcyanobacteria)areperhapsthebestexamples
+ofthisclass,usingtheprocessofphotosynthesistoturnsunlightintoA TPandN ADPH.MatthewJohnsonwrotean
+excellent review on Photosynthesis forEssays In Biochemistry ((2016) 60, 255–273; DOI: 10.1042/EBC20160016).
+In brief, these organisms use photons of light to obtain electrons from water and produce oxygen as a by-product.
+TheseelectronsareagainusedtodriveA TPformation,whichinturnisusedbypathways,suchastheCalvincycleto
+generatecarbohydrates.Ineukaryoticorganismssuchasgreenplantsandalgae,thisprocessofcapturingphotonsisachievedbythechloroplast.Cyanobacterialacktheseorganelles,insteadphotosynthesisingusingfoldedmembranes.
+Genome analysis data suggest that an ancient cyanobacterium might have provided the ancestor of the chloroplast
+ineukaryoticcells(formoreinformationonthistopic,therecentworkofS ´anchez-Baracaldoetal.(2017)describes
+theirworktoidentifytheearlyphotosyntheticeukaryotes).
+Animal metabolism
+Aswehavealreadyseen,animalsareheterotrophsandrelyonorganicchemicalnutrientstoproducephysiologically
+usefulenergy.Animals,therefore,needadietaryintakeofcarbohydrate,fat,andproteinforenergy,alongwithvita-
+minsandions.Althoughtherecommendeddietaryintakeforhumansvariesfromcountrytocountry,intheU.K.theNHS recommends a diet comprising 68.5% carbohydrate, 18.5% fat, and 13% protein. However, within the general
+populationthesenumbersareshifting.Thereisamuchgreaterrelianceonfatandsugarwithinthediet.Theincreased
+overconsumptionoffatsandsugararepotentiallyfuellinganobesityepidemic,withthegreatestdrivingforcebeingsugar intake. Therefore, a greater understanding of metabolic pathways and the processes that govern weight loss
+and gain is required. There are five major sources of metabolic fuel used by animal tissues, these include glucose,
+fattyacids,ketones,aminoacids,andlactate.Glucose,fattyacids,andaminoacidsaregenerallyderivedfromdietarysources,althoughsomecanbesynthesisedbyspecificorgans.Glucoseandfattyacidscanbestoredwithinthebody
+inpolymerssuchasglycogenandtriglycerides(TAGs),respectively,andduringtimesofstarvation,aminoacidscan
+beliberatedfromproteins.Ketonesandlactateareonlytransientlyproducedinthebodyandarenotstored.
+Many tissues are flexible with how they can derive ATP. Under times of fasting or starvation (fasting for longer
+than24h),ourbodyprioritisesbreakdownoffuelsourcessothattheleastimportantfortissuesurvivalisusedfirst.
+Overthefirst24h,thebodyusesliverglycogenstorestomaintainbloodglucoseconcentrations,butascanbeseen
+in Table 2, there are limited stores of glucose in the body. The brain requires between 100 and 120 g of glucose per
+day to maintain normal function, meaning that glycogen levels alone would not be sufficient. There is therefore aneedtoincreaseglucoseproductiontomaintainnormalbloodglucoseatcloseto5.5mmol.l
+-1(withbloodglucose
+612 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Table 2 Mass of fuel reserves in tissue and total in a typical 70-kg man (adapted from G.F., Jr, Cahill (1976) Clin. Endocrinol.
+Metab. 5, 398)
+Tissue Glucose or glycogen (g) Mobilisable proteins (g) TAGs (g)
+Adipose tissue 20 10 15000
+Blood 15 0 5B r a i n 200Liver 100 100 50Skeletal muscle 300 6000 50
+Total (g) 437 6110 15105
+notnormallydroppingbelow3.5mmol.l-1inextremeconditions).Asthebodyprogressesthroughthisfirst24h,it
+startstoincreasethesynthesisof‘new’glucosefromothersourcesandbyday2,gluconeogenesisisthepredominantsourceofglucose.Tomaintainnormalbloodglucoselevels,sometissues,suchastheheartandmuscle,increasefatty
+acid usage to minimise their glucose utilisation. As we enter this longer period of fasting and starvation the body
+starts to breakdown ‘mobilisable’ protein in skeletal muscle (proteolysis), to provide substrates for gluconeogenesis(intheliver).These’mobilisable’proteinsareinitiallyproteinsthataredeemedexpendableorwhoseactionisenergy
+demanding;however,asstarvationprogressesthisexpendableproteinbreakdownisfollowedbythebreakdownofless
+expendableproteins.Ifthisproteinbreakdowncontinues,itcanleadtomusclewastingandeventuallycompromisedphysiologicalfunction,damagetothediaphragm,anddeath.
+Metabolic fuels are selectively metabolised
+The tissues of the body show differing abilities to utilise various metabolic fuels, and most show flexibility in fuel
+selection. For several tissues, glucose is the main fuel, but others, including the heart, can use a wide range of fuels.
+The human brain relies almost completely on glucose to meet the high energy demand, with a small amount ofketonesused duringstarvation.It isestimatedthatat rest thebrainuses nearlytwo-thirdsof glucoseconsumption,
+withtheerythrocytes(redbloodcells)andskeletalmuscleusingmostoftherest.Erythrocytesaresolelydependent
+on glucoseastheylack mitochondria,thereforecan onlyundergo anaerobicglycolysis, highlightingtheimportanceof maintaining normal blood glucose levels. During exercise, skeletal muscle will increase its demand for glucose,
+breakingdowntheextensiveglycogenstores( ∼300g)tomaintainpeakoutput.
+Fattyacidsareamajorsourceofenergyforhumansandmostterrestrialanimals,duetotheirabilitytodenselypack
+into TAGs, meaning mol for mol they generate more ATP than glucose. TAGs are hydrophobic and allow efficient
+storage of fatty acids in lipid droplets, such as in adipose tissue. Upon lipolysis (the breakdown of TAGs), free fatty
+acidsarereleasedintotheblood,wheretheycanbeoxidisedbyseveraltissues.Atresttheheartderives60–70%ofits
+energydemandfromfattyacids,highlightingtheimportanceofthisfuelsource.However,elevatedlevelsoffattyacids
+arelinkedtoconditionssuchastype2diabetes(whichiscoveredinmoredetaillater).Theliverusesfattyacids,bothasafuelsourceand,intimesoffastingandstarvation,forthegenerationofketones(alsocalledketonebodies).The
+livercangeneratethetwomajorketones,acetoacetateand β-hydroxybutyrate,usingacetylCoenzymeA(CoA)from
+β-oxidationinaprocessknownasketogenesis.TheliverlackstheenzymesuccinylCoAtransferasetouseketonesas
+afuelsourceandthereforereleasesitforothertissues,suchastheheart,skeletalmuscle,andthebrain.Ketonescan
+passthroughtheblood–brainbarrierandcanofferanadditionalsourceofenergytoglucoseinthebrain,although
+they cannot fully replace glucose. Ketones are oxidised in these tissues in a process known as ketolysis, to generate20 and 22.5 ATP (acetoacetate and β-hydroxybutyrate, respectively). In the blood, ketones exist in an acidic form
+andatlowconcentrations(normallyunder0.6mmol.l
+-1) are unlikely to cause the body any harm. However, during
+diabeticketoacidosis(anacutecomplicationoftype1diabetes),thereisarapidanduncontrolledoverproductionofketones( ≥3.1mmol.l
+-1)resultinginadecreaseinbloodpHandpotentiallyleadingtoacoma.Anoverviewoftissue
+interactioninstarvationcanbeseeninFigure6.
+FromFigure6itcanbeseenthatthereisarequirementforcross-talkbetweentissuestosurviveduringthetimeof
+starvation.Thesameistrueforthefedstate,whereregulationandmetabolicintegrationoftissuesisvitaltomaintain
+normal function. Each organ is responsible for carrying out a specific range of metabolic transformations and pro-
+cessingofmoleculesateachstage.Thisisimportanttoreducethechancesoffutilecycles,wherebyatissuesynthesises
+andbreaksdownametaboliteatthesametime,leadingtoanetlossofenergy.
+Therearethreemaininterorganpathwaysinordertoeitherregenerateglucoseortocontroltheuseofglucosein
+the muscle. The Cori cycle (Figure 7) is activated under strenuous exercise when the skeletal muscle (or ischaemic
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).613
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 6. Summary of metabolic pathways active during starvation
+During starvation, there is an increase in fatty acid utilisation in the muscle (not shown here for simplicity) and a breakdown of
+proteins into amino acids. Intermediates (in black), tissues (in green), and pathways (in red).
+heart) are contracting using anaerobic glycolysis, which leads to an accumulation of lactate. Lactate is transported
+to the liver where it regenerates glucose (gluconeogenesis), which can then be used by the exercising muscle again.
+Asyouwillseelater,whilsttheuseofanaerobicglycolysisgeneratesfarlessATPthantheoxidationofglucose,thisprocessdoesnotrequireoxygen,whichcanbelimitedinstrenuousexercise.
+During times of starvation, the glucose-alanine cycle can regenerate glucose and remove excess nitrogen formed
+in the breakdown of amino acids (Figure 7). During proteolysis, amino acids that are liberated can provide carbonskeletons to top up different pathways, but must dispose of the amino group. This amino group is transferred to
+pyruvatebyalanineaminotransferasetoformalanine.Alanineisthepredominantaminoacidreleasedbythemuscle.
+Inthecycle,glucosetakenupbythemuscleisusedtogeneratethepyruvate,therebyaidinginproteolysis,withouta
+netlossofglucose.Thealanineisreleasedbythemuscleandtakenupbytheliver,whereitisconvertedintopyruvate,
+and back into glucose to start the cycle again. Finally, the amino group liberated by the conversion of alanine backintopyruvateenterstheureacyclefordisposal.
+614 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 7. The two key pathways to recycle lactate or alanine from muscle and regenerate glucose in the liver
+Intermediates (in black), tissues (in green), and pathways (in red).
+Hormonal control of metabolism
+In mammals, metabolism can also be controlled by an interplay between the small peptide hormones: insulin and
+gl uca g o n.Bo tho fth e sea r ep r od uc edwi th inth ei s le tso fLa n g e r h a n swi th inth epa n c r ea s ,in s ulinwi th inpa n c r ea tic
+β-cellsandglucagonwithinpancreatic α-cells.Bothinsulinandglucagonareheldwithinvesiclesintheirrespective
+cells,awaitingasignalforreleaseintothebloodstream.Uponbloodglucoselevelsrising,forexampleaftereating,in-
+sulinisreleasedfromitsvesiclesintotheblood.Theeffectsofinsulinarewidespread.Alongwithregulatingmetabolic
+function in the liver, it is also able to significantly increase glucose uptake in peripheral tissue. Insulin binds to theinsulin receptor (a tyrosine kinase receptor) on the cell surface which autophosphorylates and recruits the insulin
+receptor substrate (IRS). IRS then initiates the signallingtransductionpathway, which eventually leads to the phos-
+phorylationofAKT(alsoknownasPKB),theproteinthatmediatesordirectsinsulinactions.
+Insulinhasbothshort-andlong-termeffects,dependingonthemetabolicstateoftheorganism.Inskeletalmuscle,
+heart,andadiposetissue,insulinsignallingcausesthetranslocationoftheglucosetransporter(GLUT4)totheplasmamembrane,frominternalvesiclestores.Thissignificantlyincreasesthepotentialforglucoseuptakeintothesecells.
+As discussed briefly later, insulin is also able to regulate gene expression to increase glucose ultilisation, storage as
+glycogen, fatty acid uptake, and storage as TAGs. Insulin’s action in the adipose tissue is also to increase de novo
+lipogenesis,ortheformationofnewfattyacidsfromglucose.
+When blood glucoselevels decrease, glucagon isreleased fromthe α-cells. Insulin and glucagon are in a delicate
+balance,andtheratioofthetwoisimportantindeterminingthemetabolicpathwaysactiveatspecifictimes.Alackofinsulin,incomparisonwiththeeffectofglucagon,canbeapowerfulsignal.Forexample,insulininhibitstheaction
+o fth eh o rm o n e - se n s i ti v el i pa se( H S L )i nth ea d i po seti s s u e .T h er o l eo fH S Li st os ti m ul a t el i po l y s i s( b r eak d o w no f
+TAGs) by hydrolysing a fatty acid from the TAG, but this is inhibited by the continued signalling by insulin. Whenblood glucose levels decrease, this inhibitory signal is removed and HSL allows the process of lipolysis to occur.
+Glucagon’smainareaofactionisontheliver,withlimitedglucagonreceptorsfoundonothertissuessuchasadipose
+tissue.GlucagonworksviaaG-proteincoupledreceptor ,whichregulatesadenylatecyclaseandcausesanincreaseincyclic AMP. Glucagon turns the liver from an importer of glucose, into a net exporter by stimulating the formation
+ofnewglucoseingluconeogenesisandsuppressingg lucoseusageinglycolysisandstorageasglycogen.
+Asyouprogressthroughthisreview,youwillseetheactionofinsulinandglucagon.Otherhormonesarealsoatplay
+incontrollingmetabolism,theseincludeadrenaline(duringthefightorflightresponse),thyroidhormones,cortisol,
+and the incretin hormones. For further reading on metabolic regulation, the role of hormones and metabolism inhumans,wewouldrecommend Human Metabolism: A Regulatory Perspective by Rhys Evans and Keith N. Frayn .
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).615
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 8. The metabolic crossroad and fate of G6P
+G6P links four key metabolic processes; glycolysis, gluconeogenesis, glycogenesis/glycogenolysis, and the PPP.
+Glucose metabolism
+Central metabolism and G6P
+GlucoseistransportedintoacellthroughGLUTsandsodiumglucosecotransporters(SGLTs)viafacilitateddiffusion.
+Thesetransporterscanmoveglucoseintoandoutofcells.T oensurethatglucoseremainswithinthecell,itisquickly
+‘trapped’ and phosphorylated to form G6P. This phosphorylation occurs via a kinase enzyme called hexokinase or
+glucokinase,whichcatalysesthetransferofaphosphorylgroupfromanATPmoleculetoanacceptormolecule.Inthiscase,G6Pisahighlynegative,polarmoleculemeaningitisunabletodiffuseacrossthecellmembrane.Furthermore,
+theadditionofthephosphategrouprendersG6PtoolargetoescapebackoutofthecellthroughGLUTtransporters.
+BytrappingglucoseincellsasG6P,thegradientofglucosebetweenthecytosolandtheextracellularspaceincreases,
+resultinginanetmovementofglucoseintocells.Glucoseholdsahighosmoticpotential,andsobyremovingglucose,
+themovementofwateroutofthecellisreduced.Thisreaction,therefore,ensuresthefateofglucoseasG6Ptofacilitatetheinitiationoffurthermetabolicprocesses.
+G6P is the central molecule of metabolism. It is a ‘crossroad’ marker and holds many possible fates within a cell,
+dependentonitsconditionsandmetabolicneeds(Figure8).G6Pliesatthecentreoffourmetabolicpathways:
+•Glycolysis–Theformationofpyruvateandlactate.
+•Gluconeogenesis – G6P is converted by glucose-6-phosphatase during gluconeogenesis to form glucose.
+Glucose-6-phosphatase is primarily expressed in the liver but also in the kidney cortex at times of starvation.
+It has further been found to be expressed in the β-cells of pancreatic islets and human intestinal mucosa in
+starvedanddiabeticstates.
+•Glycogenesis–Storageasglycogen.G6Pisconvertedviaglycogensynthaseintoglycogenforstorage.
+•The pentose phosphate pathway (PPP) – The generation of NADPH molecules allows fatty acid synthesis. The
+formationofribose-5-phosphateto synthesisenucleotides.ThePPP regeneratestheintermediatesofglycolysis
+suchasF6Pandglyceraldehyde-3-phosphate(GAP).
+The first step of these pathways is tightly controlled and acts as control points, to ensure the fate of the cell is
+established.
+The importance of glycolysis
+Glycolysisrepresentsthefirststageofglucosecatabolisminorganismsthatperformcellularrespiration.Theglycolyticpathwayinvolvesthebreakdownofglucosetotwopyruvatemoleculesintensequentialenzymaticreactionswithinthecytosol(Figure9).
+Glycolysisoccursinmostlivingcellsandcansucceedintheabsenceofoxygen.However,thefateofitsendproduct
+dependsontheanaerobicoraerobicenvironmentofthecellfollowingglycolysis.
+Glycolysis relies on NAD
++to accept electrons from glucose forming NADH and H+.N A D+can be re-oxidised
+fromNADHinordertoensureacycliceffectofglycolysisinallcells.Thiscanbeaccomplishedunderbothaerobic
+andanaerobicconditions.However,inthepresenceofoxygen,NADHpassesitselectronsintotheETC,allowingthecomplete oxidation of glucose. This yields a net production of 30–32 ATP molecules. Under anaerobic conditions,
+fermentationoccursandNADHdonatesitselectronstoregenerateNAD
++,andnofurtherATPisformed.
+DespiteglycolysisonlyyieldingtwoA TPmolecules,theprocessisvital.Aspreviouslymentioned,themammalian
+erythrocytesrelyentirelyontheATPgeneratedthroughglycolysisasitsenergysourcebecausetheylackmitochon-
+dria. Furthermore, within the liver, glucose regulation is vital to ensure glucose homoeostasis in the body. Here,g l y c o l y s i sc a nb et i g h t l yr e g u l a t e d .U n d e rs t a t e so ff a s t i n g ,h e p a t i cg l u c o s ep r o d u c t i o nc a nb ee l e v a t e d ,m a k i n gt h e
+616 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 9. The pathway is split into an initial ‘investment’ phase, where ATP is used and then the ‘payout’ phase, where ATP
+is regeneratedIntermediates (in black), by-products (in green), and enzymes (in red).
+liver themainsourceofglucoseproductionat thistime. Here, pyruvate can alsobe usedtoformprecursorsforthe
+synthesisoffats,cholesterol,bile,andplasmaproteins.Formicroorganisms,theglycolyticpathwayensuresasourceofenergyforrespirationandbacterialphotosynthesis,alongwithnecessarybiosyntheticprecursors.
+The glycolytic pathway
+Theenzymaticprocessofglycolysisoccurswithinthecytosolandcanbedividedintotwodefinitivestagesofenergyinvestmentandenergyrecovery(Figure9).
+Stage I energy investment phase
+The first reaction of glycolysis is catalysed by hexokinase (or glucokinase in the liver and pancreas), involving the
+transfer of a phosphoryl group from ATP to glucose, forming G6P. G6P is isomerised to F6P by G6PI and is thenfurther phosphorylated by PFK, to form fructose-1,6-bisphosphate (FBP). This phosphorylation step is irreversible
+and utilises the second ATP molecule in glycolysis. Aldolase catalyses the cleavage of FBP (6-carbon molecule) to
+formtwo3-carbonmoleculesGAPanddihydroxyacetonephosphate(DHAP).Anotherisomerase,triosephosphate
+isomerase(TIM),catalysestheinterconversionbetweenDHAPandGAP,allowingDHAPtoconvertintoGAP,and
+proceed along the glycolytic pathway. As a result, for every glucose molecule, two molecules of GAP are produced.Therefore,fromthisstageonwards,allintermediatesandby-productsaredoubledinproduction.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).617
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Stage II energy payout
+GAPisoxidisedandphosphorylatedbyNAD+andPitoform1,3-bisphosphoglycerate(1,3-BPG),catalysedbyGAP
+dehydrogenase(GAPDH).IntermediatesNADHandH+areproducedalongside1,3-BPG.Theconversionof1,3-BPG
+into3-phosphoglycerate(3PG)iscatalysedbyphosphoglyceratekinase(PGK)andsignifiesthefirststepinglycolysis
+to generate ATP molecules through phosphorylation of adenosine diphosphate (ADP). 3PG can be interconverted
+by phosphoglycerate mutase (PGM), to form 2-phosphoglycerate (2PG) that is dehydrated to PEP by enolase. Thefinal reaction of glycolysis generates the final ATP molecule alongside pyruvate in a cleavage reaction catalysed by
+pyruvatekinase(PK).
+The initial energy investment in the form of two ATP molecules is doubly repaid in the later stage of glycolysis
+duetotheformationoftwo3-carbonGAPmolecules,whichareeachtransformedtopyruvateandATP.Therefore,
+generatingfourmoleculesofATP,anetgainof2ATP.
+Overall,glycolysisholdsanegative /Delta1Gvalueof −310kJ.mol
+−1.Thereactionisasfollows:
+Glucose +2N AD++2ADP +2Pi→2Pyruvate +2N ADH +2A TP +2H2O+4H+
+Regulation of glycolysis
+Glycolysis is regulated by three rate-limiting steps. These are slower, regulated stages and therefore determine the
+overallrateofthepathway.Withintheglycolyticpathway,theserate-limitingstepsarecoupledwiththehydrolysisof
+ATPorthephosphorylationofADP.Thisensuresthesestepsareenergeticallyfavourable,i.e.holdingaverynegative/Delta1Gvalueandarethereforeirreversibleunderphysiologicalconditions.
+Hexokinase/glucokinase
+Hexokinase and glucokinase are the first regulatory enzymes within the glycolytic pathway. Hexokinase exists in
+abundancewithintissuesinourbody.Itholdsalow K
+mvalue,thus,ensuringitshighaffinityforglucose.Duetoits
+lowKmitmeansthathexokinaseismoreusefulinastateofhypoglycaemia,whereglucoselevelsarelow .Hexokinase
+isfeedback-inhibitedbyitsownproduct,meaningabuild-upofG6Pcaninhibithexokinaseandtherefore,thephos-phorylation of glucose. Hexokinase does ensure the irreversible formation of G6P. In mammalian skeletal muscle,
+where the major source of energy is glycogen and not gluco se, this step is ultimately overcome. Within pancreatic
+islets,hexokinaseallowsthecontrolofinsulinandglucagonreleaseinthe β-andα-cells,respectively.
+Glucokinaseisanisoenzymeofhexokinasethatexistsintheliverandpancreatic β-cells.Contrarytohexokinase,
+glucokinaseholdsahigh K
+mvalueandthereforeahigh Vmax.Thismeanstha tgl ucokinaseexistswi thalo waffini ty
+for glucose. As a result of this, glucokinase is utilised in a state of hyperglycaemia or a post-prandial state. Withinpancreatic β- c e ll s ,gl u c o ki n a sea ct sa sase n so rt oc o n tr o lth er a t eo fe n tryo fgl u c o sei n t oth egl y c o l y ti cpa th w a yb y
+phosphorylation.Withintheliver,itensuresthatglucoseissynthesisedintoglycogenorfattyacidspost-prandially,
+whenglucoselevelsarehigh.Unlikehexokinase,glucokinaseisnotinhibitedbyhighlevelsofG6Pandcanthereforeremainactivetoensureglucoseisstoredasglycogenwhenglucoselevelsarehigh.Thelowaffinityofglucokinasefor
+glucoseensuresthatwithinastateoflowglucose,peripheraltissuehexokinasecanphosphorylateglucosetoG6Pfor
+glycolysisandtheliverand β-cellsstoptheuptakeofglucose.
+PFK
+PFKisanotherenzymethatactsasakeyregulatorofglycolysis.Ithasahighlynegative /Delta1Gvalue,thusensuringthat
+the reaction will still occur despite accumulation of FBP. PFK holds two conformationalstates that exist in equilib-
+rium, with, ATP acting as both an activator and inhibitor of both the states. When ATP levels are high (e.g. in theliver),ATPactsasanallostericinhibitorofPFK,shiftingitsequilibriumanddecreasingitsaffinityforF6P.However,
+wherelevelsofA TParelow ,PFKisactivated,shiftingitsequilibriumandaffinityforF6PtoformFBP .
+PK
+PKensuresthefateofPEPtoformpyruvateinthelaststepofglycolysis.Pyruvateisanessentialintermediatebuilding
+blockformanyfurthermetabolicpathwayssuchasfattyacidsynthesis,thetricarboxylicacid(TCA)cycleor,under
+anaerobic conditions, converted into lactic acid or ethanol (in yeast). Therefore, PK is noted as the most importantregulatorofglycolysis.
+618 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Gluconeogenesis
+The importance of gluconeogenesis
+Gluconeogenesis is an anabolic process whereby glucose is formed from non-carbohydrate carbon precursors in-cludingpyruvate.Thegluconeogenicpathwaylargelyoccurswithintheliverandkidneystomaintainbloodglucose
+levelsfollowingglycogendepletion,andintherenalcortexduringstarvation.Gluconeogenesishasalsobeenfound
+tooccurwithinthe β-cellsoftheisletsofLangerhansandintestinalmucosainstarvedanddiabeticstates.
+Gluconeogenesisaimstodothereverseofglycolysis;ho we ver,duetothepresenceofirreversiblestepswithinthe
+glycolytic pathway, gluconeogenesis is not simply a reversal of glycolysis. These irreversible steps are overcome in
+gluconeogenesis,usingadditionalenzymesthanthosepresentintheglycolyticpathway.Itiscrucialthatgluconeoge-
+nesisisnotjustthereverseofglycolysis.Thisisbecausethelaststepofglycolysis(Figure9)involvestheirreversible
+and highly energetically favourable formation of pyruvate. To bypass this, gluconeogenesis is split into a two-stepprocesswithspecificstepsoccurringwithinthemitochondriaandthecytosol.Withinthemitochondria,pyruvateis
+convertedintooxaloacetatewhich,inturn,convertsintomalatetotransportoutofthemitochondriaintothecytosol.
+Oncehere,itisimmediatelyconvertedbackintooxaloacetateandthentoPEPbyPEPcarboxykinase(PEPCK).Thisn o to n l yo v e r c o m e st h ei r r e v e r s i b l es t e pw i t h i ng l y c o l y s i sb u ta l s oa v o i d st h ec e l lu n d e r g o i n gaf u t i l ecy c l ew h e r e b y
+pyruvateisimmediatelyconvertedbackintoPEP.Furthermore,duringsteps1and3ofglycolysis(Figure9)ATPis
+invested in order to phosphorylate the product formed. Therefore, if gluconeogenesis were the reverse of glycolysis,it would essentially mean that gluconeogenesiswould need to regenerate ATP, a process that is not possible. Gluco-
+neogenesisisinsteadATP-dependentandthereforerequiresadditionalenzymestobypasssteps1and3,whereATP
+isnotregenerated.
+Theimportanceofgluconeogenesisliesinthefactthebrainanderythrocytesrelyalmostentirelyonglucoseasa
+formofenergyand,therefore,itisessentialthatglucoseultimatelydepletedinglycolysisisrestoredbygluconeoge-
+nesisinacyclicfashion.
+Gluconeogenic pathway
+The formation of oxaloacetate from pyruvate
+Pyruvateiscarboxylatedbypyruvatecarboxylase(PC)tooxaloacetateattheexpenseof1ATPmolecule.Thisreactionoccursinsidethemitochondria.PCisactivatedthroughincreasedconcentrationofacetylCoAandinhibitedinthe
+presenceofglucoseandADP.
+Pyruvate +CO
+2+ATPPC
+→Oxaloacetate +ADP+Pi
+Oxaloacetate is reduced to malate in the presence of NADH, to be transported over the mitochondrial mem-
+braneandintothecytosol.Malatecrossesthemitochondrialmembranesviathemalate-aspartateshuttle,whereitis
+re-oxidisedtooxaloacetate.
+AttheexpenseofoneGTPmolecule,oxaloacetateisdecarboxylatedandphosphorylatedbyPEPCK.
+Oxaloacetate +GTPPEPCK
+→Phosphoenolpyruvate +GDP+CO2
+Formation of F6P
+A hydrolysis reaction occurs in a phosphate ester located at carbon 1 of fructose-1,6-bisphosphate, facilitated by
+fructose-1,6-bisphosphatase(F16BPase).
+Fructose −1,6−bisphosphate +H2OF16BPase
+→Fructose −6−phosphate +Pi
+G6P and free glucose formation
+F6PisreadilyconvertedintoG6PbyG6PI.
+Fructose −6−phosphateG6PI/harpoonrightleftGlucose −6−phosphate
+In many scenarios, G6P is utilised to generate glycogen, ending gluconeogenesis. Alternatively, it can be dephos-
+phorylatedtoformfreeglucosemolecules.
+The site for the formation of glucose
+Duringthefinalstepofgluconeogenesis,glucoseisformed.Thisoccurswithinthelumenoftheendoplasmicreticu-lum.TheglucoseformedisultimatelyshuttledintothecytosolbyGLUTs,whicharereadilyavailableandlocatedin
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).619
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+theendoplasmicreticulum.
+Glucose −6−phosphate +H2OGlucose −6−phosphatase
+→Glucose +Pi
+Regulation of glucose metabolism by gene expression
+One of the actions of insulin is to increase glycolysis, whilst suppressing gluconeogenesis (in the liver). In re-
+sponse to increased insulin and glucose, the mammalian liver, muscle, and peripheral tissue increases the expres-sion of GLUT1–4, hexokinase/glucokinase and key glycolytic genes: GAP dehydrogenase, PK and the bifunctional
+enzyme (which stimulates PFK activity). To suppress gluconeogenesis in the liver, insulin decreases the expression
+of glucose-6-phosphatase, fructose-1,6-bisphosphatase, and EP carboxylase. This alteration in gene expression pat-tern, increases glucose utilised in the cells, and maintains glycolytic activity. In the mammalian liver, glucose can
+increasetheexpressionofPKviathetranscriptionfactorknownascarbohydrate-responsiveelementbindingprotein
+(ChREBP).Interestingly,theactionofglucagonontheliversuppressesthistranscriptionfactor,therebyreducingtheexpressionofPK.
+Glycogen
+What is glycogen?
+Glycogen is a large, multibranched polysaccharide of glucose. It contains α-1,4-glycosidic bonds between adjacent
+glucosemoleculesand α-1,6-glycosidicbondsatbranchingpointsateverytenthresiduewithinthechain.Itisessen-
+tiallythestorageformofglucoseinanimals,fungi,andbacteria.I tisalsothestoragemoleculeofglucosewithinthe
+bodyandcan bebrokendown to yieldglucosewhen energyisrequired.Glycogen isstoredwithinmuscleandliver
+in the body. Within the muscle, the breakdown of glycogen serves to supply energy to that muscle, whereas withintheliveritisdegradedtomaintainbloodglucoselevelsinthebody.Itispresentwithinthesesitesasgranuleswithin
+thecytosolthatareupto40nminsize.
+The importance of glycogen
+Glycogen can be degraded to supply energy to the body. This is specifically important as cells within the brain rely
+almost entirely on glucose for energy and therefore glucose released from liver cells can help supply this. Withinperiods of sudden activity, such as sprinting, the glucose obtained from glycogen degradation can produce enough
+energywhennooxygenisinitiallyavailable.
+Furthermore,thequestion‘whycannotallexcessfuelsinthehumanbodybestoredasfattyacids?’isusuallyprobed.
+Therearetwomainreasonsastowhyglycogenstorageisbeneficialoverfattyacidstorage.Firstly,glycogenisreadily
+mobilisedtoglucoseandthereforecanbeutilisedquicklyinsituationswhereglucoseisneededimmediately.Secondly,
+thebreakdownofglycogenishighlycontrolled.Therefore,thesubsequentreleaseofglucoseisalsocontrolledtohelp
+raiseormaintainbloodglucoselevels.
+Synthesis and degradation
+The synthesis of glycogen requires an activated form of glucose called uridine diphosphate glucose (UDP-glucose).
+This is formed by the addition of UTP to glucose-1-phosphate. UDP-glucose is added to the non-reducing end ofglycogen,expandingitssize.
+The degradation of glycogen requires the release of glucose-1-phosphate from glycogen and the remodelling of
+glycogensubstratestowarrantfurtherdegradation.Glucose-1-phosphateisthenconvertedintoG6Pwhichhassev-eralfateswithinmetabolism.
+PPP
+The importance of the PPP and its intermediates
+The PPP is an essential biochemical process that occurs within the cytosol of living organisms (Figure 10). This
+pa th w a yru n spa r all e lt ogl y c o l y s i si nth ecy t o so l ,a si tu til i se sso m es i m il a rc o m po n e n t so fth i spa th w a yf o ri t so w nuse.I tisknowntohaveseveralimportantroles.
+1. Theproductionofnicotinamideadeninedinucleotidephosphate(NADPH).NADPHisacrucialreducingagent
+whichisusedin:
+a. Fattyacidsynthesis
+b. Cholesterol biosynthesis
+c. Nucleotidesynthesis
+620 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 10. PPP is split into the oxidative and non-oxidative phases
+TheoxidativephaserepresentstheconversionofG6Pintoribulose-5-phosphtasewhichgeneratesNADPHmolecules.Thenon-ox-
+idative phase shows the generation of ribose-5-phosphate and also glycolysis pathway intermediates. Intermediates (in black),
+by-products (in green), and enzymes (in red).
+d. Neurotransmittersynthesis.
+2. Itsynthesisespentosesugarswhichareprecursorsfornucleotidesynthesis
+a. DNA,RNA,FADH 2,A TP ,N ADHandCoA.
+3. Itestablishesawaytobreakdown5-carbonsugarswhichareconsumedwithinthediet.
+4. Italsoprovidesawaytosynthesiseandbreak4-and7-carbonsugarswhicharelesspopularwithinthebody.
+The PPP
+ThePPPconsistsoftwomajorphases:theoxidativephase,whichproducesNAPDHmolecules,andthenon-oxidative
+phase,whichproducestheribose-5-phosphatemoleculesfornucleotidesynthesis.
+DuringthePPP,atvariouspoints,theintermediatesofglycolysisareavailable(highlightedinFigure10).Therefore,
+thispathwayisshowntooccurinparallelwithglycolysis.ThisensuresthatsufficientamountsofNADPHandpentosesugarsareproducedforsubsequenteventssuchaselectrontransferwithintheelectrontransferchain.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).621
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+The fate of pyruvate and acetyl CoA
+Pyruvateistheendproductofglycolysisandisakeyintermediateinnumerousmetabolicpathways.Itsfateisdepen-
+dentontheorganisminwhichithasbeensynthesisedandalsotheoxygenconditionswithinthecell.
+Anaerobic utilisation of pyruvate
+The NADH and H+molecules that are ultimately generated during glycolysis are re-oxidised to form NAD+
+molecules.Therecyclingoftheseisafundamentalprocessthatallowsglycolysistocontinueinacyclicfashion.
+ThefateofpyruvateandNADHisdependentontheconditionswithinthecell.Inthepresenceofoxygen,pyruvate
+isoxidisedcompletelyatthemitochondria,toformcarbondioxideandwatertoyieldATPmolecules.However,where
+oxygen is absent, anaerobic respiration occurs. In animal tissues, such as muscle, pyruvate is reduced to lactate by
+homolacticfermentationduetolactatedehydrogenase(LDH).ThisregeneratesNAD+moleculesforthecontinuation
+of glycolysis and the subsequent formation of 2 ATP molecules. Anaerobic respiration therefore only synthesises 2
+ATPmoleculeswhich,incomparisonwiththe30–32ATPmoleculesyieldedinaerobicrespiration,isfarlessefficient.
+Therefore,energyfromanaerobicrespirationisnotsustainableforwholeorganismuse(inmammals)butisinsteadrequired for individual cell survival. For example, erythrocytes lack mitochondria and so rely solely on anaerobic
+respiration for energy. In the case of erythrocytes, this is highly advantageous as it means that they do not use the
+oxygenwhichtheycarry.Instead,theyusetheenergysuppliedfromanaerobicrespirationtotransporttheoxygentoothercellsinthebody.
+Inyeast,alcoholicfermentationproducesNAD
++andethanol.Thisoccursaspyruvateisdecarboxylatedtocarbon
+dioxide and acetaldehyde, which is reduced to NADH to ultimately form NAD+by yeast alcohol dehydrogenase
+(YADH).
+Aerobic fate of pyruvate
+Followingglycolysis,underaerobicconditions,pyruvateisoxidisedtoformacetylCoA,whichthenenterstheTCAcycle to further cellular respiration in cells. This reaction is catalysed by pyruvate dehydrogenase (PDH) and is acrucial convergence point between the TCA cycle and glycolysis, lipid, and amino acid metabolic pathways. PDH
+is regulated based on the demand of the cell for the use of carbohydrates as energy. Where carbohydrate stores are
+depleted, PDH activity is down-regulated to diminish the use of glucose via oxidative phosphorylation. Therefore,other sources of energy, such as fatty acids and ketone bodies, can be used in various tissue types such as the heart
+andmuscle.
+Pyruvate +CoA+NAD
++→Acetyl CoA +NADH +CO2
+Structurally, PDH exists as three subunits: E1, E2, and E3. Regulation of PDH occurs at serine residues within
+subunitE1,whereitsactivityisinhibitedthroughreversiblephosphorylationatthesesites.PDHkinases(PDK1–4)
+catalyse this phosphorylation reaction and therefore inhibits PDH activity. On the other hand, PDH phosphatases
+(PDP1 and PDP2) catalyse the reverse dephosphorylation reaction to restore PDH activity. The kinases and phos-phatases are respectively differentially expressed in a multitude of tissues within the body. The activity of these en-
+zymesistightlycontrolled,kinasesarestimulatedbyincreasedNADHandacetylCoAconcentrations(indicativeof
+highenergyproduction)andtranscriptionallybyperoxisomeproliferator-activatedreceptor α(PPAR α–incr eased
+fattyaciduptake),howeverinhibitedbyincreasedpyruvateconcentrations.Whereasphosphatasesarestimulatedby
+increasedlevelsofinsulin,Mg
+2+,andCa2+(inthecaseoftheheartandmuscle).Increasinglevelsofmagnesiumare
+linkedtothebreakdownofATPtoADP,asmagnesiumionsarefoundcoordinatedaroundATP,todecreaseitshighlynegative charge. Calcium on the other hand comes from contraction, which is a highly energy-dependent process,
+andthereforerequiresglucosetobefullyoxidised.
+CoA and acetyl CoA
+CoAisaubiquitous,indispensablecofactorthatispresentinalllivingorganisms.CoAfunctionstocarryacylgroups
+andisacarbonyl-activatinggroupcarrier,whichisessentialformanymetabolicprocessessuchasfattyacidoxidationandtheTCAcycle.CoAnaturallyderivesfrompantothenicacid,alsoknownasvitaminB5,inaseriesofstepsthat
+requireATP .Pantothenateissynthesised denovoinbacteriaandplantsandisfoundinfoodssuchascereals,meat,and
+potatoes.Pantothenateundergoesphosphorylation,itsproductisthencondensedwithacysteinemoleculefollowed
+byadecarboxylationreaction.AMPisaddedtoformdephospho-CoA,whichisthenphosphorylatedtoyieldCoA.
+This pathway is regulated by end-product inhibition as CoA is a competitive inhibitor of pantothenate kinase, thefirstenzymeinvolvedinthephosphorylationofpantothenate.
+622 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 11. The chemical structural differences amongst saturated, monosaturated, and polyunsaturated fatty acids
+Saturated fatty acids hold no double bond within their structure meaning the carbon atoms are fully ‘saturated’ with hydrogens.Monounsaturated fats have one carbon–carbon double bond in their structure and polyunsaturated hold two or more.
+Acetyl CoA is a molecule that lies at the hub of carbohydrate and fatty acid metabolism. Its main function is to
+deliveritsacetylgrouptotheTCAcycleforenergyproduction.Here,acetylCoAreadilycombineswithoxaloacetate
+toformcitrateandbegintheTCAcycle.Also,acetylCoAisformedviafattyacid β-oxidationandthereforeactsasan
+intermediatemoleculefortheTCAcycle,fattyacidmetabolism,andglycolysis.ItisknownthatacetylCoAiscentral
+to maintain the balance between carbohydrate and fatty acid metabolism for a source of energy. As acetyl CoA can
+inhibitPDH,anincreaseinfattyaciduptakeintomuscle(andheart)causesabuild-upof β-oxidation-derivedacetyl
+CoAandinhibitionofglucoseoxidation.Thisispartoftheglucose-fattyacidcycle,alsoknownastheRandlecycle.
+In the adipose tissue, a counter-reaction occurs, whereby a build-up of glucose (used for making new fatty acids)
+inhibitslipolysisandreducesfattyacidreleasefromthistissue.
+Fatty acids
+Structure, function, properties of lipids
+Lipids are chemically defined as substances that are insoluble in water but are soluble in nonpolar solvents such asacetone. Their insolubility in water is due to the presence of a long hydrophobic, hydrocarbon chain which can beeithersaturatedorunsaturated.Afreefattyacid,madeupoflipids,consistsofacarboxylgroup(–COOH)linkedto
+astraightchainofcarbonatomsboundwithhydrogen.Thecarbonchain,whichcanbeupto24carbonsinlength,
+maybeeithersaturatedorunsaturatedbasedonthecarbon–carbonbondstheyhold(seeFigure11)andmaycontainfunctionalgroups.Ifthecarbonchainholdsadoublebond,thefattyacidisunsaturatedandcanexistineithera cis
+ortransform.
+LipidscanexistasTAGs,anefficientstoragesolution.TAGsarecomposedofaglycerolmolecule,wherethethree
+hydrogenatomsareesterifiedbyfattyacidchains.TheseTAGsfunctionasenergystorageinadiposetissuesandarea
+majorformofenergyinbothanimalsandplants.AmajorfunctionoflipidsistoprovideanalternativeenergysourcetocarbohydratesbythehydrolysisofesterbondsbetweenTAGs.
+Biologically,lipidsareessentialcomponentsofcellularmembranesandthenervoussystem.Lipidsmakeupadipose
+tissue, where its role is to protect internal organs and provide insulation. In terms of metabolism, lipids are storedas TAGs for use as energy. TAGs are stored due to their high energy value, providing more energy per gram than
+carbohydratesandproteinsaloneeventhoughcarbohydratesarethepreferablesourceofenergyinanimals.
+Where do animals obtain fatty acids from?
+Fattyacidsaretheessentialbuildingblocksoffatwithinourbodies.Duringdigestion,thefatsthatweconsumewithinour diet are broken down into fatty acid molecules to aid absorption into the blood. Fatty acids are usually formed
+i ng r o u p so ft h r e et of o r mT A G s .T h e s er e s i d ei nt h eb l o o d s t r e a mt or e a c hc a p i l l a r yb e d s ,w h i c he v e n t u a l l ya l l o wdiffusiontomuscleswheretheycanbeoxidisedtoformATPmolecules.
+Therearevarioussourcesfromwherefatscanbeobtained,asstatedbelow:
+•Diet
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).623
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Mammals consume TAGs within our diet. As they are consumed, the small intestine packages these fats into
+protein carrier molecules called chylomicrons. These are eventually released into the lymphatic system where
+theyreachthebloodstream.
+•Adipose cells
+Adiposecellsarespecialisedcellsthatcanstorelargeamountsoffat.Afewhoursaftertheconsumptionofameal,
+insulinlevelsdecrease.Thisinturnalsodiminishesthelevelsofamylin,amoleculethatissecretedwithinsulintoinhibitglucagonsecretion.Duetodiminishedlevelsofamylin,glucagonsecretionrises.Itisatthispoint,where
+insulin levels are reduced, where the adipose tissues release the stored fatty acids into the bloodstream. Due to
+itshydrophobicnature,fatsusuallybindwithproteinswithinthebloodsuchasalbumin.
+•Liversynthesis
+Theliveristhemainsiteoffattyacidsynthesis.Here,excessglucosethathasnotbeenusedforATPsynthesisorglycogen,issynthesisedintofattyacids.ThesearepackagedintheliverintoTAGsalongsidecholesterol,toform
+verylow-densitylipoproteins(VLDLs)whichcanbetransportedwithinthebloodstream.
+The yin and yang of fatty acids
+As listed above, we consume fats within our diet. Fats exist here as either saturated or unsaturated. Unsaturated fatscanbefurtherdividedintomonounsaturatedorpolyunsaturated.Thedifferencebetweenthesethreegroupsoffats
+is based on their chemical structure, which ultimately determines whether they hold beneficial or harmful effects
+withinourbody.Thestructureoffatsisultimatelyalonghydrocarbonchainbondedtoaglycerolbackbone.
+Saturatedfats,suchaspalmiticacid,areharmfultoourbody.Itisoftenfoundinbutter,lard,andcheese.Saturated
+fats tip the balance between low-density lipoproteins (LDLs) and high-density lipoproteins (HDLs) to favour LDL
+concentration, which is harmful. Consuming large amounts of saturated fat within the diet is associated with anincreasedriskofheartdisease,stroke,andtype2diabetes.Withintheirstructure,theycontainalongsingle-bonded
+carbonchainwithlotsofhydrogenatomsasshowninFigure11.
+In opposition, unsaturated fats are beneficial when consumed. They are found within vegetables, nuts, and fish
+and are liquid at room temperature. Their chemical structure contains less hydrogen to carbon bonds due to the
+presenceofdoublebondsbetweencarbonatomswithintheirtailchain.Monounsaturatedfatsfoundwithinoliveoil,peanuts,andavocadoscontainonecarbon-to-carbondoublebondwithintheirstructures.Whereaspolyunsaturated
+fats, such as sunflower oil and those found within salmon, contain two or more carbon double bonds within their
+structure (Figure 11). These fats can increase levels of HDLs within humans, reducing the chance of heart disease,stroke,anddiabetes.Somestudiesclaimedthatincreasingthesefatscantreatsomeofthelisteddiseasesabove.
+Theyinandyangoffattyacidsareapparent.Fatslivewithinabalanceinthebody.Asyoueatmoresaturatedfats,
+thisdiminishestheavailabilityofHDLswithinthebody,causingharm.Theoppositeeffectisseenwhenunsaturatedfats are consumed. Therefore, keeping a balance between the two is key to staying healthy and diminishing harsh
+side-effects associated with the overconsumption of saturated fatty acids. One example of this is with the onset of
+type2diabetes.Itisknownthattheratioofpalmiticacid:oleicacidimpactsdiabetesriskinhumans.Inhumans,theincreased consumption of saturated fatty acids within the diet, such as palmitic acid, alongside the over consump-
+tion of carbohydrates, could eventually cause obesity. Chronic obesity and increased visceral fat can cause insulin
+resistance in insulin target tissues over time, which can manifest as type 2 diabetes. In contrast,the consumptionofmonounsaturatedfattyacidssuchasoleicacid,appearstonotonlydiminishtheabilityforanindividualtodevelop
+diabetesbut,indiabeticpatients,canhelptoreduceorreversethedisease.
+Fatty acid uptake into the cell and activation by acyl synthetase
+ThebreakdownofTAGsprovidetwiceasmuchenergypergramcomparedwiththeutilisationofcarbohydratesand
+proteins.Theheart,themostenergy-expensiveorganinthebody,utilisesfattyacidsfor50–70%ofitsenergy.
+Fatsaretakenupintothecytosolfromthebloodstream,eitherdiffusingacrossthemembrane,oractivelybyspecific
+transporters.However,thefirststepforfattyacidoxidationoccurswithinthemitochondria.
+Fatty acids are initially ‘activated’ in the cytosol and then transported over the outer and inner mitochondrial
+membranes for fatty acid oxidation to proceed. The activation of fatty acids begins with the reaction of fatty acids
+with CoA to create Acyl CoA, a reaction catalysed by acyl synthetase (thiokinase). This reaction is coupled to a
+hydrolysisreactionutilising1ATPmoleculetoformAMPandPPi(inorganicpyrophosphategroup),whichisrapidly
+h y d r o l y s e d( d u et oi tb e i n gu n s t a b l ei na q u e o u ss o l u t i o n )t oi n o r g a n i cp h o s p h a t e( P O 43−). The reverse reaction to
+formpyrophosphatesfromthiswouldrequireheatingphosphates.Therefore,therapidhydrolysisofPPitoinorganic
+624 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+phosphaterendersthecleavageofATPtoAMPandPPiirreversibleandthus,thereactioncoupledtothishydrolysis,
+too.
+Thelong-chainfatty-acylCoAcannotreadilypassthroughtheoutermitochondrialmembrane.Toovercomethis,
+theacylgroupistransferredtoacarnitinemolecule,releasingtheCoAgroup,areactioncatalysedbycarnitinepalmi-
+toyltransferaseI(CPT1).Theacyl-carnitinecanreadilydiffusethroughporesintheoutermitochondrialmembrane
+intotheintermembranespace.
+Long−chain fatty acid +CoA+ATP Acyl synthetase
+→Long−chain fattyacyl −CoA+AMP +PPi
+Cartinine +AcylCoA CPT I
+→Acylcarnitine +CoA
+Acylcarnitine is then transported via a protein carrier on the inner mitochondrial membrane called the acyl car-
+nitine translocase, into the mitochondrial matrix. Here, carnitine is substituted for a CoA molecule from the mito-chondrialmatrix,formingacylCoAandcarnitinemolecules.
+Acylcarnitine +CoACPTII
+→AcylCoA +Carnitine
+Herethecarnitineistransportedbackthroughthecarnitinecarrierproteintothecytosolandtheremainingacyl
+groupistransferredtoaCoAmoleculefromthemitochondrialpoolofCoA.Theacylcarnitinetranslocaseprotein
+pump is efficient in that, for every acyl carnitine it pumps into the mitochondrial matrix, it exchanges it for onemoleculeofcarnitine.Thiscanthenberecycledinthecytosol.Theproductionoflong-chainfattyacylCoAwithin
+thematrixofthemitochondriamarksthestartof β-oxidation.
+Regulation of fatty acid utilisation
+FattyacidtransportisregulatedbyCPT1.Thisallowstheformationofacylcarnitineinthecytosoltoreadilydiffuse
+acrosstheoutermitochondrialmembrane,forsubsequenttransportationtothematrix.CPTIisarate-limitingstep,thus making it the slowest step in the pathway. Malonyl CoA is an allosteric inhibitor of CPT1 and is formed by
+carboxylatingacetylCoA.Therefore,providingadirectrelationshipwiththesynthesisoffattyacidsandtheutilisation
+offattyacidsforoxidation.Iffattyacidsynthesisisincreased(moremalonylCoA),thenwedonotneedtobreakdownfats. Therefore, inhibiting the rate-limiting step to ensure a net production of fatty acids. It can be deemed that the
+processesoffattyacidsynthesisandbreakdownareessentiallyexclusiveandlimitingtooneanother.
+This is also controlled on a gene level in the mammalian liver and peripheral tissue, where increased fatty acid
+uptakeintocellscausesfattyacidbindingtothetranscriptionfactorPPAR α.ThePP AR α–fattyacidcomplexforms
+a heterodimer with retinoid X receptor (RXR), which binds to PPAR response elements and leads to the increased
+expression of CPT1, liver fatty acid bindingprotein(FABP) andfattyacid β-oxidation genes. As mentionedearlier,
+PPARαalso potentially decreases glucose oxidation by increasing the expression of the PDH inhibitor, PDK4. The
+process of PPAR αactivation by fatty acids, means that an increase in fatty acid availability is met by an increase in
+metabolismoffattyacids.
+Fatty acid β-oxidation
+Fatty acid β-oxidation is the mitochondrial aerobic process of breaking down a fatty acid into acetyl CoA, NADH,
+and FADH 2.A sw eh a v ej u s ts e e n ,f a t t ya c i d sa r es i m p l el i p i d sa n du s u a l l yh a v eal o n gh y d r o c a r b o nc h a i nw i t ha
+terminalcarboxylgroup.Fattyacid β-oxidationinvolvesthebreakdownoflong-chainfattyacidsbytwocarbonsat
+a time, starting from the carboxylic acid end. The product formed by its breakdown ultimately feeds into the TCA
+acidcycle.
+Fatty acid β-oxidationoccurswithinthemitochondrialmatrix(Figure12).Initially,fattyacylCoAisoxidisedby
+FAD to form trans-enoylCoA,whereadehydrogenationreactionremovestwohydrogenmoleculesbetweencarbon
+2 and 3 of the fatty acid chain. Next, the hydration step adds a water molecule across the double bond forming hy-
+droxyacyl CoA. The next NAD-dependent dehydrogenation step generates an NADH molecule and ketoacyl CoA.Eventually, a thiolytic cleavage reaction forms an acetyl CoA molecule and acyl CoA that is 2 carbons shorter in
+length.ThisacylCoAcanberecycledandreusedcyclicallyfor β-oxidationoffattyacids.
+Fattyacidoxidationcanalsooccurwithinperoxisomes.Peroxisomaloxidationoffattyacidsoccursonfatsthatthe
+mitochondria are unable to utilise, such as very long chain fatty acids, pristanic acid, and bile intermediates. Here,
+fattyacidoxidationproceedsviaasimilarmechanism;however,enzymesandregulationcandiffer.
+TheNADHandFADH
+2formedwithinthe β-oxidationstepsareutilisedduringtheETC.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).625
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 12. β-oxidation process of fatty acids including the enzymes involved
+TheprocessresultsintheformationofacetylCoAandacylCoAmoleculesfromtheoxidation,hydration,andcleavageoffattyacyl
+CoA. Intermediates (in black), by-products (in green), enzymes (in red), and black boxes summarise the steps.
+Transport of acetyl CoA for fatty acid synthesis
+Denovolipogenesis,orfattyacidsynthesis,takesplaceintheliverandadipocytes,whereglucoseisultimatelyformed
+intofattyacids.Glycolysistakesplacewithinthecytosolyieldingpyruvate,whichistransportedintothemitochon-
+drial matrix. Here, pyruvate undergoes an oxidative decarboxylation reaction catalysed by PDH to produce acetyl
+CoA,theinitialprecursorfortheTCAcycle.
+Pyruvate +CoA+NAD+PDH
+→AcetylCoA +CO2+NADH
+Theenzymesrequiredforfattyacidsynthesisresideinthecytosol.Therefore,acetylCoAmustbeexportedfrom
+the mitochondria to allow fatty acid synthesis to occur. However, due to unavailable protein shuttles, acetyl CoAcannotreadilycrossthemitochondrialmembrane.Instead,acetylCoAcombineswithoxaloacetateformingcitrate,
+whichreadilycrossesthemitochondrialmembraneintothecytosol.Here,citrateisconvertedbackintoacetylCoA
+andoxaloacetateviaATPcitratelyase(ACLY)inordertore-formacetylCoAfortheinitiationoffattyacidsynthesis.Oxaloacetateisrecycledtoformpyruvate,formingNADHandcarbondioxide.
+Citrate +CoA+ATP ACLY
+→Oxaloacetate +AcetylCoA +ADP+Pi
+Fattyacidsynthesisisananabolicreaction,whereamonomer(acetylCoA)formsapolymer(fattyacid),meaning
+itholdsapositive /Delta1Gvalue,thereforeitiscoupledtothehydrolysisofATP.
+Initially,acetylCoAiscarboxylatedtoformmalonylCoA,areactionthatiscatalysedbyacetylCoAcarboxylase.
+Asthisreactionholdsapositive /Delta1Gvalue,tomakethismorefavourable,itiscoupledtotheh ydrolysisofA TP( /Delta1G
+<0).MalonylCoAthenundergoespolymerisationtoformthelong-chainfattyacid,catalysedbyfattyacidsynthase
+(FAS). Here CO 2and H2O are released, alongside the synthesis of 2 NADPH molecules. Two NADPH are used to
+b r eakca rbo ndo ub lebo ndsf o rfa t tyacidsyn thesis.Thea mo un to fCO 2,H2O,andNADPHthatisutiliseddepends
+onhowlongthefattyacidendproductisrequired.
+Example:Toform16carbonpalmiticacidfroma2-carbonacetylCoAmolecule,thefollowingreactionoccurs.
+8a c e t y lC o A +7ATP +14NADPH →Palmiticacid +7ADP +7Pi+14NADP++6H2O+8CoA /Delta1G/lessorequalslant0
+AcetylCoA +CO2+ATPACC
+→MalonylCoA +ADP+Pi
+AcetylCoA +MalonylCoA +2NADPH +2H+Fattyacidsynthase
+→FattyacidCoA +CoA+CO2+2NADP++H2O
+ThefattyacidisesterifiedintoTAGsandpackagedtoVLDLstoenterthebloodstreamtobedeliveredtotherest
+ofourtissuesinourbody.
+626 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 13. FAS domains and their respective catalytic sites
+The FAS complex
+FASistheenzymecomplexthatcatalysestheformationoflong-chainfattyacidsviafattyacidsynthesisofpalmitate
+(C16:0). It is a large dimerised complex with seven catalytic sites. In the centre of the complex lies the acyl carrier
+protein(ACP)whichcontainsaprosthetic4/primephosphopantetheinegroup.FASconsistsoftwoidenticalpolypeptides
+whichexistinayin-yangformation.FASisknowntodimerisethiswayduetocysteinecross-linkingbetweentheKS
+domaininoneFASmonomertotheprostheticgroupinACPoftheothermonomer.
+ThisreactionoccursinthepresenceofacetylCoA,malonylCoA(asa2-carbondonor),andNADPH.Inhumans
+andanimals,thesevencatalyticgroups(Figure13)oftheF ASandA CParelinkedcovalentlyinasinglepolypeptide
+chain.Thesevencatalyticsitesareseparatedintothreedomains:domainI,II,andIII.
+At the first two catalytic sites where acetyl transacylase (AT) and malonyl transacylase (MT) are present, they
+both transfer their respective acetyl and malonyl groups to the ACPs prosthetic group, forming malonyl ACP and
+acetylACP,respectively.Thecondensingenzyme(CE),alsoknownasacyl-malonylACPcondensingenzyme,forms
+a ketoacyl ACP molecule by combining the acetyl and malonyl groups. The first stage of condensation also occursat this catalytic site. The initial phase of this process is termed as the elongation process. Following on from this
+β-ketoacyl ACP reducatase (KR), β-hydroxyacyl ACP dehydratase (DH), and enoyl ACP reductase (ER) carry out
+thenextstepsofreduction,dehydrationandthesecondreductionstepforfattyacidsynthesisbyreducingthe β-keto
+group to a fully saturated carbon chain. Thioesterase (TE) cleaves the thioester bond between palmitate and the
+phosphopantetheinegroupwithinACP,uponreachingalengthofC16.Palmitateisreleasedfromthefattysynthase
+complex.
+Regulation of fatty acid synthesis
+TheenzymeacetylCoAcarboxylase,whichcatalysesthereactionofacetylCoAtomalonylCoA,istherate-limiting
+stepoffattyacidsynthesis.Itisregulatedallostericallyandhormonally.Allosterically,citratecanbindasanactivator,
+whereaslongchainfattyacidsbindasinhibitors.Thisisidealbecauseascytosolicconcentrationsofcitrateincrease,fattyacidsynthesisshouldbeactivatedtoformlong-chainfattyacids.However,wheretoomanyfattyacidsarebeing
+formed,thisstepneedstoberegulatedtoinhibitthisprocessandactivatefattyacidoxidation.Theregulationofacetyl
+CoAcarboxylaseinthismannerpreventsthepossibilityofafutilecycle.Ifafutilecycleweretooccurtheformationand oxidation of fatty acids would occur simultaneously, keeping concentrations the same rather than allowing the
+favourablereactiontotakeplace.
+MalonylCoAisalsoanimportantinhibitoroffattyacid β-oxidation,bypreventingtheuptakeoffattyacidsintothe
+mitochondriaviainhibitionofCPT1.WhilsttissuesliketheheartandmusclelackfunctionalF AS,theystillundergo
+thefirststepsoftheprocesstogeneratemalonylCoA.Inthiscase,themalonylCoAisusedasaCPT1inhibitorand
+actstoregulate β-oxidation.ThisshiftstheheartandmuscletostorefattyacidsasTAGsforfutureuse.
+H o r m o n a l l y ,i n s u l i nc a na c t i v a t eA C Cw h e r eg l u c a g o ni n h i b i t s .I n s u l i nh a sa l s ob e e ns h o w nt oi n c r e a s et h ee x -
+pressionofbothACCandFASinthemammalianliverandadiposetissue.Thisisbecauseonceamealisconsumed,
+insulinlevelsriseasglucoselevelsrise.Increasedglucosemeansactivationofglycolysisandthusincreasedproduc-
+tion of acetyl CoA. Increased insulin concentrations will allow the utilisation of the acetyl CoA to form fatty acids.
+Glucagon aims to increase blood glucose levels several hours after a meal. Where there is not excess glucose, fattyacidoxidationoccursinstead.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).627
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 14. The categorisation of amino acids into their essential, conditional and non-essential groups in humans
+Conditional amino acids are not usually essential amino acids, only in times of illness and stress. Essential amino acids are notproduced naturally by the body and must come from dietary intake whereas non-essential amino acids are produced by our body.
+Amino acid metabolism
+What are amino acids and where do they come from?
+Amino acids are organic compounds that are composed of nitrogen, carbon, hydrogen, and oxygen, along with a
+variable side chain. Amino acids are the individual monomers that make up proteins, nucleotide bases (used for
+DNA, RNA, and ATP synthesis) and other nitrogenous products. As we have already seen in times of starvation,
+amino acid metabolism can be vital to maintain glucose levels and provide alternative carbon sources. Amino acidscanbeconsumedfromdietarysourcesorsynthesisedwithinourbodiesandarecategorisedonthisbasis,respectively
+(Figure14).
+Amino acid transamination
+Excess amino acids that are not required within the body are excreted as they cannot be stored. The metabolism ofa m i n oa c i d soc cu r sp r ed o m i n a n tl ywi th i nth el i v e rh o w ev e r ,th eki d n ey ,m u sc l e s ,a n da d i po seti s s u e sal soca rryo u t
+amino acid metabolism. This consists of a two-step process. A transamination step and an oxidative deaminationstep.Thefirststepofaminoacidcatabolisminvolvesthetransferofan α-aminogroupfromtheoriginalaminoacid
+to a carrier molecule, an α-keto acid such as α-ketoglutarate. This transamination step forms another α-keto acid
+andaminoacidsuchasglutamate.Thisstepiscatalysedbytheenzymeaminotransferase,whichisfoundwithincellcytosolsandisabundantinlivercells,alongwiththekidney,intestines,andthemuscle.
+α−amino acid +α−ketoacidAminotransferase
+↔α−ketoacid +glutamate
+Aminotransferases exist in many forms, two of which are: alanine aminotransferase and aspartate aminotrans-
+ferase.Allaminotransferasesrequireaco-enzymepyridoxalphosphate(vitaminB6)whichactstoinitiallyacceptthenitrogen-containinggroupfromthe α-aminoacidbeforethetransfertoformthe α-ketoacid.Alanineaminotrans-
+ferasetransfersthe α-aminogroupfromalaninetothe α-ketoacid, α-ketoglutarate,formingglutamateandpyruvate.
+However,aspartateaminotransferasetransfersan α-aminogroupfromaspartateto α-ketoglutarateyieldingoxaloac-
+etate,the α-ketoacidandglutamate.
+Alanine +α−ketoglutarateAlanineaminotransferase
+↔Pyruvate +glutamate
+Aspartate +α−ketoglutarate Aspartate aminotransferase
+↔Oxaloacetate +glutamate
+Thetransaminationstepexistsasareversiblestep.Therefore,itisimportanttonotethatwhenaminoacidconcen-
+trationsarehigh,theyarebrokendown,however,wheretheirconcentrationsarelowtheycanbeformedfromotheramino acids and α-keto acids. The formed amino acid, in this case, glutamate, must continue to undergo oxidative
+628 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+deaminationtoformammonia(seeUreacyclelater).Theformed α-ketoacidcanbeutilisedasaformofenergyas
+ATP molecules.
+Oxidative deamination
+Oxidativedeaminationconsistsoftwosteps:adehydrogenationandahydrolysisstep.Thedeaminationstepremoves
+theaminogroupfromglutamatetoformanintermediatemolecule.Theintermediateundergoesahydrolysisreaction
+wheretheaminogroupformsammoniumions(NH 4+)andregenerationof α-ketoglutarate.
+Glutamate +NAD+Glutamate dehydrogenase
+↔Ammonia +α−ketoglutarate +NADH
+Glutamate dehydrogenase is predominantlyfound within the liver and the kidneys, inside mitochondria, for this
+reactiontooccur.Thisreactionoccurswithinthemitochondriatoensurethatthetoxicammoniumyieldeddoesnotcausecytotoxicitywithinthecell.I tutilisestwoco-enzymes;N AD
++andNADP+.Theseco-enzymesarerespectively
+used based on the conditions for the cell. When driving the forward reaction, in conditions where amino acid con-
+centrations are high, for example after consuming a protein-rich meal, NAD+ is used as the co-enzyme. However,
+whereaminoacidorglutamatelevelsarelow,thereversereactionoccurstoformmoreglutamatewhichcanaidthe
+synthesis of other non-essential amino acids. ADP and guanosine diphosphate (GDP) are both allosteric activatorsof glutamate dehydrogenase. Therefore, when energy levels are low (high ADP, GDP but low ATP and GTP), this
+reactionoccurstobreakdownglutamateandaminoacidsforenergyproduction.
+Followingaminoacidmetabolismwithintheliver,duetoitstoxicity,thesynthesisedammonia,cannotbesimply
+transported in the bloodstream. Due to this, the ammonia is transformed into a non-toxic compound, glutamine.
+Glutamineistransportedtothekidneysbytheenzymeglutaminesynthetasewhichispresentinperipheraltissues.
+Ammonia +glutamate +ATPGlutaminesynthetase
+→glutamine +ADP+Pi
+Glutamine is transported via the bloodstream and travels to the liver. Within the liver it is converted back into
+glutamateandammoniabytheenzymeglutaminase.Interrestrialvertebrates,ammoniaisconvertedintoureawhichisexcreted(seethesectiononUrealater).
+Within the kidneys, the proximal tubule is the primary site for ammoniagenesis of predominantly glutamine
+metabolism.Ammoniaproducedhereisexcreteddirectlyintotheurineorreturnedtothesystemiccirculation.
+Single-step catabolism of amino acids
+Some particular amino acids only undergo a single step dea mination process. These include serine and threonine.
+Theonestepprocessiscatalysedbytheenzymedehydratase.
+Serine Dehydratase
+→Pyruvate +NH+
+4
+ThreonineDehydratase
+→α−ketobutyrate +NH+
+4
+During these reactions, a dehydration reaction occurs to form an unstable, high energy, intermediate molecule
+suchasaminoaceylate.Thisreadilyconvertsintoafinalproductandyieldsammonium.Theammoniumcarriesinto
+theureacyclewhereasthecarbonskeletonsformed,suchaspyruvate,canbeusedforenergypurposes.
+The TCA cycle
+The importance of the TCA cycle and its discovery
+TheTCAcyclewasinitiallyknownasthecitricacidcyclebyHansA.Krebs,aGermanbiochemist,in1937.Itismore
+commonlyknownastheKrebscycle,inrecognitionofHansKrebs’discovery.Krebs’workwasincollaborationwith
+WilliamA.JohnsonattheUniversityofSheffield.However,beforetheirenddiscovery,asuccessionofexperiments
+tookplacebymanyotherscientists.
+Sterncarriedouthisexperimentswithmincedanimaltissue.Here,hefoundthatthesetissuescontainedspecific
+substancesthatcouldtransferH+atomsfromseveralintracellularorganicacids.Inparticular,fumarate,malate,suc-
+cinate,andcitrate.HestudiedthisusingMethyleneBlue,wherethistransferofH+atomsresultedinthereductionof
+thedyetoacolourlessform.Thiswasfoundtooccurwithinthepresenceofoxygenathighrates,knowingthatactive
+enzymesexistedhere.Inthe1920s,Thunbergdescribedarespiratorycyclethatwaspresenttooxidiseacetatewhenparticulartissuedehydrogenaseswereavailable.
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).629
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 15. The TCA cycle with all intermediates (in black), by-products (in green), and enzymes (in red)
+The TCA cycle proceeds after the formation of acetyl CoA from either pyruvate during aerobic respiration following glycolysis or
+β-oxidation. The TCA cycle forms carbon dioxide, NADH, GTP, and FADH 2molecules.
+AlbertSzent-Gyorgyilaterdescribedthesequenceofeventsofsuccinateoxidation.Healsofoundthatbyaddinga
+smallamountofeithermalateoroxaloacetatestimulatedtheircompleteoxidation.Thiswasindicatedbyanexcessive
+amountofoxygenbeingconvertedintoanoxidisedform.Therefore,heconcludedthatthismustcausetheoxidation
+ofanendogenoussubstancesuchasglycogen,whichresideswithintissues.
+Succinate →Fumarate →Malate →Oxaloacetate
+MartiusandKnoopfurtheredSzent-Gyorgyis’sworkbydiscoveringafurtherpieceofthesequence.
+Citrate →α−ketoglutarate →Succinate
+Krebs found that certain organic acids were readily oxidised by muscle, whereas the oxidation of carbohydrates
+andpyruvatewasstimulatedbythepresenceofspecificorganicacids.Theseacidshappenedtobetheintermediates
+thatarepresentthroughouttheTCAcycle.
+Furthermore,usingmalonate,aninhibitorofsuccinatedehydrogenase,inmusclesuspensionexperiments,Krebs
+found an accumulation of succinate in the presence of citrate isocitrate, α-ketoglutarate, fumarate, malate, and ox-
+aloacetate. He, therefore, deemed a cyclic nature of all of these reactions to lead to succinate. This was proposed by
+Krebsin1937forwhichhewontheNobelPrizeinPhysiologyorMedicinein1953.
+The TCA cycle is the predominant central driver of ATP synthesis and biosynthesis in most cells (Figure 15). In
+eukaryotes,theTCAcycletakesplaceinthematrixofthemitochondriafollowingthebiosynthesisofacetylCoAviatheoxidationofpyruvate.Inprokaryotes,thesestepsoccurwithinthecytosol.
+630 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Table 3 The reactions of the TCA cycle alongside the standard free energy changes and physiological free energy
+changes of the reactions
+Step Reaction Enzyme Type of reaction/Delta1G◦/prime
+kJ.mol−1/Delta1Gk J . m o l
+−1
+1 Acetyl CoA +Oxaloacetate →Citrate Citrate synthase Condensation −31.5 Negative
+2 Citrate /harpoonrightleftIsocitrate Aconitase Isomerisation ∼5 ∼0
+3 Isocitrate +NAD+→α-ketoglutarate +NADH +CO 2 Isocitrate
+dehydrogenaseOxidative
+decarboxylation−21 Negative
+4 α-ketoglutarate +NAD++CoA→Succinyl CoA +NADH +CO 2 α-ketoglutarate
+dehydrogenaseOxidative
+decarboxylation−33 Negative
+5 Succinyl CoA +GDP+Pi/harpoonleftrightSuccinate +GTP+CoA Succinyl CoA synthase Substrate level
+phosphorylation−2.1 ∼0
+6 Succinate +FAD+/harpoonrightleftFumarate +FADH 2 Succinate
+dehydrogenaseDehydrogenation +6 ∼0
+7 Fumarate +H2O/harpoonrightleftMalate Fumarase Hydration −3.4 ∼0
+8 Malate +NAD+/harpoonrightleftOxaloacetate +NADH Malate dehydrogenase Dehydrogenation +29.7 ∼0
+The pathway
+Thecycleisformedofeightmajorsteps,seeTable3.
+Important steps of TCA
+Step1–Thecombinationof2-carbonacetylCoAand4-carbonoxaloacetateforms6-carboncitrate.Here,citratecan
+eithermoveintothecytosoltoinitiatefattyacidsynthesisorisdestinedtocarrythroughtheoxidationstepsinvolved
+intheTCAcycle.Thisreactionisirreversibleandhighlyregulatedwithahighlynegative /Delta1G.
+Step 3 – This step is highly regulated and allows the commitment of citric acid to the TCA cycle instead of fatty
+acidsynthesis.ThisstepisactivatedandstimulatedbyNAD+and ADP but inhibited by NADH and ATP. Here, the
+firstNADHmoleculesareformedalongwithCO 2.
+S t e p5–T h i sr ea cti o ni sc o u p l edt oth ep h o s p h o ryla ti o no fG D Pt oG T P ,m aki n gi tth eo nl yr ea cti o ni nth eT C A
+cycle to generate a high energy phosphate. Following the formation of GTP, this can either be converted to ATP or
+usedinproteinsynthesis.
+Balance sheet
+GlucoseFollowingglycolysis,2pyruvate,2A TP ,and2N ADHareformed.ThepyruvatemoleculesarebrokendownbyPDH
+to2acetylCoA,2N ADH,and2CO
+2.
+TheseacetylCoAmoleculesentertheTCAcycleandgenerate:1moleculeofGTP(interchangeablewithATP),3
+NADH, and 1 FADH 2co-enzymes.ThesearedoubledastwomoleculesofacetylCoAaregeneratedperglucose.
+Total : 8 NADH matrix+2NADH cytosol+4ATP +2FADH 2
+Palmitate (C16)
+Fromβ-oxidation:7NADH,7FADH 2,and8acetylCoA
+FromTCAcycle:24NADH,8FADH 2,8GTP/ATP
+Anaplerosis and cataplerosis
+The importanceAnaplerosisistheactofreplenishingintermediatesoftheTCAcyclethathavebeenusedupforbiosynthesis.These
+anions must be replaced to retain the function and cyclic fashion of the TCA cycle. However, to ensure that these
+intermediatesdonotover-supplytheTCAcycle,anaplerosisiscoupledwiththeexitofintermediatesfromtheTCAcycle,calledcataplerosis(Figure16).
+TheNADHthatisgeneratedfromtheTCAcycleisusedbythecellintheformofA TP .EventhoughtheTCAcycle
+formsover70%oftheATPthatisusedbyacell,italsoprovidestheintermediatebuildingblocksforotherprocesses.
+Asaresultofthis,thesubsequentintermediateswithintheTCAcyclecanbeusedupexcessivelyandthesemustbe
+replenishedthroughtheprocessofanaplerosis.
+Intermediatesandtheiruse:
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).631
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 16. The anaplerotic and cataplerotic reactions within the TCA cycle
+The major reactions are illustrated here including the entry of amino acids, formation and breakdown of oxaloacetate and the link
+to gluconeogenesis.
+•Citrate–Usedduringfattyacidsynthesis.
+•α-ketoglutarate–Aminoacidandpurinenitrogenousbasesynthesis.
+•SuccinylCoA–Haemgroups,porphyrinsynthesis.
+•Oxaloacetate–Glucose,aminoacids,purine,pyrimidinebasessynthesis.
+Tokeepupwiththeenergydemandsofthecell,intermediateconcentrationssuchasthoselistedabove,needtobe
+maintainedataminimallevel.
+Anaplerotic reactions
+Oxaloaceta tecanbeformeddirectlyfromp yruva te(asdiscussedingluconeogenesis),whichinturnreplenishestheotherintermediateswithinthecycle.
+Pyruvate +CO
+2+ATP+H2OPyruva teca rbox yla se
+→Oxaloacetate +ADP+Pi+2H+
+Thisisacontrolledstepwithintheprocesswherepyruvatedecarboxylaseisthearchetypicalanapleroticenzyme.As
+theenergydemandofacellincreases,oxaloacetateisformedatahigherratetoactasabuildingblockfortheformation
+ofaminoacids,purineandpyrimidinebasesandthereforeneedstobereplenishedatahigherrate.However,where
+t h ee n e r g yd e m a n d sa r el o w ,o x a l o a c e t a t ei su s e dt od r i v et h eT C Ac y c l ef o rt h ef o r m a t i o no fN A D Hm o l e c u l e st o
+increaseATPconcentrations.
+Oxaloacetatecanalsobeformedviaanirreversiblereactionfromaspartate,whichiscatalysedbyaspartatetransam-
+inase.
+632 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Upontheoxidationoffattyacids,succinylCoAisformed.Therefore,theprocessof β-oxidationof fats can allow
+theformationofsuccinylCoAmoleculesrequiredintheTCAcycle.
+α-ketoglutarateisregeneratedfromglutamatebyglutamatedehydrogenase.
+Glutamate +NAD++H2OGlutamatedehydrogenase
+→α−ketoglutarate +NADH +H+
+Fumarateisregeneratedfromadenylsuccinateduringpurinesynthesis.
+AdenylsuccinateAdenylosuccinatelyase
+→Fumarate +AMP
+Cataplerosis
+Duringthecatabolismofaminoacids,4-to5-carbonintermediatesareformed,whichultimatelyentertheTCAcycle.
+TheTCAcycleisunabletofullyoxidisetheseandthereforeareremovedbytheprocessofca ta plerosis.Ca ta plerosis
+aims to remove intermediates, thus ensuring that there is no accumulation of anions in the mitochondrial matrix.
+Threemaincatapleroticenzymesexist;PEPCK,aspartateaminotransferase,andglutamatedehydrogenase.Thereac-tionsinvolvedwithincataplerosis,asdescribedbelow,formaproductthatessentiallyremovesspecificintermediates.
+For example, within the liver and kidney, PEPCK forms PEP which can be utilised for gluconeogenesis. However,
+withinthemuscle,PEPcanbedecarboxylatedtoformacetylCoAforoxidationwithintheTCAcycle.
+PEPCK
+OxaloacetatePEPCK
+→Phosphoenolpyruvate +CO2
+Aspartate aminotransferase
+L−aspartate +α−ketoglutarateAspartateaminotransferase
+→Oxaloacetate +L−glutamate
+Glutamate dehydrogenase
+L−glutamate +NAD++H2OGlutamatedehydrogenase
+→α−ketoglutarate +NH+
+4+NADH +H+
+The synthesis of carbohydrates from fat
+TheglyoxylatecycleisavariationoftheTCAcyclethatdoesnotexistinanimals.Inanimals,carbohydratesarereadily
+convertedintofat;however,thereverseprocess cannotoccur.ThisfollowsonfromthenatureoftheTCAcycleand
+theirreversibleconversionofpyruvateintoacetylCoA.
+Theglyoxylatecycleallowsthesynthesisofcarbohydratesfromfatwithinplants,bacteria,fungi,algae,andprotozoa
+whichgrowonacetateastheircarbonsourceforenergyandcellcomponents.Thisisespeciallyimportantforseeds
+richinoilsuchaspeanuts,olives,andsunflowerswhentheyaregerminating.Thefattyacidsstoredwithintheseeds
+arebrokendowntoformglucosetobeusedasenergyforgerminationuntilphotosynthesisisestablished.
+T h eg l y o x y l a t ec y c l ei sa na n a b o l i cr e a c t i o nw h i c hb y p a s s e st h eC O 2forming steps of the TCA cycle (isocitrate
+to succinate), conserving a glyoxylate molecule to form malate. It occurs within specialised peroxisomes called gly-
+oxysomes.
+As represented in Figure 17, within this cycle, isocitrate is formed as per the TCA cycle; however, this is broken
+downbyisocitratelyaseintoglyoxylate(2-carbonmolecule)andsuccinate.Glyoxylateisthencombinedwithacetyl
+CoAformingmalate,areactioncatalysedbymalatesynthase.Malateformsoxaloacetate,whichproceedstogenerateenergyintheformofglucosefromgluconeogenesis.
+ThecarbonskeletonsthatentertheTCAcycleasacetylCoAarelostduringthedecarboxylationstepsofthecycle.
+As oxaloacetate undergoes cataplerosis to make glucose, there is no oxaloacetate remaining for the TCA cycle to
+continue. Due to this, fats cannot produce glucose at a net rate. The glyoxylate cycle bypasses the decarboxylation
+steps,creatingacompoundthatcanformglucosewithoutdepletingthestartingcompoundoftheTCAcycle.
+Energy production by organelles
+Thereareseveralcommonfeaturesoftheorganellesresponsibleforenergyproductionineukaryotes–themitochon-dria and chloroplast. Firstly, both organellesrely on the presence of a highly folded membrane,within a ‘protective’
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).633
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 17. The glyoxylate shunt (green) coexisting amongst the TCA cycle (black)
+The glyoxylate shunt converts fatty acids into carbohydrates by bypassing decarboxylation steps of the TCA cycle.
+outermembrane,whichsignificantlyincreasessurfaceareaforenergygeneration.Secondly,thesefoldedmembranes
+a r es t u d d e dw i t he n z y m e sw h i c hu s eC ua n dF ei o n s ,a n du b i q u i n o n ef o rt h et r a n s f e ro fe l e c t r o n s .T h i r d l y ,t h e s e
+electronsareusedtopumpproton(H+)ionsagainstaconcentrationgradient,generatingaprotonmotiveforce.This
+protonmotiveforceisthenusedtogenerateATPviaATPsynthase,asprotonsmovebackdowntheirconcentrationgradient. Finally, both organelles appear to have a prokaryotic origin and one theory is that they have developed an
+endosymbioticrelationshipwithanancientpre-eukaryoticcell,togeneratemodern-dayeukaryotes.
+Organisation of organelles
+WehavealreadyseenthatplantsareautotrophicandusechloroplaststocapturetheenergyfromsunlighttofixCO 2
+andsynthesiseusefulmacromolecules.Chloroplastusetheirheavilyfoldedmembranestosignificantlyincreasethe
+amount of sunlight that can be captured and thus maximise energy generation. As well as enzymes in the mem-
+branes, the enzymes responsible for CO 2f i x a t i o n ,k n o w na st h eC a l v i nc y c l e ,a r ef o u n dw i t h i nt h es t r o m a( l a r g e
+centralspace)whichissurroundedbytheinnermembrane.Unlikemitochondria,chloroplastpumpprotonsintothethylakoids, rather than the intermembrane space, which acts to generate the proton motive force required. For a lot
+moredetailedunderstandingofthechloroplastandtheprocessofphotosynthesisasawhole,pleaserefertotheUn-
+derstandingBiochemistryreview:Photosynthesis,MatthewP.Johnson(2016), EssaysInBiochemistry ,60,255–273;
+DOI:10.1042/EBC20160016.
+Unlike chloroplasts, mitochondria use organic chemical nutrients to obtain physiological energy in the form of
+ATP. We have already seen that ATP can be generated in glycolysis, but per glucose molecule that enters, only twoA T Pa r eg e n e r a t e d .T oc a p i t a l i s eo nt h ee n e r gyh e l di ng l u c o s e ,i tn e e d st ob ef u l l yo x i d i s e dt h r o u g ht h eT C Acy c l e
+andthenFADandNADHentertheETC.Thisthenliberates30–32ATPperglucosemolecule,a15–16-foldincrease
+inenergyreturn.Theselasttwopathways,TCAcycleandETC,requirefunctioningmitochondriaandoxygentobepresent.Inthelumen(knownasthematrix),enzymesfortheTCAcycle,PDH,and βoxidationreside(Figure18).
+Embeddedintothecristae(foldsintheinnermembrane)aretheenzymesfortheETC.
+One enzyme crosses over between the TCA cycle and the ETC, which is succinate dehydrogenase. This enzyme
+catalysesthereactionsuccinatetofumarateandgeneratesFADH
+2.Succinatedehydrogenaseisintegraltocomplex2
+and passes electrons from FADH 2, directlyinto theETC. Generally speaking, the greater thenumber of cristae, the
+higher the respiratory demand of the tissue. This is seen in the heart, where there are a high number of cristae and
+634 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 18. Basic structure of the mitochondrion and chloroplast, showing the membrane structures
+a large number of mitochondria present. Several studies have shown that one of the consequences of heart failure
+i sm i t o c h o n d r i a ld y s f u n c t i o n ,w h e r ec r i s t a es u p e r s t r u c t u r eb r e a k sd o w na n dt h em i t o c h o n d r i ab e c o m el e s sa b l et o
+produceATP.
+Mitochondria are dynamic
+MitochondriaareoftenthoughtofasthestaticstructurepresentedinFigure18,butinreality,theycanexistindifferentforms.Fluorescentlytaggedneuronalmitochondriahavebeenvisualisedmovingfromtheneuronalbody,alongthecytoskeleton of the axon and to the synapse where energy demand is high. Whilst mitochondria can be present as
+single mitochondrion, they can also form long connected networks similar to chains seen in some prokaryotes (e.g.
+cyanobacteria).Inthesenetworks,mitochondriacanundergofission(splitting)andthenre-join(fusion),dependingon energetic demand and mitochondrial health. This act of fusion is thought to help recycle or refresh damaged
+mitochondria and allow mutations in mitochondrial DNA and damage to enzymes to be diluted throughout the
+network.Infactdefectsingenesregulatingfissionandfusion(forexamplePINK1andParkin),havebeenreportedin neurological diseases such as Parkinson’s disease. Mutations in these genes (and others) lead to mitochondrial
+undergoing higher levels of fission and are less able to fuse, thereby not recycling damaged mtDNA or metabolic
+enzymes,affectingneuronalhealthandviability.
+Oxidative phosphorylation in the mitochondria
+OxidativephosphorylationencompassesboththeETCand A TPsynthase.Thisprocessoccurswithintheinnermito-
+chondriamembrane,wherethecomplexesfortheETCandATPsynthasearepresent(Figure19).TheroleoftheETCis,asitsnamesuggests,totransportelectronsthroughaseriesofcomplexestothefinalelectronacceptor:oxygen.As
+electronsflowalongthischain,theystartwithahighenergypoten tiallosingenergyastheyreduceelectroncarriers
+astheytravelthroughthechain(Figure20).Thecomplexesusethisenergytopumpprotonsfromthematrix,intotheintermembranespace.Astheinnermembraneisimpermeabletoprotons,aconcentrationandpHgradientdevelops
+a c r o s st h em e m b r a n ed u et ot h ep o s i t i v ec h a r g eo ft h ep r o t o n s .T h em a t r i xb e c o m e sn e g a t i v e l yc h a r g e dd u et ot h e
+pumpingoutofprotonsandthisgeneratesanelectricalpotentialacrossthemembrane,equivalentto ∼150–200mV.
+TheelectrochemicalgradientisusedtodriveATPsynthasetoproduceATP.Alongwiththecomplexes,therearetwo
+electroncarrierscoenzymeQ(alsoknownasquinoneandCoQ)andcytochrome c,whichareresponsibleforpassing
+electronsfromcomplextocomplex(Figure19).
+Complex I (also known as NADH dehydrogenase) and complex II (also known as succinate dehydrogenase) are
+flavoproteins,whichmeansthattheycontaineitherFADorFMNanduseaseriesofiron–sulphurclusterstoaccept
+two electrons and two protons from NADH + H
++or succinate (eqn 4). The electrons are then passed via coenzyme
+Q to complex III (Q-cytochrome coxidoreductase) which is the first cytochrome is the pathway. Complex III, IV,
+andcytochrome careallcytochromeproteins,meaningthattheyusebothhaemprostheticgroupsandiron–sulphur
+clusters to transfer electrons. Within the haem group, the iron ion alternates between a reduced Fe2+(ferrous) state
+andoxidisedFe3+(ferric)stateaselectronsaretransferred.AtcomplexIV,theelectronsarefinallypassedtooxygen,
+whichgenerateswater.AstheelectronspumpthroughcomplexI,III,andIVtheycausethereleaseof4H+,4H+,and
+2H+intotheintermembranespace,respectively(eqn4).
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).635
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 19. Oxidative phosphorylation – ETC and ATP synthase
+Drawn from PDB and OPM codes: 5XTD (Complex I), 1ZOY (Complex II), 1L0L (Complex III), 2DYR (Complex IV) and 6J5I (ATPsynthase).
+Figure 20. As electrons (e-) are passed along the chain, they reduce the next carrier and decrease their energy levels, until
+they reach the ﬁnal electron acceptor – oxygen
+Summary of equations for the four complexes of the ETC. CoQ =coenzyme Q, Cyt c =cytochrome c.
+Complex I: NADH +H++CoQ+4H+
+matrix→NAD++CoQH 2+4H+
+cytosol
+Complex II: FADH 2+CoQ→FAD+CoQH 2
+Complex III: CoQH 2+2Cyt cox+2H+
+matrix→CoQ+2Cyt cred+4H+
+cytosol
+Complex IV: 2 Cyt cred+4H+
+matrix+1
+2O2→2Cyt cox+2H2O+2H+
+cytosol(4)
+There are two entry points into the ETC, this is either via NADH + H+and complex I or succinate/FADH 2and
+complex II. Ultimately, both pathways deliver electrons into the ETC and generate ATP at the end. However, the
+amountofATPgeneratedvariesdependingonwhichentrypoint,complexIorcomplexII,isused.Thisdifferenceis
+duetothenumberofprotonspumpedoutintotheintermembranespacebythecomplexes.AscanbeseeninFigure
+19,thedifferentcomplexespumpprotonsfromthematrixintotheintermembranespace,therebygeneratingaproton
+gradient. Roughly four protons are needed for the generation of one ATP molecule, approximately three protons gothrough ATP synthase and one is used for the nucleotide transport into the mitochondria (to import Pi and ADP).
+636 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+ComplexIcanpumpfourprotons,whilstcomplexIIdoesnotdirectlypumpanyprotonsout,thereforeNADH+H+,
+via complex I, can generate one more ATP than FADH 2, via complex II. In total, 1 NADH + H+generates 2.5 ATP
+and1FADH 2generates1.5ATP.AfterabreakdownoftheETCprocess,wewillreturntothebalancesheetsthatwe
+sawearlierforthenumberofNADH+H+andFADH 2generatedfromtheoxidationofglucoseandpalmate.
+ATP synthase
+T h eA T Ps y n t h a s em u l t i p r o t e i nc o m p l e xi sam o l e c u l a rm o t o rp o w e r e do fp r o t o n sp a s s i n gt h r o u g hi t .I nh u m a n s ,A TPsynthaseismadeupof29subunitsof18differenttypesthatare,interestingly ,encodedforbydifferentgenomes:
+some genes are nuclear whilst others are mtDNA. These subunits form the three main structures in ATP synthase:
+theF
+O(rotor),F 1(catalyticheadandstalk),andF O-stalkarm.TheF Oisatransmembraneproteincomplex,whichis
+themainrotor,acceptingprotonsandturningtheF 1head.Protonsenterachannelontheintermembranespaceside
+ofFO,theseprotonsthenbindintoapocketintheF Oandtherotorturnsonespace.Thisturningreleasesaprotonon
+thematrixsideviaanotherchannel.Thecomplexcanholdtenprotonsandasingleprotonturnsjustunder360◦asit
+passesfromtheintermembranespacetothematrix.IntheF 1subunit,thereare3catalyticdomainseachcontaining
+bindingsitesforADPandPi.Withinthecatalyticdomain,ADPandPireacttoformATP,theactionofturningthe
+F1releases one ATP into the matrix at a time. Therefore, a complete turn of the ATP synthase transfers ten protons
+fromtheintermembranespacetothematrixandgeneratesthreeATPmolecules.
+Final balance sheets
+Note these numbers are estimation and values differ in different textbooks, depending on if the proton lost for theinputofADPandPiiscounted,orifyoucountthenumberofA TPproducedaseither3or3.3protons.Thereisalso
+adifferenceinthenumberofprotonsthatcanpassthroughATPsynthaseindifferentorganisms.Thec-ring,whichisthesubunitresponsibleforbindingprotonsinF
+O,canvaryinthenumberofsubunitsandthereforethenumberof
+protonsthatitcanbind.Ithasbeen seenthatthiscan bebetween 8and17, thereforealteringthepotentialnumber
+ofprotonsneededtomakea360◦transitionoftheA TPsynthasecomplex.Thevalueswehaveusedhereaccountfor
+theimportofADPandPiandusethevalueofthreeprotonsperA TP ,therefore1NADH =2.5ATPand1FADH 2=
+1.5ATP.
+Glucose
+8N A D H matrix+2N A D H cytosol+4ATP+2F A D H 2
+NADH cytosolneeds to be transported into the mitochondria to be used in the ETC. As NADH cannot be directly
+transported, the electrons and protons are transferred to malate, which via the malate-aspartate shuttle, regenerates
+NADHinthematrix.Theuseofthemalate-aspartateshuttlehowevertransportsoneprotonfromtheintermembrane
+space,intothematrix,reducingtheeffectiveATPproductionfrom2.5to2.25.
+20 ATP + 4.5 ATP + 4 ATP + 3 ATP =31.5ATPperglucose
+Palmitate (C16)
+Fromβ-oxidation:7NADH,7FADH 2,and8acetylCoA
+FromTCAcycle:24NADH,8FADH 2,8GTP/ATP
+77.5ATP(fromNADH)+22.5ATP(fromFADH 2)+8A TP =108ATP
+Even chained fatty acid with n number of carbons (Cn)
+Whilst this looks scary, if you input the number of carbons in the fatty acids, then you will get the number of ATP
+producedwhenoxidised.
+Fromβ-oxidation:( Cn−2/2)NADH,( Cn−2/2)FADH 2,andCnacetylCoA
+FromTCAcycle:3( Cn/2)NADH,( Cn/2)FADH 2,(Cn/2)GTP/ATP
+2.5/parenleftbigg/parenleftbiggCn−2
+2/parenrightbigg
++3/parenleftbiggCn
+2/parenrightbigg/parenrightbigg
+ATP+1.5/parenleftbigg/parenleftbiggCn−2
+2/parenrightbigg
++/parenleftbiggCn
+2/parenrightbigg/parenrightbigg
+ATP+/parenleftbiggCn
+2/parenrightbigg
+ATP
+OrmoresimplyforanygivenfattyacidwithachainlengthofCn,thisisthenumberofA TPproducedviacomplete
+oxidation:
+10/parenleftbiggCn
+2/parenrightbigg
++4/parenleftbiggCn−2
+2/parenrightbigg
+ATP
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).637
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 21. The urea cycle intermediates and by-products
+Ornithineisimportedintothemitochondria,whereitcombineswithcarbomoylphosphatetogeneratecitrulline.Citriulineisexported
+to the cytosol, where the cycle continues, until the release of urea and the regeneration of ornithine.
+Detoxiﬁcation and urea biosynthesis (waste products)
+Detoxiﬁcation and waste products
+Duringtheirlifetime,mostorganismswillbeexposedtoharmfulandhazardoussubstancesfromtheenvironment.
+These substances are transformed into non-toxic products in a process of detoxification, which is carried out in a
+s e r i e so fs t e p sb yar a n g eo fe n z y m e s .S o m et o x i cm o l e c u l e sc a na l s oa r i s ef r o mc e l l u l a rm e t a b o l i s mi nt h ef o r mof ammonia. Ammonia is a by-product of protein metabolism through the transamination of amino acids and the
+deaminationofl-glutamate.Ammoniaisalsonaturallyproducedbygutflora.
+L−glutamate +NAD
+++H2O/harpoonrightleftα−ketoglutarate +NADH +H++NH3
+Elevated blood concentrations of ammonia (hyperammonemia) is toxic to the central nervous system and can
+manifest as cerebral edema, seizures, and asterixis. Therefore, ammonia is rapidly detoxified in the body to formnon-toxicureafordisposal.Inmammals,theliveristhemainsiteofmetabolismanddetoxificationofpharmacolog-
+icalcompoundsandfood.Theliveralsoactstomaintainlowlevelsofammoniainthebloodand,therefore,itisthe
+mainsiteofammoniadetoxificationinmammals.
+Manyterrestrialanimalssuchashumansandfrogs,alongsidemarinemammalssuchaswhalesandseals,synthesise
+ureaastheirnitrogenouswasteproductandarethereforetermedasureotelic.Ureaisformedfromammoniathrough
+ametabolicprocesscalledtheornithine(orurea)cycle.Detoxificationoccursmostlyinhepatocytesintheliverand,toalesserextent,thekidneys.
+The discovery of the urea cycle
+The urea cycle was discovered by Hans Krebs and Kurt Henseleit in 1932 and was the first metabolic cycle to beelucidated.
+Initially, it was found that, in liver slices, urea synthesis occurred at high rates in the presence of ornithine and
+ammoniumions.EventhoughKrebsandHenseleitwerescepticalofthis,itwasdeemedthattheremaybeapotentiallinkwiththepresenceofarginasewithintheliver .Arginaseisanenzymethatconvertedarginineintoornithineand
+urea.Laterexperimentsfoundthatornithinewasrecycledandregeneratedonceureawasmadeandsimplyactedas
+acatalyst.Followingthisfinding,thesearchforintermediatesbeganandthecyclewasformed.
+The urea cycle
+Themainfunctionoftheureacycleistodetoxifyexcessammonium(NH 4+)intoanon-toxiccompoundcalledurea
+(Figure 21). The first stages of the cycle occur within the mitochondrial matrix of hepatocytes. Ammonia travels tothe liver in the bloodstream in the form of alanine and glutamine or via the hepatic portal vein from the gut. The
+initial reaction includes the formation of a carbomoyl phosphate molecule which then combines with ornithine to
+form citrulline. For this reaction to occur, ornithine moves into the mitochondrial matrix from the cytosol via anornithine transporter. Once formed, citrulline moves into the cytosol via a citrulline transporter in exchange for
+cytosolicornithine,whichultimatelybeginsthecycle.
+CO
+2+NH+
+4+2ATPCarbomoylphosphatesynthetaseI
+→Carbomoylphosphate +2ADP+2Pi
+638 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Ornithine +CarbomoylphosphateOrnithinetranscarbomoylase
+→Citrulline +Pi
+In the cytosol, citrulline is condensed with aspartate to form argininosuccinate driven by the hydrolysis of ATP.
+Argininosuccinate is cleaved to arginine and fumarate, a reaction that is catalysed by argininosuccinate lyase. In as t a t eo ff a s t i n gw h e ng l u c o n e o g e n e s i so c c u r s ,f u m a r a t ec a nb eu s e dt of o r mm a l a t ew h i c hc a nt h e ng oo nt of o r m
+glucoseoroxaloacetate.Arginine,ontheotherhand,proceedsintheornithinecycleandiscleavedtoformureaand
+regenerateornithinemoleculesviaarginase.
+Citrulline +Aspartate +ATPArgininosuccinatesynthetase
+→Argininosuccinate +AMP+PPi
+ArgininosuccinateArgininosuccinatelyase
+→Arginine +Fumarate
+Arginine +H2OArgina se
+→Ornithine +Urea
+Theoverallreactionoftheureacycleisasfollows:
+CO2+NH+
+4+H2O+3ATP+Aspartate →Urea+2ADP+AMP+2Pi+PPi+fumarate
+The first step of the urea cycle is a rate-limiting step. The enzyme carbomoyl phosphate synthetase I requires an
+activator,N-acetyl-glutamate(NAG). NAGisformedby theadditionofglutamateandacetyl CoAoccurringundertheinfluenceofNAGsynthase,whichisregulatedbythepresenceofarginine.
+Ammonotelic, uricotelic, and the in-between
+Aquaticanimalssuchasfisharetermedammonotelic.Ammonotelicorganismsexcreteammoniadirectlyasnitroge-nouswasteproducts.Ammoniaisahighlysolublesubstanceandrequireslargevolumesofwatertodissolve.There-fore,aquaticanimalslikefishusetheirgillstoexcreteover80%ofammoniadirectlyintosurroundingwaters.
+Terrestrialorganismssuchaslizards,snakes,insects,andbirdsaretermeduricotelicorganisms.Theseexcreteuric
+acidastheirwasteproductinsteadofurea.Thecomplexpathwayultimatelystemsfromthemetabolicbreakdownofpurine nucleotides. The metabolic pathway has a higher energy cost, in comparison with the synthesis of urea, but
+canreducewaterlossintheseanimals.
+Insomecases,animalscanshiftfromutilisingoneformofwasteproductmechanismtoanother.Inthemetamor-
+phosisofamphibians,youcanseethedevelopmentoftheureacycleastheyadapttoterrestriallife.Tadpolesexcrete
+ammonia as their primary waste product before metamorphosis. However, during its development to becoming a
+fr o ga n dth eul ti m a t ei n v a s i o no fla n d ,a ni rr ev e r s i b l ec h a n g et ou r eo t e l i s moc cu r s .T h i s ,th e r e f o r e ,m ea n sth a tu r eaistheexcretoryend-productincomparison.
+Thereverseisseeninearthworms,whichareprimarilyammonotelic.Earthwormspossesstheabilitytocarryout
+theureacycleinfulltosynthesisearginine.However,duringtimesofstarvation,earthwormsshifttobecomeureotelicwheretheythenutilisetheureacycletodetoxifyammoniaproducingurea.Earthwormscanshiftbetweenthesetwo
+statesdependingontheirstateofstarvation.
+The role of metabolism in inherited diseases
+Metabolic processes that have been discussed extensively within this review largely oversimplify and underestimate
+thepervasiveroleofmetabolisminalllivingorganisms.Thediscoveryandbreakdownofindividualmetabolicpath-
+ways have been at the forefront of scientific research for many years up until the 1960s. Since then research into
+the role of metabolism has been largely driven by the recognition of metabolic perturbations and their manifesta-tion in human diseases. As metabolism is essential for life, disruptions or dysregulation in metabolic processes can
+be detrimental. Certain mutations in metabolic enzymes can be embryonically lethal in mouse knockout studies,
+demonstrating the curial role that metabolic pathways play in life. Metabolic perturbations underlie many humandiseases and here we will briefly discuss metabolic processes that occur within inborn errors of metabolism, which
+leadtoinheriteddiseases.
+Inborn errors of metabolism
+IntheU.K.at6daysofage,anewbornbabywillreceiveaheelpricktest(Guthrietest).Thistestscreensfordiseases
+such assicklecellaneamia,congenitalhypothyroidism,andinheritedmetabolicdiseases.Thesemetabolicdiseases,
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).639
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Table 4 A list of the six common inherited metabolic diseases that are screened for in newborn babies, alongside their
+respective metabolic disruptions
+Metabolic disease Metabolic disruption
+Phenylketonuria (PKU) Amino acid disorder (Phenylalanine)
+Medium-chain acyl-CoA dehydrogenase deﬁciency (MCADD) Fatty acid oxidation disorder (Octanonyl carnitine)
+Maple syrup urine disease (MSUD) Amino acid disorder
+Isovaleric acidaemia (IVA) Amino acid disorder (Leucine)
+Glutaric aciduria type 1 (GA1) Amino acid disorder (lysine, hydroxylysine, and tryptophan)
+Homocystinuria (pyridoxine unresponsive) (HCU) Amino acid disorder (methionine)
+listedinTable4,canmanifestasseriousillnessesthatcancauseseveredevelopmentalproblemsandcanbedetrimental
+tolife.
+Phenylketonuria(PKU)andmedium-chainacyl-CoAdehydrogenasedeficiency(MCADD)arethetwomostcom-
+monlyinheritedmetabolicdisorders,whichaffectsapproximately1in10000newbornsintheU.K.
+PKUisanaminoaciddisorderthatiscausedbythedeficiencyoftheenzymephenylalaninehydroxylasecausing
+anenzymaticblock.Thisresultsinthedecreasedmetabolismoftheaminoacidphenylalaninecausinganincreased
+accumulationinthebloodandbrain.Ifleftuntreatedinnewborns,thiscancausedevelopmentaldelayorbraindam-
+age. Treatment begins early with a low protein diet, supplemented with an amino acid mixture with phenylalanineremoved.However,asmallproportionofindividualsdiagnosedwithPKU,donotrespondtothissuggestedtreatment
+type. These individuals usually present with defects in dihydropteridine reductase or biopterin synthesis, causing a
+defectinphenylalaninehydroxylasefunction.Theseindividualsalsousuallypresentwithdefectsintyrosinehydroxy-lasetoo,whichcanleadtoadeficiencyofneurotransmitters.Thesepatientsthenrequireadditionalsupplementation
+withneurotransmittersaswellasalowphenylalanine-baseddiet.
+MCADD is a lifelong condition that occurs due to a mutation in the medium-chain acyl-CoA dehydrogenase
+(MCAD)offattyacid β-oxidation.Thismutationimpairsthebreakdownofmedium-chainfattyacidsinacetylCoA.
+AlossorinsufficiencyofMCADreducestheoxidationoffattyacyl-CoAsthatcontainmorethansixcarbons,asthe
+firstdehydrogenationstepof β-oxidationcannotoccur.Usingtandemmassspectrometrycanbeseenthattheblood
+fatty acid profile in MCADD shows an accumulation of C6, C8, and C10:1. MCADD is a major cause of hypoke-
+totichypoglycaemiaandcancauseliverdysfunctionwithmetabolicacidosis,hyperammonemia,andsuddendeath.
+MCADDisparticularlydangerousduringafastingstate,wherethebodyutilisesglycogenstoresandfreefattyacidsarereleasedfromadiposetissueforenergy.Thereducedabilitytometabolisemediumfattyacidssignificantlyreduces
+theavailabilityofsubstratesforketogenesis,ATPsynthesis,andtheTCAcycle,atatimeoflowenergy.Theaccumula-
+tionoffattyacidintermediatesinhibitsgluconeogenesis,exacerbatinghypoglycaemia.Thisaccumulationmightalso
+contribute to cardiovascular and neurological complications found in these conditions. Treatment for patients with
+MCADDincludestheintakeofhighsugardrinksandavoidanceoflongfastedperiods.
+The final inherited metabolic disorder we are discussing is much rarer, occurring in 1 in 100000 or 150000 new-
+borns.Maplesyrupurinedisease(MSUD)occursduetothedeficiencyordecreasedfunctionofthebranched-chain
+α-keto acid dehydrogenase complex (BCKAD). This results in an accumulation of branched-chain amino acids
+(BCAAs) such as leucine, isoleucine, and valine in the blood and urine. The name of the condition comes from the
+maplesyrupsmelloftheurine,duetotheexcessBCAA.BCAAsareconsumedwithinproteinrichdietsinfoodssuch
+as meat, fish, eggs, and milk. Normally excess amino acids are broken down through branched-chain aminotrans-ferases (BCATs) into α-ketoacids within the mitochondria. In the second step of catabolism, the BCKAD complex
+initiatesoxidativedecarboxylationofthe α-ketoacidsresultingintheformationofacetoacetate,acetylCoAandsuc-
+cinyl CoA. The normal functioning of amino acid catabolism is essential for protein synthesis, cell signalling, andglucosemetabolism.BCKADisformedoffoursubunits.MutationswithinthecatalyticcomponentsofBCKAD,de-
+creaseitsactivityandthereforeincreaseBCAAlevelsmanifestingasMSUDandcausingdysfunctionoftheimmune
+system,skeletalmuscle,andcentralnervoussystem.Astheaccumulationoftoxicmetabolites,suchaslacticacidandammonia occurs, immune cell function is inhibited causing its dysregulation. Skeletal muscle is impaired as shown
+instudiesthatfounddiminishedmusclefiberdiametersandmyofiberlesionsinMSUDrats,however,itsmechanism
+isnotfullyunderstood.Nervoussystemdysregulation,inparticular,braindamage,wasassociatedwiththeaccumu-
+lation of toxic metabolites. However, studies have shown that the generation of nitrogen reactive species in MSUD
+patients can induce morphological changes in C6 glioma cells. Also, markers of protein, DNA, and lipid oxidativedamagearefoundinMSUDpatientspotentiallyasaresultoffreeradicalproduction.
+640 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 22. The hallmarks of cancer development put forward by Hanahan and Weinberg in 2011
+Deregulated cellular energetics is included in these hallmarks as a driver of cancer progression.
+The role of metabolism in cancer
+Cancer metabolism
+In1931WarburgwontheNobelPrizeinPhysiologyorMedicineforhis‘Discoveryofthenatureandmodeofaction
+of the respiratory enzyme’. Warburg’s work focused on the metabolic reprogramming of cancer cells, which is nowdeemedasoneofthehallmarksofcancerasputforwardbyDouglasHanahanandRobertWeinberginHallmarksof
+Cancer:TheNextGeneration2011(Figure22).
+Inthepresenceofoxygenandglucose,themammalianquiescentcellwilluptakeglucoseforrespiration.Herethe
+g l u c o s em o l e c u l ew i l lu n d e r g ot h er e a c t i o n so fg l y c o l y s i st of o r mp y r u v a t ea n dt h e ne n t e rt h eT C Ac y c l ea n dt h e
+ETCforoxidativephosphorylationtoyield30–32ATPmolecules.Inanaerobicconditions,glucosepartakesingly-colysis yielding two ATP molecules and lactic acid. Warburg found that tumour slices and cancer cells, even in the
+presence of oxygen, do not continue with oxidative phosphorylation but instead increase lactate production. This
+cellular metabolic adaptation in cancer cells is referred to as aerobic glycolysis or the Warburg effect (Figure 23).S i m i l a rt ow h a ti ss e e ni nr e db l o o dc e l l s .T h er e s u l t i n gl a c t a t eo v e r p r o d u c t i o nw o u l dp r o v o k eas t a t eo fm e t a b o l i c
+acidosiswithinthetumourenvironment.Butalso,lactatewouldbetakenupbysurroundingcellstosupporttumour
+growth and inhibitingapoptosis. By increasingthe gene expression of GLUTs, GLUT1, there is an increased uptakeof glucose into the cell. Along with the reprogramming of several glycolytic genes, this increased glucose drives an
+increaseinglycolyticflux.Thisincreaseinglycolyticfluxallowstheformationofglycolyticintermediatesforbiosyn-
+thesisandfulfilstheproliferativehallmarkofcancercells,i.e.increasednucleotideformation.Cancerorproliferatingcellsuptakelargeamountsofnutrientssuchasglucoseandglutaminethatareusedtosupportcellulargrowthtohelp
+generateproteins,lipids,andnucleicacidsnecessarytoaidcelldivisionassummarisedinFigure24.
+The increased uptake of glucose is furthered in cancer or proliferating cells due to the increased expression of
+GLUTtransportersalongsidetheup-regulationofmetabolicenzymessuchasPFKFB3toincreaseglycolyticflux.In
+cancer,hypoxia-induciblefactor(HIF)-1 αisactivated,eveninthepresenceofoxygen.HIF-1 αissuggestedtobeac-
+tivatedduetomutationsinisocitratedehydrogenase(IDH)enzymeswhichalsoincreasecellularglycolysiswithinthe
+cells and halts oxidative phosphorylation. Glutamine uptake and catabolism are also increased within these cells to
+ensureasupplyofnitrogenfornucleotidebiosynthesisandtheformationof α-ketoglutarateforTCAcycleprogres-
+sion.IntermediatesofbothglycolysisandtheTCAcycle bothgeneratemajormacromoleculesrequiredforgrowth;
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).641
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Figure 23. The Warburg effect
+A cell with no oxygen supply generates lactate as it undergoes glycolysis anaerobically. In aerobic conditions, with oxygen, a cell proceeds with
+oxidativephosphorylationyieldingahighernumberofATPmolecules.However,inacancertumourmicroenvironment,theabilitytocarryoutoxidati ve
+phosphorylation is disrupted, despite oxygen presence. Instead, lactate is formed, and a cell is suggested to undergo aerobic glycolysis.
+Figure 24. Increased glucose and glutamine uptake and utilisation drive the increased synthesis of nucleotide, protein, and
+lipid synthesis in cancer cells
+The up-regulation of glycolysis increases cellular lactate concentrations.
+ribose-5-phosphatefornucleotidesynthesis,serine,andglycinetofuelproteinsynthesisandsupportnucleotidesyn-
+thesis,andcitratewhichisgeneratedtobeexportedintothecytoplasmprovidingacetylCoAforfattyacidsynthesis.
+Targeting metabolism in cancer cell drug discovery
+Asoneofthehallmarksofcancer,targetingmetabolicpathwaysiscriticalinthedevelopmentofnewtherapeutics,andmightserveasusefultargetstoinhibitcancercellgrowth.Ascancercellsarerapidlydividing,anydisruptionintheir
+abilitytoobtainenergywillslowtheirproliferation.Therearetwomainstrategiesintargetingglucosemetabolismin
+cancercells,thisistoeitherinhibitanaerobicglycolysis,therebystarvingthecells,orbyincreasingglucoseoxidation,increasingtheusageofmitochondriaandthereforeapoptosis.
+Examples of targeting glycolysis are found in inhibitorsof hexokinase (2-deoxyglucose (2DG)) or enolase (phos-
+phonoacetohydroxamate(PHAH)orSF-2312).Thesecompoundsaimtoreducetheflowofglucosewithincellsthathave a high glycolytic flux, i.e. cancer cells. This would, therefore, reduce the energy available to the cell and slow
+rapidcellproliferation.Theproblemisthatthesecompoundsmighthaveadditionaleffectsinredbloodcells,which
+aresolelyreliantonglycolysis.
+Another way of reducing anaerobic glycolysis is to inhibit the export of lactic acid from the cell. By targeting the
+monocarboxylatetransporters(MCTs)(AZD3965orsyrosingopine),thisincreasestheintracellularconcentrationofla cti ca c i da n de i th e ri n c r ea se sth ea c i d i tyo fth ec e lla n d / o rd ec r ea se sth ea cti vi tyo fL D H .Dec r ea sedL D Ha cti vi ty ,
+642 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+leadstoanaccumulationofNADHandpyruvate,whichbothleadtoinhibitionofglycolysisbyfeedbackmechanisms
+discussedearlier.
+To target glucose oxidation, the drug dichloroacetate (DCA) inhibits PDK, which causes the activation of PDH
+and an increase in acetyl CoA. PDH activation allows mitochondrial oxidation of pyruvate to occur, disrupting the
+metabolic glycolytic advantage of cancer cells. Furthermore, DCA acts to counter the acidosis caused by increased
+lactateproductionbydecreasingflowthroughLDH,inhibitingtheprogressionanddevelopmentofthetumourmi-croenvironment.Therefore,drugtherapieshaveshowntheabilitytotargetthealteredcellularmetabolicpathwaysin
+cancercellstoslowtheuptakeofglucosebydisruptingandinhibitingglycolysisandtheproductionoflactate.
+Imaging metabolism in cancer
+Along with targeting metabolism for treating cancer, it is also possible to hijack the importance of metabolism in
+cancertofindandidentifytumours.Severaltechniquestakeadvantageofchangesinmetabolicstatetoimagewhereatumourisandalso,itsresponsetotreatment.Twotechniques:positronemissiontomographyandmagneticresonance
+spectroscopy(MRS)orimaging(MRI)havedemonstratedtheirabilityinthisfield.
+FDG–PET
+2-deoxy-2-[
+18F]fluoro-D-glucose(FDG)isaradiotracerthatactssimilarlytoglucose,bybeingtakenupbyglucose
+t r a n s p o r t e r s ,i . e .G L U T sa n dS G L T .O n c ei n s i d et h ec e l l ,F D Gg o e st h r o u g ht h ef i r s ts t e pi ng l y c o l y s i sa n di sp h o s -
+phorylatedto[18F]FDG-6-phosphate,whichunlikeG6Pisunabletocontinuethroughglycolysis.Outsideoftheliver
+(andfastedkidney),thelackofglucose-6-phosphatasetraps[18F]FDG-6-phosphateinsidethecells.Asthismolecule
+accumulates,the18FradiotracerallowsthemoleculetobedetectedusingPET ,whichisoverlaidontoananatomical
+imagegeneratedbycomputedtomography(CT)orMRI.Thistracerhasbeenusefulinthedetectionandsizingoftu-
+mours,asanincreasein[18F]FDG-6-phosphatedetectioncomparedwiththesurroundingtissue,isindicativeofhigh
+glucoseuptakeandrapidlyproliferatingcellsandpossiblycancer.Thisisparticularlyuseful,asmetabolicimagingof
+cancerouscellsasthepotentialtodetecttumours,beforetheyarevisibleusingconventionalimaging,suchasX-ray,CT,orMRI.However,therearestilllimitstothesensitivityofthistechniqueforthedetectionoftumours,itcanalso
+be difficult to detect changes in the brain (where there is a high background glucose uptake) and it only measures
+glucoseuptakeandnotdirectlyglycolysis.
+Hyperpolarised
+13C MRI/MRS
+Whilst MRI and MRS have been around for many years, monitoring real-time metabolism using hyperpolarisedcarbon13(
+13C)isrelativelynew.13CMRSgeneratesasetofpeaksdependingonthemolecularenvironmentthatthe
+13Cmoleculeisfoundin,thisiscalledaspectrum.Thenewtechniquereliesonanexternalmachine(apolariser)to
+significantlyenhancethesignalfroma13Ccontainingcompound.Thisenhancedstateistemporary(between1and5
+min),sothecompoundneedstoberapidlyinjectedintoapatientinsideanMRImachinetoenabledetection.Unlike
+PET,13Ctracersarenon-radioactiveandcanalsomonitorreal-timemetabolism.Themostcommontracerhasbeen
+[1-13C ] p y r u v a t e ,w h i c hc a nb er a p i d l yt a k e nu pb yc e l l sa n dh a st h r e ep o s s i b l ef a t e s ;t h r o u g hP D H ,A L T ,o rL D H .
+When[1-13C]pyruvateismetabolisedbyoneofthesethreeenzymes,itproducesanew13Ccom pound,whichhasa
+differentpeakonthespectrum.MeaningyoucantracetheconversionofpyruvateintoCO 2/bicarbonate(acetyl-CoA
+is not seen as a carbon is lost as CO 2), alanine, and lactate, respectively. These can be visualised on a spectrum as a
+series of peaks, with a new spectrum being produced every 0.1–1 s, thereby generating a time course to work out
+enzyme kinetics. Or the peaks can have spatial information added and an image of where metabolism is occurringcanbeproducedforaspecifictissue.
+The first in man trial for using this technique in patients with prostate cancer was only completed in 2013. They
+monitored the conversion of [1-
+13C]pyruvate into [1-13C]lactateandproducedimagesofwherethisconversionoc-
+curred in the human prostate. This was used as a marker of elevated glycolytic flux (although it only measures the
+laststepinanaerobicglycolysis)andshowedcanceroustissueamongsthealthytissue.Inrodentmodelsofcancerthis
+technique can also monitor the effectiveness of treatment in tumours. This technique has also been applied to thestudyofcardiacmetabolism,whereitwasabletoimagereal-timemetabolisminthehumanheart.
+BothPETandhyperpolarised
+13CMRS/MRIhavetheirlimitations,thesearemainlyduetotheinjectionoftracers.
+Thesetracersonlyprovideyouwithasnapshotoftheprocessesoccurring,astheyonlymakeupaverysmallpercent-
+age of the endogenous metabolites. They also only show you a limited number of steps within metabolic pathways
+andseveralassumptionsarerequiredtoenableanalysisandunderstandingofthepathwaysatwork.Havingsaidthat,theseareexcitingareasandhaveshownanabilitytovisualisemetabolismoccurringinreal-time,withinthehuman
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).643
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+body, which takes us from perfused animal organ and tissue slices of last century to live metabolic imaging of the
+humanbody.
+The importance of metabolism in biotechnology
+The potential of metabolism
+Along with drug discovery and diagnosis of human diseases, metabolism plays an exciting role in the developmentofbiotechnology.Whetherthatisbio-engineeringof Escherichiacoli tomeetthegrowingdemandforbioethanolor
+manipulating plants to generate better defence against pests, there are lots of possibilities. Advancements of knowl-edgeintheseparticularfieldshaveallowedthedevelopmentofmorespecificbiotechnologicaladvancements.These
+advancements allow us to overcome hurdles that once caused issues with yield and even resistance. These ideas
+are discussed below as how biotechnology has ensured efficient and elaborate systems to target particular areas ofmetabolism.
+Bioethanol production from E. coli
+Ethanol holds a variety of applications in the food, chemical, medical, and health industry and is commonly used
+inbeverages,fuels,andpaint.Ethanolislargelyproducedfromcoalandpetroleumusingnon-renewableprocesses;
+however, ethanol can be produced by fermentation of sugars and starch. Microorganisms hold the capacity to pro-duceethanolviafermentationandduetothis,havebeenidentifiedandstudiedtoproduceethanolinhighcapacity.
+Microorganisms can be metabolically engineered to redirect carbon sources to desired fuel products. One of these
+microorganismsis E.coli.
+E.colican naturallyutilisea variety of carbon sources such as sugars and sugar alcohols, under both aerobic and
+anaerobic conditions. All biofuels that are derived from E.coliare derived from the modification of central carbon
+catabolismincludingtheconversionofpentose/hexosesugarmoleculesintodiatomiccarbon.
+E. colican produce ethanol under anaerobic conditions to produce 1 mole of ethanol for every 1 mole of glu-
+coseused,alongsideformateandacetate.Thereductionreactionthatoccurstosynthesisethese,utilisestwoNADH
+molecules but the initial stages of glycolysis only yield one. This causes a redox imbalance. This redox imbalance isovercome by E.coliby balancing the production of ethanol by oxidation of acetyl CoA into acetate, which requires
+no NADH. These E.coliwere engineeredto express pyruvate decarboxylase and alcoholdehydrogenase II genes of
+Zymomonasmobilis . This pathway produces 95% ethanol, without a redox imbalance as it only requires 1 NADH
+molecule.
+Modiﬁcation of metabolism in plants
+Plantmetabolismishighlyorganisedandcontrolledbyinnateregulationsalongsidehomoeostaticmechanisms.Their
+metabolicproceduresarehighlycompartmentalisedwhereeachorganellecarriesoutaspecificmetabolicfunction.
+Within nature, plants are constantly challenged by insect herbivores. In response to this, as a defence to reduce
+insect-relateddamagetotheplant,theyproducetoxinsandsmalldeterrentmoleculesforprotection.Someofthese
+defence responses are inducible where these are related to the up-regulation or down-regulation of metabolites and
+proteinsinresponsetoanattack.
+For example, the tobacco plant naturally synthesises nicotine to deter insects from eating them. However, if an
+attackdoesoccuronatobaccoplant,thisresponseisup-regulated.Here,therootssynthesiselargeamountsofnico-
+tine,andthisistransportedtotheshoot.Thisresponseisregulatedbyjasmonicacidandauxin,bothsignalsthataretriggeredbywounding.Thisincreaseinnicotineproductionistoavoidfurtherherbivoreattack.
+In addition to defences such as those described above, plants can also induce changes in their metabolism in re-
+sponsetoattacks.Theseincludeelevatingordecreasingtheirphotosyntheticefficiency,remobilisationofcarbonandnitrogenresourcesalongsidealteringtheirplantgrowth.
+Amino acids are the form of nitrogen found in plants. They can regulate plant growth and are precursors for
+defence-related metabolites. When plants are infested by herbivore insects, studies found that amino acid produc-tion increased to synthesise defensive metabolites to ensure a second attack does not occur. This increase in amino
+acidproductionoccursasgenesinvolvedinaminoacidsynthesisareup-regulatedandsulphurassimilation,whichis
+ultimatelyrequiredforthebiosynthesisofcysteineandmethionine,areallup-regulateduponcaterpillarfeedingon
+Arabidopsisthaliana .Furtheringthis,asimilarstudyfurtherfoundthattheincreasedexpressionofgenesinvolved
+inaminoacidbiosynthesis,inparticular,relatedtomethionineandtryptophansynthesis,ledtoagreateraccumula-tion of glucosinolates. These are defence-related molecules that are derived from methionine and tryptophan in A.
+644 ©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommons
+AttributionLicense4.0(CCBY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+thaliana. Interestingly, this was also found in tomatoes. Upon attack, tomato plants accumulate tryptophan within
+theirstemsandapexoftomatoes,toserveasaprecursorfortheproductionofdefensivemetabolites.
+Plant biotechnology is a set of techniques that are used to adapt plants for survival and defence. One of the most
+effective ways to manage plant pathogenicity is to use genetic modification alongside genome editing. This is par-
+ticularly usefulin the agricultureindustry to ensure increasedfood supply. Globally, up to 30% of food is damaged
+bypathogensanddiseasepests.Therefore,theadaptationofplantstopathogensandpestsisimperativeforsurvival.Gene modification and genome editing can help manage plant pathogens to ensure plant cell survival in times of
+attack,thesesolutionscurrentlyincludebacterial,viral,fungal,andoomycetepathogens.
+Asknowledgeregardingtheplantimmunesystemhasexpanded,ithasbeenshownthatplantscandistinguishbe-
+tween ‘self’ and ‘non-self’ through monitoring the extracellular and intracellular environment. However, pathogens
+can overcome this system by producing proteins and effectors to suppress plant host immunity and colonise it. A
+bacterialpathogencanhijackthecoronatine-insensitiveprotein1jasmonatereceptor,alteringtheplant’sdefencere-sponseandactivatingjasmonateresponsesandsuppressingsalicylicaciddefencepathways.Manipulationlikethese
+has allowed the development of biotechnology to intervene at the point of pathogen perception. These can be cre-
+ated by introducing receptors from other plants with novel recognition specificity, reactivation of genes disabled in
+NOD-likereceptors,andmodificationofdomainsinNOD-likereceptorsthataretargetedbypathogens.Thisknowl-
+edge reveals which components of the host can be manipulated to promote a disease state. Therefore, by removingthesevulnerablepointsorreplacingthemwithvariantsthatareimmunetospecificeffectors,thenaturalfunctional-
+ityoftheplantcanberetained.Bacterialpathogens,thatexpressthetranscriptionactivatelikeeffectorsthatactivate
+susceptibility genes within the host, can be overcome by the deletion of TAL DNA-binding sites in the promoter.AnotherapproachincludesengineeringresistancetobacterialpathogensbyaddingTALeffectorbindingsitestoan
+executorgene.
+Anotherwaytoregulateplantpathogenperceptionisbytheinterventionofthedefencesignallingpathways.The
+majorhormonesinvolvedindefencesignallingaresalicylic acid,jasmonate,andethylene.Intomatoplants,alossof
+functionallelewasengineeredforDownymildewresistance6(DMR6)toensureresistancetobiotrophicpathogens.
+DMR6iswidelyconservedandencodesasalicylate-5-hydrozylaseenzymearoundinfectionsites.
+Biotechnologyadvancementsregardingplantsandplantmetabolismhelpensuredefenceandhealthyplantgrowth.
+Inconclusion,biotechnologyhasallowedtheinterventionofdefencesignallingandregulation,pathogenrecognition,
+effectorrecognition,andallowedtargetingofgenesassociatedwithplantpathogenicity.
+Conclusion
+At least 25 Nobel Prizes have been awarded for work related to metabolism, with the most recent for the
+oxygen-sensingroleofHIF1 αin2019.Thisreviewhasintroducedthebasicmetabolicpathwaysoflifeanddemon-
+strated how a series of reactions can combine to sustain life. Over the last 150–200 years, the understanding ofmetabolismhasmovedfromindividualenzymesandmetabolitestothecomplicatednetworkweseetoday.Thishas
+allowed us to visualise metabolismoccurringin real-timewithin thehuman body, to help us understand metabolic
+alterations in human disease. Manipulation of metabolic pathways in both microorganisms and plants has also ledthewayinthedevelopmentofnewbiotechnologicaltechniques.
+Competing Interests
+The authors declarethatthere areno competinginterestsassociatedwith the manuscript.
+Funding
+Ayesha Judge isfunded bya PhD studentship from CoventryUniversitywith additionalfunding andsupport from the University
+AllianceDoctoralTrainingAlliance.MichaelDodd isfunded byCoventry Universityandthe Centre forSport, Exerciseand LifeSciences.
+Acknowledgements
+We would liketothank JenniferGreaves(Coventry University)for herusefuldiscussionson thisarticleandA.R. Teal(FacultyofScienceandTechnology, North EastSurreyCollege of Technology) for the originalMetabolismBASCarticle(1994) on which thisessayispartlybased.
+©2020 The Author(s). This is an open access article published by Portland Press Limited on behalf of the Biochemical Society and distributed under the C reative Commons
+Attribution License 4.0 (CC BY-NC-ND).645
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Abbreviations
+ACP, acylcarrierprotein; ADP, adenosinediphosphate; AMP, adenosine monophosphate; ATP, adenosine triphosphate;BCAA,
+branched-chainaminoacid;BCAT, branched-chainaminotransferase;BCKAD, branched-chain α-ketoaciddehydrogenase
+complex;CoA, coenzyme A; CPT1, carnitinepalmitoyltransferaseI; CT, computed tomography; DCA, dichloroacetate;DHAP,dihydroxyacetonephosphate; DMR6, Downy mildewresistance6; ER, enoylACP reductase;ETC, electrontransportchain;FAS,fattyacidsynthase;FDG, 2-deoxy-2-[
+18F]fluoro-D-glucose; F6P, fructose-6-phosphate; GAP, glyceraldehyde-3-phosphate;
+GDP, guanosine diphosphate; GLUT, glucose transporter;GTP, guanine triphosphate;G6P, glucose-6-phosphate; G6PI, G6Pisomerase;HDL, high-density lipoprotein;HIF, hypoxia-induciblefactor;HSL, hormone-sensitive lipase;IRS, insulinreceptorsubstrate;LDH, lactatedehydrogenase;LDL, low-densitylipoprotein;MCAD, medium-chain acyl-CoAdehydrogenase;MCADD,medium-chain acyl-CoAdehydrogenase deficiency;MRI, magnetic resonanceimaging; MRS, magnetic resonancespec-troscopy;MSUD, maple syrupurine disease;NAD(P)H, nicotinamide adeninenucleotide (phosphate); NAG, N-acetyl-glutamate;NH
+4+, ammonium ions;NO 2−, nitrite;PC, pyruvatecarboxylase;PDH, pyruvatedehydrogenase;PEP, phosphoenolpyruvate;
+PEPCK, PEPcarboxykinase;PFK, phosphofructokinase;PK, pyruvatekinase;PKU, phenylketonuria;PPi, inorganic pyrophos-phate group; PPAR α, peroxisomeproliferator-activatedreceptor α;PPP, pentose phosphate pathway;SGLT, sodium glucose
+cotransporter;TAG, triglyceride;TCA, tricarboxylicacid;UDP-glucose, uridine diphosphate glucose;VLDL, verylow-densitylipoprotein;1,3-BPG, 1,3-bisphosphoglycerate; 3PG, 3-phosphoglycerate.
+References and further reading
+Albrecht, T. andBaron, S. (1996) Medical Microbiology , University ofTexas Medical Branch at Galveston, Dept. of Microbiology & Immunology, Galveston,
+TX,U.S.A.,Chapter4
+Ameer, F.,Scandiuzzi, L.,Hasnain, S., Kalbacher, H. andZaidi, N. (2014) De novolipogenesis inhealth and disease. Metabolism 63, 895–902,
+https://doi.org/10.1016/j.metabol.2014.04.003
+Berg, J.,Tymoczko, J. and Stryer, L. (2002) Theﬁrst step inamino aciddegradation isthe removal of nitrogen.
+https://www.ncbi.nlm.nih.gov/books/NBK22475
+Bishop, S.and Campbell, J. (1965) Arginineand urea biosynthesis inthe earthworm Lumbricus terrestris. Comp. Biochem. Physiol. 15, 51–71,
+https://doi.org/10.1016/0010-406X(65)90240-9
+Brown,G.,Brown, W. andCohen, P. (1962) Comparative biochemistry of urea synthesis IV.[14C]Urea synthesis by liverslices of the metamorphosing
+tadpole. Biochim. Biophys. Acta 60, 185–186, https://doi.org/10.1016/0006-3002(62)90387-6
+Chirala,S.,Jayakumar, A.,Gu,Z. and Wakil, S. (2001) Human fatty acidsynthase: Roleof interdomain inthe formation ofcatalytically active syntha se
+dimer. Proc. Natl. Acad. Sci. U.S.A. 98, 3104–3108, https://doi.org/10.1073/pnas.051635998
+DeBerardinis, R. andChandel, N. (2016) Fundamentals of cancer metabolism. Sci. Adv. 2, e1600200, https://doi.org/10.1126/sciadv.1600200
+Esse, H.,Reuber, T. andDoes, D. (2019) Genetic modiﬁcation to improve disease resistance incrops. New Phytol. 225, 70–86,
+https://doi.org/10.1111/nph.15967
+Frayn, K. andEvans, R. (2018) Human Metabolism: A Regulatory Perspective , 4th ,Wiley Blackwell
+Gartner, V.,McGuire, P. andLee, P.(2015) ChildNeurology: medium-chain acyl-coenzyme Adehydrogenase deﬁciency. Neurology 85, e37–e40,
+https://doi.org/10.1212/WNL.0000000000001786
+Gibala,M., Young, M. and Taegtmeyer, H.(2000) Anaplerosis of the citricacid cycle: role inenergy metabolism of heart and skeletal muscle. Acta Physiol.
+Scand. 168, 657–665, https://doi.org/10.1046/j.1365-201x.2000.00717.x
+Guo,X., Li, H.,Xu, H.,Woo, S., Dong, H.,Lu, F. et al. (2012) Glycolysisinthe control of bloodglucose homeostasis. Acta Pharm. Sin. B 2, 358–367,
+https://doi.org/10.1016/j.apsb.2012.06.002
+Hanahan, D. and Weinberg, R. (2011) Hallmarks of cancer: the next generation. Cell144, 646–674, https://doi.org/10.1016/j.cell.2011.02.013
+He,J., Ford, H.,Carroll,J., Douglas, C.,Gonzales, E.,Ding, S. et al. (2018) Assembly of the membrane domain ofATP synthase in human mitochondria.
+P r o c .N a t l .A c a d .S c i .U . S . A . 115, 2988–2993, https://doi.org/10.1073/pnas.1722086115
+Klotz, M. andStein, L. (2008) Nitriﬁer genomics and evolutionof the nitrogen cycle. FEMS Microbiol. Lett. 278, 146–156,
+https://doi.org/10.1111/j.1574-6968.2007.00970.x
+Koppolu, V.and Vasigala, V.(2016) Roleof Escherichia coli inbiofuel production. Microbiol. Insights 9, 29–35,https://doi.org/10.4137/MBI.S10878
+Kornberg, H. and Beevers, H.(1957) Amechanism of conversion of fat to carbohydrate incastor beans. Nature 180, 35–36,
+https://doi.org/10.1038/180035a0
+Krebs, H. (1973) The discovery of the ornithine cycle ofurea synthesis. Biochem. Educ. 1, 19–23,https://doi.org/10.1016/0307-4412(73)90048-4
+Leonardi, R.,Zhang, Y.,Rock, C. andJackowski, S. (2005) Coenzyme A: back inaction. Prog. Lipid Res. 44, 125–153,
+https://doi.org/10.1016/j.plipres.2005.04.001
+Li, C.,Teng, W., Shi,Q. and Zhang, F. (2007) Multiple signals regulate nicotinesynthesis intobacco plant. Plant Signal. Behav. 2, 280–281
+Navale, A.and Paranjape, A. (2016) Glucosetransporters: physiological andpathological roles. Biophys. Rev. 8,5 – 9 ,
+https://doi.org/10.1007/s12551-015-0186-2
+Nelson, S.,Kurhanewicz, J.,Vigneron, D.,Larson, P.,Harzstark, A., Ferrone, M. et al.(2013) Metabolic imagingof patients withprostate cancer us ing
+hyperpolarized [1-13C]pyruvate. Sci. Transl. Med. 5, 198.ra108, https://doi.org/10.1126/scitranslmed.3006070
+Owen, O., Kalhan, S.and Hanson, R. (2002) The key role of anaplerosis and cataplerosis for citricacid cycle function. J. Biol. Chem. 277, 30409–30412,
+https://doi.org/10.1074/jbc.R200006200
+646 ©2020 The Author(s). This is an open access article published by Portland Press Limited on behalf of the Biochemical Society and distributed under the C reative Commons
+Attribution License 4.0 (CC BY-NC-ND).
+Essays in Biochemistry (2020) 64607–647
+https://doi.org/10.1042/EBC20190041
+Palomer, X.,Pizarro-Delgado, J., Barroso, E. andV ´azquez-Carrera, M. (2018) Palmiticand oleicacid: the yinand yangoffatty acidsin type2 diabetes
+mellitus. Trends Endocrinol. Metab. 29, 178–190
+Park, J., Davis, R.and Sue, C.(2018) Mitochondrial dysfunction inParkinson’s disease: newmechanistic insights andtherapeutic perspectives. Curr.
+Neurol. Neurosci. Rep. 18,https://doi.org/10.1007/s11910-018-0829-3
+Rider, O., Apps, A., Miller, J.,Lau, J.,Lewis, A.,Peterzan, M. et al. (2020) Noninvasiveinvivoassessment of cardiac metabolism inthe healthy and d iabetic
+human heart using hyperpolarized13 C MRI. Circ. Res. 126, 725–736, https://doi.org/10.1161/CIRCRESAHA.119.316260
+Robinson, P.(2015) Enzymes: principlesand biotechnological applications. Essays Biochem. 59, 1–41,https://doi.org/10.1042/bse0590001
+Roger, A.,Mu ˜noz-G´omez, S. andKamikawa, R. (2017) The originand diversiﬁcationof mitochondria. Curr. Biol. 27, R1177–R1192,
+https://doi.org/10.1016/j.cub.2017.09.015
+S´anchez-Baracaldo, P., Raven,J.A.,Pisani, D. and Knoll,A.H.(2017) Early photosynthetic eukaryotes inhabited low-salinityhabitats. Proc. Natl. Acad. Sci.
+U.S.A. 114, E7737–E7745, https://doi.org/10.1073/pnas.1620089114
+Schmitz, O., Brock, B. and Rungby,J. (2004) Amylinagonists: a novel approach inthe treatment of diabetes. Diabetes 53, S233–S238,
+https://doi.org/10.2337/diabetes.53.suppl˙3.S233
+Sitta, A.,Ribas, G.,Mescka, C., Barschak, A., Wajner, M. and Vargas, C.(2013) Neurological damage inMSUD: the role of oxidativestress. Cell. Mol.
+Neurobiol. 34, 157–165, https://doi.org/10.1007/s10571-013-0002-0
+Sonnet, D., O’Leary, M., Gutierrez, A.,Nguyen, S.M.,Mateen, S., Hsu, Y.et al. (2016) Metformin inhibitsbranched chain aminoacid (BCAA)derived
+ketoacidosis andpromotes metabolic homeostasis inMSUD. Sci. Rep. 6,https://doi.org/10.1038/srep28775
+Stumpf, P.,Conn, E., Miﬂin,B. and Lea, P. (1987) The Biochemistry of Plants , 11th , pp. 29–30, Academic Press, San Diego
+Voet, D., Voet, J. and Pratt, C.(2013) Principles of Biochemistry , 4th , (Hoboken, N.J.,ed.), John Wiley & Sons
+Wang, Z., Ohliger, M., Larson, P.,Gordon, J., Bok, R.,Slater, J. et al.(2019) Hyperpolarized13C MRI: state of the art andfuture directions. Radiology 291,
+273–284, https://doi.org/10.1148/radiol.2019182391
+Weiner, I. and Verlander, J. (2013) Renal ammonia metabolism andtransport. Compr. Physiol. 3(1)), 201–220, https://doi.org/10.1002/cphy.c120010
+Wilson, B.,Schisler, J. and Willis,M. (2010) SirHans AdolfKrebs: architect of metabolic cycles. Lab. Med. 41, 377–380,
+https://doi.org/10.1309/LMZ5ZLAC85GFMGHU
+Yudkoff, M. (1999) Urea cycle. https://www.ncbi.nlm.nih.gov/books/NBK27982
+Zhang, S.,Hulver,M., McMillan, R.,Cline,M. and Gilbert,E. (2014) Thepivotal role of pyruvatedehydrogenase kinases inmetabolic ﬂexibility. Nutr. Metab.
+11,1 0
+Zhou, S.,Lou, Y., Tzin, V.and Jander, G.(2015) Alteration of plantprimary metabolism inresponse to insect herbivory. Plant Physiol. 169(3)), 1488–98,
+https://doi.org/10.1104/pp.15.01405
+©2020TheAuthor(s). ThisisanopenaccessarticlepublishedbyPortlandPressLimitedonbehalfoftheBiochemicalSocietyanddistributedundertheC reativeCommonsAttribution
+License4.0(CCBY-NC-ND).647

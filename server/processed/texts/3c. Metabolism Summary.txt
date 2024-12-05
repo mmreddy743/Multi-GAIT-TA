@@ -1,0 +1,244 @@
+Physiology, Metabolism  
+Authors  
+Arturo Sánchez López de Nava1; Avais Raja2.  
+Aﬃliations  
+1 UANL Hospital "Dr. José Eleuterio González"  
+2 University of Western States, Portland, Oregon  
+Last Update: September 12, 2022.  
+ 
+Introduction  
+Metabolism refers to the whole sum of reactions that occur throughout the body within each cell and 
+that provide the body with energy. This energy gets used for vital processes and the synthesis of new 
+organic material. Every living organism uses its envir onment to survive by taking nutrients and 
+substances as building blocks for movement, growth, development, and reproduction. All of these are 
+mediated by enzymes, which are proteins with specialized functions in anabolism and catabolism. The 
+rate of energy  production is called the basal metabolic rate and is aﬀected by factors such as sex, race, 
+exercise, diet, age, and diseases such as sepsis or cancer.  
+ 
+Issues of Concern  
+The chemical reactions by which metabolism occurs are almost the same in all living organisms, including 
+animals, plants, bacteria, and fungi. All these chemical reactions are mediated by proteins that act as 
+catalysts under speciﬁc environmental conditio ns such as pH and temperature. The synthesis of many of 
+the catalysts that mediate chemical reactions throughout our body has its origins in DNA. DNA is the 
+molecule residing within the nucleus and is made of 4 bases: adenine, guanine, cytosine, and thymin e. 
+RNA is the molecule used by some living organisms instead of DNA, and this molecule's components include ribose and uracil instead of thymine. The environment, primarily plants, uses sunlight to transform water and carbon dioxide to synthesize carbohydr ates. Living organisms do the opposite, 
+consuming carbohydrates and other organic materials to produce energy.  
+ 
+Thermodynamics  
+ 
+It is impossible to discuss metabolism without taking a look at the laws of thermodynamics. The ﬁrst 2 
+laws merit particular attention. The ﬁrst 2 laws of thermodynamics state that energy can neither be 
+created nor destroyed and that the outcome of physi cal and chemical changes is to increase entropy in 
+the universe. The energy that is useful, or free energy, is that kind of energy capable of doing work under 
+no diﬀerence in temperature. Less valuable forms of energy become liberated in the form of heat. [1] 
+ 
+Cellular Level  
+The chemical carrier of energy is called ATP . The synthesis of ATP takes place within an intracellular 
+organelle bounded by an external membrane and an inner membrane. The dissociation of water to a 
+molecule of hydrogen and a hydroxyl group that takes plac e in the internal milieu of the body is essential 
+for the synthesis of ATP . The catabolic reactions, which this topic reviews later, release signiﬁcant 
+amounts of protons, most of which are transported to the mitochondria to produce ATP . These protons 
+are transported through a series of complexes in the inner membrane of the mitochondria to activate an 
+ATPase, using the energy released by the electron chain transport mechanism.  
+ 
+Organisms process the food they eat in 3 diﬀerent stages. The ﬁrst stage involves reducing complex 
+molecules to simple molecules; this includes the breakdown of complex proteins to oligopeptides and 
+free amino acids to facilitate absorption, the breakdow n of complex sugars to disaccharides or 
+monosaccharides, and breaking down lipids to glycerol and free fatty acids. These processes are called digestion and only makeup about 0.1% of energy production, which cannot be used by the cell. In the second phase,  all these small molecules undergo incomplete oxidation. Oxidation means the removal of 
+electrons or hydrogen atoms. The end -product of these processes is water and carbon dioxide, and 3 
+principal substances, namely acetyl coenzyme A, oxaloacetate, and alp ha–oxoglutarate. Of these, the 
+most common compound is acetyl coenzyme A, which forms 2/3 of the carbon in carbohydrates and glycerol, all the carbon in fatty acids, and half the carbon in amino acids. The third and ﬁnal phase of this 
+process occurs on a cycle called the Krebs cycle, discovered by Sir Hans Krebs. In this cycle, acetyl coenzyme A and oxaloacetate come together and form citrate. In this stepwise reaction occurs a 
+liberation of protons, which are transferred to the respiration chain to synthes i ze  AT P.   
+ 
+The imbalance between anabolism and catabolism can lead to obesity and cachexia, respectively. 
+Metabolic energy is transported by high -energy phosphate groups like ATP , GTP , and creatine phosphate 
+or by electron carriers like NADH, FADH, and NADPH.[2][3]  
+ 
+Organ Systems Involved 
+The pancreas is the key metabolic organ that regulates the number of carbohydrates in the blood, either 
+by releasing signiﬁcant amounts of insulin to downregulate the levels of blood glucose or by releasing 
+glucagon to upregulate them. The utilization of carbohydrates and lipids by the organism is called the 
+Randle cycle, regulated by insulin.  
+ 
+The liver is the organ in charge of processing the absorbed amino acids and lipids from the small 
+intestine. It also regulates the urea cycle and essential metabolic processes like gluconeogenesis and 
+glycogen deposition.[4]  
+ 
+Function  
+Characteristics of carbohydrates include being soluble, relatively easy to transport, and nontoxic 
+molecules that serve as the substrate of energy when oxygen levels are compromised.  
+ 
+The most energy -dense molecule is lipids and is the principal energy molecule for mammals and tissues. 
+Because they are not soluble, they are not readily transportable in the blood, are not usable 
+anaerobically, and require more oxygen to extract energy fr om them (2.8 ATP/oxygen molecule). They 
+cannot cross the blood -brain barrier, and erythrocytes or renal cells are unable to use them. Amino acids 
+act as substrates to produce glucose only in states of prolonged starvation, exhibiting the depletion of glyco gen stores.   
+ 
+The metabolism of these 3 principal substrates converges into 1 molecule, acetyl –CoA, in the 
+mitochondria. Metabolism of this intermediate molecule generates 3 NADH, 1 FADH, 1 GTP , and 2 CO2, 
+all of which participate in the respiratory chain in the mitocho ndria to synthesize ATP .[5]  
+ 
+Mechanism  
+Carbohydrate Metabolism  
+ 
+It focuses on one speciﬁc kind of sugar, glucose. After a cell uptakes a molecule of glucose, it gets 
+immediately metabolized to glucose -6-phosphate, which cannot exit the cell. The catalyzing enzyme in 
+this reaction is called hexokinase (in the liver and  pancreas) or glucokinase in every other tissue. This 
+metabolite is usable by almost every metabolic process, including glycolysis and glycogenesis. 
+Carbohydrates are stored as glycogen granules for rapid mobilization of glucose when required.  
+ 
+Glycogen is a polymer of glucose, assembled by the glycogen synthase, with branch points every 10 
+glucose molecules, which gives the glycogen a tree- like structure, which is beneﬁcial for glucose 
+mobilization. Some tissues utilize glycogen for their maint enance, like skeletal muscle; some other 
+tissues use glycogen to maintain serum glucose levels stable, such as the liver. The liver can store almost 
+100 g of glycogen that supplies glucose for 24 hours; the skeletal muscle stores 350 g, which is suﬃcient 
+for 60 minutes of muscle contraction. Glucose is metabolized by glycolysis in all cells to form pyruvate. This process does not use oxygen, and it generates 2 molecules of pyruvate, 2 NADH and 2 ATP .  
+ 
+Pyruvate may have 3 fates within the cell: it can be transported into the mitochondria and generate 
+acetyl –CoA, it can remain in the cytosol and generate lactate, or it can be used in glyconeogenesis by the 
+enzyme alanine aminotransferase (ALT). The fate o f pyruvate in tissues depends on hormonal regulation, 
+oxygen availability, and the particular tissue. For example, in the liver, excess pyruvate is metabolized to 
+acetyl –CoA, and then this is used for lipid synthesis, whereas in muscle, it undergoes complete oxidation 
+to CO2.  
+ 
+Glucose –6–phosphate is also usable by the pentose phosphate pathway. This pathway synthesizes 
+nucleotides, synthesizes speciﬁc lipids, and maintains glutathione in its active form. This process is under 
+the regulation of glucose –6–phosphate dehydrogenase.  
+ 
+Carbohydrate metabolism is regulated mainly by insulin, as it stimulates glycolysis and glycogenesis. 
+Catecholamines, glucagon, cortisol, and growth hormone stimulate gluconeogenesis and 
+glycogenolysis.[6]  
+ 
+Lipid Metabolism  
+ 
+Fatty acids serve as energy production in oxidative tissues. Some of them are amphipathic and 
+potentially toxic, and they are transported bound to albumin. The intestines absorb fatty acids in the form of micelles; these get engulfed by the enterocytes in the intestinal wall. Once inside, these 
+molecules of fat get broken down into smaller molecules, free fatty acids and glycerol that are 
+posteriorly conjugated to form triglycerides. These are bound to proteins to form chylomicrons outside 
+the enterocyte.  
+ 
+These chylomicrons are very rich in cholesterol and triglycerides, which are transported by the portal 
+vein system to the liver. The liver processes these complex molecules to extract a fraction of cholesterol 
+and triglycerides. The liver secretes a new fo rm of a complex molecule called VLDL that transports 
+endogenous lipids and fat to peripheral tissues that express hormone- sensitive lipase and lipoprotein 
+lipase.  
+ 
+This enzyme reduces VLDL into LDL, which contains more cholesterol than the other molecules, and it 
+ﬁnally gets engulfed by target tissues. All this process is called "forward cholesterol metabolism." When 
+too much fat or cholesterol exists in peripheral tissues, it travels within a lipoprotein called HDL, which 
+enters the biliary system for excretion. This process is called "reverse cholesterol metabolism." Both are regulated by insulin, which stimulates lipases in the organism but suppresses lipolysis.[7 ][8][9][10]  
+ 
+Amino Acid Metabolism  
+ 
+We consume almost 100 g of protein per day. The body contains nearly 10 kg of protein that is 
+metabolized by 300 g per day. The structural units comprising proteins are amino acids. Some of these 
+are essential (meaning that the body cannot synthesize them and must obtain them from the diet), and 
+some are non –essential amino acids (which the body can synthesize). Proteins are absorbed in the form 
+of amino acids by the enterocytes. Amino acids contain a nitrogen group and a 2 -carbon skeleton called 
+2–2-oxoaci d. 
+ 
+Metabolism of amino acids generates ammonium, which is a toxic molecule, especially for the CNS. 
+Ammonium can be metabolized in the liver for excretion into the ornithine (urea) cycle. Amino acid 
+metabolism occurs in 2 kinds of chemical reactions. The ﬁrs t is called transamination, in which alanine 
+aminotransferase (ALT) and aspartate aminotransferase (AST) participate. These 2 reactions require a 3 -
+carbon skeleton to interchange the amino group; the skeleton for these 2 enzymes is alpha -
+ketoglutarate. In the response regulated by ALT, alanine transfers the amino group to alpha -ketoglutarate 
+to form pyruvate and glutamate. In the AST -regulated reaction, the inverse situation occurs. It takes the 
+donated amino group from glutamate to create aspartate to pres ent a second amino atom to the Urea 
+cycle. The second reaction is deamination, in which the glutamate dehydrogenase metabolizes 
+glutamate to form alpha- ketoglutarate and ammonia, which have to be detoxiﬁed by the urea cycle.  
+ 
+After deamination, the skeleton undergoes intermediate metabolism. The metabolism of amino acids 
+can yield 7 types of skeletons, namely: alpha- ketoglutarate, oxaloacetate, succinyl –CoA, fumarate, 
+pyruvate, acetyl –CoA, and acetoacetyl– CoA. The ﬁrst 5 have 3 or more carbons, and they are helpful for 
+glyconeogenesis; the last 2 have only 2 carbons, and they are unusable for glyconeogenesis. Instead, 
+they are used for lipid synthesis.  
+ 
+Like all the other metabolic pathways, insulin is the main regulator. In contrast, the regulators in the 
+amino acid metabolism are cortisol and thyroid hormone, which mediate muscle 
+breakdown.[11][12][13]  
+ 
+Clinical Signiﬁcance  
+Diabetes Mellitus  
+ 
+The pancreas senses glucose concentrations in blood and some amino acids, such as arginine and 
+leucine. High levels of these substances indicate nutritional repletion, and this message is sent to the 
+body by the pancreas in the form of insulin. Insulin is the unique metabolic hormone in charge of the 
+disposition of nutrients in the body, which means that insulin deﬁciency implicates pleiotropic changes in 
+human metabolism. With insulin deﬁciency, there is less inhibition of catabolic responses; this drives a 
+net mobilization of substrates from tissues. The pancreas senses metabolite status, and peripheral 
+tissues sense insulin concentration status. When peripheral tissues feel a fall in insulin, they become 
+catabolic, and substrates start to mobilize. The liver responds to low insulin by increasing glucose 
+synthesis with gluconeogenesis and glycogenolysis. As seen in amino acid metabolism, the principal 
+gluconeogenic substrate is alanine, resulting from muscl e waste and proteolysis. Adipose tissue responds 
+as well, augmenting lipolysis and leading to fatty acid accumulation and glycerol. Increased delivery of 
+non-esteriﬁed fatty acids (NEFA) to the liver increases ketogenesis.[14]  
+ 
+Sepsis, Trauma, and Burns  
+ 
+Catabolism can also initiate from an excessive inﬂammatory reaction, characterized by the upregulation 
+and expression of proinﬂammatory cytokines such as TNF -alfa, IL -6, and IL -1. This process is called 
+systemic inﬂammatory response syndrome (SIRS). It has 3 phases regarding metabolism: the ebb or 
+shock phase, the catabolic phase, and the anabolic phase. In these scenarios, there is a considerable 
+mobilization of substrate throughout the body.[15]  
+ 
+G6PDH Deﬁciency  
+ 
+It is a deﬁciency well distributed in equatorial regions. It is X -linked and reduces levels of NADPH, hence 
+decreasing levels of the active form of glutathione and increasing oxidative stress for red blood cells; this 
+leads to hemolysis presented as a crisis, depending on the insult. It appears as Heinz bodies and blister 
+cells on a peripheral blood smear.[16]  
+ 
+Review Questions  
+Access free multiple choice questions on this topic.  
+Comment on this article.  
+References  
+1. 
+Liu X, Chen T, Jain PK, Xu W. Revealing the Thermodynamic Properties of Elementary Chemical Reactions 
+at the Single- Molecule Level. J Phys Chem B. 2019 Jul 25;123(29):6253- 6259. [PubMed: 31246466]  
+2. 
+Ramnanan CJ, Edgerton DS, Kraft G, Cherrington AD. Physiologic action of glucagon on liver glucose 
+metabolism. Diabetes Obes Metab. 2011 Oct;13 Suppl 1(Suppl 1):118- 25. [PMC free article: 
+PMC5371022] [PubMed: 21824265]  
+3. 
+Szabo I, Zoratti M. Mitochondrial channels: ion ﬂuxes and more. Physiol Rev. 2014 Apr;94(2):519 -608. 
+[PubMed: 24692355]  
+4. 
+Hue L, Taegtmeyer H. The Randle cycle revisited: a new head for an old hat. Am J Physiol Endocrinol 
+Metab. 2009 Sep;297(3):E578- 91. [PMC free article: PMC2739696] [PubMed: 19531645]  
+5. 
+KREBS HA. The tricarboxylic acid cycle. 1948 -1949Harvey Lect. Series 44:165- 99. [PubMed: 14849928]  
+6. 
+Dashty M. A quick look at biochemistry: carbohydrate metabolism. Clin Biochem. 2013 Oct;46(15):1339 -
+52. [PubMed: 23680095]  
+7. 
+Abumrad NA, Davidson NO. Role of the gut in lipid homeostasis. Physiol Rev. 2012 Jul;92(3):1061 -85. 
+[PMC free article: PMC3589762] [PubMed: 22811425]  
+8. 
+Goldstein JL, Brown MS. The LDL receptor. Arterioscler Thromb Vasc Biol. 2009 Apr;29(4):431 -8. [PMC 
+free article: PMC2740366] [PubMed: 19299327]  
+9. 
+Jaworski K, Sarkadi- Nagy E, Duncan RE, Ahmadian M, Sul HS. Regulation of triglyceride metabolism. IV. 
+Hormonal regulation of lipolysis in adipose tissue. Am J Physiol Gastrointest Liver Physiol. 2007 Jul;293(1):G1- 4. [PMC free article: PMC2887286] [PubMed:  17218471]  
+10. 
+Peirce V, Carobbio S, Vidal -Puig A. The diﬀerent shades of fat. Nature. 2014 Jun 05;510(7503):76 -83. 
+[PubMed: 24899307]  
+11. 
+Deutz NE, Wolfe RR. Is there a maximal anabolic response to protein intake with a meal? Clin Nutr. 2013 
+Apr;32(2):309- 13. [PMC free article: PMC3595342] [PubMed: 23260197]  
+12. 
+Finn PF, Dice JF. Proteolytic and lipolytic responses to starvation. Nutrition. 2006 Jul -Aug;22(7- 8):830- 44. 
+[PubMed: 16815497]  
+13. 
+Vandenberg RJ, Ryan RM. Mechanisms of glutamate transport. Physiol Rev. 2013 Oct;93(4):1621 -57. 
+[PubMed: 24137018]  
+14. 
+Zaccardi F, Webb DR, Yates T, Davies MJ. Pathophysiology of type 1 and type 2 diabetes mellitus: a 90 -
+year perspective. Postgrad Med J. 2016 Feb;92(1084):63 -9. [PubMed: 26621825]  
+15. 
+Cecconi M, Evans L, Levy M, Rhodes A. Sepsis and septic shock. Lancet. 2018 Jul 07;392(10141):75 -87. 
+[PubMed: 29937192]  
+16. 
+Steiner M, Lüdemann J, Krammer -Steiner B. Favism and Glucose -6-Phosphate Dehydrogenase Deﬁciency. 
+N Engl J Med. 2018 Mar 15;378(11):1068. [PubMed: 29542311]  

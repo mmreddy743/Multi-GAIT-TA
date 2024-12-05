@@ -1,0 +1,1137 @@
+JOURNALOF NEUROPI IYSIOLOGY 
+Vol. 73, No. 6. June 1995. Prhred in IJ.S.A 
+Fatigability, Relaxation Properties, and Electromyographic Responses 
+of the Human Paralyzed Soleus Muscle 
+RICHARD K. SHIELDS 
+College of Medicine, Physical Therapy Graduate Program, The University of Iowa, Iowa City, Iowa 52242-1008 
+SUMMARY AND CONCLIJSIONS 
+I. The goal of this study was to characterize the fatigability, 
+contractile relaxation properties, electrophysiological responses, 
+and histochemical properties of the human paralyzed soleus muscle 
+to determine its relative plasticity. 
+2. Acute ( <6 wk, y2 = 3) and chronic ( > 1 yr, y2 = 10) paralyzed 
+individuals had the tibia1 nerve activated with a 20-Hz square wave 
+delivered for 330 ms every second for 4 min. The soleus muscle 
+peak torque, one-half relaxation time ( ‘/,RT), normalized maxi- 
+mum rate of relaxation (nMRR), and mass muscle action-potential 
+amplitude (M wave) were computed every 30 s. A soleus muscle 
+biopsy was evaluated for myosin adenosine triphosphatase enzyme 
+( ATPase; pH 9.4,4.6, and 4.2) and nicotinamide adenine dinucleo- 
+tide tetrazolium reductase (NADH-TR) . 
+3. In the chronically paralyzed group the torque was signifi- 
+cantly reduced within 30 s of the fatigue protocol. The ‘/,RT and 
+nMRR were also significantly changed within 30 s, supporting 
+that muscle relaxation was prolonged. No significant changes were 
+present at comparable times during the same 4-min fatigue protocol 
+applied to the acutely paralyzed soleus muscle. M-wave amplitude 
+was significantly reduced in the chronic group, but only at 3 min 
+of the fatigue protocol. Conversely, no significant changes occurred 
+to the M waves of the acute group. 
+4. The correlation was high between torque and nMRR (Y = 
+0880.97) and torque and ‘/?RT (r = 0.88-0.96) for each chronic 
+subject. A close association was also found between 1/,RT and 
+nMRR (Y = 0.88-0.92) for each chronic subject. Because these 
+variables changed minimally in the acutely paralyzed group, a 
+lower correlation was present (~ r = 0.45-0.52). 
+5. Torque was weakly correlated to M-wave amplitude (r = 
+0.55) for the chronically paralyzed group. The greatest change in 
+torque occurred at a time (O-65 s) when the least amount of 
+change occurred in the M-wave amplitude, suggesting that the 
+source of fatigue was within the contractile mechanism and not 
+attributable to neuromuscular transmission compromise. 
+6. Despite a close association between torque and relaxation 
+properties during fatigue of the chronically paralyzed soleus mus- 
+cle, there was a significant dissociation after 5 min of recovery. 
+Torque recovered to 60%, whereas the relaxation properties were 
+consistently fully recovered. This suggests that the mechanism 
+causing torque reduction covaried with the mechanism leading to 
+prolonged relaxation during fatigue, but during recovery the two 
+mechanisms no longer covaried. M-wave amplitude was also com- 
+pletely recovered at 5 min despite continued torque depression. 
+7. Qualitative histochemical analysis supported that >90% of 
+the sampled chronically paralyzed soleus muscle was comprised 
+of type II fibers (myosin ATPase-9.4) and had reduced oxidative 
+capacity (NADH-TR). The type II fibers were found to be predom- 
+inantly type IIB (myosin ATPase: 4.6, 4.2). 
+8. Fatigability, relaxation properties, and histochemical analysis 
+supports that the chronically paralyzed soleus muscle functions 
+and stains qualitatively as a composite of type IIB muscle fibers. 
+Conversely, within 6 wk of paralysis, the fatigability and relaxation property changes were minimal in the human soleus muscle as 
+would be expected in a predominantly slow muscle. The human 
+chronically paralyzed soleus muscle appears to be more fatigable 
+than that reported for the paralyzed soleus muscle in animal models 
+at a comparable time period after spinal cord disruption. 
+INTRODUCTION 
+When the human spinal cord is damaged, the resulting 
+paralyzed skeletal musculature undergoes significant adapta- 
+tions. Evidence that type I fatigue-resistant fibers [low-den- 
+sity myosin adenosine triphosphatase enzyme ( ATPase ) ] 
+transform into type II (high-density myosin ATPase) fibers 
+in cats (Alaimo et al. 1984; Baldwin et al. 1984; Mayer et 
+al. 1984; Roy et al. 1984), rats (Lieber et al. 1986), guinea 
+pigs ( Karpati and Engel 1968), and humans (Grimby et 
+al. 1976) after spinal cord transection is well documented. 
+However, the effect of long-term paralysis on skeletal mus- 
+cle fatigability is less understood. 
+After spinal cord disruption, postural muscles comprised 
+of predominantly type I muscle fibers showed a limited abil- 
+ity to transform to fast fatigable (FF) fibers (IIB) (Baldwin 
+et al. 1984; Cope et al. 1986; Jiang et al. 1990; Karpati et 
+al. 1968). This limited plasticity supported the notion that 
+chronically paralyzed postural muscles (soleus) maintained 
+their fatigue-resistant properties despite taking on character- 
+istics of faster muscle (Baldwin et al. 1984; Cope et al. 
+1986). The altered interaction between nerve and muscle 
+after spinal cord disruption is believed to influence the iso- 
+myosin expression in slow muscle fibers (Baldwin et al. 
+1989) leading to faster muscle contractile properties (myosin 
+ATPase) but minimal effects on the oxidative capacitv and - 
+fatigability (Jiang et al. 1990). 
+Previous reports suggest that similar discrepancies exist 
+between transformed muscle fiber type (type I to type II) 
+and fatigability in studies on cross reinnervation (Buller et 
+al. 1960; Chan et al. 1982), and reduced activity studies 
+induced by casting ( Witzmann et al. 1983)) tenotomy ( Bag- 
+ust 1979), pinning (Maier et al. 1976)) and hindlimb suspen- 
+sion (Corley et al. 1984). 
+Evidence that soleus muscle type I (oxidative) to type 
+IIA (fast oxidative glycolytic) conversions have not pro- 
+ceeded to IIB (fast glycolytic) in paralyzed animal models 
+further supports the limited plasticity of type I fibers in pos- 
+tural muscle (Baldwin et al. 1984; Cope et al. 1986; Jiang 
+et al. 1990; Karpati and Engel 1968; for review see Gordon 
+and Pattullo 1993). This notion is further supported by the 
+long-term paralyzed cat soleus muscle, which shows mini- 
+mal or no change in muscle fatigability even 1 yr after spinal 
+0022-3077/95 $3.00 Copyright 0 1995 The American Physiological Society 2195 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+2196 R. K. SHIELDS 
+transection (Baldwin et al. 1984). The maintained fatigue 
+resistance for the soleus muscle after long-term spinalization 
+in animal models has been regarded as one of the most 
+striking examples of physiological resistance to change and 
+has been assumed to also be true for human postural muscle 
+( soleus) (Gordon and Pattullo 1993 ) . 
+However, Grimby and colleagues ( 1976) found the hu- 
+man chronically paralyzed soleus muscle to be comprised 
+of predominantly type IIB fibers with the use of qualitative 
+histochemistry [ myosin ATPase, nicotinamide adenine dinu- 
+cleotide tetrazolium reductase (NADH-TR)] , but no physio- 
+logical studies of fatigability were examined. This raises 
+the question as to whether the human chronically paralyzed 
+soleus, a postural muscle, retains its resistance to fatigue as 
+the result of chronic spinal transection, especially in lieu 
+of the qualitative histochemical evidence demonstrating the 
+presence of type IIB fibers (Grimby et al. 1976). Interest- 
+ingly, the human soleus muscle, with its normal predomi- 
+nance of type I fibers (Johnson et al. 1973)) has never been 
+repetitively activated to study its fatigability in humans with 
+paralysis despite the extensive reports on the paralyzed so- 
+leus muscle in other species. Whether the human paralyzed 
+soleus muscle will maintain its fatigue-resistant properties 
+is unknown. If the human paralyzed soleus muscle becomes 
+highly fatigable, it may suggest a greater plasticity than that 
+previously found in similar paralyzed postural muscles of 
+other species. 
+The duration of paralysis may be an important factor de- 
+termining the extent to which paralyzed muscle transforms. 
+Longer periods of inactivity may contribute to more com- 
+plete muscle fiber transformation leading to related histo- 
+chemical and physiological (fatigue) properties. Cope and 
+colleagues ( 1986) found that the population of soleus motor 
+units showed decreased contraction and relaxation times, 
+decreased after hyperpolarization, increased incidence of 
+sag, and an increase in the rheobase and axonal conduction 
+velocity (all properties of faster motor units), but no change 
+in fatigability 4 mo after spinal transection in the cat. Con- 
+versely, Munson and colleagues ( 1986) found the percent- 
+age of FF motor units in the gastrocnemius muscle to be 
+increased within 2 wk after spinal cord transection of the cat, 
+with no further changes noted over the next 7 mo. Whether 
+Cope and colleagues ( 1986) would have found their reported 
+changes before 4 mo or more extensive changes leading to 
+increased fatigability beyond 4 mo is not known. Conse- 
+quently, the present study compared the fatigability of the 
+human acutely (within 6 wk of spinal transection) paralyzed 
+soleus muscle to the chronically paralyzed soleus muscle to 
+assist in determining whether human soleus muscle adapta- 
+tions are immediate after spinal cord transection. 
+Other muscle physiological changes should be apparent 
+if the human paralyzed soleus muscle transforms to FF fibers. 
+For example, prolongation of muscle contractile properties 
+is closely associated with fatigue of FF motor units (Dubose 
+et al. 1987; Gordon et al. 1990; Rankin et al. 1988) and 
+whole muscle comprised of type IIB fibers (Kernel1 et al. 
+1987). If the human chronically paralyzed soleus muscle 
+responds as a composite of highly fatigable muscle fibers, 
+then significant prolongation of the relaxation properties dur- 
+ing the fatigue protocol would be expected (Dubose et al. 
+1987 ) . As importantly, understanding the contractile prop- erty changes during fatigue of human paralyzed muscle may 
+have clinical significance because optimal electrical stimula- 
+tion frequency has been found to be closely coupled to mus- 
+cle contractile properties (Bigland-Ritchie et al. 1983; Big- 
+land-Ritchie and Woods 1984; Kukulka et al. 1986; Woods 
+et al. 1987). 
+Increased soleus muscle fatigability may suggest compro- 
+mised neuromuscular transmission (Fahim and Robbins 
+1986; Krnjevic and Miledi 1958; Pagala et al. 1984) and 
+not necessarily reflect the muscle contractile machinery 
+properties. Monitoring soleus muscle compound muscle ac- 
+tion potentials (M waves) during the stimulation protocol 
+ensures that adequate activation of the muscle occurs. Fur- 
+thermore, a dissociation between M-wave amplitude and 
+force during muscle fatigue suggests that force failure is 
+beyond the neuromuscular transmission system (Enoka et al. 
+1989; Pagala et al. 1984). Conversely, a parallel reduction in 
+M-wave amplitude and force is consistent with the all-or- 
+none response associated with neuromuscular transmission 
+compromise (Enoka et al. 1989; Pagala et al. 1984). 
+In general, the classification of motor unit (Burke et al. 
+1973; Burke and Tsairis 1974) and whole muscle properties 
+(Barany 1967; Kernel1 et al. 1987; Peter et al. 1972) support 
+that a close association typically exists between histochemi- 
+cal fiber type (myosin ATPase) and fatigability. Conse- 
+quently, this study also evaluated the myosin ATPase density 
+in conjunction with physiological studies of fatigue of the 
+human paralyzed soleus muscle. 
+The purposes of this study were to I ) report the fatigability 
+and relaxation properties of the human acutely (within 6 wk 
+of transection) and chronically ( 2 1 yr) paralyzed soleus 
+muscle during repetitive activation and recovery, 2) describe 
+the relationship between the relaxation properties and torque 
+during repetitive activation of the human paralyzed soleus 
+muscle, 3) determine the extent that neuromuscular trans- 
+mission (M waves) contributes to paralyzed muscle fatigue, 
+and 4) reassess, through qualitative histochemistry, the fiber 
+type distribution of one representative example of the human 
+chronically paralyzed soleus muscle. 
+A preliminary report of some of these results has been 
+made in abstract form (Shields 1992a). 
+METHODS 
+Instrumentation 
+The torque measurement system was designed to measure the 
+plantarflexion torque with a subject in the seated position with the 
+knee and ankle at 90’. Adjustability of the heel cup, force trans- 
+ducer, and axis of rotation allowed the force transducer (AWU- 
+250, Genisco technology) to be positioned under the first metatarsal 
+head. The foot plate axis of rotation was aligned with the anatomic 
+axis of the ankle. Stabilization of the heel to the foot plate during 
+torque production was provided by a rigid ankle cuff directing 
+three vectors of force through the calcaneus via turnbuckles. A 
+double strap secured over the femur provided further stabilization 
+of the heel in the foot plate assembly during plantarflexion. Figure 
+1 shows a schematic of the torque measurement system. Calibration 
+of the torque measurement system with known loads yielded a 
+linear regression equation with an R’ value of 0.99. Linearity, 
+hysteresis, repeatability, and accuracy of the entire measurement 
+system was 1.10, 1.22, 0.430, and 1.3 1% full scale, respectively. 
+The force transducer was electronically coupled to a multichannel 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+FATIGABILITY OF HUMAN PARALYZED MUSCLE 2197 
+3.00 
+2.00 
+1.00 
+. 000 
+L 1 1 I 1 1 1 1 I 1 
+I I 1 I 1 I 1 1 I 
+000 .120 .240 .360 ,480 .600 
+SECONDS 
+FIG. 1. Torque measurement apparatus (top) including adjustable axis 
+of rotation, stabilization cuff, and femoral strap. The unfused tetanus and 
+associated M waves (hottom) for 1 s of the 4-min fatigue protocol. Note 
+the stimulus artifact preceding each M wave. 
+signal amplification and processing system with gain range from 
+10 to 1,000, and a frequency response from DC to 1,000 Hz (FPM- 
+67, Therapeutics Unlimited). 
+Bipolar silver-silver chloride surface electrodes with a l-cm 
+diam and fixed 2-cm interelectrode distance were used to monitor 
+the M wave from the soleus muscle. Others (Gravel et al. 1987; 
+Kimura 1989; Kukulka et al. 1986) have previously reported ade- 
+quate representation of the soleus muscle electrical activity with 
+surface electrodes. An additional electrode was placed over the 
+tibialis anterior muscle to visually monitor any inadvertent peroneal 
+nerve activation. The signal from all electrodes was on-site pream- 
+plified by a factor of 35 before mainframe amplification. The signal 
+was differentially amplified [input impedance, 15 MO at 100 Hz; 
+frequency response, 40-4,000 Hz; common mode rejection ratio 
+(cmrr) = 87 db at 60 Hz] and had a gain of l,OOO- 100,000 times. 
+A constant current stimulator and isolation unit (custom de- 
+signed) had a current range from 50 PA to 75 mA with current 
+variations of <5% and total voltage capability of 600 V. The stimulator was triggered by a digital timer from another stimulator 
+(Grass model S-l 1). Stimulation was delivered via a double- 
+pronged stimulation electrode secured over the tibia1 nerve with 
+the use of an orthoplast splint. 
+The torque, electromyographic signals, and stimulus pulses were 
+monitored on the oscilloscope and stored on a FM recorder (Vetter 
+model D). The recorder had a frequency response of DC-2,500 
+Hz at a tape speed of 3.75 in/s. Off-line analysis was performed 
+by a microcomputer via an analog-to-digital converter (Das 16F, 
+Metrabyte) with a 12-bit resolution. 
+Recording procedures 
+SUBJECTS. Thirteen completely paralyzed individuals were stud- 
+ied. Ten of the subjects had sustained a complete spinal cord injury 
+at least 1 yr before testing, whereas three of the subjects had 
+sustained a complete spinal cord injury no longer than 6 wk before 
+testing. The completeness of the injury was determined by an ex- 
+tensive neurological examination that included an assessment of 
+sharp-dull distinction, motor function, and position sense testing 
+below the level of the spinal lesion. A lesion was considered com- 
+plete if all three modalities tested (sharp-dull distinction, position 
+sense, and muscle strength) were absent during these tests. Of the 
+10 chronic subjects studied, 8 were males and 2 were females. 
+Five subjects had no neurological function below the sixth cervical 
+level, three below the fourth thoracic level, and one below the 
+eighth thoracic level. All acute subjects were males with no neuro- 
+logical function below the fifth cervical, second thoracic, and sev- 
+enth thoracic level, respectively. All subjects had at least 5’ of 
+passive ankle dorsiflexion and a full 20’ of plantarflexion. No 
+secondary medical complications were present in any subjects. All 
+subjects were informed of their rights and signed consent forms 
+before participation. Table 1 shows the descriptive statistics 
+(means t SD) for all subjects involved in the study. 
+The skin over the soleus muscle was scrubbed with alcohol, and 
+the electrode was applied -2 cm lateral to the midline at one-third 
+the distance from the lateral malleolus to the fibular head. After 
+visual inspection of the M waves, the electrode was slightly reposi- 
+tioned in four subjects to accentuate the biphasic waveform. Each 
+subject had the right foot placed in the torque measuring device 
+and secured so that the ankle was at 90’. The subject’s wheelchair 
+was rolled forward until the knee was also flexed to 90”. The 
+majority of the plantarflexion torque generated in this position is 
+attributed to the soleus muscle (Sale et al. 1982; Shields 1992b). 
+The stimulator was set to deliver a 0.5- to I-ms pulse at 1 
+Hz for 1 min to the tibia1 nerve. The stimulation intensity was 
+progressively increased until the maximum M wave was reached. 
+The stimulator was incremented a minimum of two times the maxi- 
+mal intensity to ensure supramaximal activation. Next, a modified 
+Burke fatigue protocol (Burke et al. 1973) consisting of a 20-Hz 
+burst for 330 ms administered every second for 4 min was deliv- 
+ered. Modifying this protocol from 40 Hz and extending it to 4 
+min was found to be necessary from many pilot experiments. First, 
+there was an increased incidence of muscle spasm during 40-Hz 
+stimulation. Second, extensive prolongation of the muscle relax- 
+ation properties during 40-Hz stimulation prevented the torque 
+from returning to baseline between trains. Third, the 20-Hz stimula- 
+tion over 330 ms generated high torques comparable with the 
+torque generated during functional electrical stimulation (50-60 
+Nm, -70% of the maximum torque generated at 100 Hz) (Kralj 
+et al. 1988; Marsolais and Kobetic 1988; Phillips 1989). Fourth, the 
+severity of osteoporosis in long bones of individuals with chronic 
+paralysis indicated that a reduced frequency should be employed 
+to minimize the risk of a fracture. Finally, reducing the frequency 
+of activation and increasing the duration of the test increased the 
+likelihood that the transformed contractile machinery would be 
+stressed (Zijdewind et al. 1990). This also would serve to minimize 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+2198 R. K. SHIELDS 
+TABLE 1. Descriptive statistics for the chronic and acute subjects 
+12 Height, m Weight, kg Age, yr Time Postinjury 
+Chronics 
+Acutes 10 1.74 + 0.083 68.6 + 15.1 31.6 2 12.8 3.7 t 2.05* 
+‘9 ,) 1.76 + 0.057 67.3 + 19.6 22.3 k 2.5 4.6 2 1.17 
+Values are means + SD except for n, which is number of subjects. * Years. -t Weeks. 
+the neuromuscular transmission compromise, a property that may 
+be more preferential to FF muscle fibers (Enoka et al. 1989; Pagala 
+et al. 1984). Five minutes after the conclusion of the 4-min test, 
+all subjects were assessed for 5 s with the same protocol. 
+Qualitative histochemical analysis 
+One chronic subject had a muscle biopsy taken from the right 
+soleus muscle and analyzed qualitatively for myosin ATPase and 
+NADH-TR enzyme density. Specifically, an incision was made -3 
+cm medial to the achilles tendon midline and one-fourth of the 
+way from the malleolus to the knee. A 5 mm-diam muscle biopsy 
+needle was passed through the incision three times yielding three 
+tissue plugs measuring 3 x 3 X 2 mm. With the use of a stereo- 
+scopic microscope and cold fiber optic light, the samples were 
+oriented transversely, mounted on cork with the use of tissue tek, 
+and immersed in isopentane precooled in liquid nitrogen at 
+- 16OOC. 
+Tissue samples were incubated in ATP and calcium at a pH of 
+9.4, 4.6, and 4.2. In addition, samples were processed for the 
+NADH-TR enzyme. The specific protocol used for staining has 
+been previously reported (Dubowitz 1985). Qualitative counts of 
+the specific numbers of fiber types present in a field were deter- 
+mined and presented as the percent of a given fiber type. 
+Torque and M-wave analvsis J 
+Torque was calculated as the product of the external moment 
+arm and the perpendicular force measured from the transducer. 
+The plantarflexion torque was digitized at a rate of 100 Hz for 5 
+s every 30 s during the 4-min test and a mean calculated. Figure 
+1 shows the unfused tetanus and the associated M waves for one 
+contraction of the 4-min protocol. The maximum measured torque 
+was determined by using a least-squared quadratic fit algorithm. 
+This best-f-it quadratic equation standardized the selection of the 
+maximum element of the digitized torque array. A torque index 
+was calculated by taking the quotient of the mean measured maxi- 
+mum torque (5 s at 2 and 4 min, respectively) and the initial 
+measured mean peak torque (5 s ) . 
+The torque relaxation properties during the fatigue protocol were 
+characterized by both time and rate measures. The half-relaxation 
+time ( ‘/,RT) was the time it took for the maximum measured torque 
+to drop to one-half of its value. Using the least-squared quadratic fit 
+algorithm to detect the measured peak torque provided a consistent 
+method to determine the midpoint of the peak torque curve. The 
+maximal rate of relaxation (MRR) was determined by differentiat- 
+ing the torque output with respect to time during the relaxation 
+phase of the unfused tetanus. Custom software was developed to 
+take a two-point differential for each set of digital values divided 
+by the constant change in time. The MRR was normalized to the 
+mean measured torque for that contraction and referred to as the 
+nMRR. As with the torque, 5 s of data were sampled every 30 s 
+during the 4-min protocol and means calculated. The ‘/,RT index 
+and nMRR index were calculated as the mean (‘/,RT, nMRR) at 
+2 and 4 min, respectively, divided by the initial mean value ( ‘&RT, 
+nMRR). 
+The initial M wave of five consecutive trains was analyzed every 
+30 s during the fatigue protocol. Each M wave was digitized at a rate of 5 kHz, and the peak of the initial positive deflection was 
+determined. Figure 1 shows the stimulus artifact followed by each 
+M wave and the associated unfused tetanus. An M-wave index was 
+determined by dividing each 5-s mean every 30 s by the initial 
+5-s mean value. 
+Repeated measures on five subjects demonstrated good repro- 
+ducibility of all dependent measures with Pearson correlation coef- 
+ficients ranging from 0.95 for torque to 0.69 for M-wave amplitude 
+( Shields 1992b). 
+RESULTS 
+Torque and muscle relaxation properties 
+Figure 2 (top) shows the percent of initial torque plotted 
+every 30 s during the fatigue protocol for the chronic and 
+acute paralyzed subject groups. The rapid loss of torque 
+during the 1st 2 min of the stimulation protocol was followed 
+by 2 min of minimal torque changes in the chronically para- 
+lyzed group. Conversely, the acutely paralyzed group shows 
+a more gradual linear decline in torque throughout the stimu- 
+lation protocol. The mean torque index at 125 and 245 s of 
+the fatigue test was 88 and 77%, respectively, for the acutely 
+paralyzed group as compared with 27 and 22% at similar 
+time periods for the chronically paralyzed group. 
+Figure 2 (bottom) shows the percent of initial nMRR 
+plotted every 30 s of the fatigue protocol in the chronically 
+and acutely paralyzed groups. The chronic group shows a 
+steep reduction in the nMRR during the 1st 2 min of the 
+test followed by minimal changes in the final 2 min. Con- 
+versely, the acute group shows minimal changes in the rate 
+of relaxation during the test. The mean nMRR index at 125 
+and 245 s of the fatigue protocol was 90 and 93% for the 
+acute group in contrast to 38 and 41% for the same time 
+periods in the chronic group. Figure 3 shows the percent of 
+initial 1/2RT plotted every 30 s of the fatigue protocol in both 
+groups. Again, note the prolongation in muscle relaxation 
+time index within the 1st 2 min of the test in the chronic 
+group as compared with the minimal change in the acute 
+group. The mean $RT index at 125 and 245 s was 114 and 
+107% for the acute group in contrast to the 272 and 228% 
+found at similar time periods in the chronically paralyzed 
+group. Figure 4 shows a representative example of the torque 
+data overlaid every 30 s during 3 min of the fatigue protocol 
+for a chronic (top) and acute (bottom) subject. The minimal 
+fatigue and minimal change in relaxation properties during 
+the fatigue protocol in the acute subject is evident. 
+Descriptive analysis of each subjects absolute torque, 
+nMRR, and ‘/*RT values initially and at 2 min of the fatigue 
+protocol can be seen in Table 2. Statistical analyses [repeated 
+measures analysis of variance (ANOVA)] of the chronic 
+group revealed that the torque, nMRR, and ‘/2RT was sig- 
+nificantly changed from the initial torque at all time periods 
+after 65 s. There was no difference between the values from 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+FATIGABILITY OF HUMAN PARALYZED MUSCLE 2199 
+125 to 245 s of the fatigue test. In contrast, the acutely 
+paralyzed group showed that the torque was significantly 
+reduced from the initial only at 245 s of the fatigue protocol, 
+and nMRR and ‘/*RT were not statistically changed during 
+the fatigue protocol. The torque, ‘/,RT, and nMRR for the 
+chronic group did not recover equally 5 min after the fatigue 
+protocol (Table 2). 
+Torque-relaxation properties relationship 
+Figure 5 shows the relationship between the percent of 
+initial torque and the percent of initial nMRR for each sub- 
+ject during the fatigue protocol in the chronically paralyzed 
+group. The entire data set was fit by the linear regression 
+equation Y = 1.2174X - 0.1707 with an R* value of 0.85. 
+This regression model indicates that 85% of the variability 
+in the torque index could be explained by the nMRR index. 
+Simple linear regression analysis for each subject revealed 
+correlation coefficients that ranged from 0.88 to 0.97 sup- 
+porting that the relationship between changes in torque and 
+80 
+60 
+30 60 90 120 150 180 210 240 
+I I I 1 1 I 
+I I I 1 I 
+0 50 100 150 200 250 
+ME(SEC) 
+FIG. 2. Percent of initial torque (top) and normalized maximum rate of 
+relaxation (nMRR; bottom) with standard deviations during the fatigue 
+protocol for the chronic group ( 0) and acute group ( l ) 300 
+100 T T 
+I I I 1 I 1 
+I I I 
+30 60 90 120 150 ‘180 210 240 
+TtME( SEC) 
+FIG. 3. Percent of initial ‘/* relaxation time ( ‘/,RT) and standard devia- 
+tions during the fatigue protocol for the chronic group ( 0) and acute 
+group w- 
+changes in nMRR held true across all chronic subjects. Simi- 
+larly, Fig. 6 shows the relationship between the percent of 
+initial torque and the percent of initial $RT for each chroni- 
+cally paralyzed subject. The overall data were described by 
+the linear regression equation consisting of Y = -0.3855X + 
+1.276 with an R* value of 0.80. Linear regression analysis 
+for each subject revealed Pearson correlation coefficients 
+that ranged from 0.88 to 0.96. The close association between 
+the changes in torque and relaxation properties of chronically 
+paralyzed muscle suggests that the mechanisms that contrib- 
+ute to the reduced torque covary with the mechanisms that 
+contribute to prolonged relaxation properties during fatigue. 
+A multiple regression model using both ‘/2RT and nMRR 
+as independent variables did not significantly increase the 
+predictability of torque (R* = 0.86). Similar relationships 
+derived for the acutely paralyzed group revealed correlations 
+ranging from 0.45 to 0.52 for nMRR and ‘/,RT, respectively. 
+This lower relationship can be explained by the reduced 
+power and a reduced range of values attributed to minimal 
+changes in fatigability and relaxation properties during the 
+fatigue protocol for the acute group. 
+M-wave changes during fatigue 
+Figure 7 shows the percent of initial M-wave amplitude 
+plotted every 30 s during the 4-min fatigue protocol for the 
+chronic and acute paralyzed subject groups. The chronically 
+paralyzed subject group shows a minimal reduction during the 
+1st min of the fatigue protocol followed by a greater reduction 
+of the M-wave index during the final 3 min of the protocol. 
+The acutely paralyzed subject group shows a minimal increase 
+in M-wave amplitude during the initial stages of the fatigue 
+protocol. The mean M-wave amplitude index at 125 and 245 
+s of the fatigue test was 103 and 94% for the acute group, 
+respectively. This is in contrast to the 88 and 73% found at 
+similar time periods in the chronically paralyzed group. 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+2200 R. K. SHIELDS 
+Descriptive analyses of the M-wave amplitude values are TABLE 2. Summary of descriptive statistics for torque, ‘12RT, 
+shown in Table 2. Figure 8 shows a representative example nMRR, and M-wave amplitude for the chronic and acute subject 
+of the initial M wave of each train overlaid during the fatigue 
+protocol for a chronically paralyzed subject. Note there was groups 
+minimal change in M-wave amplitude after the 1st 30 s 
+but a consistent decline in amplitude at 2, 3, and 4 min, 
+respectively. The significant reduction in M-wave amplitude 
+by 185 s of the fatigue protocol occurred after the most 
+significant reduction in torque. This suggests that neuromus- 
+cular transmission contributed minimally to the fatigue in 
+the chronic group. 
+Statistical analysis (repeated measures ANOVA) revealed 
+that the M-wave amplitude was significantly reduced in the 
+chronically paralyzed group at 185 and 245 s as compared 
+with the initial amplitude. Conversely, there was no signifi- 
+cant change in M-wave amplitude during the fatigue protocol 
+in the acutely paralyzed subject group. However, given the Initial 2 Minutes Recovery, 5 
+Minutes 
+C Torque, Nm 
+A Torque, Nm 
+C nMRR, l/s 
+A nMRR, l/s 
+C ‘/,RT, ms- 
+A ‘/,RT, ms 
+C M wave, mV 
+A M wave, mV 3’7 2 12.6* 67 + 15.2 18.5 2 10.2* 
+50.9 + 24.6 44.3 2 19.9 48.6 t 21.4 
+-7.75 + 0.95 -2.88 2 0.95* -7.45 + 0.61 
+-9.50 + 0.77 -8.58 t 1.16 -9.37 t 0.87 
+106.6 + 14.01 289 + 52.36* 101.31 + 10 
+86.33 + 11.85 98.47 + 16.35 90.4 rt 8.6 
+0.59 + 0.35 0.51 t 0.31 0.71 + 0.25* 
+0.36 5 0.28 0.40 2 0.39 0.38 + 0.24 
+Values are means + SD. ‘/,RT, 1/2 relaxation time; nMRR, normalized 
+maximum rate of relaxation; C, chronic group; A, acute group. * Signifi- 
+cantly different from the initial values (P 5 0.05). 
+variability of the M-wave responses across subjects, the lim- 
+ited sample size for the acute group should be considered and the percent of initial torque plotted with respect to time 
+when interpreting this statistical analysis. of the fatigue test for the chronic group. Little change was 
+Figure 9 shows the percent of initial M-wave amplitude noted in the M-wave amplitude at a time when the greatest 
+reduction in torque occurred (time 0 to 65 s ) . Consequently, 
+neuromuscular transmission does not appear to be the major 
+contributor to the initial torque reduction. The relationship 
+36.0 between the torque index and the M-wave amplitude index 
+for the chronic group was described by the linear regression 
+equation Y = 0.8728X - 0.3401 with an R* value of 0.30. 
+26.0 
+Recovery of torque, relaxation properties, and A4 wave 
+N 
+M 20.0 Although torque and relaxation properties were closely 
+associated during fatigue, clear dissociations were present 
+during recovery (Table 2). Table 3 shows the mean percent 
+12.0 of initial torque, mean percent of initial M wave, and mean 
+percent of initial nMRR at 2 and 4 min of the fatigue protocol 
+and at 5 min of recovery for both groups. Despite a full 
+4.00 recovery of the mean nMRR index (98%), the mean torque 
+index recovered to only 60%. Figure 10 shows a representa- 
+tive example of the torque curve at the start of the fatigue 
+protocol, at 2 min of the protocol, and after 5 min of recov- 
+T ery. Note the recovery of the muscles relaxation properties 
+36.0 
+28.0 
+N 
+M 
+20.0 
+i and partial recovery of torque. 
+Table 3 shows the mean percent of initial M-wave ampli- 
+tude after 5 min of recovery in the chronically paralyzed 
+group. The M-wave amplitude was fully recovered despite 
+the previously described maintained torque depression. In- 
+terestingly, the M-wave amplitude was slightly potentiated 
+after 5 min of recovery. Potentiated M waves have been 
+reported after muscle fatigue from repetitive activation 
+(Hicks and McComas 1989). One suggested mechanism is 
+an enhanced sodium potassium mechanism that serves to 
+ensure adequate activation during 
+:~~~~~ : : : L I ; , (Hicks and McComas 1989). a fatigued condition 
+Qualitative histochemical analysis 
+. 100 .300 .500 .700 .900 
+SECONDS One muscle biopsy was taken from the soleus muscle of 
+FIG. 4. Representative example of the plantarflexion torque (NM, new- a chronically paralyzed subject (Fig. 11). Qualitatively, 
+ton meters) every 30 s during the fatigue protocol for a chronically para- 100% of the fibers stained dark (type II) for the myosin 
+lyzed subject (fop) and an acutely paralyzed subject (bottom). The highest ATPase enzyme (pH 9.4). This is in contrast to the normal 
+torque values correspond to the initial torque. Torque values progressively human soleus muscle, which has been reported to have 80% 
+declined every 30 s. of the fibers stain light (Johnson et al. 1973 ) . When serial 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+FATIGABILITY OF HUMAN PARALYZED MUSCLE 2201 
+sections were analyzed at a 4.2 preincubation (Fig. 11 B), 
+all but a few cells showed a reversal of the more alkaline 
+(9.4) section. This suggests that few type I fibers were pres- 
+ent. Similar sections analyzed at a 4.6 pH (Fig. 11 C) showed 
+a predominance of darkly stained cells, suggesting the pres- 
+ence of type IIB fibers. Under these conditions, type IIB 
+fibers stain darker than type IIA’s. In addition, the density 
+of the NADH-TR oxidative enzyme appeared uniform (Fig. 
+11 D) in all cells. Collectively, the limited sample supports 
+that qualitatively a large percentage of the chronically para- 
+lyzed soleus muscle is type IIB, which corroborates the work 
+reported by Grimby and colleagues ( 1976). 
+DISCUSSION 
+Motor-unit (Burke et al. 1971; Dubose et al. 1987; Gardi- 
+ner and Olha 1987; Gordon et al. 1990; Goslow et al. 1977; 
+Sandercock et al. 1985) and normal whole muscle studies 
+(Enoka et al. 1989; Kernel1 et al. 1987; Peter et al. 1972) 
+suggest that muscle fatigability is associated with fiber type. 
+A fatigue index <0.25 during a Burke fatigue protocol is 
+consistent with FF motor units that, in general, stain high 
+for myosin ATPase, stain low for oxidative enzymes, and 
+have faster twitch contraction times (Burke et al. 197 1, 
+1973 ) . However, the relationship among fatigue properties, 
+fiber type, and contraction speeds appears less consistent in 
+transformed muscle because of spinalization (Baldwin et al. 
+1984; Cope et al. 1986)) immobilization (Bagust 1979; Cor- 
+ley et al. 1984; Maier et al. 1976; Witzmann et al. 1983), and 
+cross-reinnervation (Buller et al. 1960; Chan et al. 1982). 
+It has been reported that slow postural muscles of many 
+species have an innate resistance to transform after spinal 
+cord lesions and that the soleus muscle remains relatively 
+nonfatigable, even after 1 yr of paralysis (for review see 
+Gordon and Pattullo 1993). This study evaluated the soleus 
+muscle of chronically and acutely paralyzed humans to deter- 
+I. 
+l 
+20 * I I I 1 I I 
+0 20 40 60 80 100 120 
+% CHANGE IN nMRR 
+FIG. 5. Percent of initial torque related to the percent of initial nMRR 
+during the fatigue protocol for each chronically paralyzed subject. 120 
+1 
+% CHANGE IN l/2 RT 
+FIG. 6. Percent of initial torque related to the percent of initial ‘/,RT 
+during the fatigue protocol for each chronically paralyzed subject. 
+mine their fatigue properties and gain insight into whether 
+human postural muscles also demonstrate this resistance to 
+transform. 
+Six of the 10 chronic subjects tested in this study had a 
+fatigue index <0.25, 2 were at 0.30 and 0.31, and 2 were 
+at 0.48 and 0.50, respectively. On the basis of motor-unit 
+classification schemes, all fatigue indexes in this study sug- 
+gest that the chronically paralyzed soleus muscle was not 
+functioning as a predominantly type I oxidative muscle. This 
+also is supported by the histochemical studies completed by 
+Grimby and colleagues ( 1976) and corroborated in our lim- 
+ited histochemical analvsis. 
+I I I I 1 I 
+0 50 100 150 200 250 
+TIME(SEC) 
+FIG. 7. Percent of initial M-wave amplitude and standard deviations 
+during the fatigue protocol for the chronic group (0) and the acute 
+group w* 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+2202 R. K. SHIELDS 
+The increased fat&ability was evident even though the 
+Burke-like Fatigue protocol used in this study was modified 
+from a 40-Hz to a 20-Hz frequency. Consequently, the fa- 
+tigue index at 2 min in the chronically paralyzed soleus 
+muscle appears to be conservative when compared with a 
+test performed at 40 Hz (unpublished observations). For 
+example, the contractile slowing accompanying the fatigue 
+found in this study would better match a stimulation train 
+with a lower frequency (20 Hz) than with a train at a higher 
+frequency (40 Hz) ( Bigland-Ritchie et al. 1983). This would 
+tend to attenuate the relative change in torque from initial to 
+2 and 4 min of the fatigue protocol. However, all chronically 
+paralyzed subjects still showed significant fatigue with this 
+protocol by 2 min. Conversely, support that the fatigue test 
+may have been related to fiber type is demonstrated by the 
+relative lack of fatigue in the soleus muscle of the acutely 
+paralyzed individuals receiving the same 20-Hz protocol 
+(mean fatigue index, 0.88). 
+It is tempting to assume the acutely paralyzed soleus mus- 
+cle represents a normal soleus muscle because of the relative 
+lack of fatigability. However, the acute subjects had nearly 
+complete inactivation of their musculature for 4-6 wk after 
+spinal transection. The short-term reduced activity did not 
+induce changes in the fatigability of the soleus muscle. This 
+finding is consistent with other short-term reduced activity 
+studies (Bagust 1979; Maier et al. 1976; Munson et al. 1986; 
+Witzmann et al. 1983). 
+The measured torques generated in the chronically para- 
+lyzed soleus muscle are similar to the volitional plan- 
+tarflexion torques reported for nonparalyzed individuals 
+(Sale et al. 1982). The maximum volitional plantarflexion 
+torque with the knee and ankle maintained at 90” was 115 
+N l m for 10 male subjects (Sale et al. 1982). The range of 
+initial torque values in the chronically paralyzed group was 
+5 1.9-84.0 N l m for the male subjects. Given that the 20-Hz 
+stimulation frequency generated -6O-70% of the maximal 
+torque capability (Sale et al. 1982)) the mean torque value 
+of 67.7 N l m found for the chronic subjects represents -70% 
+of the maximum plantarflexion torque reported for normal 
+males with the knee flexed to 90” (Sale et al. 1982). Despite 
+obvious atrophy in all subjects (chronics and acutes), the 
+chronic group generated a torque that was quite comparable 
+with reports for normal able-bodied subjects (Sale et al. 
+1982). Whether transformed muscle has an altered specific 
+tension or altered muscle connective tissue leading to an 
+improved transmission of force is unknown and was not 
+determined in this study. Interestingly, Lieber and colleagues 
+reported that the cross-sectional area of the rat soleus muscle 
+had decreased by 50% 1 yr after spinal transection, but the 
+soleus muscle continued to generate the same absolute ten- 
+sion (Lieber et al. 1986). 
+Many studies on reduced muscle activity have reported 
+unchanged fatigability despite evidence for muscle fiber con- 
+version to type II (Bagust 1979; Cope et al. 1986; Corley 
+et al. 1984; Maier et al. 1976; Witzmann et al. 1983). This 
+may, in part, be explained by the short time of the reduced 
+activity leading to an incomplete transformation of all en- 
+zyme systems. However, the most compelling reports in- 
+volved the long-term follow-up of spinalized cats that were 
+found to have unchanged soleus muscle fatigability despite 
+evidence for muscle fiber transformations (Baldwin et al. 1989; Cope et al. 1986; Mayer et al. 1984; Roy et al. 199 1) . 
+In contrast to these studies, the human chronically paralyzed 
+soleus muscle, evaluated in this study, was found to be 
+highly fatigable, consistent with the histochemical analysis 
+reported by Grimby and colleagues ( 1976), and confirmed 
+by our single soleus muscle sample. 
+The discrepancy between our findings on the human para- 
+lyzed soleus muscle and the long-term paralyzed cat soleus 
+muscle may be attributed to many factors. First, the I-yr 
+time period of paralysis in the cat may not translate into an 
+equivalent time period in humans, with respect to muscle 
+plasticity, suggesting that the human soleus muscle is more 
+mutable. Second, the pattern of muscle activation induced 
+by spinal reflexes may be quite different in animal models 
+thus serving to maintain the oxidative capacity of the muscle 
+(Jiang et al. 1990). Third, the muscle fiber type of the human 
+soleus muscle may be predominantly comprised of type I 
+fibers (Gollnick et al. 1974; Johnson et al. 1973)) but also 
+have considerable numbers of type IIA fibers. After spinal 
+transection, the IIA fibers may go on to transform to IIB. 
+Gollnick et al. ( 1974) reported a range of 64- 100% of type 
+I fibers in the human soleus, suggesting that the fiber type 
+distribution may not be as consistent across humans as that 
+found in the cat. These fiber type differences across species 
+may partly explain the increased fatigue found in the human 
+paralyzed soleus muscle. 
+No follow-up studies on spinalized cats have been com- 
+pleted beyond 1 yr; consequently, it is not known whether 
+longer durations of the paralyzed condition would ulti- 
+mately induce muscle adaptations leading to increased fat- 
+igability. Whether the soleus muscle of cats are capable 
+of a complete transformation to type IIB fatigable fibers 
+remains unresolved. However, in a similar period of re- 
+duced activity, this study showed that the human para- 
+lyzed soleus muscle fatigues as if a complete transforma- 
+tion to type II fatigable fibers has occurred. Interestingly, 
+the presence of type IIB myosin heavy chains in paralyzed 
+cat soleus muscle has been recently suggested (Talmadge 
+et al. 1993). 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+FATIGABILITY OF HUMAN PARALYZED MUSCLE 2203 
+Paralyzed muscle contractile relaxation properties during 
+fatigue 
+The relaxation properties of the chronically paralyzed so- 
+leus muscle was very consistent with changes previously 
+reported for FF motor units (Dubose et al. 1987; Gordon et 
+al. 1990) and predominantly type II whole muscle studies 
+(Enoka et al. 1989) during repetitive activation. Further- 
+more, the minimal change in relaxation properties of the 
+acutely paralyzed soleus muscle was consistent with proper- 
+ties of slow motor units (Gordon et al. 1990) and predomi- 
+nantly type I whole muscle studies (Rankin et al. 1988). 
+Gordon and colleagues ( 1990) evaluated the relaxation 
+properties from an unfused tetanus during a standard fatigue 
+protocol in a sample of motor units from the cat tibialis 
+posterior muscle. Interestingly, the mean relaxation time in- 
+dexes for fast intermediate and slow motor units were 260 
+and lOO%, respectively. In comparison, the chronically para- 
+lyzed soleus muscle ‘/,RT index was 268%, whereas the 
+acutely paralyzed soleus muscle was 114%. The similarity 
+between the contractile relaxation properties during a stan- 
+dard fatigue test in fast and slow motor units of the cat and 
+the human paralyzed soleus muscle (acute and chronic) in 
+this study was quite interesting. This investigation suggests 
+that chronically and acutely paralyzed whole muscle may 
+provide a method to study fiber type specific properties in 
+a whole human skeletal muscle. 
+The correlation between torque and relaxation property 
+changes in chronically paralyzed muscle during fatigue was 
+0.92. This high association lends support to the notion that 
+the mechanisms leading to reduced torque covary with the 
+mechanisms leading to prolonged muscle relaxation during 
+a standard fatigue protocol. The slowing of muscle relax- 
+ation during fatigue has been attributed to calcium uptake 
+(Allen et al. 1989; Jones 198 1) and a change in the rate 
+of cross-bridge cycling (Allen et al. 1989; Dawson et al. 
+1980; Edman and Lou 1990; Edwards et al. 1975 ) . Tension 
+E go- 
+0 z 80 - 
+W 70 - 5 
+A 60 - 
+w - z! 50 
+I= f 40 - - 
+& 30- 
+I- 6 20 - 0 
+5 10 - n TABLE 3. Percent of initial torque, M wave, and nMRR at 2 
+and 4 min of the fatigue protocol and at 5 min of recovery for 
+the chronically paralyzed group 
+2 Minutes 4 Minutes Recovery, 
+5 Minutes 
+Torque 27 22 60 
+nMRR 38 41 98 
+M-wave amplitude 88 73 118 
+Values are percentages. nMRR, normalized maximum rate of relaxation. 
+reduction during fatigue has been attributed to insufficient 
+excitation-contraction coupling (calcium) and decreased 
+force production of individual cross bridges (Edman and 
+Lou 1990). Type II fibers are believed to be predisposed 
+to calcium kinetic compromise during repetitive activation 
+(Ruegg 1987). 
+Despite the close association between torque and relax- 
+ation properties in chronically paralyzed muscle during fa- 
+tigue, the dissociation found during recovery suggests differ- 
+ent mechanisms. Hultman and Sjoholm ( 1983) found a close 
+association between force and relaxation properties during 
+fatigue of the human quadriceps femoris muscle (50% type 
+II), but, after 2 min of recovery, the force returned to 20% 
+of its initial value, whereas the relaxation time returned to 
+80% of its initial value. The dissociation between torque and 
+relaxation properties found in this study is consistent with 
+Hultman and Sjoholm’s ( 1983) report, although they used 
+a continuous electrical stimulation at 20 Hz. 
+The rapid change in relaxation properties of human chron- 
+ically paralyzed muscle during and shortly after fatigue has 
+very important clinical implications. These changing con- 
+tractile properties suggest that the activation frequency 
+should be modulated to match these contractile properties 
+to minimize inefficient activation of skeletal muscle during 
+functional electrical stimulation (Bigland-Ritchie et al. 1983; 
+Bigland-Ritchie and Woods 1984). The relative lack of con- 
+tractile prolongation reported for slow motor units (Dubose 
+et al. 1987; Gordon et al. 1990)) and also found for the 
+acutely paralyzed soleus muscle in this study, suggests that 
+minimal amounts of stimulus modulation is required in non- 
+fatigable muscle fibers (Gordon et al. 1990). Conversely, 
+extensive modulation of the activation frequency may be 
+essential to optimally match the changing contractile proper- 
+ties in human paralyzed muscle. This concept has far-reach- 
+ing implications to the future development of functional acti- 
+vation systems for highly fatigable muscle of chronically 
+paralyzed individuals. 
+M-wave amplitude response during the fatigue protocol 
+0 ” I I I I 1 I I I I J 
+0 25 50 75 100 125 150 175 200 225 250 
+SECONDS 
+FIG. 9. Percent of initial torque ( 0) and the percent of initial M-wave 
+amplitude ( l ) plotted during the fatigue protocol for the chronic group. The mean M-wave amplitude was minimally altered over 
+the 1st 95 s of the fatigue test in the chronically paralyzed 
+group (5% decrement). However, the M-wave amplitude 
+was reduced, on average 20%, from 95 to 245 s of the 
+fatigue protocol. In general, the greatest decline in M-wave 
+amplitude occurred over the time period when there was a 
+minimal change in torque. As seen in Fig. 7, the chronically 
+paralyzed soleus had small M-wave amplitude standard devi- 
+ations at 30, 60, and 90 s of the fatigue protocol. As seen in 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+2X4 R. K. SHIELDS 
+I.IG IO. Representative example of the torque cwws at the start of the 
+I;~~igue IGSI t largest torque curie). al 2 min of the Wgue test (kwest 
+10rquc curve), and after 5 mln ot recovery (t). 
+Fig. 9, all chronically paralyzed subjects showed the greatest 
+decline in torquEl during this Sam62 time period. Conse- 
+quently, although the M-wave amplitude response became 
+more variable across subjects after 90 s of the fatigue proto- 
+col. it is apparent that the M waves responded consistently 
+during the greatest declines in torque. This type of dissocia- 
+tion between torque and M-wave amplitude has been sug- 
+gested to indicate that fatigue is not primarily attributed to 
+neuromuscular transmission failure: (Bigland-Ritchie et al. 
+1983: Enoka et al. 1989; Kmjevic and Miledi 195X; Pagala 
+et al. 1984). 
+The overall correlation between M-wave amplitude and 
+torque was 0.55 for the chronically paralyzed group but 
+only 0.05 for the acutely paralyzed group. This suggests a 
+preferential change in M-wave amplitude between the non- 
+e (acute ) and fatigable soleus muscle (chronic) in 
+paralyzed humanh. Thic may reflect differential changes in 
+hareolemmal membrane properties x the result of chronic 
+paralysis. However, as previously noted, these M-wave 
+changes did not appear to be the primary cause of the early 
+decrements in torque. 
+Similar preferential M-wave amplitude responses during 
+repetitive activation of predominantly fast and slow skeletal 
+whole muscle has been reported (Enoka et al. 1989; Pagala 
+ijdewind et al. 1990). Pagala et al. ( 1984), 
+using an m vi&o fluid electrode and JO-Hz modified Burke 
+fatigue protocol ( I984 ) ‘I found that the predominantly type 
+III3 rat extensor digitorum longus (edl) muscle showed a 
+close association between force and M-wave amplitude (r = 
+(1.99). Conversely, the soleus muscle was found to be least 
+correlated (0.74). In comparison, Enoka et al. ( 1989) found 
+that 50--700/c nf the variability in force of the rat edl could 
+explained by M-wave changes, whereas only 15-36% of 
+variability in force of the rat soleus muscle could be 
+explained by M-wave changes. Similar differential relations 
+between force and motor-unit action potentials (MUAP) 
+have been reported for fast and slow motor units (Gardiner 
+ahd Olha 1987; Sanderctxk et al. 1985) + Gardiner and Olha 
+( I987 ) found a mean percentage MUAP amplitude reduction 
+of 74% far FF motor units, 28% for fast intermediate (F1) 
+motor units. and only 4% for the slow (S) units during a Burke protocol, Sandercock et al. ( 1985) reported a better 
+relationship between force and M wave for FF motor units 
+than for S motor units and that the relationship is progres- 
+sively improved as the stimulation frequency increased from 
+40 to 80 Hz (r = 0.50-0.81 ). These higher frequencies 
+would tend to preferentially challenge the neuromuscular 
+transmission capabilities of the units, 
+The dissociation between M-wave amplitude and torque 
+as seen in the early phase of the fatigue protocol and after 
+5 min of recovery appears to support that electrical activation 
+failure, either presynaptically at branch points, or at the neu- 
+romuscular junction, is not the mechanism contributing to 
+the reduced torque in the chronically paralyzed soieus mus- 
+adenosine triphosphatxe enzyme with a preincubation at pH 9.4 (A ), pH 
+4.2 (A), and pW 4.6 (C). as well as rhc stain for the nicotinamide adenine 
+dinucleotide tetrazolium reductase ID). The I represents the same cell 
+across stains. 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+FATIGABILITY OF HUMAN PARALYZED MUSCLE 2205 
+cle. Failure at either one of these locations would typicallv BIGLAND-RITCHIE, B. AND WOODS, J. J. Changes in muscle contractile 
+be associated with a parallel change in M-wave amplitudk properties and neural control during human muscular fatigue. Muscle 
+and torque (Enoka et al. 1989; Pagala et al. 1984). Notewor- Nerve 7: 69 l-699, 1984. 
+thy is that a modified Burke fatigue protocol was used in BULLER, A. J., ECCLES, J. C., AND ECCLES, R. M. Differentiation of fast 
+and slow muscles in the cat hindlimb. J. Physiol. Lond. 150: 399- 
+416, 1960. this study (20 Hz instead of 40 Hz). Consequently, the 
+integrity of the neuromuscular transmission system using a 
+40-Hz frequency is not known. 
+Further study, with more than three subjects, is necessary 
+to more convincingly verify that the M-wave amplitude re- 
+sponded differently between the chronically paralyzed group 
+and the acutely paralyzed group. However, there was a trend 
+suggesting less decline in M-wave amplitude during the fa- 
+tigue protocol in the acutely paralyzed subjects. Given the 
+large differences in the fatigability between the acute and 
+chronic group, one would expect if neuromuscular transmis- 
+sion was a critical factor in determining fatigue then greater 
+differences between the M-wave amplitude of the chronic 
+and acute soleus muscle would have been more apparent. 
+In summary, this study showed that chronically paralyzed 
+muscle is highly fatigable, consistent with histochemical pre- 
+dominance of type II fatigable fibers. Conversely, muscle 
+paralyzed for 4-6 wk shows minimal changes in fatigue 
+properties, consistent with a histochemical predominance of 
+type I fibers. Temporal evidence supports that significant 
+fatigue is present after 1 yr of paralysis in the human soleus 
+muscle. This finding is contrary to the chronically paralyzed 
+cat soleus muscle studies of a similar duration. Associated 
+changes in relaxation properties are consistent with type IIB 
+muscle in the chronic group and type I muscle in the acute 
+group. Neuromuscular transmission does not appear to con- 
+tribute to increased fatigue in chronically paralyzed muscle 
+activated repetitively with a 20-Hz frequency. Finally, dur- 
+ing recovery, M-wave and muscle relaxation properties are 
+generally recovered by 5 min despite continued attenuation 
+of torque. BURKE, R. E., LEVINE, D. N., TSAIRIS, P., AND ZAJAC, F. E. Physiologic 
+types and histochemical profiles in motor unit of the cat gastrocnemius. 
+J. Physiol. Lmd. 234: 723-748, 1973. 
+BURKE, R. E., LEVINE, D. N., ZAJAC, F. E., TSAIRIS, P., AND ENGEL, W. E. 
+Mammalian motor units: physiological-histochemical correlation in 3 
+types of cat gastrocnemius. Science Wash. DC 174: 709-7 12, 197 1. 
+BURKE, R. E. AND TSAIRIS, D. The correlation of physiological properties 
+with histochemical characteristics in single muscle units. Ann. NY Acad. 
+Sci. 228: 145- 159, 1974. 
+CHAN, M., EDGERTON, V. R., GOSLOW, G. E., KURATA, H., RASMUSSEN, 
+S., AND SPECTOR, S. A. Histochemical and physiological properties of 
+cat motor units after self- and cross-reinnervation. J. Physiol. Lond. 332: 
+343-361, 1982. 
+COPE, T. C., BODINE, S. C., FOURNIER, M., AND EIXXRTON, V. R. Soleus 
+motor units in chronic spinal transected cats: physiological and morpho- 
+logical alterations. J. Neurophyiol. 55: 1202- 1220, 1986. 
+CORLEY, K., KOWALCHUK, N., AND MCCOMAS, A. J. Contrasting effects of 
+suspension on hindlimb muscles in the hamster. Exp. Neural. 85: 30- 
+40, 1984. 
+DAWSON, M. J., GAIXAN, D. G., AND WILKIE, D. R. Mechanical relaxation 
+rate and metabolism studied in fatiguing muscle by phosphorus nuclear 
+magnetic resonance. J. Physiol. Lund. 299: 465-484, 1980. 
+DUBOSE, L., SCHELHORN, T. B., AND CI,AMANN, H. P. Changes in contrac- 
+tile speed of cat motor units during activity. Muscle NU-VL~ 10: 744- 
+752, 1987. 
+DUBOWITZ, V. Muscle Biopsy A Practical Approach ( 2nd ed.). London: 
+Bailliere Tindall, 1985, p. 3-40. 
+ELIMAN, K. A. P. AND Lou, F. Changes in force and stiffness induced by 
+fatigue and intracellular acidification in frog muscle fibers. J. Physiol. 
+Lond. 424: 133- 149, 1990. 
+EDWARDS, R. H. T., HILL, D. K., AND JONES, D. A. Metabolic changes 
+associated with the slowing of relaxation in fatigued mouse muscle. J. 
+Physiol. Land. 25 1: 287 - 30 1, 1975. 
+ENOKA, R. M., RANKIN, L. L., STUART, D. G., AND VOLZ, K. A. Fatigability 
+of rat hindlimb muscle. Associations between electromyogram and force 
+during a fatigue test. J. Physiol. Lond. 408: 25 I-270, 1989. 
+FAHIM, M. A. AND ROBBINS, N. Remodelling of the neuromuscular junction 
+1 thank Drs. Thomas M. Cook, Carl Kukulka, Warren Darling, and Kelly after subtotal disuse. Brain Res. 383: 353-356, 1986. 
+Cole for review of this work, and C. Leigh for manuscript preparation. GARIIINER, P. G. AND OLHA, A. E. Contractile and elcctromyographic char- 
+This study was supported by a grant f~-om the Foundation for Physical acteristics of rat plantaris motor unit types during fatigue in situ. J. 
+Therapy to R. K. Shields. Physiol. Lond. 385: I 3 - 34, 1987. 
+GOLI~NICK, P. D., SJODIN, B., KAKIASON, J., JANSSON, E., AND SAMIN, B. 
+Human soleus muscle: a comparison of fiber composition and enzyme 
+activities with other leg muscles. qfluegers Arch. 348: 247-255, 1974. Received 18 July 1994; accepted in final form 9 February 1995. 
+REFERENCES development ‘and relaxation in single motor units of adult cats during a 
+AI.AIMO, M. A., SMITH, J. L., ROY, R. R., AND EDC;ERTON, V. R. EMG standard fatigue test. J. Physiol. Land. 42 1: 583-594, 1990. 
+activity of slow and fast ankle extensors following spinal cord transec- GORDON, T. AND PATTULLO, M. C. Plasticity of muscle fiber and motor 
+t ion. J. A ppl. Ph!*siol. Kespir-. EIl virm. E.\-ercisc) Physiol. 56: 1608 - unit types. In: Exercise LI& Sport Sciences Reviews, edited by J. Holloszy. 
+1613, 1984. Baltimore, MD: Williams & Wilkins, 1993, p. 33 l-362. 
+ALI,EN, D. G., LIX., J. A., AND W~STERHL,AD, H. Intracellular calcium and GOSLOW, G. E., CAMERON, W. E., AND STUART, D. G. The fast twitch 
+tension durin, ~7 fatigue in isolated single muscle fibers from Xelzqzfs motor units of cat ankle flexors. 1. Tripartite classification of basis of 
+lae\?is. J. Physiol. Lorzd. 4 15: 433 -4S8, 1989. fatigability. Brain Rus. 134: 35-46, 1977. 
+BACXJST, J. The effects of tenotomy upon the contraction characteristics of GRAVEL, D., ARSENAULT, A. B., AND LAMBERT, J. Soleus-gastrocnemius 
+motor units in rabbit soleus muscle. J. Physiol. Lond. 290: 1 - 10, 1979. synergies is controlled contractions produced around the ankle and 
+BAIDWIN. K. M., ROY, R. R., EDGERTON, V. R., AND HERRICK, R. E. knee joints. An EMG study. Electromy~gr. Clin. Neurophysiol. 27: 
+Interaction of nerve activity and skeletal muscle mechanical activity in 405-413, 1987. 
+regulating isomyosin expression. In: A~VCIIICKS ii1 M,:ochemistry, edited GIIIMBY, G., BROBERY, C., KKOTKIEWSKA, I., AND KROTKII:WSKI, M. Muscle 
+by G. Benzi. Montrouge, France: John Libbey Eurotext, 1989, p. 83-92. fiber composition in patients with traumatic cord lesion. Sc~rrzcl. J. R&ah. 
+Med. 8: 37-42, 1976. GORDON. D. A.. ENOKA. R. M., KARIS’T, G. M., AND SIIJAIU~, D. G. Force 
+BALDWIN. K. M., ROY, i. R., AND SACKS, R. D. Relative independence of 
+metabolic enzymes and neuromuscular activity. J. Appl. Physiol. Respir. HICKS, A. AND MCCOMAS, A. J. Increased sodium pump activity following 
+Environ. E.ucr-c*i.so Ph!,.siol. 56: 1602- 1607, 1984. repetitive stimulation of rat soleus muscles. J. Physinl. Lmd. 4 14: 337- 
+BARANY, M. ATPase activity of myosin correlated with speed of muscle 349, 1989. 
+shortening. J. Gm. Ph>*.siol. 50: 197-2 18, 1967. HULTMAN, E. AND SJOHOI.M, H. Electromyogram, force and relaxation time 
+during and after continuous electrical stimulation of human skeletal mus- BI~;I.AN~>-R~.~.<‘I-~I~:. B., JOHANSSON, R., LIPPOLD. 0. C. J., AND WOOIX, J. J. 
+Contractile speed and EMG changes durin, 0 fatigue of sustained maximal 
+voluntary co&actions. J. Nc~lrr.ol~lz!,.si~)l. SO: 3 13-3 15, 1983, cle in-situ. J. Physiol. Land. 339: 33-40, 1983. 
+JIANG, B., ROY, R. R., AND EDGERTON, V. R. Expression of a fast fiber 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+
+2206 R. K. SHIELDS 
+enzyme profile in the cat soleus after spinalization. Muscle Nerve 13: 
+1037- 1049, 1990. 
+JOHNSON, M. A., PALGAS, J., WEIGHTMAN, D., AND APPLETON, D. Data on 
+the distribution of fiber types in thirty six human muscles: an autopsy 
+study. J. Neurol. Sci. 18: 1 1 1 - 129, 1973. 
+JONES, D. A. Muscle fatigue due to changes beyond the neuromuscular 
+junction. In: Human Muscle Fatigue: Physiological Mechanisms (CIBA 
+Foundation Symposium 82), edited by R. Porter and J. Whelan. London: 
+Pitman Medical, 1981, p. 178-196. 
+KARPATI, G. AND ENGEL, W. K. Correlative histochemical study of skeletal 
+muscle after suprasegmental denervation peripheral nerve section, and 
+skeletal fixation. Neurology I8L: 681-692, 1968. 
+KERNELL, D., EERBEEK, O., VERHEY, B. A., AND DONSELAAR, Y. Effects 
+of physiological amounts of high- and low-rate chronic stimulation on 
+fast-twitch muscle of the cat hindlimb. I. Speed- and force-related proper- 
+ties. J. Neurophysiol. 58: 598-613, 1987. 
+KIMURA, J. Electrodiagnosis in Diseases ofNerve and Muscle. Philadelphia, 
+PA: Davis, 1989. 
+KRALJ, A., BAJD, T., AND TURK, R. Enhancement of gait restoration in 
+spinal injured patients by functional electrical stimulation. Clin. Orthop. 
+123: 34-43, 1988. 
+KRNJEVIC, K. AND MILEDI, R. Failure of neuromuscular propagation in rats. 
+J. Physiol. Lond. 140: 440-461, 1958. 
+KUKULKA, C. G., RUSSELL, A. G., AND MOORE, M. A. Electrical and me- 
+chanical changes in human soleus muscle during sustained maximal iso- 
+metric contractions. Brain Res. 362: 47-54, 1986. 
+LIEBER, R. L., JOHANSSON, C. B., VAHLSING, H. L., HARGENS, A. R., AND 
+FERINGA, E. R. Long-term effects of spinal cord transection on fast and 
+slow rat skeletal muscle. I. Contractile properties. Exp. Neural. 91: 423- 
+434, 1986. 
+MAIER, A., CROCKETT, J. L., SIMPSON, D. R., SAUBERT, C. W., AND EDGER- 
+TON, V. R. Properties of immobilized guineas pig hindlimb muscles. Am. 
+J. Physiol. 23 1: 1520- 1526, 1976. 
+MARSOLAIS, E. B. AND KOBETIC, R. Development of a practical electrical 
+stimulation system for restoring gait in the paralyzed patient. Clin. Or- 
+thop. 123: 64-73, 1988. 
+MAYER, R. F., BURKE, R. E., TOOP, J., WALMSLEY, B., AND HODGSON, 
+J. A. The effect of spinal cord transection on motor units in cat medial 
+gastrocnemius muscles. Muscle Nerve 7: 23-3 1, 1984. 
+MUNSON, J. B., FOEHRING, R. C., LOFTON, S. A., AND ZENGEL, J. E. Plasticity 
+of medial gastrocnemius motor units following cardiotomy in the cat. J. 
+Neurophysiol. 55: 619-634, 1986. 
+PAGALA, M. K. D., NAMBA, T., AND GROB, D. Failure of neuromuscular 
+transmission and contractibility during muscle fatigue. MuscZe Nerve 7: 
+454-464, 1984. PETER, J. B., BARNARD, R. J., EDGERTON, V. R., GILLESPIE, C. A., AND 
+STEMPEL, K. E. Metabolic profiles of three fiber types of skeletal muscles 
+in guinea pigs and rabbits. Biochemistry 11: 2627-2633, 1972. 
+PHILLIPS, C. A. Electrical muscle stimulation in combination with a recipro- 
+cating gait orthosis during ambulation by paraplegics. J. Biomech. Eng. 
+11: 338-343, 1989. 
+RANKIN, L. L., ENOKA, R. M., VOLZ, K. A., AND STUART, D. G. Coexistence 
+of twitch potentiation and tetanic force decline in rat hindlimb muscle. 
+J. Appl. Physiol. 65: 2687-2695, 1988. 
+ROY, R. R., BALDWIN, K. M., AND EDGERTON, V. R. The plasticity of 
+skeletal muscle: effects of neuromuscular activity. In: Exercise and Sport 
+Sciences Reviews, edited by J. 0. Holloszy. Baltimore, MD: Williams & 
+Wilkens, 1991, vol. 19, p. 269-312. 
+ROY, R. R., SACKS, R. D., BALDWIN, K. M., SHORT, M., AND EDGERTON, 
+V. R. Interrelationships of contraction time, Vmax, and myosin ATPase 
+after spinal transection. J. Appl. Physiol. Respir. Environ. Exercise Phys- 
+iol. 56: 1594-1601, 1984. 
+RUEGG, J. C. Excitation-contraction coupling in fast-and slow-twitch muscle 
+fibers. Int. J. Sports Med. 8: 360-364, 1987. 
+SALE, D., QUINLAN, J., MARSH, E., MCCOMAS, A. J., AND BELANGER, A. Y. 
+Influence of joint position on ankle plantar flexion in humans. J. Appl. 
+Physiol. 52: 1636- 1642, 1982. 
+SANDERCOCK, T. G., FAULKNER, J. A., ALBERS, J. W., AND ABBRECHT, P. H. 
+Single motor unit and fiber action potentials during fatigue. J. Appl. 
+Physiol. 58: 1073- 1079, 1985. 
+SHIELDS, R. Fatigue properties of the human paralyzed soleus muscle. Sot. 
+Neurosci. Abstr. 18: 57, 1992a. 
+SHIELDS, R. Fatigability, Relaxation Properties, and Electromyographic 
+Responses of the Human Paralyzed Soleus Muscle ( PhD dissertation). 
+Iowa City, IA: Univ. of Iowa, 1992b. 
+TALMADGE, R. J., WANG, M., AND ROY, R. R. Coordination of myosin 
+heavy chain and sarcoplasmic reticulum calcium ATPase isoforms in cat 
+soleus fibers six months after spinal transection. Sot. Neurosci. Abstr. 
+18: 1556, 1992. 
+WITZMANN, F. A., KIM, D. H., AND FITTS, R. H. Effect of hindlimb immobi- 
+lization on the fatigability of skeletal muscle. J. Appl. Physiol. Respir. 
+Environ. Exercise Physiol. 54: 1242- 1248, 1983. 
+WOODS, J. J., FURBUSH, F., AND BIGLAND-RITCHIE, B. Evidence for a fa- 
+tigue-induced reflex inhibition of motor neuron firing rates. J. Neurophys- 
+iol. 58: 125-137, 1987. 
+ZIJDEWIND, C., BOSCH, W., GOESSENS, L., KANDOU, W. A., AND KERNELL, 
+D. Electromyogram and force during stimulated fatigue tests of muscles 
+in dominant and non-dominant hands. Eur. J. Appl. 
+132, 1990. Physiol. 60: 127- 
+Downloaded from journals.physiology.org/journal/jn at Univ of Iowa Libraries Serials Acq (128.255.062.040) on August 24, 2020.
+

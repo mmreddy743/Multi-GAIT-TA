@@ -1,0 +1,400 @@
+REVIEW Passive Properties of Muscle
+Passive force enhancement in striated muscle
+X
+Walter Herzog
+Human Performance Laboratory, Faculty of Kinesiology, University of Calgary, Calgary, Alberta, Canada
+Submitted 3 August 2018; accepted in ﬁnal form 2 May 2019
+Herzog W. Passive force enhancement in striated muscle. J Appl Physiol 126:
+1782–1789, 2019. First published May 9, 2019; doi:10.1152/japplphysiol.00676.2018.—Passive force enhancement is deﬁned as the increase in passive, steady-state, isometric force of an actively stretched muscle compared with the samemuscle stretched passively to that same length. Passive force enhancement is longlasting, increases with increasing muscle length and increasing stretch magnitudes,contributes to the residual force enhancement in skeletal and cardiac muscle, and istypically only observed at muscle lengths at which passive forces occur naturally.Passive force enhancement is typically equal to or smaller than the total residualforce enhancement, it persists when a muscle is deactivated and reactivated, but canbe abolished instantaneously when a muscle is shortened quickly from its stretchedlength. There is strong evidence that the passive force enhancement is caused by theﬁlamentous sarcomeric protein titin, although the detailed molecular mechanismsunderlying passive force enhancement remain unknown. Here I propose a tentativemechanism based on experimental evidence that associates passive force enhance-ment with the shortening of titin’s free spring length in the I-band region ofsarcomeres. I suggest that this shortening is accomplished by titin binding to actinand that the trigger for titin-actin interactions is associated with the formation ofstrongly bound cross bridges between actin and myosin that exposes actin attach-ment sites for titin through movement of the regulatory proteins troponin andtropomyosin.
+cross bridge theory; residual force enhancement; sarcomere nonuniformity; sliding
+ﬁlament theory; titin
+INTRODUCTION/BACKGROUND
+Striated muscles are thought to have three basic mechanical
+properties: the force-length relationship (e.g., 15), the force-velocity relationship (e.g., 28), and the history-dependent prop-erties of residual force enhancement and force depression (e.g.,1). These properties are typically considered to be associated,in one way or another, with the active force production of thecross bridges. However, passive properties play a signiﬁcantrole in the force-length relationship of skeletal and cardiacmuscles, and passive properties have also received renewedattention for their potential role in the force enhancementproperty (23, 25).
+In this brief opinion paper, I focus on the passive force
+enhancement in striated muscle. However, before doing that, itis essential to deﬁne and understand the residual force enhance-ment property for appropriate context. Residual force enhance-ment is deﬁned as the increase in active, steady-state, isometricforce of a muscle following active stretching (eccentric action)compared with the corresponding (same length and sameactivation) active, steady-state, isometric force of a muscle
+whose length was not changed (Fig. 1).
+Residual force enhancement was ﬁrst studied systematically
+by Abbott and Aubert (1952) (1) in isolated frog, toad, anddogﬁsh muscles. Their results were then reproduced and con-ﬁrmed for all structural levels of muscle including voluntaryand electrically activated human skeletal muscles (e.g., 17, 47,69), isolated muscle ﬁbers (e.g., 10, 45), single myoﬁbrils (e.g.,37, 49, 65), and single sarcomeres (e.g., 48).
+Residual force enhancement has been shown to increase
+with increasing magnitudes of stretching but is largely inde-pendent of the speed of stretching (e.g., 6, 10, 30). Further-more, force enhancement is long lasting (minutes in skinnedﬁbers and single myoﬁbrils) but can be abolished instanta-neously when a muscle is deactivated and active force isallowed to drop to zero (e.g., 1, 60). Finally, force enhance-ment is associated with a decrease in metabolic cost (per unit
+of force produced) compared with the cost of force for a purelyisometric contraction (36) but is not associated with a changein muscle stiffness (e.g., 72), indicating that force enhancementis not achieved by a greater proportion of attached crossbridges.
+Several molecular and subcellular mechanisms have been
+proposed for explaining the residual force enhancement prop-erties of skeletal muscles. For a detailed review, the interested
+Address for reprint requests and other correspondence: W. Herzog, Human
+Performance Laboratory, Faculty of Kinesiology, Univ. of Calgary, Calgary,AB T2N 1N4, Canada (e-mail: wherzog@ucalgary.ca).J Appl Physiol 126: 1782–1789, 2019.
+First published May 9, 2019; doi:10.1152/japplphysiol.00676.2018.
+8750-7587/19 Copyright ©2019 the American Physiological Society http://www.jappl.org 1782
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+reader is referred to Herzog (2018) (27) and Herzog et al.
+(2016) (26). However, two mechanisms have received moreattention than the others. The ﬁrst of these, the so-calledsarcomere length nonuniformity theory (e.g., 59, 60), explainsresidual force enhancement within the boundaries of the two-ﬁlament cross bridge theory (31, 33, 34, 66). Brieﬂy, accordingto the sarcomere length nonuniformity theory, residual forceenhancement is caused by the development of vast sarcomerelength nonuniformities when a muscle is actively stretched onthe descending limb of the force-length relationship (29, 58).However, many primary predictions of this theory (e.g., forceenhancement cannot occur on the ascending part of the force-length relationship, force enhancement cannot exceed the pla-teau force of the force-length relationship, force enhancementcannot occur in a single sarcomere or half-sarcomere, isometricreference forces occur with essentially uniform sarcomerelengths, and sarcomere length nonuniformity increases withactive muscle stretching) have been shown to be violated (e.g.,32, 35, 45, 48, 56, 57, 63). Therefore, it appears untenable tosupport the sarcomere length nonuniformity theory as themechanism explaining the residual force enhancement prop-erty.
+The second mechanism that has been proposed for explain-
+ing the residual force enhancement property of striated musclesis associated with the engagement of a passive structuralelement. Proponents of this mechanism have argued that re-sidual force enhancement can be explained readily with the“engagement” of a passive structural muscle element uponmuscle activation (11, 12, 62). How this engagement mightoccur, or what structures may be involved, had not beenidentiﬁed for a long time. As a consequence of this engage-ment, forces arising from this passive structure were thought tobe greater when a muscle was stretched actively compared withwhen it was stretched passively.
+One of the ﬁrst scientists to mention such a possibility was
+Paul Edman, who argued that the dependence of force en-hancement on stretch magnitude and independence fromstretch speed could readily be explained with the engagement
+of a parallel elastic element upon activation (10). However,Edman’s own experiments on shortening-stretch cycles per-formed in single, intact frog ﬁbers did not support the existenceof such a passive mechanism (10). Noble (62) was among theﬁrst to suggest that the passive structural muscle componentthat could cause residual force enhancement was the sarco-meric, ﬁlamentous, spring protein titin. Noble realized that titinwas perfectly placed in the sarcomere to fulﬁll such a role, butdirect evidence of an “engagement of titin upon activation”was lacking at the time. Theoretical modeling before theexperimental discovery of titin’s role in residual force enhance-ment revealed that, indeed, the engagement of a parallel elasticelement upon muscle activation could readily explain many ofthe basic features of residual force enhancement and forcedepression (12). However, there was no direct evidence of theinvolvement of a passive element contributing to force en-hancement until we discovered, rather serendipitously, what isnow referred to as the “passive force enhancement” (23).
+PASSIVE FORCE ENHANCEMENT
+Discovery
+Passive force enhancement was ﬁrst discovered and de-
+scribed in detail for the cat soleus muscle (23). We performedexperiments aimed at quantifying the amount of force enhance-ment at different muscle lengths, including long muscle lengthsat which the muscle produced passive forces naturally. Whenstretching the soleus muscle actively to lengths of naturallyoccurring passive forces, we observed that after deactivationthese actively stretched muscles had a greater passive forcethan the muscles that were stretched passively to that samelengths or muscles that were activated isometrically at the longlengths (Fig. 1). I remember vividly that we thought we hadmade a mistake and pulled the muscle to a length greater thanthe isometric reference length, as we could not explain other-wise why the passive force was systematically greater afteractive compared with passive stretching of a muscle. However,once such an error had been eliminated, we studied thisincreased passive force following active stretching carefullyand concluded that it was part of the total force enhancementobserved in these tests (24, 25, 38, 39, 46). We called thisnewly discovered property of muscle “passive force enhance-ment,” and the name has been adopted universally by thescientiﬁc community. After publication of our 2002 results, wesearched for evidence of this property and found that it hadbeen observed many times before (e.g., 60) but had beenignored, probably because it was “just” passive force thatoccurred after the “real” experiment was long done. Throughthe discovery of the passive force enhancement, I learned thatit is crucial in science to have an open mind and be ready to payattention to unexpected results, even if they may not be a partof the objectives you were pursuing with your experiments.Serendipity and chance favor the prepared mind.
+Deﬁnition
+We deﬁned passive force enhancement as the increase in
+steady-state passive force observed after stretching of an activemuscle and subsequent deactivation, compared with the corre-sponding (same length) passive force observed after stretchingof a passive muscle (Fig. 1) (23).
+Fig. 1. Example of force as a function of time for 3 different contractile
+conditions for a cat soleus muscle (35°C). Bottom trace (at 4 s) is a passive
+stretch of the soleus, where stretching occurs between ~2.5 and 3.5 s. Middle
+trace (at 4 s) represents an isometric contraction at the stretched length. Finally,toptrace (at 4 s) represents stretching of the activated muscle in the same
+manner as the passive stretch (same magnitude and same speed of stretching).FE indicates the residual force enhancement, which is the increase in steady-state isometric force after active muscle stretching compared with the corre-sponding (same length, same activation) isometric force for a purely isometriccontraction. PFE indicates the passive force enhancement, which correspondsto the increase in steady-state passive force following stretching of an activatedmuscle compared with the same stretching of the passive muscle.1783 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+Properties
+Passive force enhancement has been shown to occur primar-
+ily at muscle lengths where passive forces occur naturally (23),has been shown to be long lasting, but can be abolishedinstantaneously when a muscle is shortened to its initial (pre-stretch) length and pulled back to its ﬁnal (poststretch) length(25) (Fig. 2 A). Passive force enhancement increases with
+increasing stretch magnitudes (Fig. 2 B), is typically equal to or
+smaller than the total residual force enhancement (24), sug-gesting that it is a component, but not the exclusive cause, ofthe residual force enhancement, and increases with the amountof force during stretch (24). Passive force enhancement hasbeen observed on all structural levels of muscles, includingintact human muscles (e.g., 47), isolated muscle preparationsactivated through electrical stimulation (23, 25), single intactand skinned ﬁbers (e.g., 46), single myoﬁbrils (38, 39, 64), andsingle sarcomeres and half-sarcomeres (48).
+The discovery that passive force enhancement occurs in
+single myoﬁbrils and isolated sarcomeres was important inso-far as passive forces in these structures originate virtuallyexclusively from the structural protein titin (4, 38, 49, 51, 54).Therefore, titin (Fig. 3) became the main target for explainingpassive force enhancement properties. There are two primarymechanisms that have been put forward in the literature for
+how titin might cause passive force enhancement followingactive muscle stretching. The ﬁrst of these mechanisms is
+associated with an activation-induced stiffening of the titinmolecule and the second with a shortening of the free springlength of titin and corresponding increase in its stiffness. Thesemechanisms are discussed brieﬂy below, and the interestedreader is referred to recent reviews for greater detail (20).
+Theories
+The ﬁrst mechanism of titin-based passive force enhance-
+ment is associated with the idea that titin becomes stifferupon activation and when stretched actively produces agreater “passive” force compared with when a muscle isstretched passively. These increased titin stiffness and forceare then maintained when the muscle is deactivated, thusproducing the passive force enhancement. The most obviousway that titin stiffness might be increased upon muscleactivation (i.e., the release of calcium from the sarcoplasmicreticulum and the increase in calcium concentration near thecontractile ﬁlaments actin and myosin) is if one assumesthat, upon activation, calcium binds to speciﬁc sites on titin,thereby increasing the number or strength of molecularbonds that must be broken when an active muscle (and thustitin) is being stretched. Labeit et al. (44) were the ﬁrst toprovide compelling evidence that calcium activation insingle ﬁbers increases titin-based stiffness and force insingle molecule and single skinned ﬁber experiments. Spe-ciﬁcally, they showed that calcium activation of skinnedﬁbers, in which actin-myosin interactions were inhibitedwith 2,3-butanedione monoxime, showed signiﬁcantly in-creased titin-based force compared with ﬁbers that werestretched passively (in the absence of calcium). Molecularexperiments using the functionally relevant PEVK region oftitin (Fig. 3) showed that E-rich motives in this region boundcalcium and increased the stiffness of the PEVK segment.These results were conﬁrmed by later experiments in singlemyoﬁbrils (38, 39) and single sarcomeres (48).
+Titin contains a large number of repeat immunoglobulin
+domains (Fig. 3) that make up a substantial part of thisprotein’s length and molecular weight. Although the func-tional role of the immunoglobulin domains of titin is notclear and their physiological signiﬁcance is widely debated(7, 18, 19, 40, 55, 67), their abundance makes them aninteresting target for calcium binding and associated stiff-ness changes. We used recombinant techniques to obtaineight tandem I27 cardiac titin immunoglobulin domains anddetermined their capacity for binding calcium with ﬂuores-cence spectroscopy (9). Once satisﬁed that these immuno-globulin domains bind calcium, we tested their unfoldingstrength and found that in the presence of calcium the forcerequired to unfold and stretch these domains was ~20%greater than in the absence of calcium (Fig. 4) (9). Theseresults suggested that, indeed, immunoglobulin domains canbind calcium upon muscle activation, thereby increasingtheir unfolding strength and making titin stiffer in theactivated state (presence of calcium) compared with thenonactivated, passive state (absence of calcium). However,when calcium was removed from the immunoglobulin en-vironment, calcium bound to the I27 domains was released,
+Fig. 2. Force-time and muscle length change-time histories of cat soleus
+muscle for a variety of experimental conditions (at 35°C). A: passive force
+enhancement is long lasting but can be abolished instantaneously by a short-ening-stretch cycle (at ~15 s) that brings the muscle to its prestretch length inthe shortening phase and back to its original stretched length in the stretchphase. irefers to the isometric reference contraction; 9 refers to the muscle that
+was stretched by 9 mm. B: passive force enhancement (like the total residual
+force enhancement) increases with increasing stretch magnitudes. The 9-mmstretch of the activated soleus muscle produces more force enhancement andpassive force enhancement (difference between yellow and red lines at 12 s)than the 3-mm stretch (difference between yellow and blue lines).1784 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+and the effect of calcium binding was reversed. Therefore,
+one would expect that upon deactivation of a muscle, and itsassociated removal of calcium from the titin environment,the increased titin stiffness achieved upon activation shouldbe transient and reversed upon deactivation.
+Calcium has been shown to bind to areas of titin other
+than just immunoglobulin domains [for example, the gluta-mate-rich region of the PEVK segment; Labeit et al. 2003(44)]. However, it has not been shown whether calciumbinding to areas other than the I27 domain is reversible.When myoﬁbrils are stretched at low (resting) and at high(active) calcium concentrations (and in the absence of cross-bridge binding achieved by troponin C deletion) differencesin titin-based forces persist (39), but when calcium isremoved titin-based forces are indistinguishable betweenthe two conditions, suggesting that the effect of calciumbinding is reversed not only for titin’s immunoglobulindomains but for all calcium binding sites on titin, with noapparent effect on titin force. Consequently, it appears thatcalcium binding to titin is not a good candidate for explain-ing the passive force enhancement in striated muscles.Rather, calcium binding to titin and its associated mechan-ical implications appear to be a transient phenomenon thatexists only in the presence of calcium, that is, when themuscle is activated, but not when the muscle is deactivated(passive).
+In summary, these ﬁndings of calcium binding to immunoglob-
+ulin domains of titin, and corresponding increase in force requiredto extend these domains, led to the hypothesis that calcium
+binding to titin contributes to the total residual force enhancementobserved in muscles after active stretching but does not contribute
+Fig. 4. Peak force required to unfold immunoglobulin (Ig) domains in the absence
+(Control) and presence (Calcium) of calcium, simulating activation of a muscle.Note the substantially increased force required to unfold and stretch immunoglob-ulin domains in the presence of calcium. Only the ﬁrst 5 (of 8) immunoglobulindomains are shown, and only results where at least 5 domains unfolded wereincluded in this analysis. Unfolding of 6 or more immunoglobulin domains wasrare, and thus the number of observations was deemed inappropriate for statisticaltesting. Unfolding of 5 of the 8 immunoglobulin domains was observed in /H11022300
+individual test specimens for each of the calcium and the control conditions.Adapted from DuVall et al. (9) with permission from Springer Nature.
+Fig. 3. Schematic illustration of a sarcomere with Z band, actin, myosin, and titin ﬁlaments in their supposed arrangement. Titin runs from the middle of the
+sarcomere (M line) in either direction toward the Z band. Titin is thought to be ﬁrmly attached to myosin and then run freely across the I-band region of t he
+sarcomere until ~50 –100 nm away from the Z band, where it is thought to attach to actin and then enter the Z band bound to actin. Below the schematic sarcom ere
+are illustrations of the structure of titin in cardiac muscle and in 2 selected skeletal muscles (psoas and soleus). Note that cardiac titin isoforms a re much smaller
+than those of skeletal muscles and that skeletal muscles have different isoforms that are thought to reﬂect the passive requirements of the muscle. Sp eciﬁc
+segments (N2B, N2A, N2BA, and PEVK) are indicated. The brownish rectangles represent immunoglobulin domains. Adapted from Granzier and Labeit (16)with permission from Wolters Kluwer Health, Inc.1785 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+to the passive force enhancement observed after deactivation of an
+actively stretched muscle.
+Aside from calcium binding, titin has been found to change
+its inherent stiffness in a variety of other ways. For example,protein kinase G and A have been found to modulate cardiacpassive stiffness by phosphorylation of titin (41, 42). There-fore, it has been suggested that titin is a molecular springwhose stiffness can be changed in a variety of ways and thatsome of these changes can be produced by muscle activation(20, 22, 26, 68).
+The second mechanism by which titin has been thought to
+contribute to the residual force enhancement property of stri-ated muscle is a shortening of its effective spring length (e.g.,21, 22). Titin runs from the center of the sarcomere along thethick ﬁlament to which it is “ﬁrmly” bound. It then runs freelyacross the I-band segment of the sarcomere and inserts into thethin, actin, ﬁlament ~50 –100 nm away from inserting into theZ band (73, 74). It has been suggested that titin’s free springlength in the I-band region could be shortened readily byfurther attachment of titin to the “rigid” actin ﬁlament, therebyrendering the proximal (bound) titin segments inextensible andjust leaving the distal (unbound) segments for elongation (e.g.,27). Titin has been found to bind to actin in vitro (2, 5, 8, 43,50, 52, 53, 61, 73, 75), thus providing support for this theory.However, direct evidence for titin binding to actin in intactmuscles remains elusive.
+In recent experiments (9a), we divided titin into separate
+segments using ﬂuorescently labeled, titin-speciﬁc antibodiesin rabbit psoas myoﬁbril preparations. We then stretched thesemyoﬁbrils passively (pCa /H110058.5) and actively (pCa /H110053.5).
+During passive stretching from average sarcomere lengths of1.8/H9262m to average sarcomere lengths of 4.0 /H9262m, all labeled
+titin segments elongated as one would expect based on theirstiffness properties. However, during active myoﬁbril stretch-ing, proximal segments were only elongated for part of thestretch cycle and then remained at a nearly constant length
+(Fig. 5). Elongation stopped at sarcomere lengths where theproximal segments had not reached their fully extended length.I interpreted these results as showing that the proximal titinsegment had bound to actin and thus elongation of the boundsegment stopped while all sarcomere (and associated I band)elongations were taken up exclusively by the free distal seg-ments of titin (Fig. 5). If proximal titin segments indeed bindto actin when an active muscle is stretched, titin’s free springlength that can be used to accommodate sarcomere elongationswould be shortened and thus would be stiffer and produce moreforce upon stretching compared with a passively stretched
+muscle where the entire titin length is available for accommo-dating sarcomere length changes.
+Residual force enhancement and passive force enhancement
+in single myoﬁbrils activated with calcium while cross-bridgeattachment is completely inhibited (for example, with 2,3-butanedione monoxime or troponin C deletion) are negligible(49) or small (38, 39, 64). However, when cross-bridge inter-actions are allowed, force enhancement and passive forceenhancement are substantial, with passive forces that canincrease up to a factor of four for certain conditions in activelycompared with passively stretched myoﬁbrils (48, 49, 64).These results suggest that residual force enhancement andpassive force enhancement do not rely (much) on activation(calcium) but rely in some way on active, cross bridge-basedforce production. Since calcium binding to titin seems to betransient and reversible (9, 44), and thus is not expected to playa role in passive muscle, passive force enhancement is likelynot a calcium (activation)-dependent property. Rather, titinbinding to actin (or some other structural sarcomere compo-nent), which seems to depend on strongly bound cross-bridgeconﬁgurations, appears to be a more likely candidate for thepassive force enhancement properties in striated muscle.
+Fig. 5. Titin segmental elongations as a function of sarcomere lengths. Titin is divided into a proximal (close to the Z band) and a distal (close to myos in) segment
+by a ﬂuorescently labeled antibody in the PEVK domain. For passive stretching (not shown), the distal and proximal segments elongate continuously wh en
+sarcomeres are stretched and sarcomere length increases. During active stretching shown here, the proximal segment of titin only elongates for part of the
+sarcomere stretching and then stops elongating. This occurs at a sarcomere length of ~3.0 /H9262m for the particular myoﬁbril shown here as an example from /H11022120
+experiments. In other myoﬁbrils, titin proximal segment elongation stopped occurring at sarcomere lengths ranging from 2.2 to 3.4 /H9262m, and this occurrence
+seemed to depend crucially on the sarcomere lengths at which myoﬁbril activation occurred. When the proximal segment stops elongating, all sarcomer e
+elongation is taken up by the distal segment of titin. I interpret this result as showing that titin binds to actin during active stretching. This bindi ng of titin to
+actin does not occur through activation (calcium release) but seems to require cross-bridge binding to actin. Therefore, this phenomenon is indepen dent of calcium
+and is thought to persist when the muscle is deactivated and calcium is sequestered back into the sarcoplasmic reticulum of muscle ﬁbers.1786 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+In light of these ﬁndings, I propose the following tentative
+theory for passive force enhancement (Fig. 6). When a muscleis actively stretched (eccentric muscle action), strong cross-bridge binding to actin results in a conﬁgurational change ofthe regulatory proteins tropomyosin and troponin. This conﬁg-urational change, in turn, exposes titin attachment sites onactin. Some proximal (toward the Z band) segments of titin(the exact segments need to be determined) bind ﬁrmly toactin, thereby leaving only the unbound (distal) titin segmentsfor accomplishing the increases in I-band length with increas-ing muscle (sarcomere) length. This binding of titin to actinresults in increased titin-based forces in the actively stretchedmuscle. When the muscle is deactivated, titin remains attachedto actin, thereby providing a long-lasting increase in passivemuscle force: the passive force enhancement observed afterdeactivation of an actively stretched muscle. This passive forceenhancement is typically smaller than the total residual forceenhancement, presumably because upon muscle deactivationcalcium bound to titin is released and the associated increase instiffness is lost. However, deactivation of isometric muscles isassociated with a lengthening of ﬁbers and sarcomeres, andassociated lengthening of titin, which may lead to an overes-timation of the passive force enhancement, reaching valuesequal to or greater than the residual force enhancement (forexample in Fig. 1) for some exceptional experimental condi-tions. Passive force enhancement diminishes slowly and is lostwithin ~3– 4 min (in cat soleus muscles; unpublished observa-tion). However, passive force enhancement can be abolishedinstantaneously if a muscle is quickly shortened from itsstretched position (25), suggesting that there is a mechanical“release mechanism” for titin bound to actin.
+SUMMARY
+Passive force enhancement is observed after deactivation of
+an actively stretched (eccentric action) muscle. The origins ofthe passive force enhancement remain unknown. However,there is compelling evidence that the passive force enhance-ment is associated with the structural, ﬁlamentous protein titin.I propose tentatively that passive force enhancement is notactivation (calcium) dependent but depends crucially on forceproduction in eccentric muscle action by actin-myosin-basedcross bridges. Speciﬁcally, I hypothesize that strong cross-bridge binding results in a conﬁgurational change of troponinand tropomyosin that frees up attachment sites for titin onactin. Titin then binds to actin, thereby shortening its freespring length and making itself stiffer, thus increasing titin-based force when a muscle is stretched. Upon deactivation,titin remains bound to actin but can be released immediately,and all passive force enhancement is abolished, when themuscle shortens quickly from its stretched length.
+CONCLUDING REMARKS
+The hypotheses proposed above about the function of titin in
+active and passive muscle, and particularly the proposed mech-anism for the passive force enhancement property, may appearfar-fetched. However, there are mechanisms for passive forceproduction in animal systems that have been shown to work ina way similar to that proposed above for titin in passive forceenhancement. For example, in muscles of mollusks there is atitin analog called twitchin. Twitchin is a titinlike protein that
+Fig. 6. Proposed mechanism for the passive force enhancement property of
+skeletal muscle. In the initial condition, the sarcomere is short and in the passivestate ( A). If stretched passively from that initial conﬁguration, the sarcomere will
+become longer and all titin segments are stretched and produce a force inaccordance with the titin properties ( B). If the sarcomere is activated via calcium
+but cross-bridge binding to actin is inhibited (for example, by 2,3-butanedionemonoxime or by troponin C deletion) and then stretched, calcium will bind to titin(indicated by the brownish color in C) but titin will not bind to actin. Titin is stiffer
+in this conﬁguration because of the bound calcium. If the sarcomere is stretchedwhile activated and cross-bridge forces are allowed to develop (normal activationand force production, eccentric muscle action), titin will bind calcium and willbind to actin (I propose somewhere in the PEVK region), and will produce moreforce than in C, because of the titin binding to actin that is made possible by the
+cross-bridge binding to actin ( D). When the actively stretched muscle (in which
+cross bridges were allowed to bind to actin) is now deactivated, calcium is releasedfrom titin and titin will remain bound to actin, thereby producing the passive forceenhancement observed in skeletal muscles after stretching of an activated muscle(E). If now, in the deactivated state, the muscle is quickly shortened to its initial
+length and immediately stretched back to its original length (indicated by doublearrow in F), titin is released from actin and the passive force enhancement is
+immediately abolished, while without this quick shortening-stretch cycle, thepassive force enhancement would persist for minutes.1787 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+has been shown to form connections between actin and myosin
+in the so-called catch state of these muscles (3, 13, 70, 71). Inthe catch state, muscles can produce great forces at virtually nometabolic cost and in the absence of calcium (passive muscle)(14). Twitchin attachment between actin and myosin is regu-lated by phosphorylation, the catch state corresponding to thedephosphorylated twitchin state (14). The idea that a passivestructural element engages between actin and myosin whenlong-lasting and great forces are required is intriguing, becausemaintaining such forces with cross bridges would be metabol-ically expensive, whereas attachment and detachment of astructural protein require virtually no metabolic energy. Maybethe passive force enhancement observed in mammalian skeletalmuscle is an evolutionary remnant of the role played bytwitchin in molluscan muscles.
+GRANTS
+This work was funded by the Natural Sciences and Engineering Research
+Council of Canada (Conseil de Recherches en Sciences Naturelles et en Géniedu Canada), the Killam Foundation, and the Canada Research Chair Pro-gramme.
+DISCLOSURES
+No conﬂicts of interest, ﬁnancial or otherwise, are declared by the author.
+AUTHOR CONTRIBUTIONS
+W.H. conceived and designed research; performed or supervised experi-
+ments; analyzed and supervised analysis of data; interpreted results of exper-iments; prepared ﬁgures; drafted manuscript; edited and revised manuscript;and approved ﬁnal version of manuscript.
+REFERENCES
+1.Abbott BC, Aubert XM. The force exerted by active striated muscle
+during and after change of length. J Physiol 117: 77–86, 1952.
+2.Astier C, Raynaud F, Lebart MC, Roustan C, Benyamin Y. Binding of
+a native titin fragment to actin is regulated by PIP2. FEBS Lett 429: 95–98,
+1998. doi:
+10.1016/S0014-5793(98)00572-9 .
+3.Avrova SV, Shelud’ko NS, Borovikov YS, Galler S. Twitchin of
+mollusc smooth muscles can induce “catch”-like properties in humanskeletal muscle: support for the assumption that the “catch” state involvestwitchin linkages between myoﬁlaments. J Comp Physiol B 179: 945–950,
+2009. doi:
+10.1007/s00360-009-0375-z .
+4.Bartoo ML, Linke WA, Pollack GH. Basis of passive tension and
+stiffness in isolated rabbit myoﬁbrils. Am J Physiol Cell Physiol 273:
+C266 –C276, 1997. doi: 10.1152/ajpcell.1997.273.1.C266 .
+5.Bianco P, Nagy A, Kengyel A, Szatmári D, Mártonfalvi Z, Huber T,
+Kellermayer MS. Interaction forces between F-actin and titin PEVK
+domain measured with optical tweezers. Biophys J 93: 2102–2109, 2007.
+doi:10.1529/biophysj.107.106153 .
+6.Bullimore SR, Leonard TR, Rassier DE, Herzog W. History-depen-
+dence of isometric muscle force: effect of prior stretch or shorteningamplitude. J Biomech 40: 1518 –1524, 2007. doi:
+10.1016/j.jbiomech.2006.
+06.014 .
+7.Chen H, Yuan G, Winardhi RS, Yao M, Popa I, Fernandez JM, Yan
+J.Dynamics of equilibrium folding and unfolding transitions of titin
+immunoglobulin domain under constant forces. J Am Chem Soc 137:
+3540 –3546, 2015. doi: 10.1021/ja5119368 .
+8.Chung CS, Bogomolovas J, Gasch A, Hidalgo CG, Labeit S, Granzier
+HL. Titin-actin interaction: PEVK-actin-based viscosity in a large animal.
+J Biomed Biotechnol 2011: 310791, 2011. doi: 10.1155/2011/310791 .
+9.DuVall MM, Gifford JL, Amrein M, Herzog W. Altered mechanical
+properties of titin immunoglobulin domain 27 in the presence of calcium.Eur Biophys J 42: 301–307, 2013. doi:
+10.1007/s00249-012-0875-8 .
+9a.DuVall MM, Jinha A, Schappacher-Tilp G, Leonard TR, Herzog W.
+Differences in titin segmental elongation between passive and activestretch in skeletal muscle. J Exp Biol 220: 4418 –4425, 2017. doi:
+10.1242/
+jeb.160762 .10.Edman KA, Elzinga G, Noble MI. Residual force enhancement after
+stretch of contracting frog single muscle ﬁbers. J Gen Physiol 80: 769 –
+784, 1982. doi: 10.1085/jgp.80.5.769 .
+11.Edman KA, Tsuchiya T. Strain of passive elements during force en-
+hancement by stretch in frog muscle ﬁbres. J Physiol 490: 191–205, 1996.
+doi:10.1113/jphysiol.1996.sp021135 .
+12.Forcinito M, Epstein M, Herzog W. Can a rheological muscle model
+predict force depression/enhancement? J Biomech 31: 1093–1099, 1998.
+doi:10.1016/S0021-9290(98)00132-8 .
+13.Funabara D, Hamamoto C, Yamamoto K, Inoue A, Ueda M, Osawa
+R, Kanoh S, Hartshorne DJ, Suzuki S, Watabe S. Unphosphorylated
+twitchin forms a complex with actin and myosin that may contribute totension maintenance in catch. J Exp Biol 210: 4399 –4410, 2007. doi:
+10.
+1242/jeb.008722 .
+14.Galler S. Molecular basis of the catch state in molluscan smooth muscles:
+a catchy challenge. J Muscle Res Cell Motil 29: 73–99, 2008. doi: 10.1007/
+s10974-008-9149-6 .
+15.Gordon AM, Huxley AF, Julian FJ. The variation in isometric tension
+with sarcomere length in vertebrate muscle ﬁbres. J Physiol 184: 170 –
+192, 1966. doi: 10.1113/jphysiol.1966.sp007909 .
+16.Granzier HL, Labeit S. The giant muscle protein titin is an adjustable
+molecular spring. Exerc Sport Sci Rev 34: 50 –53, 2006. doi: 10.1249/
+00003677-200604000-00002 .
+17.Hahn D, Seiberl W, Schwirtz A. Force enhancement during and follow-
+ing muscle stretch of maximal voluntarily activated human quadricepsfemoris. Eur J Appl Physiol 100: 701–709, 2007. doi:
+10.1007/s00421-
+007-0462-3 .
+18.Herzog JA, Leonard TR, Jinha A, Herzog W. Titin (visco-) elasticity in
+skeletal muscle myoﬁbrils. Mol Cell Biomech 11: 1–17, 2014.
+19.Herzog JA, Leonard TR, Jinha A, Herzog W. Are titin properties
+reﬂected in single myoﬁbrils? J Biomech 45: 1893–1899, 2012. doi: 10.
+1016/j.jbiomech.2012.05.021 .
+20.Herzog W. Mechanisms of enhanced force production in lengthening
+(eccentric) muscle contractions. J Appl Physiol (1985) 116: 1407–1417,
+2014. doi: 10.1152/japplphysiol.00069.2013 .
+21.Herzog W, Duvall M, Leonard TR. Molecular mechanisms of muscle
+force regulation: a role for titin? Exerc Sport Sci Rev 40: 50 –57, 2012.
+doi:10.1097/JES.0b013e31823cd75b .
+22.Herzog W, Lee EJ, Rassier DE. Residual force enhancement in skeletal
+muscle. J Physiol 574: 635–642, 2006. doi: 10.1113/jphysiol.2006.107748 .
+23.Herzog W, Leonard TR. Force enhancement following stretching of
+skeletal muscle: a new mechanism. J Exp Biol 205: 1275–1283, 2002.
+24.Herzog W, Leonard TR. The role of passive structures in force enhance-
+ment of skeletal muscles following active stretch. J Biomech 38: 409 –415,
+2005. doi: 10.1016/j.jbiomech.2004.05.001 .
+25.Herzog W, Schachar R, Leonard TR. Characterization of the passive
+component of force enhancement following active stretching of skeletalmuscle. J Exp Biol 206: 3635–3643, 2003. doi:
+10.1242/jeb.00645 .
+26.Herzog W, Schappacher G, DuVall M, Leonard TR, Herzog JA.
+Residual force enhancement following eccentric contractions: a newmechanism involving titin. Physiology (Bethesda) 31: 300 –312, 2016.
+doi:
+10.1152/physiol.00049.2014 .
+27.Herzog W. The multiple roles of titin in muscle contraction and force
+production. Biophys Rev 10: 1187–1199, 2018. doi: 10.1007/s12551-017-
+0395-y .
+28.Hill AV. The heat of shortening and the dynamic constants of muscle.
+Proc R Soc Lond B Bio Sci 126: 136 –195, 1938. doi: 10.1098/rspb.1938.
+0050 .
+29.Hill AV. The mechanics of active muscle. Proc R Soc Lond B Biol Sci
+141: 104 –117, 1953. doi: 10.1098/rspb.1953.0027 .
+30.Hisey B, Leonard TR, Herzog W. Does residual force enhancement
+increase with increasing stretch magnitudes? J Biomech 42: 1488 –1492,
+2009. doi: 10.1016/j.jbiomech.2009.03.046 .
+31.Huxley AF. Muscle structure and theories of contraction. Prog Biophys
+Chem 7: 255–318, 1957. doi: 10.1016/S0096-4174(18)30128-8 .
+32.Huxley AF, Peachey LD. The maximum length for contraction in verte-
+brate striated muscle. J Physiol 156: 150 –165, 1961. doi: 10.1113/jphysiol.
+1961.sp006665 .
+33.Huxley AF, Simmons RM. Proposed mechanism of force generation in
+striated muscle. Nature 233: 533–538, 1971. doi: 10.1038/233533a0 .
+34.Huxley HE. The mechanism of muscular contraction. Science 164: 1356 –
+1366, 1969. doi: 10.1126/science.164.3886.1356 .1788 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+
+35.Johnston K, Jinha A, Herzog W. The role of sarcomere length non-
+uniformities in residual force enhancement of skeletal muscle myoﬁbrils.R Soc Open Sci 3: 150657, 2016. doi:
+10.1098/rsos.150657 .
+36.Joumaa V, Herzog W. Energy cost of force production is reduced after
+active stretch in skinned muscle ﬁbres. J Biomech 46: 1135–1139, 2013.
+doi:10.1016/j.jbiomech.2013.01.008 .
+37.Joumaa V, Leonard TR, Herzog W. Residual force enhancement in
+myoﬁbrils and sarcomeres. Proc Biol Sci 275: 1411–1419, 2008. doi: 10.
+1098/rspb.2008.0142 .
+38.Joumaa V, Rassier DE, Leonard TR, Herzog W. Passive force enhance-
+ment in single myoﬁbrils. Pﬂugers Arch 455: 367–371, 2007. doi: 10.1007/
+s00424-007-0287-2 .
+39.Joumaa V, Rassier DE, Leonard TR, Herzog W. The origin of passive
+force enhancement in skeletal muscle. Am J Physiol Cell Physiol 294:
+C74 –C78, 2008. doi: 10.1152/ajpcell.00218.2007 .
+40.Kellermayer MS, Smith SB, Granzier HL, Bustamante C. Folding-
+unfolding transitions in single titin molecules characterized with lasertweezers. Science 276: 1112–1116, 1997. doi:
+10.1126/science.276.5315.
+1112 .
+41.Krüger M, Kötter S, Grützner A, Lang P, Andresen C, Redﬁeld MM,
+Butt E, dos Remedios CG, Linke WA. Protein kinase G modulates
+human myocardial passive stiffness by phosphorylation of the titinsprings. Circ Res 104: 87–94, 2009. doi:
+10.1161/CIRCRESAHA.108.
+184408 .
+42.Krüger M, Linke WA. Protein kinase-A phosphorylates titin in human
+heart muscle and reduces myoﬁbrillar passive tension. J Muscle Res Cell
+Motil 27: 435–444, 2006. doi: 10.1007/s10974-006-9090-5 .
+43.Kulke M, Fujita-Becker S, Rostkova E, Neagoe C, Labeit D, Manstein
+DJ, Gautel M, Linke WA. Interaction between PEVK-titin and actin
+ﬁlaments: origin of a viscous force component in cardiac myoﬁbrils. Circ
+Res89: 874 –881, 2001. doi: 10.1161/hh2201.099453 .
+44.Labeit D, Watanabe K, Witt C, Fujita H, Wu Y, Lahmers S, Funck T,
+Labeit S, Granzier H. Calcium-dependent molecular spring elements in
+the giant protein titin. Proc Natl Acad Sci USA 100: 13716 –13721, 2003.
+doi:10.1073/pnas.2235652100 .
+45.Lee EJ, Herzog W. Residual force enhancement exceeds the isometric
+force at optimal sarcomere length for optimized stretch conditions. J Appl
+Physiol (1985) 105: 457–462, 2008. doi: 10.1152/japplphysiol.01109.
+2006 .
+46.Lee EJ, Joumaa V, Herzog W. New insights into the passive force
+enhancement in skeletal muscles. J Biomech 40: 719 –727, 2007. doi: 10.
+1016/j.jbiomech.2006.10.009 .
+47.Lee HD, Herzog W. Force enhancement following muscle stretch of
+electrically stimulated and voluntarily activated human adductor pollicis.J Physiol 545: 321–330, 2002. doi:
+10.1113/jphysiol.2002.018010 .
+48.Leonard TR, DuVall M, Herzog W. Force enhancement following
+stretch in a single sarcomere. Am J Physiol Cell Physiol 299: C1398 –
+C1401, 2010. doi: 10.1152/ajpcell.00222.2010 .
+49.Leonard TR, Herzog W. Regulation of muscle force in the absence of
+actin-myosin-based cross-bridge interaction. Am J Physiol Cell Physiol
+299: C14 –C20, 2010. doi: 10.1152/ajpcell.00049.2010 .
+50.Li Q, Jin JP, Granzier HL. The effect of genetically expressed cardiac
+titin fragments on in vitro actin motility. Biophys J 69: 1508 –1518, 1995.
+doi:10.1016/S0006-3495(95)80021-4 .
+51.Linke WA, Granzier H. A spring tale: new facts on titin elasticity.
+Biophys J 75: 2613–2614, 1998. doi: 10.1016/S0006-3495(98)77706-9 .
+52.Linke WA, Ivemeyer M, Labeit S, Hinssen H, Rüegg JC, Gautel M.
+Actin-titin interaction in cardiac myoﬁbrils: probing a physiological role.Biophys J 73: 905–919, 1997. doi:
+10.1016/S0006-3495(97)78123-2 .
+53.Linke WA, Kulke M, Li H, Fujita-Becker S, Neagoe C, Manstein DJ,
+Gautel M, Fernandez JM. PEVK domain of titin: an entropic spring with
+actin-binding properties. J Struct Biol 137: 194 –205, 2002. doi: 10.1006/
+jsbi.2002.4468 .
+54.Linke WA, Popov VI, Pollack GH. Passive and active tension in single
+cardiac myoﬁbrils. Biophys J 67: 782–792, 1994. doi: 10.1016/S0006-
+3495(94)80538-7 .
+55.Linke WA. Titin gene and protein functions in passive and active muscle.
+Annu Rev Physiol 80: 389 –411, 2018. doi: 10.1146/annurev-physiol-
+021317-121234 .
+56.Llewellyn ME, Barretto RP, Delp SL, Schnitzer MJ. Minimally inva-
+sive high-speed imaging of sarcomere contractile dynamics in mice andhumans. Nature 454: 784 –788, 2008. doi:
+10.1038/nature07104 .57.Moo EK, Fortuna R, Sibole SC, Abusara Z, Herzog W. In vivo
+sarcomere lengths and sarcomere elongations are not uniform across anintact muscle. Front Physiol 7: 187, 2016. doi:
+10.3389/fphys.2016.00187 .
+58.Morgan DL. New insights into the behavior of muscle during active
+lengthening. Biophys J 57: 209 –221, 1990. doi: 10.1016/S0006-
+3495(90)82524-8 .
+59.Morgan DL. An explanation for residual increased tension in striated
+muscle after stretch during contraction. Exp Physiol 79: 831–838, 1994.
+doi:10.1113/expphysiol.1994.sp003811 .
+60.Morgan DL, Whitehead NP, Wise AK, Gregory JE, Proske U. Tension
+changes in the cat soleus muscle following slow stretch or shortening ofthe contracting muscle. J Physiol 522: 503–513, 2000. doi:
+10.1111/j.1469-
+7793.2000.t01-2-00503.x .
+61.Nagy A, Cacciafesta P, Grama L, Kengyel A, Málnási-Csizmadia A,
+Kellermayer MS. Differential actin binding along the PEVK domain of
+skeletal muscle titin. J Cell Sci 117: 5781–5789, 2004. doi: 10.1242/jcs.
+01501 .
+62.Noble MI. Enhancement of mechanical performance of striated muscle by
+stretch during contraction. Exp Physiol 77: 539 –552, 1992. doi: 10.1113/
+expphysiol.1992.sp003618 .
+63.Peterson DR, Rassier DE, Herzog W. Force enhancement in single
+skeletal muscle ﬁbres on the ascending limb of the force-length relation-ship. J Exp Biol 207: 2787–2791, 2004. doi:
+10.1242/jeb.01095 .
+64.Powers K, Schappacher-Tilp G, Jinha A, Leonard T, Nishikawa K,
+Herzog W. Titin force is enhanced in actively stretched skeletal muscle.
+J Exp Biol 217: 3629 –3636, 2014. doi: 10.1242/jeb.105361 .
+65.Rassier DE, Herzog W, Pollack GH. Stretch-induced force enhancement
+and stability of skeletal muscle myoﬁbrils. Adv Exp Med Biol 538:
+501–515, 2003. doi: 10.1007/978-1-4419-9029-7_45 .
+66.Rayment I, Holden HM, Whittaker M, Yohn CB, Lorenz M, Holmes
+KC, Milligan RA. Structure of the actin-myosin complex and its impli-
+cations for muscle contraction. Science 261: 58 –65, 1993. doi: 10.1126/
+science.8316858 .
+67.Rivas-Pardo JA, Eckels EC, Popa I, Kosuri P, Linke WA, Fernández
+JM. Work done by titin protein folding assists muscle contraction. Cell
+Rep 14: 1339 –1347, 2016. doi: 10.1016/j.celrep.2016.01.025 .
+68.Schappacher-Tilp G, Leonard T, Desch G, Herzog W. A novel three-
+ﬁlament model of force generation in eccentric contraction of skeletalmuscles. PLoS One 10: e0117634, 2015. doi:
+10.1371/journal.pone.
+0117634 .
+69.Seiberl W, Hahn D, Herzog W, Schwirtz A. Feedback controlled force
+enhancement and activation reduction of voluntarily activated quadricepsfemoris during sub-maximal muscle action. J Electromyogr Kinesiol 22:
+117–123, 2012. doi:
+10.1016/j.jelekin.2011.10.010 .
+70.Shelud’ko NS, Matusovsky OS, Permyakova TV, Matusovskaya GG.
+“Twitchin-actin linkage hypothesis” for the catch mechanism in molluscanmuscles: evidence that twitchin interacts with myosin, myorod, andparamyosin core and affects properties of actomyosin. Arch Biochem
+Biophys 466: 125–135, 2007. doi:
+10.1016/j.abb.2007.07.014 .
+71.Siegman MJ, Funabara D, Kinoshita S, Watabe S, Hartshorne DJ,
+Butler TM. Phosphorylation of a twitchin-related protein controls catch
+and calcium sensitivity of force production in invertebrate smooth muscle.Proc Natl Acad Sci USA 95: 5383–5388, 1998. doi:
+10.1073/pnas.95.9.
+5383 .
+72.Sugi H, Tsuchiya T. Stiffness changes during enhancement and deﬁcit of
+isometric force by slow length changes in frog skeletal muscle ﬁbres. J
+Physiol 407: 215–229, 1988. doi: 10.1113/jphysiol.1988.sp017411 .
+73.Trombitás K, Granzier H. Actin removal from cardiac myocytes shows
+that near Z line titin attaches to actin while under tension. Am J Physiol
+Cell Physiol 273: C662–C670, 1997. doi: 10.1152/ajpcell.1997.273.2.
+C662 .
+74.Trombitás K, Pollack GH. Elastic properties of connecting ﬁlaments
+along the sarcomere. Adv Exp Med Biol 332: 71–79, 1993. doi: 10.1007/
+978-1-4615-2872-2_7 .
+75.Yamasaki R, Berri M, Wu Y, Trombitás K, McNabb M, Kellermayer
+MS, Witt C, Labeit D, Labeit S, Greaser M, Granzier H. Titin-actin
+interaction in mouse myocardium: passive tension modulation and itsregulation by calcium/S100A1. Biophys J 81: 2297–2313, 2001. doi:
+10.
+1016/S0006-3495(01)75876-6 .1789 PASSIVE FORCE ENHANCEMENT IN MUSCLE
+J Appl Physiol •doi:10.1152/japplphysiol.00676.2018 •www.jappl.org
+Downloaded from www.physiology.org/journal/jappl at Univ of Iowa Libraries Serials Acq (128.255.058.141) on August 26, 2019.
+

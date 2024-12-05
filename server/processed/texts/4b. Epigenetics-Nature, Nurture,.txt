@@ -1,0 +1,796 @@
+Received: May 19, 2021. Revised: August 10, 2021. Accepted: September 23, 2021
+© The Author(s) 2021. Published by Oxford University Press on behalf of the American Physical Therapy Association. All rights reserved.
+For permissions, please e-mail: journals.permissions@oup.comPTJ: Physical Therapy & Rehabilitation Journal | Physical Therapy , 2022;102:1 –11
+https://doi.org/10.1093/ptj/pzab247
+Advance access publication date November 1, 2021
+Perspective
+Epigenetics and the International Classiﬁcation of
+Functioning, Disability and Health Model: Bridging Nature,
+Nurture, and Patient-Centered Population Health
+Richard K. Shields, PT , PhD, FAPTA1,*, Shauna Dudley- Javoroski, PT, PhD1
+1Department of Physical Therapy and Rehabilitation Science, Roy J. and Lucille A. Carver College of Medicine, University of Iowa, Iowa City,
+Iowa, USA
+*Address all correspondence to Dr Shields at: richard-shields@uiowa.edu
+Epigenetic processes enable environmental inputs such as diet, exercise, and health behaviors to reversibly tag DNA with
+chemical “marks” that increase or decrease the expression of an individual’s genetic template. Over time, epigenetic
+adaptations enable the effects of healthy or unhealthy stresses to become stably expressed in the tissue of an organism,with important consequences for health and disease. New research indicates that seemingly non-biological factors such
+as social stress, poverty, and childhood hardship initiate epigenetic adaptations in gene pathways that govern inﬂammation
+and immunity, two of the greatest contributors to chronic diseases such as diabetes and obesity. Epigenetic processestherefore provide a biological bridge between the genome —an individual’s genetic inheritance —and the Social Determinants
+of Health —the conditions in which they are born, grow, live, work, and age. This Perspective paper argues that physical
+therapy clinicians, researchers, and educators can use the theoretical framework provided by the International Classiﬁcationof Functioning, Disability, and Health (ICF model) to harmonize new discoveries from both public health research and
+medically focused genomic research. The ICF model likewise captures the essential role played by physical activity and
+exercise, which initiate powerful and widespread epigenetic adaptations that promote health and functioning. In this proposedframework, epigenetic processes transduce the effects of the social determinants of health and behaviors such as exercise
+into stable biological adaptations that affect an individual’s daily activities and their participation in social roles. By harmonizing
+“nature” and “nurture,” physical therapists can approach patient care with a more integrated perspective, capitalizing onnovel discoveries in precision medicine, rehabilitation science, and in population-level research. As the experts in physical
+activity and exercise, physical therapists are ideally positioned to drive progress in the new era of patient-centered population
+health care.
+Keywords: DNA, Genomics, Precision Medicine, Precision Rehabilitation, RNA, Social Determinants of HealthDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+2 Epigenetics, ICF Model, and Population Health
+Introduction
+From its earliest days, physical therapy has endorsed a per-
+sonalized, patient-centered approach. Astute clinicians have
+always understood that the patient’s emotional state, familydynamics, work circumstances, genetic predisposition, and
+daily sources of stress can either amplify or impede the
+efficacy of our interventions. Because our fundamental tool ismovement (a behavioral intervention), we have always needed
+to attend to psychosocial factors that affect behavior and
+modulate pain. The movement strategies we prescribe requireengagement of the patient as a whole person in all their
+complexity, creating an imperative for patient-centered care.
+Public health research supports that our profession’s careful
+attention to the conditions in which people are born, grow,
+live, work, and age—the social determinants of health
+1—
+likely enhances our efficacy as clinicians. County-level studiesindicate that socioeconomic factors and behaviors account
+for 30% to 50% of the variation observed in health out-
+comes compared with just 16% attributable to medical care.
+2
+Other studies using this same population-level approach show
+strong associations between a community’s level of physical
+activity and the health outcomes they collectively experience.3
+Although it is challenging to pinpoint the consequences of
+social determinants of health at the level of the individual, they
+are unquestionably part of the complete picture of physicaltherapy care.
+4Moreover, the social determinants of health
+play a central role in the International Classification of Func-
+tioning, Disability, and Health (ICF) model,5a framework
+for understanding health and disability used by health care
+researchers and practitioners the world over, including physi-cal therapists ( Fig. 1 ).
+Since the mid-20th century, medicine has rightfully inter-
+preted that a person’s genetic makeup is fundamental todetermining their individual health trajectory. The ICF model,
+on the other hand, does not explicitly conceptualize genetic
+inheritance as a contributor to function and disability. Withthe advent of “big data” informatics capabilities, the health
+care system has entered the precision health care era, in
+which providers may soon select individualized treatments(drugs) that are optimized for each patient’s molecular genetic
+signatures, social determinants of health, and disease state.
+Despite the potential for precision-based health care to impactpopulation health, the pace of translation has been slow.
+6
+Perspectives advocating for a “precision” approach have onlyrecently appeared in the physical therapy literature.
+7–10
+In addition to this lag in translation, the term “precision
+medicine” is occasionally confused with a related term, “per-
+sonalized medicine.” Personalized medicine suggests that thekeys to health and disease can be revealed by fine-scale analy-
+sis of individual genetic information without explicit attention
+to the social determinants of health.
+11This runs contrary
+to public health research, which points to the relevance of
+complex environmental interactions that operate far above
+the level of the individual: across communities and evenacross cultures, with modifying influences from health care
+delivery systems and cost. A healthy tension currently exists
+between these 2 valid but seemingly dichotomous health careworldviews.
+12This tension poses an important question: can
+a contemporary understanding of biology help explain the
+ways various ICF factors—including the social determinants
+of health and behaviors such as exercise—influence each other
+and thereby affect health? If environmental factors such asthe social determinants of health can modify gene expression,
+then genomic and population health approaches represent a
+continuum, not a dichotomy.
+The bridge between genetics and the social determinants
+of health is epigenetics, a collection of cellular processes that
+enable an organism’s environment to regulate the expression
+of its genetic template. Through the mediation of epigenetic
+processes, the genome, lifestyle, and the social determinants of
+health form a matrix whose interactions and mutual depen-dencies create a powerful etiologic framework for all health
+care practitioners, including physical therapists. The most
+important feature of epigenetic processes is that they aresensitive to the organism’s environment: the “nurture” half of
+the nature/nurture dyad. The term “exposome” is sometimes
+used to describe an organism’s environmental inputs, encom-passing “ ...life-course environmental exposures (including
+lifestyle factors), from the prenatal period onwards.”
+13The
+exposome includes environmental factors such as pollutionand chemical exposure, physical activity and exercise, health
+behaviors such as smoking, nutrition, the social determinants
+of health (eg, poverty, social stress, poor health care access,discrimination), as well as factors within the body such as
+the gut microbiome ( Fig. 2 ).
+14The epigenome mediates the
+effects of all these factors on the genome, serving as anintegrator by which the exposome regulates the output of
+the genome. Importantly, the epigenome acts in a cumulative
+fashion, amplifying and solidifying long-lasting exposomeinfluences into stable phenotypic traits. In the context of
+rehabilitation care, movement interventions prescribed by a
+physical therapist can potentially yield epigenetic adaptationsif they become long-term lifestyle behaviors.
+The unique power of epigenetic processes is that environ-
+mental stressors reversibly tag DNA with chemical “marks”that increase or decrease the expression of an individual’s
+genes. This does not underplay the importance of an acquired
+genetic pre-disposition. Epigenetic marks can be passed downwith each successive mitotic cell duplication, enabling the
+effects of healthy or unhealthy stresses to become stably
+expressed in the tissue of an organism. But because they
+are reversible, epigenetic processes also create the poten-
+tial for healthy stressors to mitigate the effects of earlieradverse events. As we will describe below, movement, physical
+activity, and exercise, fundamental tools used by physical
+therapists, are powerful epigenetic stressors that promote ahealthful gene expression profile in multiple body systems.
+We predict that the progression of epigenetic research in the
+coming decades will reveal the specific biologic mechanismsthat underlie the health-promoting effects of many activity-
+based interventions, including community-focused interven-
+tions that use behavioral approaches to improve the socialdeterminants of health. We also believe that by providing
+a common biological currency between genomic and public
+health research, epigenetic research may synergize discoveryin both fields.
+For a physical therapist treating complex acquired non-
+communicable diseases such as obesity, diabetes, dementia,and heart disease, understanding the influence of lifestyle
+and environmental factors on health outcomes is essential
+to patient-centered care. Likewise, these same lifestyle andenvironmental factors will affect the progression of diseaseswith known genetic etiologies, such as muscular dystrophy
+and spina bifida. In both these scenarios, the therapeuticDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Shields and Dudley-Javoroski 3
+Figure 1. The ICF model. New discoveries in biology are helping to explain the ways that individual domains inﬂuence each other, culminating in function
+or disability.
+Figure 2. The 3 known epigenetic processes (lower left) modify the
+output of the genome (the transcriptome) in response to a wide range of
+inputs from the exposome. This has ramiﬁcations for the proteome,
+metabolome, and so on.
+advantages to be gained through consideration of environ-
+mental factors are accompanied by the potential ethical peril
+of “detect[ing] adverse exposures and conditions that requireresources beyond the scope of clinical care.”
+15In addition,physical therapists who strive to use epigenetic mechanism-
+based reasoning16to select interventions face a steep chal-
+lenge to keep pace with the rapidly changing frontiers of
+“-omics,” including genomics, epigenomics, proteomics, andmetabolomics.
+The purpose of this Perspective paper is to describe a
+harmonizing framework by which physical therapy clinicalcare can incorporate new discoveries from both public health
+and genomic research, building on the foundation laid by
+the ICF model. Key to this discussion will be new scientificevidence that the social determinants of health, experienced
+by an individual as healthy or unhealthy stress, epigenetically
+modify the expression of an individual’s genome in ways that
+mediate health and disease states. Because physical therapists
+are equipped to intervene at any level of the ICF model—biological response, lifestyle behaviors, health systems, and
+society—they are uniquely suited to advance the frontiers of
+precision health care.
+A Brief History of Human Genomic Research
+Although genetic contributions to disease were long knownfrom heredity studies, the first disease to be mapped to a
+human chromosome was Huntington Disease in 1983.
+17
+It took a consortium of 58 research groups an additional
+10 years to map the specific locus of the genetic defect in
+thehuntingtin gene.18By the late 1980s, it had become clear
+that more rapid progress could be achieved if a completemap of the entire human genome were available. On OctoberDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+4 Epigenetics, ICF Model, and Population Health
+1, 1990, the National Institutes of Health and international
+partners launched the Human Genome Project, biology’s first
+large-scale, multi-national, collaborative research endeavor.19
+The project’s goal was to sequence all 3 billion human base
+pairs within 15 years. “Working draft” maps of chromosome
+segments, combined with rapid technological advances,
+dramatically reduced the time and personnel required to
+find new disease genes. By 2001, a single laboratory using
+a “working draft” for chromosome 7 was able to identifythe location of a tumor suppressor gene within a span of
+several weeks.
+20Comparable work to isolate huntingtin ,a s
+mentioned above, took a decade of work by a multi-institutionconsortium.
+21
+On April 14, 2003, the National Human Genome Research
+Institute (NHGRI) announced the completion of the humangenome map a full 2 years ahead of schedule. Multi-national
+collaborative groups began to uncover the complex poly-
+genic basis of lifestyle-based diseases such as diabetes andcardiovascular disease.
+22As it became apparent that medicine
+could someday incorporate genomic data into diagnosis and
+treatment of disease—the dawn of personalized medicine—NHGRI began to heavily invest in the development of tech-
+nologies to reduce the cost of gene sequencing and to build
+the informatics capacity to manage large genomic datasets. In2008, an international research consortium launched the 1000
+Genomes Project, an ambitious effort to completely map the
+genomes of 1000 people worldwide. By 2015, technologicalprogress had made possible what was once unthinkable:
+full genomic mapping of 1,000,000 individuals. In that year,
+NIH launched the “All of Us” research program, a precisionmedicine initiative that aimed first to enhance knowledge of
+the genetic basis of cancer and then to more widely study
+other diseases.
+23A major objective of this ongoing project
+is to “reduce health care costs by matching the right person
+with the right treatment the first time.”24By genotyping 1
+million Americans and obtaining detailed information abouttheir lifestyle, environment, and health history, this initiative
+is building the foundation for the era of precision health care.
+The All of Us program and other large-scale genomic
+studies facilitate a population-scale approach that mines
+huge datasets for statistical correlations among diseasesand discrete combinations of genes. This approach is called
+a Genome-Wide Association Study (GWAS). In complex
+disorders such as cardiovascular disease, “before the advent ofGWAS, genetic analysis focused on individual variants in can-
+didate genes and generated often poorly reproducible results.
+In contrast, GWAS can explore the genetic variability of theentire genome for association with any given phenotype.”
+25
+For example, GWAS has identified nearly 200 gene loci withsignificant associations to coronary artery disease.
+25
+As almost always occurs with scientific progress, new
+discoveries add new complexity to the next generation of
+research questions. It became clear early in the history ofgenomic research that “genes alone did not always determine
+destiny.” Evidence accumulated for individuals who beat the
+genetic odds, such as patients with a genetic predispositionfor cardiovascular disease who never developed the disease
+phenotype. Or that the lifespan of a person with an acquired
+genetic disease, such as muscular dystrophy, was prolongedin some and not others. It soon became clear that the next
+frontier of discovery in health care would be the biological
+factors that control the expression of the pre-determinedgenetic template within each human being.Epigenetics: Where DNA Meets the
+Environment
+The Human Genome Project revealed the puzzling fact that
+only a tiny fraction (approximately 2%) of the human genome
+encodes proteins. These DNA regions are transcribed to mes-
+senger RNA (mRNA), which is then translated into the pro-teins that build and regulate every cell of every tissue ( Fig. 3A ).
+We now know that our DNA contains vast regions that do
+not code for proteins: 70,000 promoter regions that initiatethe transcription of genes; 400,000 enhancer regions for non-
+contiguous genes; and copious nucleotide sequences that code
+for RNA molecules but not for proteins.
+26Once considered
+“junk” DNA, these regions became prime candidates for
+sites that regulate how genes are activated or deactivated.
+The discovery that a damaged or healthy gene can either beepigenetically suppressed or promoted opens the door for new
+strategies to modulate our “predetermined” genetic destiny.
+A long-term NHGRI initiative called ENCODE (the Ency-
+clopedia of DNA Elements)
+27has laid the groundwork for
+assigning molecular functions to non-protein coding DNA
+segments, the plentiful epigenetic regulators of the protein-
+coding genome. The project identified over 18,400 genes thatare transcribed into non-coding RNA molecules (ncRNAs).
+28
+Instead of moving to ribosomes to undergo translation intoproteins, as mRNA does, ncRNAs engage in an ever-growing
+list of functions ( Fig. 3B ).
+29,30They may serve as scaffolds on
+which other molecules transiently join in order to carry outshared functions, or they may guide other molecules to DNA
+sites that initiate gene transcription or place epigenetic marks.
+Some types of ncRNAs serve as decoys for transcriptionfactors, preventing them from interacting with genes to initiate
+mRNA transcription. Importantly, some types of ncRNA can
+be released to systemic circulation via extracellular vesicles,enabling them to travel to distant target organs to carry out
+wide-ranging regulatory activities ( Fig. 3C ).
+The ENCODE project mapped DNA regions that can be
+“tagged” (marked) by methyl chemical groups, which gen-erally indicate that the associated genes have been silenced
+(not transcribed to mRNA). ENCODE also cataloged patterns
+of chemical modifications to histone proteins, the structuralmolecules that help package DNA into chromosomes. These
+histone modification sections signified DNA regions that had
+either been silenced or amplified, depending on the gene.These 3 features of DNA that are not themselves genes—
+ncRNA, methylation sites, and histone modifications—are the
+key factors that appear to regulate and coordinate DNA tran-scription/translation to proteins. Because these elements lie
+outside the genome, they have been termed the “epigenome.”
+The discovery of these controlling elements, the epigenome, inno way diminishes the importance of the human genome. The
+genome and epigenome are intricately entwined by bringing
+to the forefront the biological importance of “nature” and“nurture.”
+Epigenetics initially gained public attention
+31after rodent
+studies revealed surprising evidence that noxious stress,
+including social stress, experienced by both the dam andthe sire can yield transgenerational epigenetic differences in
+offspring.
+32,33This does not constitute a mutation, which
+is an alteration in the DNA base-pair sequence. Rather,these studies raised the thought-provoking possibility that
+environmental stressors, including what seemingly was
+construed as non-biological factors such as social stress,Downloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Shields and Dudley-Javoroski 5
+Figure 3. (A) The majority of the genome is untranslated (approximately 28%: promotor and enhancer regions) or encodes non-coding RNA
+(approximately 70%). Only approximately 2% encodes information for producing proteins. (B) A few of the newly discovered functions of non-codingRNA are “SCAFFOLD”: long non-coding RNA (lncRNA) serves as a scaffold on which 2 or more factors connect and carry out a shared function, such as
+epigenetic modiﬁcation; “GUIDE”: lncRNA guides other elements to DNA to carry out a function such as gene transcription; and “DECOY”: lncRNA acts
+as a decoy to block molecular interactions, such as between transcription factors (TF) and their target genes. (C) Micro-RNAs (miRNA) and lncRNA are
+packaged into extracellular vesicles (exosomes) and released into the circulation where they travel to target cells in distant tissues. There, they exert
+regulatory effects on the genome and epigenome.
+can yield biochemical adaptations that reverberate across
+generations. As we learn more about the non-coding regions
+of the human genome, we predict that the capacity to measuretransgenerational epigenetic regulation will be enhanced. For
+example, recently a child and his mother showed maternallyinherited epigenetic silencing of a damaged gene associated
+with Duchenne Muscular Dystrophy,
+34opening the door
+for new therapeutics. Moreover, newborns of parents withobesity, considered an environmental stress, showed different
+methylation signatures than infants born to parents withDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+6 Epigenetics, ICF Model, and Population Health
+Figure 4. Centers for Disease Control categories and descriptors of the social determinants of health. Adapted from https://www.cdc.gov/socialdetermi
+nants/index.htm .
+normal weight.35Transgenerational epigenetic research in
+humans is just beginning but may someday create powerful
+mechanistic connections between population-level publichealth research and precision health care.
+For physical therapists practicing today, the most impor-
+tant epigenetic adaptations are those that yield gene reg-ulation changes within the lifespan of an individual. Both
+healthful and noxious stresses experienced by an individual
+trigger epigenetic changes in their tissues, which, throughmitotic cell division, are perpetuated in future generations of
+that individual’s cells, tissues, and organs. If these epigenetic
+changes are maintained long term, the phenotype of theirtissues may skew toward healthful or diseased states. Just
+as importantly, the potential reversibility of some epigenetic
+adaptations opens the door for health-promoting interven-tions that can remove epigenetic marks applied by exposure
+to prior noxious stressors. An intense search is underway for
+epigenetically modifiable DNA loci that are responsible forthe long-term adaptations to exercise and healthy lifestyle
+behaviors.
+Epigenetics as a T ransducer of Social Stress
+Figure 4 illustrates the wide variety of environmental factors
+that comprise the social determinants of health.36In the
+past decade, evidence has begun to accumulate that these
+factors, experienced by humans as positive or negative stress,
+epigenetically alter gene transcription pathways in ways thatyield stable tissue and systems-level adaptations with direct
+consequences for health and disease.
+In a large Italian cohort, childhood socio-economic status
+(SES) correlated with differential epigenetic tagging (methy-
+lation) of several genes involved in inflammation.
+37Systemic
+inflammation plays a key role in many non-communicablediseases of adulthood, particularly cardiovascular disease,
+metabolic syndrome/diabetes, and osteoarthritis. Childhood
+epigenetic modification in response to social stress, if itdid indeed promote inflammation in adulthood, could be a
+“smoking gun”helping to explain the differential rates of non-
+communicable diseases observed across the SES continuum.However, few studies have linked SES-related epigeneticmethylation differences to clinical measures of inflammation,
+a key requirement to demonstrate any potential functionalsignificance of epigenetic adaptations.
+To date, the study that most convincingly addressed this
+question accessed detailed childhood SES data from a publichealth study in the Philippines.
+38Researchers obtained new
+blood samples from the study participants, now all young
+adults, and determined that childhood environmental stres-sors (nutritional, microbial, psychosocial) yielded differential
+methylation of 10 DNA sites across 9 genes that regulate
+inflammation. To confirm that these epigenetic differences
+carried functional consequences, the researchers assayed sev-
+eral biomarkers of inflammation, determining that 4 of themethylation sites did indeed correlate with adulthood levels
+of inflammation. These results provide new evidence that
+the inflammation cascade may be a key system in humansthat is epigenetically regulated by the social determinants of
+health. They are consistent with a growing body of work
+39–41
+suggesting that infancy and childhood are a sensitive period
+during which social and environmental stressors can be trans-
+duced by epigenetic processes into persistent biological adap-
+tations, often described as “biological embedding.”42,43Early
+biological embedding of social stress also appears to under-
+lie differential methylation of genes that regulate immune
+function in adults, with potential consequences for pathogenresistance and exacerbation of systemic inflammation.
+40,44
+This insight is vital as we negotiate the challenges of the
+COVID-19 pandemic, which has demonstrated high mortalityin adults with immune compromise
+45,46and in groups com-
+monly exposed to social stress.47
+Additional “adaptive calibration of the DNA methy-
+lome”40after early childhood social stress occurs within
+the hypothalamic–pituitary–adrenal (HPA) axis. The HPA
+axis governs the production of glucocorticoid (GC) stresshormones, which play key signaling roles in the physiologic
+processes that regulate both inflammation and immune
+function. Malfunction of the HPA axis is implicated inmajor depressive disorder, chronic pain syndromes, cardio-
+vascular disease, metabolic syndrome, and many other non-
+communicable diseases.
+48–50Primate studies using rhesus
+macaques, which have highly stratified social groups, showed
+that low-status individuals experienced epigenetic changesDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Shields and Dudley-Javoroski 7
+that favored transcription of inflammatory genes.51High-
+status individuals showed different epigenetic changes thatfavored transcription of anti-inflammatory genes. Epigenetic
+differences between social classes diminished in animals
+receiving GC drugs, supporting that the effect was mediatedby the HPA axis. Numerous clinical physiology studies have
+reported associations between social stress and elevated
+GC levels and/or GC resistance.
+52,53Epigenetic response
+to social stress in humans is complex and appears to be
+dependent on genotype and to be subject to stochastic
+(random) effects.54However, epigenetic regulation of genes
+governing the HPA axis could play a role in transducing
+social stress, as demonstrated in the primate study above,51
+perhaps playing a role in diseases that are differentially borne
+across sociodemographic groups, such as the especially high
+rates of chronic pain55and COVID-19 mortality47among
+African Americans. Precision medicine of the future will morethan likely focus on epigenetic adaptations to social stress
+in addition to the inter-individual differences in inherited
+genes.
+56Epigenetics may empower us to discover the key
+relationships among the patient’s genome, environment,
+prenatal exposure, and disease risk in time to prevent disease
+development or secondary chronic co-morbidities.56
+Movement, Physical Activity, and Exercise as
+Epigenetic Regulators
+A key question facing precision health care is whether epige-
+netic adaptations that are biologically embedded in childhood
+can be reversed by health-promoting behaviors later in life.Fortunately, a wealth of new studies suggest that movement,
+physical activity, and exercise are powerful “epigenetic inter-
+ventions” that can circumvent or prevent the development ofchronic disease. For physical therapists, the coming decades
+will reveal many new ways that activity-based therapies can
+improve health and longevity by triggering epigenetic adapta-tions.
+At present, we have a very limited understanding of the
+specific epigenetic adaptations that occur in response to
+unhealthy environmental stressors such as sedentary lifestyle,
+overfeeding, and social stress. It is therefore difficult todetermine whether the salutary effects of movement, physical
+activity, and exercise remove these negative adaptations or
+whether they initiate a different set of healthful epigeneticresponses. “Epigenome-wide association studies” are now
+underway to identify specific DNA segments whose epigenetic
+status differs in, for example, sedentary individuals versusthose who habitually engage in physical activity.
+57One
+such study examined 850,000 potential DNA methylation
+loci in human skeletal muscle, showing hypomethylation of>9000 sites after resistance training.
+58(Removal of methyl
+groups would remove a “block” to DNA transcription
+and would therefore facilitate expression of these DNAsequences.) After engaging in prescribed resistance training
+that resulted in hypertrophy, participants ceased training and
+muscle mass returned to baseline levels. But on resumptionof resistance training, 4 genes demonstrated even stronger
+hypomethylation and consequent gene up-regulation than
+had previously occurred during the initial training period.This provides the first compelling evidence for an epigenetic
+“memory” for training in human skeletal muscle. Although
+more investigation is needed, known functions of these 4genes include skeletal muscle cell differentiation and repair,processes that would be essential in any adaptive response
+to exercise. Studies such as this have begun to reveal the
+fundamental biological processes that activity and exercise
+harness, underscoring the summative power of repeated, long-term exposure to activity-based stresses. Future discoveries
+could have prognostic value for physical therapy care. For
+instance, understanding a patient’s methylation status at key
+DNA loci that direct activity-based adaptations
+59could help
+clinicians identify individuals who may be late responders ornon-responders to exercise-based interventions.
+7Armed with
+this knowledge, clinicians may craft precision rehabilitation
+plans that sidestep less fruitful interventions and prioritizealternatives with a greater potential to elicit desired adapta-
+tions.
+Beyond skeletal muscle, new research is also revealing the
+broader ways that physical activity and exercise training elicit
+epigenetic adaptations in key body systems. Additional details
+about the various exercise protocols (mode, dose, intensity)can be found in several recent reviews.
+8,60–64Briefly, evidence
+is amassing that the “gene–environment networks”61that
+control glucose and energy homeostasis—and play a rolein metabolic disease and type-2 diabetes—are epigenetically
+regulated by exercise. In skeletal muscle, exercise appears
+to epigenetically enhance the ability of insulin to “open thedoor” for glucose to enter the working cell. When activated
+by insulin, the insulin receptor at the muscle cell’s surface
+interacts with a chain of many other intra-cellular proteins(kinases) that create a channel through which glucose can be
+transported down its concentration gradient. Clinical stud-
+ies are underway to determine what role epigenetic adapta-tions in insulin-mediated glucose transport play in the well-
+substantiated ability of physical activity and exercise to regu-
+late glucose and insulin and prevent metabolic disease.
+Exercise also appears to trigger other types of epigenetic
+changes in the systems that prevent metabolic disease. Exercise
+triggers widespread epigenetic changes (hypomethylation)across the skeletal muscle genome, notably in the gene
+PPARGC1A , which encodes a protein called PGC1 α.
+65
+PGC1 αis a master transcription factor that coordinates
+metabolic adaptations to exercise by initiating the transcrip-
+tion of a host of downstream pathways, including some in thebrain.
+66Its widespread effects on genes in multiple physiologic
+systems makes PGC1 αa critical gene for transducing physical
+exercise into organism-wide metabolic and cognitive healthadaptations.
+66,67As would be expected, PGC1 αis hyper-
+methylated in type-2 diabetes, signifying that its transcription
+is repressed and its downstream effects are blunted in theseindividuals.
+65We recently reported that even in people with
+spinal cord injury who cannot engage in lower extremity
+voluntary exercise, demethylation of PGC1 αcan be achieved
+by chronic doses of electrically induced muscle exercise.68We
+are working to determine whether these epigenetic changes are
+accompanied by transcriptional adaptations in downstreampathways that regulate glucose and insulin homeostasis, and
+whether these adaptations yield improvements in clinically
+important biomarkers of metabolic health.
+Exercise Dose and Epigenetic Adaptations
+A key theme that we predict will emerge in future stud-
+ies is that epigenetic change, while initiated rapidly by a
+single exercise bout, requires time and repeated exposures to“develop a memory.” Especially in human research, a majorDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+8 Epigenetics, ICF Model, and Population Health
+Figure 5. Epigenetic processes (EP) may biologically mediate the interrelationships among several International Classiﬁcation of Functioning, Disabilit y,
+and Health (ICF) domains. Activities (eg, exercise), environmental factors (eg, social determinants of health) and personal factors (eg, smoking, alcohol
+abuse) may yield epigenetic adaptations of tissues that culminate in positive or negative outcomes in body functions or structures.
+unknown variable is how long a behavioral intervention must
+be maintained before epigenetic adaptation becomes stable.
+For example, epigenetic changes induced by the brief negative
+environmental stress of a 5-day high-fat diet did not resolveeven after 6 weeks of resumption of a healthy diet.
+69This
+potential lag in reversing epigenetic adaptations increases the
+difficulty of measuring the time course for consolidation ofepigenetic benefits of new activity or behavior-based inter-
+ventions. We recently demonstrated that very long durations
+of electrically induced exercise were required to maximallypromote genes in paralyzed muscle that had been repressed
+after long periods of chronic disuse.
+68Although all signs
+indicate that movement, physical activity, and exercise arepowerful epigenetic environmental regulators, we predict that
+future studies will unequivocally show that exercise must be
+recommended to clients as a lifestyle-based intervention, notas a 6- to 12-week quick fix. Although such short intervention
+durations are typical in exercise studies and clinical episodes
+of care, researchers and clinicians should have realistic expec-tations for the likely pace of epigenetic change.
+ICF Model and Epigenetics
+A central theme of this perspective is that epigenetics is a mul-timodal, temporal integrator of exposome stimuli that offersa biological bridge between nature and nurture, between an
+organism’s outer and inner worlds. From a broader health
+care perspective, epigenetic processes may also provide amechanistic link among the many interrelated domains of the
+ICF. This theoretical framework and classification tool pro-
+vides clinicians and researchers with a standard language todescribe disability and function.
+5Rather than the traditional
+“medical model,” which considers disability to be a linear
+consequence of biological disease processes, the ICF modelfacilitates a more coherent view of function and disabilitythat places social, behavioral, environmental, and personal
+factors on an equal footing with biological change. In the
+ICF framework, the social determinants of health typically
+exert their effects on function via the domain “environmentalfactors” ( Fig. 5 ). Although biological factors are typically
+presumed to exert their effects through the domain “body
+functions/structures,” the ICF classification system currentlydoes not include coding designations for genetic or epigenetic
+signatures. We propose that inherited as well as acquired epi-
+genetic signatures can be conceptualized as mediators of theinteractions between several ICF domains. Figure 5 illustrates
+potential ways that epigenetic processes may mechanistically
+link environmental and behavioral ICF domains to affectan individual’s biological systems and overall expression of
+function or disability. This theoretical framework may be
+useful to academic physical therapy programs that emphasizethe ICF model in their curricula but that are looking for
+ways to enhance content relating to medical genetics. In
+the future, precision rehabilitation will certainly respect theimportance of genetic inheritance (a potential “personal fac-
+tors” trait; Fig. 5 ) but need to understand the environmentally
+and behaviorally relevant epigenetic processes that affect bodytissues.
+Figure 6 depicts an example of how the ICF model can cap-
+ture the ways that the social determinants of health (environ-mental factors), health-related personal factors, and regular
+exercise (activities) can all affect the experience of disability
+and functioning for a patient with type 2 diabetes. Epigenetic
+processes may transduce the effects of pervasive environmen-
+tal and behavioral stressors and initiate biological adapta-tions such as impaired glucose metabolism (body functions
+and structures domain). These biological adaptations may
+exacerbate the underlying health condition and undermine anindividual’s ability to carry out daily activities and participate
+in social roles.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Shields and Dudley-Javoroski 9
+Figure 6. Example of International Classiﬁcation of Functioning, Disability, and Health (ICF) qualiﬁers that can be used to characterize disability and
+functioning for a patient with Type 2 diabetes. Epigenetic processes (EP) likely transduce the effects of environmental, personal, and behavioral ( activity)
+factors into tissue-level adaptations that culminate in changes in body structures and function. These changes may, in turn, exacerbate the underly ing
+health condition and trigger further limitations in activities and participation.
+Epigenetics and Patient-Centered Physical
+Therapy
+In this Perspective, we link the burgeoning fields of genomics
+and epigenomics with the social determinants of health and
+exercise-based behaviors within the ICF model. Short term, we
+envision that embedding genetics and epigenetics within theICF theoretical framework will promote a broader academic
+understanding of the complex interactions among personal
+predisposing factors, social/environmental factors, and bio-logic adaptation as it relates to physical therapist exercise-
+based interventions.
+Long term, we envision that genomic/epigenomic, personal,
+and environmental factors will be predictive of responders or
+non-responders to our exercise interventions, assisting us indeveloping sound guidelines and more precise preventative
+treatments. We also envision that artificial intelligence algo-
+rithms will someday play a pivotal role in developing moreprecise practice guidelines by using personalized data about
+lifestyle as well as genetic/epigenetic molecular signatures,
+similar to drug selection, interaction, and delivery programsin medicine today.
+70
+Several recent studies linking epigenetics to activity, behav-
+ior, and the environment can help to illustrate where futureexpansion may occur in physical therapy theory and practice.
+Four examples of recent papers and the implication to physical
+therapist practice are offered.
+First, excessive alcohol consumption triggers epigenetic
+effects that are directly opposite to those observed after
+exercise.
+71In light of this finding, do physical therapists
+routinely query clients about alcohol consumption and
+consider this social behavior when prescribing a dose of
+exercise?
+Second, epigenetic regulation of 3 metabolic genes is
+affected by sleep duration and quality in a sex-dependentmanner.72Do physical therapists routinely consider sleep
+habits of a client before prescribing an exercise program,
+and do they consider how sleep may influence the probability
+of inducing a true behavioral change?
+Third, in muscle cell culture, transcription of certain genes
+relating to metabolism and development are fine-tuned by epi-
+genetic mechanisms that respond to an individual’s circadianrythmn.
+73Do physical therapists optimize the time of day for
+a client to exercise, according to their own biological clocks,
+to promote adaptation, compliance, and ultimately a change
+in behavior?
+Lastly, skeletal muscle has been shown to be a key epige-
+netic predictor of a person’s overall “true” biological age.74
+Do physical therapists consider the biological age versus thechronological age of a client and adjust the prescribed exercisedose accordingly?
+Although many physical therapists intuitively consider
+these factors as part of their routine clinical reasoningprocess, the underlying biological framework supporting their
+approach continues to evolve. Importantly, patient-centered
+care requires that we more comprehensively understand thesocial, environmental, and biological context for each client
+so that we can prevent disease and improve the probability
+that our treatment will be successful.
+Conclusions
+For physical therapy clinicians today, epigenetic discoveries
+about social determinants of health and lifestyle (exercise
+and physical activity) may seem far removed from immediatedecisions concerning intervention selection and dose pre-
+scription. But more actionable discoveries are approaching
+quickly, and it is time for all health care professions toprepare to capitalize on this new science. We do not need toDownloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+10 Epigenetics, ICF Model, and Population Health
+reinvent the wheel. The ICF model gains mechanistic power
+by expanding to include epigenetic processes, and it already
+emphasizes the social determinants of health, a factor that
+deserves greater formal integration into physical therapy care.Academic programs and clinicians can leverage the power of
+the ICF model to prepare the next generation of therapists to
+integrate genomic and epigenomic insights, attention to social
+factors, and an expert understanding of activity into precision
+rehabilitation care that yields enhanced patient outcomes andreduced costs. Precision medicine was once conceptually lim-
+ited to genomics but now strives to incorporate environmental
+and behavioral factors,
+75as shown by the All of Us research
+program.24As the experts in physical activity and exercise,
+physical therapists must engage to drive progress in precision
+health care.
+Author Contributions
+Concept/idea/research design: R.K. Shields
+Writing: R.K. Shields, S. Dudley-JavoroskiProject management: R.K. ShieldsFund procurement: R.K. ShieldsProviding facilities/equipment: R.K. ShieldsClerical/secretarial support: R.K. ShieldsConsultation (including review of manuscript before submitting):
+R.K. Shields
+Funding
+Research findings presented in this study were funded by NationalCenter for Medical Rehabilitation Research grants R01HD-084645and RO1HD-082109 to R.K. Shields. The funders played no role inthe writing of this Perspective.
+Disclosures
+The authors completed the ICMJE Form for Disclosure of PotentialConflicts of Interest and reported no conflicts of interest.
+References
+1. World Health Organization. Social determinants of health . 2020.
+Accessed July 28, 2020. https://www.who.int/social_determinants/
+sdh_definition/en/ .
+2. Hood CM, Gennuso KP, Swain GR, Catlin BB. County health
+rankings: relationships between determinant factors and healthoutcomes. Am J Prev Med . 2016;50:129–135.
+3. Sato M, Du J, Inoue Y. Rate of physical activity and com-
+munity health: evidence from U.S. counties. J Phys Act Health .
+2016;13:640–648.
+4. Rethorn ZD, Cook C, Reneker JC. Social determinants of health:
+if you aren’t measuring them, you aren’t seeing the big picture. J
+Orthop Sports Phys Ther . 2019;49:872–874.
+5. World Health Organization. International Classification of Func-
+tioning, Disability and Health (ICF) . 2020. Accessed July 28, 2020.
+https://www.who.int/classifications/icf/en/ .
+6. Allen CG, Peterson S, Khoury MJ, Brody LC, McBride CM. A scop-
+ing review of social and behavioral science research to translategenomic discoveries into population health impact. Transl Behav
+Med. 2021;11:901–911.
+7. Shields RK. 48th Mary McMillan lecture: turning over the hour-
+glass. Phys Ther . 2017;97:949–963.
+8. Woelfel JR, Dudley-Javoroski S, Shields RK. Precision physical
+therapy: exercise, the epigenome, and the heritability of environ-mentally modified traits. Phys Ther . 2018;98:946–952.9. Chimenti RL, Frey-Law LA, Sluka KA. A mechanism-based
+approach to physical therapist management of pain. Phys Ther .
+2018;98:302–314.
+10. Magnusson DM, Eisenhart M, Gorman I, Kennedy VK, Davenport
+TE. Adopting population health frameworks in physical therapistpractice, research, and education: the urgency of now. Phys Ther .
+2019;99:1039–1047.
+11. Ferryman K, Pitcan M. What is Precision Medicine . Washington,
+DC, USA: Data and Society Research Institute; 2018.
+12. Horesh Bergquist S, Lobelo F. The limits and potential future
+applications of personalized medicine to prevent complex chronic
+disease. Public Health Rep . 2018;133:519–522.
+13. Wild CP. Complementing the genome with an "exposome": the
+outstanding challenge of environmental exposure measurementin molecular epidemiology. Cancer Epidemiol Biomarkers Prev .
+2005;14:1847–1850.
+14. Miller GW, Jones DP. The nature of nurture: refining the definition
+of the exposome. Toxicol Sci . 2014;137:1–2.
+15. Garg A, Boynton-Jarrett R, Dworkin PH. Avoiding the unintended
+consequences of screening for social determinants of health. JAMA .
+2016;316:813–814.
+16. Polli A, Nijs J, Ickmans K, Velkeniers B, Godderis L. Linking
+lifestyle lactors to complex pain states: 3 reasons why understand-ing epigenetics may improve the delivery of patient-centered care.J Orthop Sports Phys Ther . 2019;49:683–687.
+17. Gusella JF, Wexler NS, Conneally PM, et al. A polymorphic
+DNA marker genetically linked to Huntington’s disease. Nature .
+1983;306:234–238.
+18. MacDonald ME, Ambrose CM, Duyao MP, et al. A novel gene
+containing a trinucleotide repeat that is expanded and unstable onHuntington’s disease chromosomes. Cell. 1993; 971–983.
+19. Green ED, Watson JD, Collins FS. Human genome project: twenty-
+five years of big biology. Nature . 2015;526:29–31.
+20. Zenklusen JC, Conti CJ, Green ED. Mutational and functional
+analyses reveal that ST7 is a highly conserved tumor-suppressorgene on human chromosome 7q31. Nat Genet . 2001;27:
+392–398.
+21. National Human Genome Research Institute. NHGRI history and
+timeline of events . Accessed July 29, 2020. https://www.genome.go
+v/about-nhgri/Brief-History-Timeline .
+22. Scott LJ, Mohlke KL, Bonnycastle LL, et al. A genome-wide
+association study of type 2 diabetes in Finns detects multiplesusceptibility variants. Science . 2007;316:1341–1345.
+23. Collins FS, Varmus H. A new initiative on precision medicine. N
+Engl J Med . 2015;372:793–795.
+24. National Institutues of Health All of Us Research Program. All
+of Us Research Program overview . 2020. Accessed July 29, 2020.
+https://allofus.nih.gov/about/all-us-research-program-overview .
+25. Schunkert H, Samani NJ. Into the great wide open: 10 years
+of genome-wide association studies. Cardiovasc Res . 2018;
+114:1189–1191.
+26. Maher B. ENCODE: the human encyclopaedia. Nature . 2012;
+489:46–48.
+27. National Human Genome Research Institute. The Encyclo-
+pedia of DNA Elements (ENCODE) . 2020. Accessed July
+29, 2020. https://www.genome.gov/Funded-Programs-Projects/E
+NCODE-Project-ENCyclopedia-Of-DNA-Elements .
+28. Pennisi E. Genomics. ENCODE project writes eulogy for junk
+DNA. Science . 2012;337:1159–1161.
+29. Balas MM, Johnson AM. Exploring the mechanisms behind long
+noncoding RNAs and cancer. Noncoding RNA Res . 2018;3:
+108–117.
+30. Kaikkonen MU, Lam MT, Glass CK. Non-coding RNAs as
+regulators of gene expression and epigenetics. Cardiovasc Res .
+2011;90:430–440.
+31. Cloud J. Why DNA isn’t your destiny. Time . 2010;18.
+32. Blewitt M, Whitelaw E. The use of mouse models to study epige-
+netics. Cold Spring Harb Perspect Biol . 2013;5:a017939.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Shields and Dudley-Javoroski 11
+33. Cunningham AM, Walker DM, Nestler EJ. Paternal transgen-
+erational epigenetic mechanisms mediating stress phenotypes ofoffspring. Eur J Neurosci . 2021;53:271–280.
+34. Martone J, Lisi M, Castagnetti F, et al. Trans-generational epi-
+genetic regulation associated with the amelioration of Duchennemuscular dystrophy. EMBO Mol Med . 2020;5:e12063.
+35. Soubry A, Murphy SK, Wang F, et al. Newborns of obese parents
+have altered DNA methylation patterns at imprinted genes. Int J
+Obes . 2015;39:650–657.
+36. Office of Disease Prevention and Health Promotion. Healthy peo-
+ple 2030 - social determinants of health . 2020. Accessed November
+16, 2020. https://health.gov/healthypeople/objectives-and-data/so
+cial-determinants-health .
+37. Stringhini S, Polidoro S, Sacerdote C, et al. Life-course socioeco-
+nomic status and DNA methylation of genes regulating inflamma-tion. Int J Epidemiol . 2015;44:1320–1330.
+38. McDade TW, Ryan C, Jones MJ, et al. Social and physical
+environments early in development predict DNA methylation ofinflammatory genes in young adulthood. Proc Natl Acad Sci U S
+A. 2017;114:7611–7616.
+39. Alfano R, Guida F, Galobardes B, et al. Socioeconomic posi-
+tion during pregnancy and DNA methylation signatures at threestages across early life: epigenome-wide association studies in theALSPAC birth cohort. Int J Epidemiol . 2019;48:30–44.
+40. Bush NR, Edgar RD, Park M, et al. The biological embedding
+of early-life socioeconomic status and family adversity in chil-dren’s genome-wide DNA methylation. Epigenomics . 2018;10:
+1445–1461.
+41. Needham BL, Smith JA, Zhao W, et al. Life course socioeconomic
+status and DNA methylation in genes related to stress reactivityand inflammation: the multi-ethnic study of atherosclerosis. Epi-
+genetics . 2015;10:958–969.
+42. Hertzman C. Putting the concept of biological embedding in
+historical perspective. Proc Natl Acad Sci U S A . 2012;109:
+17160–17167.
+43. Demetriou CA, van Veldhoven K, Relton C, Stringhini S, Kyriacou
+K, Vineis P. Biological embedding of early-life exposures and
+disease risk in humans: a role for DNA methylation. Eur J Clin
+Invest . 2015;45:303–332.
+44. Austin MK, Chen E, Ross KM, et al. Early-life socioeconomic
+disadvantage, not current, predicts accelerated epigenetic aging ofmonocytes. Psychoneuroendocrinology . 2018;97:131–134.
+45. Holuka C, Merz MP, Fernandes SB, et al. The COVID-19 pan-
+demic: does our early life environment, life trajectory and socioe-conomic status determine disease susceptibility and severity? Int J
+Mol Sci . 2020;21:5094.
+46. Salimi S, Hamlyn JM. COVID-19 and crosstalk with the hallmarks
+of aging. J Gerontol A Biol Sci Med Sci . 2020;75:e34–e41.
+47. Maroko AR, Nash D, Pavilonis BT. COVID-19 and inequity: a
+comparative spatial analysis of New York City and Chicago hotspots. J Urban Health . 2020;97:461–470.
+48. Cernackova A, Durackova Z, Trebaticka J, Mravec B. Neuroin-
+flammation and depressive disorder: the role of the hypothalamus.J Clin Neurosci . 2020;75:5–10.
+49. Rahman MH, Bhusal A, Lee WH, Lee IK, Suk K. Hypothalamic
+inflammation and malfunctioning glia in the pathophysiology ofobesity and diabetes: translational significance. Biochem Pharma-
+col. 2018;153:123–133.
+50. Nees F, Loffler M, Usai K, Flor H. Hypothalamic-pituitary-adrenal
+axis feedback sensitivity in different states of back pain. Psy-
+choneuroendocrinology . 2019;101:60–66.
+51. Snyder-Mackler N, Sanz J, Kohn JN, et al. Social status alters
+chromatin accessibility and the gene regulatory response to glu-cocorticoid stimulation in rhesus macaques. Proc Natl Acad Sci U
+SA. 2019;116:1219–1228.
+52. Miller GE, Cohen S, Ritchey AK. Chronic psychological stress and
+the regulation of pro-inflammatory cytokines: a glucocorticoid-resistance model. Health Psychol . 2002;21:531–541.53. Walsh CP, Ewing LJ, Cleary JL, et al. Development of glucocor-
+ticoid resistance over one year among mothers of children newlydiagnosed with cancer. Brain Behav Immun . 2018;69:364–373.
+54. Matthews SG, McGowan PO. Developmental programming of
+the HPA axis and related behaviours: epigenetic mechanisms. J
+Endocrinol . 2019;242:T69–T79.
+55. Aroke EN, Joseph PV, Roy A, et al. Could epigenetics help explain
+racial disparities in chronic pain? JP a i nR e s . 2019;12:701–710.
+56. Feinberg AP. The key role of epigenetics in human disease preven-
+tion and mitigation. NE n g lJM e d . 2018;378:1323–1334.
+57. Fernandez-Sanles A, Sayols-Baixeras S, Castro DEMM, et al. Phys-
+ical activity and genome-wide DNA methylation: the REgistre
+GIroni del COR study. Med Sci Sports Exerc . 2020;52:589–597.
+58. Seaborne RA, Strauss J, Cocks M, et al. Human skeletal muscle pos-
+sesses an epigenetic memory of hypertrophy. Sci Rep . 2018;8:1898.
+59. Hibler E, Huang L, Andrade J, Spring B. Impact of a diet and
+activity health promotion intervention on regional patterns ofDNA methylation. Clin Epigenetics . 2019;11:133.
+60. Zimmer P, Bloch W. Physical exercise and epigenetic adaptations
+of the cardiovascular system. Herz . 2015;40:353–360.
+61. Barres R, Zierath JR. The role of diet and exercise in the trans-
+generational epigenetic landscape of T2DM. Nat Rev Endocrinol .
+2016;12:441–451.
+62. Grazioli E, Dimauro I, Mercatelli N, et al. Physical activity in the
+prevention of human diseases: role of epigenetic modifications.BMC Genomics . 2017;18:802.
+63. Fernandes J, Arida RM, Gomez-Pinilla F. Physical exercise as an
+epigenetic modulator of brain plasticity and cognition. Neurosci
+Biobehav Rev . 2017;80:443–456.
+64. Beiter T, Niess AM, Moser D. Transcriptional memory in skele-
+tal muscle. Don’t forget (to) exercise. JC e l lP h y s i o l . 2020;235:
+5476–5489.
+65. Barres R, Yan J, Egan B, et al. Acute exercise remodels pro-
+moter methylation in human skeletal muscle. Cell Metab . 2012;15:
+405–411.
+66. Wrann CD, White JP, Salogiannnis J, et al. Exercise induces hip-
+pocampal BDNF through a PGC-1alpha/FNDC5 pathway. Cell
+Metab . 2013;18:649–659.
+67. Bonen A. PGC-1alpha-induced improvements in skeletal muscle
+metabolism and insulin sensitivity. Appl Physiol Nutr Metab .
+2009;34:307–314.
+68. Petrie M, Sharma A, Taylor EB, Suneja M, Shields RK. Impact of
+short and long-term electrically induced muscle exercise on genesignaling pathways, gene expression, and PGC1a methylation inmen with spinal cord injury. Physiol Genomics . 2020;52:71–80.
+69. Jacobsen SC, Brons C, Bork-Jensen J, et al. Effects of short-
+term high-fat overfeeding on genome-wide DNA methylationin the skeletal muscle of healthy young men. Diabetologia .
+2012;55:3341–3349.
+70. Voermans AM, Mewes JC, Broyles MR, LMG S. Cost-effectiveness
+analysis of a procalcitonin-guided decision algorithm for antibi-otic stewardship using real-world U.S. hospital data. OMICS .
+2019;23:508–515.
+71. Chen J, Hutchison KE, Bryan AD, et al. Opposite epigenetic asso-
+ciations with alcohol use and exercise intervention. Front Psych .
+2018;9:594.
+72. Jansen EC, Dolinoy DC, O’Brien LM, et al. Sleep duration and
+fragmentation in relation to leukocyte DNA methylation in ado-lescents. Sleep . 2019;42:zsz121.
+73. Altintas A, Laker RC, Garde C, Barres R, Zierath JR. Transcrip-
+tomic and epigenomics atlas of myotubes reveals insight into the
+circadian control of metabolism and development. Epigenomics .
+2020;12:701–713.
+74. Voisin S, Eynon N, Yan X, Bishop DJ. Exercise training and DNA
+methylation in humans. Acta Physiol . 2015;213:39–59.
+75. McEwen BS. Integrative medicine: breaking down silos of
+knowledge and practice an epigenetic approach. Metabolism .
+2017;69S:S21–S29.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab247/6413906 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+

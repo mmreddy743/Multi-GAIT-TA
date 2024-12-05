@@ -1,0 +1,592 @@
+                     
+ 
+ 
+Activity Based Neural and Musculoskeletal Plasticity in Healthcare  
+PTRS: 6224   
+Fall 2024  
+ 
+ 
+Course Coordinator:  
+Richard K. Shields, PT, PhD, FAPTA  
+Professor, Chair & DEO  
+Office: 1 -254 MEB  
+Phone: 319- 335-9791  
+E-mail:  richard -shields@uiowa.edu  
+Office hours: by appointment through Carol Leigh ( carol -leigh@uiowa.edu ) 
+ Lab Assistants:  
+Michael Petrie, BSE, DC, PhD ( michael -petrie@uiowa.edu
+) 
+Olga Dubey, MD ( olga-dubey@uiowa.edu ) 
+Chishan Shiao ( chishan- shiao@uiowa.edu ) 
+Jason Wu ( jason -wu@uiowa.edu ) 
+ 
+Course Description : 
+In this course students will use c ritical thinking skills to evaluate existing literature and build novel 
+hypothes es around activity -based plasticity —and how it influences overall health.   Learners  will 
+triangulate information from online lectures (flipped), contemporary readings, and in- class 
+discussion s to develop a n “in depth” appreciat ion of the complexities involved with movement  and 
+how it may signal tissues to impact overall health and well -being.  Quality movement requires 
+efficient coordination among all systems to maximize function and optimize performance.  Accordingly, we review key concepts related to muscle mechanics, muscle activation,  metabolism, 
+nutrition, hypertrophy/atrophy, genomics/epigenetics, cognitive function,  fatigue, and sensory -motor 
+control . We discuss crosstalk among tissues and how pleiotropism at the gene level mediates cells 
+and tissue adaptations.  The course ends by applying scientific based principles to better understand 
+how to optimize movement among people with spinal cord injury.  
+  
+Course Website:  
+The course site can be accessed using the University course management ICON at 
+https://icon.uiowa.edu
+. You will need your HAWK ID and password to log- in. 
+ Zoom Meeting Link:  
+None
+  
+ Credit  Hours:  
+4 semester hours   
+ 
+
+ 2 Contact H ours :       
+Interactive lecture and discussion: 4hrs/week  
+ 
+Course Time and Location:   
+Wednesdays & Fridays 8:00- 10:20  
+Room 1-261 MEB or as announced (see schedule)  
+  
+Prerequisites :  
+Enrolled in the Department of Physical Therapy & Rehabilitation Science or by special permission of 
+the instructor.  Biology, general physiology, neuroscience, kinesiology, pathology, and anatomy.  
+ 
+Course Objectives:  
+Following this course, students will be able to:  
+1. Analyze contemporary and classic literature in order to understand the plasticity of molecular 
+signaling pathways, cells, tissues, and organs with emphasis on response to movement based 
+physiological stress.   
+2. Formulate an understanding of the complexity of an adaptive system and implement strategies to 
+become a solid consumer of the underlying basis for why movement, exercise, mechanical tissue 
+forces, and environmental stresses may regulate key tissue function.  
+3. Integrate key concepts of anatomy, kinesiology, neuroscience, motor control, exercise physiology, genomics /epigenetics , and pathology to analyze and understand movement control 
+problems in people with reduced activity from injury, surgery, pain, or age.  
+4. Develop the scientific basis to prescribe exercise, physical activity, or movement control strategies for people with and without injury, disease, pain, addiction, surgery across the 
+lifespan.  
+ Learning Objectives:   
+Throughout this course , students will  learn to :  
+1. Explain the links between therapeutic movement and genomics/ epigenetics, mitochondrial 
+function, metabolic disease, accelerated aging (methylation) and crosstalk among various 
+tissues and decribe  how epigenetics may be applied to the ICF model.  
+2. Describe how skeletal muscle is a powerful endocrine organ with the capacity to release myo-
+kines into the bloodstream and trigger CNS plasticity and regulate other tissues associated with 
+metabolic disease including bone, liver, and islet cells.  Integ rate importance about novel findings 
+that Extracellular Vesicles exist and what that may mean in terms of mRNA and microRNA and ultimately form the underlying basis for crosstalk among human movement systems.  
+3. Describe the structure and function of motor units and compare their functions according to the size principle.  
+4. Assess the developmental basis for specific motor units aligning with certain muscle fiber 
+histochemistry and gene expression.  
+5. Analyze the evidence supporting that the nervous system adapts during strength training.  
+6. Formulate the basis for adaptations in skeletal muscle associated with "reduced use".  
+7. Differentiate the primary sites associated with fatigue in the segmental and central nervous system.  
+8. Describe the adaptations associated with strength versus endurance training.  
+9. Propose the hypothesis for the torque -velocity relationship (Hill's equation) and length -tension 
+relation from a CNS control perspective including new information on titin and its contribution to 
+transient and steady force enhancement.  
+10. Explain the equilibrium -point hypothesis in motor control and the importance of the peripheral 
+muscle mechanical properties.  
+11. Contrast the findings associated with various models of disuse induced by spinal cord injury, 
+peripheral nerve injury, weightlessness, and casting.  
+ 3 12. Examine how simple reflexes function including the alpha and gamma systems.  
+13. Formulate the physiological basis for a "clasp knife response" as seen in complete spinal injured 
+patients.  
+14. Discuss the sophistication of complex reflexes, their ability to modulate, and research evidence supporting their existence.  
+15. Discriminate/differentiate among the terms motor control, motor learning, motor development, 
+and motor program.  
+16. Evaluate the differences between the hierarchical and parallel model of motor control.  
+17. Examine the application of movement principles in physical therapy practice.  
+18. Explain the problems the CNS is confronted with regarding control of an infinite number of 
+movements.  
+19. Compare between normal synergies and pathological synergies and distinguish differences in 
+stiffness.  
+20. Define coordination as it pertains to motor control principles.  
+21. Review an example of a generalized motor program, an invariant in a motor program, and the 
+parameters of a motor program.  
+22. Criticize the key elements that supported the centralist and peripheralist theory of movement 
+control.  
+23. Compare between knowledge of performance and knowledge of results as forms of feedback 
+during motor learning.  
+24. Analyze the significance of the triphasic burst with regard to the centralist view of movement control.  
+25. Discuss anticipatory motor responses during handgrip and upright postural control.  
+26. Define central set and how patient motivation might influence patient balance performance.  
+27. Explain the basis for the sensory organization test and how it assesses components of somato -
+sensory control for posture and balance.  
+28. Describe the relevance of long latency responses following limb perturbation under normal and 
+pathological conditions.  
+29. Rank human performance tests used to assess balance including the Berg balance scale, 
+functional reach tests, and self -reported questionnaires.  
+30. Report the role of the sensory pathways (anterolateral spinothalamic, spinocerebellar, dorsal columns) in various types of incomplete spinal cord injuries.  
+31. Describe  motor pathway anatomy (corticospinal, rubrospinal, reticulospinal, vestibulospinal) to 
+explain residual function in persons with incomplete spinal lesions.  
+32. Contrast clinical signs and symptoms for patients with basal ganglia and cerebellar disorders.  
+33. Demonstrate the ability to comprehend contemporary research articles evaluating feedforward, central, and peripheral components of motor control.  
+34. Demonstrate an outcomes -oriented approach when evaluating movement control problems in 
+patients with spinal cord injury, stroke, Parkinson’s, and cerebellar disease.  
+35. Identify the assumptions underlying some of the neurophysiological treatment approaches.  
+36. Distinguish between cranial nerve tests that influence clinical decision making from those that do not influence clinical decision making.  
+37. Describe the use of the University of Iowa level of assistance scales when assessing function.  
+38. Recognize the neurological changes that occur over the entire lifespan (infancy to elderly) and 
+how they can be influenced by exercise.  
+39. Integrate principles of motor control and learning to patients with ACL deficiency, low back pain, 
+and hip arthritis.  
+40. Demonstrate an understanding of the autonomic nervous system by explaining the basis for autonomic hyperreflexia in patients with complete spinal cord injury.  
+41. Demonstrate knowledge of segmental motor levels by determining the precise level (using ASIA 
+criteria) for an individual with a spinal cord injury.  
+42. Explain the physiological basis for higher risk of pressure sores in patients with acute SCI.  
+ 4 43. Describe the pathomechanics leading to a claw hand.  
+44. Explain how poor wheelchair posture may contribute to the development of a pressure sore in 
+patients with SCI.  
+45. Discuss the implications of adipose tissue on neural health.  
+46. Review the implications of systemic inflammation on cognitive function and aging.  
+47. Present the principles of epigenetics and implications to physical therapy.  
+48. Discuss the energy systems involved with metabolism of all tissues and the impact of impaired mitochondrial function.  
+49. Demonstrate key concepts related to crosstalk among various tissues.  
+50. Create and justify a  physical restoration intervention that uses principles of regenerative 
+medicine and epigenetics .  
+51. Demonstrate how understanding molecular signaling pathways may assist you in 1) consulting a 
+dietician/nutritionist; 2) modifying an intervention; 3) developing a new intervention; and 4) 
+understanding a mechanism as to why a specific intervention may appear to be effective when 
+treating people with movement -based impairments.  
+52. Demonstrate an ability to use Cynefin’s Framework to improve clinical decision making and 
+reasoning when confronted with complicated and chaotic patient and healthcare conditions.  
+ 
+Affective Objectives:  
+You may choose to include affective objectives, such as:  
+1. Demonstrate professional behaviors and respect for all speakers by:  
+• arriving promptly and not leaving early;   
+• turning off all cell phones, or placing them on silent mode; no texting during class;   
+• listening  attentively  to all presentations.  
+2. Participate in classroom discussions.  
+3. Be prepared for class by completing assigned readings prior to class.  
+4. Complete all assignments by their deadlines.  
+5. Notify the instructor if you must miss a class time or exam.  
+ 
+ 
+Required and Recommended Course Materials:  
+Required texts  : 
+ No required textbook.  
+ 
+Recommended texts : 
+ No recommended textbooks.  
+ 
+Required readings : 
+Learning packets include ~40 contemporary or historically meaningful publications  
+ *Learning Packet #1:   Molecular metrics of plasticity, Muscle Properties, Accelerated Aging, 
+Telomeres, Exercise, Epigenetics, Muscle, Bone, Nerve Plasticity, Muscle Fatigue, Reduced Use, 
+Muscle Strengthening, Metabolism, Molecular Principles with implications to reduced mobility, 
+Epigenetics.  
+ 
+*Learning Packet #2:  Spinal mechanisms, reflexes, stretch reflexes, H -reflex, Spasticity, Central 
+Pattern Generators, Fictive locomotion, Motor Control Principles, Synergies, Precision Grip, Feedback, Dorsal/Ventral Stream -Perception vs Action, Perspectives on Balance, Forced Use, Use 
+Dependent lesions, Higher Center Plasticity, Motor Learning,  
+ 
+*Learning Packet #3:  Spinal Cord Injury  
+ 
+ 5  
+Instructional  Methods and Learning Experiences:   
+You will participate in lecture/lab/demonstration sessions during the semester. You will be challenged to be an active participant in the learning process through class discussion, self -
+study/independent discovery.  
+ 
+Student Evaluation/Grading:  
+ 
+This course will utilize course assignments, open questioning, and examinations to evaluate the 
+acquisition of course content presented by in -class lectures and discussions , online or pre- recorded 
+lectures, and/or assigned readings. All forms of evaluation will examine your ability to acquire and 
+apply the knowledge obtained from course content. Examinations will be cumulative due to the inter -
+relationship of body systems.  
+ In the event of an unavoidable absence, make- up examinations may be offered.   
+ There will be three written exams made up of short answer/essay questions.  The questions assess 
+your ability to communicate clearly in written form, which is consistent with the documentation/ 
+communication required among health care team members. Questions will come from assigned 
+readings, discussions, and lecture material. The questions are designed to challenge the learner to 
+translate knowledge into  application- improving a learner’s  ability to select, justify, or question a 
+clinical intervention.   Reme diation involves retaking questions as it pertains to the identified 
+deficiency.  
+ Grading is as follows:  
+ 85-100%  A      <70%        I-Incomplete (remediation)    
+70-85% B  <70%        F -Failed remediation   
+           
+PTRS:6224  Grade Assignment   
+3 written exams   75%      
+ 
+In Class Questions   25% 
+ 
+PTRS:6224  Scoring Rubric   
+Written exams  and individual classroom questions  are assessed by  how the learner  uses pre -
+existing knowledge to justify their response .  The learner will be assessed on their ability to use 
+Cynefin’s  Framework when confronted with a decision as related to clinical practice.  
+“Four of these domains (i .e., simple, complicated, complex, and chaotic) require clinicians to 
+diagnose situations and act in ways that are contextually appropriate. The two domains ‘simple’, 
+‘complicated’ —with clear links between cause and effect and where correct answers can be 
+determined based on data and facts. The two domains “complex” and “chaos” offers clinical conditions where there is no apparent cause and effect relationship, where emerging patterns must 
+inform future actions. ” Health Sci Rep. 2021;4:e363.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 6 Attendance : 
+Attendance is expected.  
+ 
+Classroom Expectations : 
+Students are expected to comply with University policies regarding appropriate classroom  behavior 
+as outlined in the Code of Student Life .  While students have the right to express themselves and 
+participate freely in class, it is expected that students will behave with the same level of courtesy and 
+respect in the virtual class setting (whether asynchronous or synchronous) as they would in  an in-
+person classroom. Failure to follow behavior expectations as outlined in the Code of Student 
+Life may be addressed by the instructor and may also result in discipline under the Code of Student 
+Life policies governing E.5 Disruptive Behavior or E.6 Failure to Comply with University Directive.  
+ 
+Course Standards  and Policies:  
+ 
+Professional Behaviors : 
+Professional behaviors  are behaviors, attributes, or characteristics that are not explicitly part of a 
+profession's core knowledge and technical skills but are nevertheless required for success in that 
+profession. Professional behaviors , which define expected behavior within a given profession, serve 
+as the foundati on for ability -based learning.  (https://www.marquette.edu/physical -
+therapy/documents/professional -behaviors.pdf .)   Students are evaluated by faculty each semester 
+regarding their professional behaviors.  The 10 abilities and definitions are listed below:  
+1. Critical Thinking -  The ability to question logically; identify, generate and evaluate elements 
+of logical argument; recognize and differentiate facts, appropriate or faulty inferences, and 
+assumptions; and distinguish relevant from irrelevant information. The ability to appr opriately 
+utilize, analyze, and critically evaluate scientific evidence to develop a logical argument, and to identify and determine the impact of bias on the decision- making process.  
+2. Communication - The ability to communicate effectively (i.e. verbal, non- verbal, reading, 
+writing, and listening) for varied audiences and purposes.  
+3. Problem Solving –  The ability to recognize and define problems, analyze data, develop and 
+implement solutions, and evaluate outcomes.  
+4. Interpersonal Skills –  The ability to interact effectively with patients, families, colleagues, 
+other health care professionals, and the community in a culturally aware manner.  
+5. Responsibility – The ability to be accountable for the outcomes of personal and professional 
+actions and to follow through on commitments that encompass the profession within the 
+scope of work, community and social responsibilities.  
+6. Professionalism – The ability to exhibit appropriate professional conduct and to represent 
+the profession effectively while promoting the growth/development of the Physical Therapy 
+profession.  
+7. Use of Constructive Feedback –  The ability to seek out and identify quality sources of 
+feedback, reflect on and integrate the feedback, and provide meaningful feedback to others.  
+8. Effective Use of Time and Resources –  The ability to manage time and resources 
+effectively to obtain the maximum possible benefit.  
+9. Stress Management – The ability to identify sources of stress and to develop and implement 
+effective coping behaviors; this applies for interactions for: self, patient/clients and their families, members of the health care team and in work/life scenarios.  
+10. Commitment to Learning – The ability to self -direct learning to include the identification of 
+needs and sources of learning; and to continually seek and apply new knowledge, behaviors, 
+and skills.  
+ 
+Administration : 
+This course adheres to the Department of Physical Therapy and Rehabilitation Sciences Policy 
+Manual (located on class ICON and department ICON courses). Please refer to this document for 
+ 7 details on important classroom policies and procedures such as review and promotion, academic 
+dishonesty, disciplinary action, student mistreatment, emergency procedures, etc.  In addition, t he 
+Rules and Regulations of the Graduate College apply to all students in the Physical Therapy and 
+Rehabilitation Science Graduate Program . These rules and regulations are published in the 
+University’s General Catalog and a manual is available online at:  
+https://grad.uiowa.edu/academics/manual  
+Course Evaluation:  Assessing the Classroom Environment (ACE) : 
+Every student must  provide their anonymous evaluation of the course and course instructor(s) so 
+that we can continuously monitor and improve our educational program.  Our department policy 
+requests all instructors provide 15– 20 minutes of class time during final exam week for students to 
+complete the online ACE evaluations.  Instructors may make alternate arrangements for their 
+specific course if they do not have a final exam or an alternate time works better for their class for 
+completion of the ACE evaluations during a scheduled class time. These responses are then 
+tabulated and provided to the Instructor(s) and Department Executive Officer after grades have been 
+submitted.  Your honest feedback is earnestly considered and is critical to the continued success of 
+our program.  
+ 
+Electronic Communication:  
+University policy specifies that students are responsible for all official correspondences sent to their 
+standard University of Iowa e- mail address (@uiowa.edu). Students should check this account daily . 
+ 
+Electronic Technologies in the Classroom : 
+Computers, laptops, mobile devices such as phones and media players are to be used for learning 
+exercises.  Professional behavior is expected.  Disruption of the classroom learning experience will 
+not be tolerated.  
+ 
+Sharing of Class Recordings (if appropriate) : 
+Some of the sessions in this course will be recorded or live- streamed.   Such recordings/streaming 
+will only be available to students registered for this class  in the event that they miss the class .  These 
+recordings are the intellectual property of the faculty,  and they may not be shared or reproduced 
+without the explicit, written consent of the faculty member.   Further, students may not share these 
+sessions with those not in the class or upload them to any other online environment.   Doing so would 
+be a breach of the Code of Student Conduct, and, in some cases, a violation of state and federal 
+law, including the Federal Education Rights and Privacy Act (FERPA).  
+ 
+Non-discrimination Statement : 
+The University of Iowa prohibits discrimination in employment, educational programs, and activities 
+on the basis of race, creed, color, religion, national origin, age, sex, pregnancy, disability, genetic 
+information, status as a U.S. veteran, service in the U.S. military, sexual orientation, gender identity, 
+associational preferences, or any other classification that deprives the person of consideration as an 
+individual. The university also affirms its commitment to providing equal opportunities and equal 
+access to university facilities. For additional information on nondiscrimination policies, contact the 
+Director,  Office of Institutional Equity , the University of Iowa, 202 Jessup Hall, Iowa City, IA  52242 -
+1316, 319 -335-0705,  oie-ui@uiowa.edu . Students may share their pronouns and chosen/preferred 
+names in  MyUI , which is accessible to instructors and advisors.  
+ 
+Accommodations for Students with Disabilities : 
+The University is committed to providing an educational experience that is accessible to all 
+students.   If a student has a diagnosed disability or other disabling condition that may impact the 
+student’s ability to complete the course requirements as stated in the syllabus, the student m ay seek 
+accommodations through Student Disability Services  (SDS).   SDS is responsible for making Letters 
+ 8 of Accommodation (LOA) available to the student.   The student must provide a LOA to the instructor 
+as early in the semester as possible, but requests not made at least two weeks prior to the 
+scheduled activity for which an accommodation is sought may not be accommodated.  The LOA will 
+specify what reasonable course accommodations the student is eligible for and those the instructor 
+should provide.  Additional information can be found on the SDS website . 
+ 
+Sexual Harassment /Sexual Misconduct and Supportive Measures : 
+The University of Iowa prohibits all forms of sexual harassment, sexual misconduct, and related 
+retaliation. The Policy on Sexual Harassment and Sexual Misconduct  governs actions by students, 
+faculty, staff and visitors. Incidents of sexual harassment or sexual misconduct can be reported to 
+the Title IX and Gender Equity Office  or to the  Department of Public Safety . Students impacted by 
+sexual harassment or sexual misconduct may be eligible for academic supportive measures and can 
+learn more by  contacting the Title IX and Gender Equity Office . Information about confidential 
+resources can be found here. Watch the video for an explanation of these resources.  
+ 
+Mental Health:  
+Students are encouraged to be mindful of their mental health and seek help as a preventive measure 
+or if feeling overwhelmed and/or struggling to meet course expectations.   Students are encouraged 
+to talk to their instructor for assistance with specific class -related concerns.   For additional support 
+and counseling, students are encouraged to contact Universi ty Counseling Service 
+(UCS).   Information about UCS, including resources and how to schedule an appointment, can be 
+found at  counseling.uiowa.edu .  Find out more about UI mental health services 
+at:  mentalhealth.uiowa.edu . 
+ 
+Basic Needs and Support for Students : 
+Student Care & Assistance provides assistance to University of Iowa students experiencing a variety 
+of crisis and emergency situations, including but not limited to medical issues, family emergencies, 
+unexpected challenges, and sourcing basic needs such as  food and shelter.  More information on 
+the resources related to basic needs can be found at:  basicneeds.uiowa.edu/resources/ .  Students 
+are encouraged to contact Student Care & Assistance in the Office of the Dean of Students (Room 
+135 IMU,  dos-assistance@uiowa.edu , or 319 -335-1162) for support and assistance with resources.  
+ 
+Academic Fraud:  
+Plagiarism and any other activities when students present work that is not their own (cheating) are 
+academic fraud.  Examples of academic fraud include:  
+• Presentation of ideas from sources that you do not credit;  
+• Use of direct quotations without quotation marks and without credit to the source;  
+• Paraphrasing information and ideas from sources without credit to the source;  
+• Failure to provide adequate citations for material obtained through electronic research;  
+• Downloading and submitting work from electronic databases without citation;  
+• Participation in a group project which presents plagiarized materials;  
+• Taking credit as part of a group without participating as required in the work of the group;  
+• Submitting material created/written by someone else as one’s own, including purchased 
+term/research papers  or AI generated reports.  
+ 
+These rules and regulations are published in the University’s General Catalog and a manual is 
+available online at:  https://grad.uiowa.edu/academics/manual  
+ 
+Concerns about Faculty Actions : 
+Students who have a concern about a faculty action should first address the issue with the instructor .  
+If you remain unsatisfied you may contact the DEO of the Department of Physical Therapy  and 
+ 9 Rehabilitation Science, Richard Shields  (319-335-9801).  If the student cannot resolve the issue at 
+this level, the concern should be sent in writing to the Dean of the Graduate College.  
+ 
+Reacting Safely to Severe Weather : 
+In severe weather, class members should seek appropriate shelter immediately, leaving the 
+classroom if necessary. The class will continue, if possible, when the event is over. For more 
+information on Hawk Alert and the siren warning system, visit http://hawkalert.uiowa.edu  or 
+http://police.uiowa.edu.  
+ 
+Protocol for Handling Emergencies : 
+Dial 911 if there is any threat to life or a situation that requires an immediate response from police, fire, or emergency medical services. When dialing from a campus phone, dial 9- 911.  You cannot 
+send a text message to 911.    
+The following numbers are provided for non ‐emergency situations. Use of these numbers will still 
+provide a response from the appropriate agency and keep 911 lines free for actual emergencies.  
+University of Iowa Police : 319 ‐335‐5022  
+Facility Management (Work Control) : 319 ‐335‐5071 
+Information Technology : 319‐384‐4357  
+Environmental Health and Safety : 319‐335 ‐8501  
+ 
+Grievance Policy : 
+In general, the Department  adheres to the policies of the current issue of the Manual of Rules and 
+Regulations of the Graduate College as specified in Section IV . The manual is available online at:  
+https://grad.uiowa.edu/academics/manual . In addition, the Department of Physical Therapy and 
+Rehabilitation Science has established formal procedures for student grievances, which are detailed 
+in the Department Policy Manual . Refer to this document on your class ICON site for more specifics .  
+ 
+Meeting Course Standards : 
+Any student who experiences difficulty or anticipates possible difficulty in successfully meeting the course standards is encouraged to speak with the course coordinator as soon as the difficulty is 
+suspected. Academic assistance is available through a var iety of University resources such as the 
+Tutor Referral Service ( http://tutor.uiowa.edu/find -help/
+) and the  Writing Center  
+(http://writingcenter.uiowa.edu/ ). See these web pages for details. In addition, physical or mental 
+health concerns can be addressed at Student Health (http://studenthealth.uiowa.edu/ ) and the 
+University  Counseling Service ( http://counseling.studentlife.uiowa.edu/ ), respectively.   
+ 
+Free Speech and Expression:  
+The University of Iowa supports  and upholds  the First Amendment protection of  freedom of 
+speech and the principles of  academic and artistic freedom. We are committed to open inquiry, 
+vigorous debate, and creative expression inside and outside of the classr oom. Visit the  Free Speech 
+at Iowa website  for more information on the university’s policies on free speech and academic 
+freedom.  
+ 
+Absences for Religious Holy Days : 
+The University is prepared to make reasonable accommodations for students whose religious holy 
+days coincide with their classroom assignments, test schedules, and classroom attendance 
+expectations.  Students must notify their instructors in writing of any such Religious Holy Day 
+conflicts or absences within the first few days of the semester or session, and no later than the third 
+week of the semester.   If the conflict or absence will occur within the first three weeks of the 
+semester, the student should notify the instructor as soon as possible.   See Operations Manual 8.2 
+Absences for Religious Holy Days  for additional information.   
+ 10  
+Course Schedule:  
+ 
+SCHEDULE OF LECTURE AND LABORATORY TOPICS  
+(8:00 -10:20 Wednesdays; 8:00 -10:20 Fridays)  
+Day Date  Lecture/Laboratory  
+W 8/26 Lecture 1  Background  (on ICON):  Plasticity -Adaptation -Outcome Model 
+(recommended speed  for all lectures online  1.5X) 
+ 
+Lecture and Discussion/Questions  
+ READINGS:  1a, 1b education  
+ 
+F 8/30 Lecture 2 Length -Tension ; Lecture 3 Force -Velocity    
+ 
+Lecture and Discussion/Questions  
+ 
+READINGS:  2a muscle -titan   
+W 9/4 Lecture 4 Eccentrics    
+ 
+Lecture and Discussion/Questions  
+ 
+READINGS:  2b muscle -force -velocity   
+F 9/6 Lecture 5:  Muscle activation ; Lecture 6: Motor units; Lecture 7: Plasticity  
+ Lecture and Discussion/Questions  
+ 
+READINGS 2c muscle -ecc-con-cancer; 2d muscle fatigue sci app  
+W 9/11 Lecture and Discussion/Questions  (Back to basics: metabolism)  
+ 
+READINGS 3a metabolism quiz; 3b metabolism review; 3c metabolism 
+summary  
+F 9/13 Lecture and Discussion/Questions  (Metabolism: Precision PT)  
+  
+READINGS 3d metabolism ;4a epigenetics -precision rehab; 4b epigenetics -
+nature  
+W 9/18 Lecture and Discussion/Questions (Aging/epigenetics  
+ 
+READINGS 4c epigenetics -age 
+F 9/20 Lecture and Discussion/Questions  
+ 
+READINGS: 5a muscle signaling; 5b muscle memory  
+W 9/25 Lecture and Discussion/Questions  
+ 
+READINGS: 6a nutrition/polyphenols; 6b nutrition/caloric restriction  
+F 9/27 Lecture and Discussion/Questions  
+ 
+READINGS:  7a sci application -gene; 7b sci application -genomic  
+W 10/2 Written Exam #1  
+F 10/4 Attend PTRS Summit 8 -12:00  
+ 
+ 11 W 10/9 Lecture and Discussion: Questions from readings.  
+ 
+READINGS: 1a, 1b: Brain Metabolism  
+F 10/11  Lecture and Discussion: Questions from readings . 
+ 
+READINGS: 1c, 1d:  Brain Metabolism  
+W 
+ 
+ 10/16  Lecture and Discussion: Questions from readings . 
+ 
+Patient Based Laboratory: 9 -10:30  
+ 
+READINGS: 1e,1f: Brain Metabolism  
+F 
+NO 
+CLASS  10/18  Online Lecture s: Reflexes 1 ; Reflexes 2 :  Clasp -Knife Phenomenon, 
+Reinnervation- Cope’s Work, Higher Level “Reflex” Circuits  
+ 
+READINGS: 2a, 2c: Reflexes -H-reflex -Spasticity  
+W 10/23  Online Lectures: CPG1 ; CPG2 :  Higher Level Circuits, CPG in Humans, 
+Clinical Considerations of Reflexes, Rudimentary Motor Programs  
+ Discussion: Questions from lectures  and readings . 
+ 
+READINGS: 2b: Reflex -CPG  
+F 10/25  Online Lecture s:  LLR1; LLR2 : Long Latency Reflexes, Triggered Responses, 
+Central Set, Functional example (Picking Apples)   
+ 
+Discussion: Questions from lectures and readings . 
+ 
+READINGS:  2d, 2e: LLR-lower  and upper  
+W 10/30  Online Lecture :  Balance/Posture : Perturbation Synergies, Sensory 
+Organization Test, Sensory Conflict  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READINGS:  none  
+F 11/1 Online Lecture: Light touch :  General Motor Control Concepts, Postural 
+Control, Lackner and Horak Work  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READINGS:  none  
+W 11/6 Online Lecture:   Peripheral -Central Movement : Equilibrium Point Theory, 
+Motor Learning Principles  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READING s:  None  
+F 11/8 Online Lecture :  Dynamic Position Sense:  Coordination  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READING:  3a: Proprioception -dynamic position  
+  
+ 12 W 11/13  Online Lecture :  Dynamic PS2: Efferent Copy  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READING:  3b: Proprioception: influence of cutaneous  
+F 11/15  Online Lecture :  Vision Perception:  Sensory -Motor Control, Visuomotor 
+Transformation, Ventral/Dorsal Stream Lesions  
+ 
+Online Lecture :  Dorsal Stream Lesion: Marilyn Belman  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READING:  4a: Perception -dorsal stream..  
+W 11/20  Online Lecture:   Forced Use 1 : Cortical Review, Cortical Plasticity, Learned 
+Non-use, Use Dependent Sensory Cortex Injury  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READINGS: 5a: Priming -the brain   
+F 11/22  Online Lecture: Forced use 2 :  Cortical Excitability and Motor Learning, Heat 
+Stress  
+ 
+Discussion: Questions from lectures and readings  
+ 
+READINGS: 5b: Priming -sympathetic; 5c Priming -heat stress  
+W 
+NO 
+CLASS  11/27  THANKSGIVING HOLIDAY – NO CLASS  
+F 
+NO 
+CLASS  11/29  THANKSGIVING HOLIDAY – NO CLASS  
+W 12/4 Online Lecture s SCI1 : SCI2 : SCI3 ; SCI4 : SCI Lesion Types and General 
+Anatomy  
+SCI Strategies, Mechanisms of Injury, Compressive Flexion, Distractive Flexion, 
+Sympathetic NS, Neurogenic Bladder/Sexual Function 
+Movement Control Lab  
+ 
+Review for Exam 2 (note: above lectures on SCI are not included on exam 
+2) 
+F 12/6 Exam 2  
+ 
+W 
+No 
+Class  12/11  Online Lecture s SCI5 : SCI6 : SCI7 ; SCI8 : Neuro Eval, Vital Capacity, Physical 
+Rehab Management, Rehab Issues: Elbows, Wrist, Hand (C6 versus C7), Spine 
+Physical Rehab, Spine, Hip, Pelvic -femoral Angle, Seating, Pressure Sores, and 
+Principles of Measurement  
+ 
+READINGS : 1-5 packet 3  
+F 12/13  Questions/Discussion/Review  
+Readings: (1 -5 packet 3)  
+M 12/16  FINAL COMPREHENSIVE EXAM – 9:00-11:00  
+Course ACE Reviews will be completed after the Final Exam  
+ 

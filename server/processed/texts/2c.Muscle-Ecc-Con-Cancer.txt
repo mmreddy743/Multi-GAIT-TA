@@ -1,0 +1,1007 @@
+ 
+ 
+Published ahead of Print  
+ 
+ 
+ 
+Medicine & Science in Sports & Exercise ® Published ahead of Print  contains articles in unedited 
+manuscript form that have been peer reviewed and accepted for publication. This manuscript will undergo 
+copyediting, page composition, and review of the resul ting proof before it is published in its final form. 
+Please note that during the production process errors may be discovered that could affect the content.  
+ 
+Copyright ©  2024 American College of Sports Medicine  
+Impact of Eccentric versus Concentric Cycling Exercise on Neuromuscular 
+Fatigue and Muscle Damage in Breast Cancer Patients  
+ 
+Elyse Hucteau1,2,3, Joris Mallard1,2,3, Chiara Barbi3,4, Massimo Venturelli4, Roland Schott3, 
+Philippe Trensz3, Carole Pflumio3, Michal Kalish -Weindling3, Xavier Pivot3, Fabrice Favret1,2, 
+Guillaume P. Ducrocq1,2, Stéphane P. Dufour1,2, Allan F. Pagano1,2, and Thomas J. Hureau1,2 
+ 
+1Biomedicine Research Center of  Strasbourg (CRBS), Mitochondria, Oxidative Stress, and 
+Muscular Plasticity Laboratory (UR 3072), University of Strasbourg, FRANCE; 2European 
+Center for Education, Research and Innovation in Exercise Physiology (CEERIPE), Faculty of 
+Sport Sciences, Univers ity of Strasbourg, France; 3Institute of Cancerology Strasbourg Europe 
+(ICANS), Strasbourg, FRANCE; 4Department of Neurosciences, Biomedicine, and Movement, 
+University of Verona, ITALY  
+ 
+ 
+Accepted for Publication: 8 June 2024 
+ 
+ 
+ACCEPTED
+ 
+Impact of Eccentric versus Concentric Cycling Exercise on Neuromuscular 
+Fatigue and Muscle Damage in Breast Cancer Patients 
+ 
+Elyse Hucteau1,2,3, Joris Mallard1,2,3, Chiara Barbi3,4, Massimo Venturelli4, Roland Schott3, 
+Philippe Trensz3, Carole Pflumio3, Michal Kalish-Weindling3, Xavier Pivot3, Fabrice Favret1,2, 
+Guillaume P.  Ducrocq1,2, Stéphane P.  Dufour1,2, Allan F.  Pagano1,2, and Thomas J.  Hureau1,2 
+ 
+1Biomedicine Research Center of Strasbourg (CRBS), Mitochondria, Oxidative Stress, and 
+Muscular Plasticity Laboratory (UR 3072), University of Strasbourg, FRANCE ; 2European 
+Center for Education, Research and Innovation in Exercise Physiology (CEERIPE), Faculty of 
+Sport Sciences, University of Strasbourg, France; 3Institute of Cancerology Strasbourg Europe 
+(ICANS), Strasbourg, FRANCE ; 4Department of Neurosciences, Biomedicine, and Movement, 
+University of Verona, ITALY 
+ 
+Address for correspondence: Elyse Hucteau, PhD, Institut de Cancérologie Strasbourg Europe , 
+17 rue Albert Calmette, 67200 Strasbourg, France ; E-mail: e.hucteau@icans.eu 
+ 
+Conflict of Intere st and Funding Source:  This work was supported by the Institute of 
+Cancerology Strasbourg Europe (ICANS) and by the initiative of excellence IdEx Unistra (ANR -
+10-IDEX -0002 -02) from the ‘Investment for the Future' French national program. The authors 
+report  no conflicts of interest.  
+Medicine & Science in Sports & Exercise, Publish Ahead of Print 
+DOI: 10.1249/MSS.0000000000003506ACCEPTED
+This is an open -access article distributed under the terms of the Creative Commons Attribution -
+Non Commercial -No Derivatives License 4.0 (CCBY -NC-ND), where it is permissible to 
+download and share the work provided it is properly cited. The work cannot be changed in any 
+way or used commercially without permission from the journal.  
+ACCEPTED
+ABSTRACT  
+Introduction : This study investigate d the magnitude and etiology  of neuromuscular fatigue and 
+muscle damage induced by eccentric cycling compared to conventional concentric cycling in 
+patients with breast cancer.  Metho ds: After a gradual familiarization  protocol for eccentric 
+cycling,  nine patients with  early -stage breast cancer performed three cycling sessions in eccentric 
+or concentric mode. The eccentric cycling session (ECC) was compared to concentric cycling 
+sessio ns matched for power output (CON power, 80% of concentric peak power output, 95±23W) 
+or oxygen uptake ( CONV̇O2, 10±2mL.min.kg-1). Pre - to postexercise changes (30s through 10min 
+recovery ) in knee extensor maximal voluntary contraction force (MVC), voluntary activatio n, 
+and quadriceps potentiated twitch force (Q tw) were quantified to determine global, central, and 
+peripheral fatigue, respectively. Creatine kinase (CK) and lactate dehydrogenase (LDH) 
+activities were measured in the plasma before and 24h postexercise as markers of muscle 
+damage.  Results : Compared to CON power (-11±9%) and  CONV̇O2 (-5±5%), the ECC session 
+resulted in a greater decrease in MVC ( -25±12%) postexercise ( P<0.001). Voluntary activation 
+decreased only in  ECC ( -9±6% postexercise,  P<0.001). The decrease in Q tw was similar 
+postexercise between ECC and CON power (-39±21% and -40±16%,  P>0.99) but lower in CONV̇O2 
+(P<0.001). The CON power session resulted in twofold greater V̇O2 compared to the ECC and 
+CONV̇O2 sessions ( P<0.001). No change in CK or LD H activity  was reported from preexercise to 
+24h postexercise.  Conclusion s: The ECC session induced greater neuromuscular fatigue 
+compared to the concentric cycling sessions without generating severe muscle damage. ECC is a 
+promising exercise modality for counteracting neuromuscular maladaptation in patients with 
+breast cancer.  ACCEPTED
+Key Words : CENTRAL AND PERIPHERAL FATIGUE , CHEMOTHERAPY TREATMENT , 
+ECCENTRIC CONTRACTION , EXERCISE INTOLERANCE , MUSCLE SORENESS  
+ACCEPTED
+INTRODUCTION  
+In oncology, exercise is considered a medicine (1) for fighting treatment -related side 
+effects, such as skeletal muscle deconditioning (2) and exacerbation of neuromuscular fatigue 
+(3,4) . However, contrasting results and mode rate benefits of exercise interventions on physical 
+condition have been reported in patients with breast cancer (5–7). These discrepancies are likely 
+explained by the a bsence of specific exercise guidelines for each cancer type (8,9) , leading to the 
+large diversity of exercise modalities, intensities, durations, and frequencies utilized in clinical 
+studies (10). 
+ 
+Given the need to counteract severe neuromuscular alterations in the face of documented 
+exercise intolerance from breast cancer diagnosis to the end of chemotherapy treatment (11,12) , 
+eccentric cycling may be an exercise modality of particular interest in this population. Indeed, 
+exercise in the eccentric mode (i.e., lengthening contractions) is characterized by greater force 
+product ion per muscle fiber , resulting in lower muscle activation and metabolic demand for a 
+given power output than in the concentric mode (13). Therefore, eccentric cycling drastically 
+reduces metabolic demand compared to conventional concentric cycling, which offers an 
+opportunity to increase muscle mechanical stimuli (14–16), and in fine , the neuromuscular 
+training stimul i. 
+ 
+To date, no study has investigated the effects of eccentric cycling in patients with b reast 
+cancer. Although the cardiorespiratory , circulatory  and neuromuscular  responses to eccentric 
+versus concentric cycling exercise have been previously described in healthy participants (14,16 –
+18), the consequences of eccentric cycling on neuromuscular fatigue etiology  are not ACCEPTED
+documented in patients with breast cancer . Given the pivotal role of neuromuscular fatigue in 
+subsequent training -induced neuromuscular adaptations  (19–21), it is necessary to identify the 
+magnitude and etiology  of neuromuscula r fatigue, which can occur from a central origin (i.e., a 
+failure of the central nervous system to voluntarily activate the muscle) (22) and/or peripheral 
+origin (i.e., structural and biochemical changes within the active muscle leading to an attenuated 
+force response to neural output) (23). The consequences of eccentric cycling might differ in 
+patients with breast cancer undergoing chemotherapy compared to their healthy counterparts 
+because of their strong physical de conditioning (2) resulting from  muscular (24,25)  neural (3,4)  
+and cardio respir atory (11) limitations . 
+ 
+While eccentric cycling offers unique and interesting characteristics,  including by leading 
+less pain and perceived effort when perf omed at similar power output (18),  lengthening of 
+contracting muscle fibers  can induce muscle damage associated with severe local inflammation 
+(26–28). In patients with breast cancer, it is critical to limit the systemic consequences associated 
+with severe muscle damage in this vulnerable population (29). Interestingly, muscle soreness and 
+damage can be prevented by familiari sation sessions to eccentric cycling (30). Thus, muscle 
+soreness and damage induced by an eccentric cycling session need to be investigated in patients 
+with breast cancer to evaluate its safety and fe asibility before its implementation in a training 
+program.  
+ 
+The present study aimed to investigate  the magnitude and etiology  of neuromuscular 
+fatigue and muscle damage induced by eccentric cycling exercise, compared to conventional 
+concentric cycling, in p atients with early breast cancer. To achieve these goals, eccentric and ACCEPTED
+concentric cycling exercises were performed at either similar power output, matching mechanical 
+stimuli but leading to different metabolic demands or at similar oxygen consumption leve l (V̇O2), 
+matching metabolic demands but leading to different mechanical stimuli . We hypothesized that 
+eccentric cycling induces greater neuromuscular fatigue than concentric cycling performed at 
+similar power output or V̇O2.  
+ 
+METHODS  
+Patients  
+Nine women from the Institute of Cancerology Strasbourg Europe (ICANS) were 
+included in the present study (NCT05166148). All patients provided written informed consent 
+prior to enrolment, and the study was conducted in accordance with the Declaration of Helsinki 
+and received approval from the National Ethics Committee (2021 -A01624 -37). The inclusion 
+criteria were as follows: French -speaking, nonpregnant, ≥18 years old, Scarff‐Bloom‐Richardson 
+grade I –III, early -stage breast cancer, and a World Health Organization (WHO ) performance 
+status of 0 -2 within one year after completion of (neo)adjuvant taxane -based chemotherapy. 
+Women were excluded if they had psychiatric, musculoskeletal, or neurological disorders. The 
+patient characteristics are shown in Table 1.  
+ 
+Experimenta l design  
+Each patient performed 10 visits at the Cancerology Institute within a period of 5 weeks.  
+ 
+𝑽̇O2max assessment.  Patients performed an incremental cycle ergometer test until exhaustion, 
+which has been validated in breast cancer patients (31), to determine maximal oxygen uptake ACCEPTED
+(V̇O2max) and concentric peak power output. After a 2 -min warm -up at 25 W and 60 rpm, the 
+exercise intensity reached 40 W and was increased by 10 W every minute until exhaus tion. After 
+a 10 -min recovery period, a second constant test (105% of peak power at 60 rpm) until 
+exhaustion was then performed to ensure that the patients reached V̇O2max (32). The mean 
+duration  of the incremental and the cons tant tests were 9.2 ± 2.6 min and 2.3 ± 0.3 min, 
+respectively.  If the difference in V̇O2 between the incremental test and the constant test was ≤ 2.1 
+mL.min.kg, the V̇O2 was considered to be maximal (33). For every pati ent, the differences in 
+peak V̇O2 between the incremental test and the constant test were equivalent  (23.4 ± 6.0 
+mL.min.kg-1 vs. 23.8 ± 5.7 mL.min.kg-1, respectively; P < 0.001 for equivalence test ). 
+ 
+Familiarization sessions.  Four visits, separated by 2 -3 days of recovery, were implemented to 
+familiarize  the patients with eccentric cycling. Each familiarization  session consisted of three 
+bouts of eccentric cycling interspersed with no more than 3 min of passive recovery. Exerci se 
+workload and duration were progressively increased within and between familiari zation sessions. 
+During visit 1, patients performed three 2 -min bouts of eccentric cycling. Patients were asked to 
+apply a low resistance to acquire the specific coordination  required in eccentric cycling. Cadence 
+was progressively increased from 40 to 60 rpm during visit 1 and then kept at 60 rpm for all the 
+following sessions  (34). During visit 2, patients performed 2 min of eccentric cycling at 50% of 
+concentric peak power output, followed by 3 min at 50% of concentric peak po wer output and 3 
+min at 60% of concentric peak power output. During visit 3, patients performed 6 min of 
+eccentric cycling at 60% of concentric peak power output, followed by 3 min at 65% of 
+concentric peak power output and 3 min at 70% of concentric peak power output. During visit 4, 
+patients performed 6 min of eccentric cycling at 70% of the concentric peak power output, ACCEPTED
+followed by 6 min at 75% of the concentric peak power output and 4 min at 80% of the 
+concentric peak power output. After each familiariz ation  session (24 h and 48 h postexercise), 
+patients reported thigh muscle soreness (detailed below).  
+ 
+Experimental cycling sessions.  Each patient performed three experimental sessions as follows: 
+eccentric, high -intensity concentric, and low -intensity concentric cycling exercise. Each 
+experimental session was also associated with assessments 24 h postexercise. Eccentric session 
+(ECC) and high -intensity concentric session (CON power) were performed at similar power output, 
+fixed at 80% of the concentric p eak power. ECC and low -intensity concentric ( CONV̇O2) sessions 
+were performed at similar V̇O2 level. The order of the sessions was pseudorandomized among 
+the patients, given that the CONV̇O2session needed to be performed after the ECC session.  
+ 
+Experimental cycling protocol  
+ The cycling protocol consisted of three 6 -min cycling bouts separated by 3 min of 
+recovery  in order to provide a high -intensity interval training session that is tolerable by our 
+population of patients with cancer (35).  
+ 
+All patients carried out the experiment protocol as follows: (1) preexercise assessments, 
+(2) exercise task, (3) postexercise assessments, and (4) 24 -h postexercise assessments. Before 
+exercise , blood samples w ere collected, and neuromuscular testing was performed (detailed 
+below). The cycling sessions were performed on a semirecumbent ergometer both for eccentric 
+(Cyclus II – Recumbent, RBM Electronics, Leipzig, Germany) and concentric (Ergoline GmbH, 
+Ergoselec t 600, Bitz, Germany) cycling. The seat position of each ergometer was adjusted to ACCEPTED
+each patient’s morphology and kept constant during all sessions. Patients were required to 
+perform the exercise task, which consisted of three 6 -min cycling bouts at 60 rpm separated by 3 
+min of recovery. Neuromuscular function was evaluated during each recovery period at 30 s and 
+2 min, as well as postexercise at 30 s, 2 min, 3 min, 5 min, 10 min, and 24 h.  At the end of each 
+exercise bout, the rate of perceived exertion was  evaluated using the Borg CR -10 scale. Blood  
+samples (detailed below) were collected 24 h postexercise to estimate systemic muscle damage. 
+Muscle soreness (detailed below) was evaluated at 24 h and 48 h postexercise.  
+ 
+Neuromuscular protocol  
+Patients were f irst familiarized  with isometric knee extensor contractions and the 
+associated experimental procedures. Neuromuscular assessment of the knee extensor muscles 
+was conducted before, between, and after the cycling bouts using a standardized set of 
+contraction s. In each set, patients performed a 3 -s maximal voluntary isometric contraction 
+(MVC), and stimulation was applied both during (superimposed twitch) and 1 s after (potentiated 
+resting twitch) each MVC to assess the voluntary activation and contractile pro perties of the knee 
+extensors, respectively. For each set, strong verbal encouragement was given. Corticospinal 
+excitability was measured immediately after the potentiated twitch. Three transcranial magnetic 
+stimulations were delivered during a submaximal voluntary isometric contraction corresponding 
+to 20% of each patient’s maximal EMG -RMS output (obtained from MVC). At preexercise, six 
+sets separated by 30 s of recovery were used to ensure potentiation. Additional sets were 
+performed if the variability of  the MVC exceeded 5%. The same standardized set was used for 
+the evaluation of neuromuscular function between bouts and postexercise.  
+ ACCEPTED
+Data acquisition and analysis  
+Neuromuscular function  
+Force and electromyographic activity . Patients  were tested in a seat ed position with the hip 
+and knee joints fixed at 100° and 90°, respectively (where 180° represents full extension), and 
+aligned in the frontal axis. The lower right leg was strapped above the ankle to an ergometer 
+connected to a calibrated force transduce r (Force sensor kit, Chronojump, Barcelona, Spain). 
+Surface electromyography (EMG) recording electrodes (Ag -AgCl, 32x32 mm) were placed over 
+the vastus lateralis (VL), vastus medialis (VM), rectus femoris (RF), and biceps femoris (BF) 
+according to the SENI AM guidelines (36). EMG recordings were bandpass filtered (10 Hz – 1 
+kHz) and amplified with an isolated differential amplifier (Octal Bio Amp, AD Instruments, 
+Colorado Springs, CO, USA). Electromyographic and mechanical signals were collected 
+simultaneously at a sampling r ate of 2000 Hz using LabChart Software (AD Instruments, 
+Colorado Springs, CO, USA, Version 8.1.13). Electromyographic muscle activity was recorded 
+during MVC and during cycling exercise. Muscle activation of the VL, VM, and RF was 
+calculated with the root mean square (RMS) of the EMG signals. During  MVC, the RMS was 
+determined over a 500 -ms window surrounding the peak force  and normalized  to the M max 
+amplitude ( VL RMS.M max-1, VM RMS.M max-1 and RF RMS.M max-1) to estimate central motor 
+drive . During cycling, VL, VM, and RF muscle activation was calculated by the RMS of each 
+burst using a custom -made MATLAB software algorithm (MATLAB R2019b, MathWorks, 
+Natick, MA, USA). The signal was then averaged every 30 s and normalized to the RMS signal 
+recorded during pre exercise MVCs (VL %MVC , VM %MVC , and RF %MVC ). 
+ ACCEPTED
+Electrical femoral nerve stimulation . A constant -current high -voltage (400 V) stimulator 
+(DS7 -AH, Digitimer Ltd., Hertfordshire, UK) was used to generate rectangular electrical 
+impulses (200 µs) and evoke knee e xtensor contractions from the femoral nerve. The cathode (32 
+mm diameter, Valu Trode, CF3200 models, Denmark) was positioned over the inguinal space on 
+the femoral nerve, and the anode (90 × 50 mm, Valu Trode, 895240 models, Denmark) was 
+positioned in the gluteal fold. A recruitment curve was obtained to determine the optimum 
+stimulation intensity. The stimulation intensity was increased  by 10 mA from 50 mA until a 
+plateau in the single quadriceps twitch peak force ( Qtw) and compound muscle action potential 
+(Mmax) were achieved . The maximal intensity was reached when no improvement in Qtw and 
+Mmax was observed despite increasing stimulation intensity. A supramaximal stimulation 
+intensity (i.e., 120% of the maximal stimula tion intensity) was then used to guarantee the 
+complete recruitment of motor units during all neuromuscular assessments.  
+ 
+Qtw was calculated as the force amplitude between the baseline signal and the highest 
+force value of the evoked potentiated twitch. The  following parameters of potentiated resting 
+twitch, which are indicators of muscle contractile properties, were also calculated: contraction 
+time (CT), which is the time from the start of the contraction to Q tw; half relaxation time (HRT), 
+which is the ti me from Q tw to 50% decline in Q tw; and maximal rate of force development 
+(MRFD), which is the highest positive derivative of the torque for an interval of 10 ms. 
+Voluntary activation was calculated using the amplitude of the superimposed twitch (SIT), and 
+Qtw, using the following formula: voluntary activation (%) = [1 – (SIT ÷ Qtw)] × 100. 
+ 
+Transcranial magnetic stimulation . Transcranial magnetic stimulations were generated using a 
+magnetic stimulator (Magstim 200², The Magstim  Company Ltd., Dyfed, UK) and a double -cone ACCEPTED
+coil (diameter of 130 mm). Intensities are expressed as a percentage and function of the 
+maximum output intensity (1.4 T). Stimulations were applied to the left motor cortex to evoke 
+motor -evoked potentials (MEPs ) in the right knee extensor muscle with the current flowing 
+posteriorly to the anterior direction. The coil position was determined by applying stimulations at 
+50% of the maximal intensity during isometric contraction at a constant level of EMG (20% 
+EMG -RMS registered from the knee extensor MVC, which corresponds to 28 ± 5% of the 
+MVC). The optimal position was determined as the position that elicited the greatest MEP in the 
+VL and the lowest in the BF (<15% of the raw VL MEP amplitude) (37); the position was 
+marked directly on the scalp with a medical marker fo r reproducibility during the experimental 
+session. The stimulation intensity for neuromuscular assessments was determined by the active 
+motor threshold method. The active motor threshold was the minimum stimulus intensity that 
+produced a minimal EMG respon se (more than 50 µV in three out of five consecutive trials) 
+during 20% EMG -RMS isometric contraction. The stimulator intensity was set to 120% of the 
+active motor threshold to ensure a clear MEP (37). The MEP peak -to-peak amplitudes were 
+measured between the maximum and minimum values . Corticospinal excitability showed great 
+reproduc ibility using  three transcranial magnetic stimulations  (preexercise ICC for MEP 
+amplitudes in VL: 0.89 [95% CI 0.71 -0.96], VM: 0.90 [95% CI 0.74 -0.97] and RF: 0.91 [95% CI 
+0.76-0.98]). The 3 MEP amplitudes  were normalized to the concomitant M max (MEP.cM max-1) for 
+the VL, VM, and RF  and averaged together .  
+ 
+Cardiorespiratory assessments.  Gas exchange and heart rate (HR) were measured at rest and 
+during each bout of cycling using a portable metabolic cart (Cortex Metamax 3B, Cortex 
+Biophysik GmbH, Leipzig, Germany). Before each exercise session, the pneumotachograph was ACCEPTED
+calibrated with a 3 -L calibration syringe (Model 5530, Hans Rudolph, Kansas City, MO). The 
+gas analysers were calibrated with reference gases of known O 2 and CO 2 concentrations (15% O 2 
+and 5% CO 2). V̇O2 and HR were averaged every 30 s.  
+ 
+Muscle soreness.  Thigh muscle soreness was quantified 24 h and 48 h after the familiarization  
+sessions to eccentric cycling and experimental sessions, using a visual analogue scale ranging 
+from 0 -10 (where 0 indicates “no pain” and 10 indicates “worst pain imaginable”) aft er three 
+standing up from a sitting position on a chair.  
+ 
+Blood parameters.  Venous blood samples were drawn at rest before each exercise protocol 
+session and after 24 h. Blood samples were collected in 2 ×4-mL ethylenediaminetetraacetic acid 
+tubes . The blood samples were  immediately centrifuged (10 min at 2000×g), and the plasma was 
+collected and stored at -80 °C. Assessments of creatine kinase (CK) (Sigma‒Aldrich assay kit, 
+MAK116) and lactate dehydrogenase (LDH) (Sigma‒Aldrich assay kit, MAK066) activi ties 
+were subsequently performed in 96 -well plates using a spectrophotometer ( Varioskan LUX, 
+Thermo Fisher Scientific) according to the manufacturer’s instructions . 
+ 
+Statistical analysis  
+The sample size calculation was based on a previous investigation doc umenting the 
+decrease in knee extensor MVC after an eccentric cycling session in older adults (38). Assuming 
+an effect size of 1.4, an α  risk of 0.05, and a  risk of 0.95, the sample size required was N=9 
+(G*power, version 3.1.9.4).  ACCEPTED
+All the statistical tests were performed with Statistica  10 (Stat -Soft, Inc., Tulsa, 
+Oklahoma, USA), and the graphs were generated with GraphPad Prism version 8 software 
+(GraphPad Software, San Diego, California, USA). The data are presented as the means ± SD. 
+The Shapiro‒Wilk test and the Levene test were used  to check for the normality and variance 
+homogeneity of the data, respectively. The two-one-sided t -test (TOST) was used to test the 
+equivalenc e in peak V̇O2 between the incremental test and the constant test  using a 90 % 
+confidence interval . Two-way ANOVAs with repeated measures ( condition × time) were used to 
+compare neuromuscular indices using  absolute  data (i.e., MVC, RMS.M max-1, voluntary 
+activation, Q tw, CT, HRT, MRFD, M max, and MEP.cM max-1), biomarkers of muscle damage (CK 
+and LDH activities ), thigh muscle soreness, and rate of perceived exertion. Three -way ANOVAs 
+with repeated measures ( condition × bouts × time) were used to compare muscle activation 
+(VL %MVC , VM %MVC , and RF %MVC ) and cardiorespiratory parameters (V̇O2 and  HR) during 
+cycling. In particular, statistical analyses of the cardiorespiratory parameters were performed 
+during the steady state (i.e., last 3 min of each cycling bout). Multiple comparison analysis was 
+performed with Tukey’s HSD post hoc  test when a sig nificant difference was found in the 
+ANOVAs.  Statistical significance was set at P < 0.05.  
+ 
+RESULTS  
+Baseline values and settings for the experimental cycling conditions  
+At rest, there were no significant differences among the three experimental cycling 
+conditions in neuromuscular indices (MVC, RMS.M max-1 , voluntary  activation , Qtw, CT, HRT, 
+MRFD, M max, and MEP.cM max-1), cardiorespiratory indices (V̇O2 and  HR), or plasma biomarkers ACCEPTED
+(CK and LDH ) (Supple mental Table 1 , Supplemental Digital Content, Baseline values , 
+http://links.lww.com/MSS/D58 ). 
+ 
+By design, the power output was not different between the ECC ( 95 ± 23 W) and 
+CON power (95 ± 23 W , P = 0.999 ) sessions but was lower in the CONV̇O2 (29 ± 12 W , P < 0.001 ) 
+session. Moreover, V̇O2 were similar between the ECC session (10 ± 2 mL.min.kg-1, 43 ± 8% of 
+V̇O2max) and CONV̇O2 session (10 ± 2 mL.min.kg-1, 42 ± 9% of V̇O2max, P = 0.940 ) but were 
+greater in the CON power session  (20 ± 5 mL.min.kg-1, 85 ± 7% of V̇O2max, P < 0.001 ). 
+ 
+Neuromuscular fatigue  
+The neuromuscular indices are presented Figure 1 and Table 2. A significant condition × 
+time interaction effect was found for MVC ( P < 0.001). While significant reductions were 
+evidenced in the ECC and CON power sessions ( -25 ± 12% vs. -11 ± 9% 30 s postexercise, 
+respectively; P < 0.001 ), MVC remained unchanged compared to preexercise throughout the 
+CONV̇O2 session (Figure 1A). The ECC session resulted in a greater decrease in MVC compared 
+to the CONV̇O2 and CON power sessions after each bout ( P < 0.001). This greater reduction in 
+MVC between conditions persisted during the early recovery period documented from 30 s to 10 
+min postexercise ( P < 0.001). Moreover, the MVC remained depressed 24 h postexercise 
+compared  to preexercise in the ECC session ( -17 ± 8%, P < 0.001), but it was recovered in the 
+CON power session (P = 0.376).  The two -way ANOVA did not reveal any significant effect on VL, 
+VM, and RF RMS.M max-1 during MVC.  
+ ACCEPTED
+A significant condition × time interaction effect was found for voluntary activation ( P < 
+0.001; Figure 1B). Voluntary activation decreased only in the ECC session after the third bout of 
+exercise, reaching -9 ± 6% at 30 s postexercise and -16 ± 9% at 3 min postexercise ( P < 0.001). 
+Voluntary activ ation was fully recovered 24 h postexercise in the ECC session ( P = 0.981).  
+ 
+A significant condition × time interaction effect was found for Q tw (P < 0.001; Figure  
+1C). Compared to baseline, the Q tw decreased during exercise in the three cycling conditions (P < 
+0.001). Compared to CONV̇O2 session, the ECC session resulted in a greater decrease in Q tw after 
+the second and third exercise bouts ( P < 0.001), and this difference persisted throughout the 10 
+min recovery period ( P < 0.001). The ECC session resulted in a lower decrease in Q tw compared 
+to the CON power session at 30 s after the first bout only ( -17 ± 10% vs. 36 ± 13%, respectively; P 
+< 0.001). No difference between the two conditions was found from the second exercise bout to 
+the 10 min recovery period (P > 0.889). While the Q tw remained lower than the preexercise value 
+24 h after ECC ( -14 ± 7%, P < 0.001), it fully recovered in the CON power (P = 0.940) and 
+CONV̇O2 sessions ( P = 0.999). The Q tw properties (i.e., CT, HRT, and MRFD) are provided in 
+Table 2.  While only a significant time effect was reported for CT ( P < 0.001), a significant 
+condition × time interaction effect was found for HRT ( P < 0.001) and MRFD ( P < 0.001).  
+ 
+The VL, VM, and RF muscle activations during cycling are presented in Figure 2. A 
+significant condition × time interaction effect was found for VL, VM, and RF RMS %MVC  (P < 
+0.001). The ECC session resulted in lower muscle activation compared to the CON power session 
+(VL RMS %MVC , P = 0.008; VM RMS %MVC , P = 0.006; and RF RMS %MVC , P = 0.026) but higher 
+muscle activation compared to CONV̇O2 session  (VM RMS %MVC  and RF RMS %MVC , both P < ACCEPTED
+0.001). The VL RMS %MVC  and VM RMS %MVC  significantly increased between the first and third 
+bouts only in the ECC session ( P < 0.001). A significant condit ion × time interaction effect was 
+found for M max in the VL, VM, and RF  (P < 0.001; Table 2). M max decreased only in the ECC 
+and recovered 24 h postexercise in the VL, VM, and RF.  
+ 
+A significant time effect was found for corticospinal excitability in the VL  and RF 
+MEP.cM max-1 (P < 0.001 and P = 0.019, respectively; Table 2).  
+ 
+Cardiorespiratory responses to exercise  
+The cardiorespiratory indices are presented in Figur e 3. A significant condition × time 
+interaction effect was found for V̇O2 (P < 0.001; Figure 3A). V̇O2 increased over time from the 
+first to the third bout during the three experimental conditions ( P < 0.001).  
+ 
+A significant condition × bout × time interaction effect was found for HR (P = 0.032; 
+Figure 3B). The ECC session resulted in a lower HR during exercise compared to the CON power 
+session (107 ± 12 bpm corresponding to 64 ± 5% of HR max vs. 143 ± 15 bpm corresponding to 89 
+± 4% of HR max) and a higher HR compared to the CONV̇O2session (96 ± 14 bpm corresponding 
+to 57 ± 5% of HR max). The HR increased over time from the first to the third bout during the 
+three  experimental conditions ( P < 0.001).  
+ 
+Rate of perceived exertion and muscle soreness  
+The rates of perceived exertion are presented in Table 3. Significant time ( P < 0.001) and 
+condition (P < 0.001) effects were found for the rate of perceived exertion. Compared to the ACCEPTED
+ECC session, the rate of perceived exertion was greater in the CON power session ( P = 0.042) but 
+lower in the CONV̇O2 session ( P < 0.001).  
+ 
+The thigh muscle soreness is presented in Table 4. A significant condition  effect was 
+found for thigh muscle soreness (P = 0.002). The thigh muscle soreness measured 24 h and 48 h 
+postexercise was greater in the ECC session than in the CON power (P = 0.002)  and CONV̇O2 (P < 
+0.001)  sessions.  
+ 
+Muscle damage  
+The plasma biomarker levels are presented in Figure 4. Two -way ANOVA did not reveal 
+any significant effects on CK ( Figure 4A) or LDH ( Figure 4B) activity.  
+ 
+DISCUSSION  
+The present study investigated the magnitude and etiology  of neuromuscular fatigue 
+induced by eccentric cycling exercise (ECC) in patients with early breast cancer. These results 
+were compared to those of conventional concentric cycling exercises performed  either at similar 
+power output  [matching mechanical stimuli but with different metabolic stimuli ( CON power)] or at 
+similar V̇O2 levels  [matching metabolic stimuli but with different mechanical stimuli (CONV̇O2)]. 
+Using plasma biomarkers, subsequent muscle damage induced by these exercise sessions was 
+quantified. As hypothesized, ECC induced greater neuromuscular fatigue than concentric 
+cycling, regardless of matching for power output or V̇O2. Specifically, the gre ater magnitude of 
+neuromuscular fatigue in the ECC session was primarily due to central mechanisms. In addition, 
+the CK and LDH activities did not change under any of the experimental conditions, indicating ACCEPTED
+the efficacy of the familiarization  protocol prio r to ECC in limiting the systemic consequences 
+associated with muscle damage in patients with early breast cancer.  
+ 
+Neuromuscular responses to eccentric versus concentric cycling  
+The present results demonstrated  that ECC session induced greater neuromuscul ar fatigue 
+throughout exercise and up to 24 h postexercise than concentric cycling sessions, including when 
+conditions were matched for power output (i.e., ECC vs. CON power, Figure 1), in patients with 
+breast cancer . The difference in ‘global’ neuromuscular fatigue ( Figure 1A) between ECC and 
+concentric exercises was explained by mechanisms of central origin from 0.5 to 10 min 
+postexercise (discussed in the next paragraph, Figure 1B) and by mechanisms of peripheral 
+origin 24 h postexercise ( Figure 1C). However, the observation of similar levels of peripheral 
+fatigue between the ECC and CON power sessions during the early recovery period (i.e., from 0.5 
+to 10 min postexercise) did not necessarily imply a similar etiology . Indeed, the CON power 
+sessi on was associated with greater metabolic demand compared to the ECC session, as 
+evidenced by greater V̇O2 levels (twofold greater , Figure 3) and greater  muscle activation 
+(Figure 2)  recorded throughout the exercise session,  suggesting greater intramuscular metabolic 
+perturbation.  In contrast, peripheral fatigue was partially explained by alterations in membrane 
+excitability in the ECC session, as evidenced by significant decreases in the quadriceps M max 
+(39), and resulting from overstretching of the sarcomeres during lengthening contractions  (26). 
+At similar V̇O2, the greater peripheral fatigue observed in the ECC session compared to the 
+CONV̇O2 session was explained by the high mechanical constraint  characterizing the eccentric 
+contraction mode and leading to structural disruption of sarcomeres (40). Interestingly, ACCEPTED
+observation of greater neuromuscular fatigue in ECC compared to CON power in the present study 
+contracts with a previous investigation performed in healthy participants (18). This discrepenc y 
+between studies might be expla ined by the population of interest but also by the exercise 
+duration and intensity that plays an important role in neuromuscular fatigue magnitude and 
+etiology (41,42) . This emphasize how the results might be specific, and therefore limited, to its 
+characteristics and context.  
+ 
+ In addition to the characterization of the level of neuromuscular fatigue postexercise, the 
+present study also documented its kinetics during the 3 cycling bouts . While the decrease in 
+‘global’ (MVC) and peripheral  fatigue was quite linear from the 1st to the 3rd bout in ECC, their 
+development kinetics were as fast ( MVC) or faster ( Qtw) after the 1st bout in CON power, despite  
+no significant change thereafter until the last bout (Figure 1). Th ese result s indicate  that different 
+kinetics during exercise can lead to similar values at exercise termination (peripheral fatigue) , 
+provid ing important  insights for exercise training pre scriptions.  
+ 
+After a 24 -h recovery period, a significant magnitude of peripheral fatigue remained only 
+in the ECC session. Given that M max fully recovered at that time, a failure in membrane 
+excitability was excluded, which indicated that factors located be yond the sarcolemma were 
+responsible for the reduction in force output (43). More precisely, the reduction in MRFD 
+observed at 24 h postexercise in the ECC session suggested alterations in excitation -contraction 
+coupling (44). 
+ ACCEPTED
+Why is central fatigue exace rbated during eccentric cycling compared to power -matched 
+concentric cycling?  
+The present findings supported central fatigue as a primary cause of the greater 
+neuromuscular fatigue observed in the ECC session compared to the concentric cycling sessions. 
+Indeed, voluntary activation decreased only in the ECC session, which is support ed by a previous 
+study showing central fatigue following eccentric, but not concentric, knee extensor contractions 
+in healthy participants (45).  
+ 
+In the present study, voluntary activation was reduced in the ECC session despite no 
+change in corticospinal excitability during any exercise condition. This result suggest s that 
+inhibition occurred upstream rather than downstream of the mot or cortex (46,47) . This idea is 
+also supported by fMRI studies showing differences in cortical activity and brain functional 
+connectivity between eccentric and concentric exercises (48). However,  it is important to 
+consider that the lack of a net effect on corticospinal excitability did not necessarily imply the 
+absence of change (49), which is consistent with studies showing that central alterations also 
+occur at the spinal level during eccentric exercise (50,51) . Moreover , when transcranial magnetic 
+stimulations were delivered during the cycling exercise, a lower corticospinal excitabililty 
+associated with a longer silent period were obse rved in eccentric compared to concentric mode 
+performed at the same power output (17). Finally, it is important to note that corticospinal 
+excitability was tested in the present study using one stimulation intensi ty pre and post fatiguing 
+exercise and not through  an input -output (dose -response) curve (52) that might have been more 
+sensitive.  ACCEPTED
+The differences in central fatigue b etween eccentric and concentric cycling might be 
+explained, at least in part, by greater stimulation of group III/IV muscle afferent feedback, which 
+can inhibit VA without any alteration in corticospinal excitability (53,54) . Indeed, group III/IV 
+muscle afferents are triggered by various signals, such as thermal, mechanical, metabolic, or 
+nociceptive sti muli (55), and they project from skeletal muscles to the central nervous system to 
+promote central fatigue during intense exercise in order to restrict peripheral fatigue (56,57) . 
+Previous findings have  demonstrated that eccentric exercise is associated with exacerbated core 
+and muscle temperature elevation (~+1°) at a given V̇O2 (58) or power output (59) compared to 
+concentric exercise.  Importantly, a 1° increase in temperature is sufficient to activate group 
+III/IV muscle afferents, as evidenced in animal models (60,61) . Moreover, it was demonstrated 
+that an increase in core temperature through out exercise (reaching a peak change of +2°) 
+promote central fatigue in humans (62). Additionally, the activation of group III/IV muscle 
+afferents is presumably specific t o the contraction mode (63). For example, tendon stretching has 
+been shown to activate a different population of mechanosensitive group III muscle afferents 
+than isometric contraction in decerebrated cats (64). The role of nociceptive stimuli in triggering 
+group III/IV muscle aff erents should also be considered. While the systemic  ECC -induced 
+pain/inflammation process is not immediate but delayed from hours to days after exercise 
+(65,66) , intramuscular bradykinin and prostaglandin concentrations can increase during exercise 
+(67,68) . The increase in the levels of these two proinflammatory hormones, which directly 
+activate group III/IV muscle afferents (69,70) , was likely greater during ECC than during 
+concentric exercise. In contrast, greater activation of group III/IV muscle afferents due to greater 
+metabolic  stimuli (i.e., perturbations) was unlikely given the lower metabolic demand during the 
+ECC session compared to the CON power session. Taken together,  although speculative,  ACCEPTED
+differences in thermal, mechanical, and hormonal stimuli might explain the greater central 
+fatigue observed in the ECC session than in the concentric cycling exercise sessions  and its 
+persistence during the early phase of recovery . 
+ 
+Clinical considerations and future directions  
+While neuromuscular fatigue is a key stimulus for chronic ad aptations to training (19–
+21), the eccentric cycling session, which led to a greater magnitude of neuromuscular fatigue 
+postexercise compared to the conventional  concentric cycling sessions, seems to be particularly 
+appropriate for counteracting the neuromuscular alterations characterizing patients with early 
+breast cancer treated with chemotherapy (2,3) . Moreover, ECC session is associated with greater 
+mechanical constraints per skeletal muscle fiber  compared to CON power session (71), as 
+evidenced in the present study by the lower muscle activation for a given power output in ECC 
+session compared to CON power session (Figure 2). Interestingly, muscle hypertrophy is directly 
+stimulated by mechanical constraint per fiber  (72); therefore, ecc entric exercise leads to greater 
+development of muscle mass and force than concentric exercise (73–75). Taken together, these 
+findings indicate that eccentric cycling is a promising exercise modality in patients with breast 
+cancer suffering from skeletal muscle atrophy (12). 
+ 
+While eccentric cycling is often associated with severe muscle damage (26,28,65) , the 
+present study showed that gradual familiarization  sessions can minimize this undesirable 
+consequence, as evidenced by very low thigh muscle p ain reported by patients 24 h and 48 h 
+postexercise (2/10 on a visual analog ue scale). These result s are supported by the findings of a 
+previous study performed in healthy participants with muscle soreness assessed 24 h and 48 h ACCEPTED
+after eccentric cycling exe rcise (30). Familiarization  sessions likely prevent systemic mu scle 
+damage given that repetitions of eccentric contractions have been shown to reduce CK activity in 
+a subsequent session and to protect the muscle against lesions induced by the eccentric 
+contraction mode (28). The present study revealed no change in CK or LDH activity from 
+preexercise to 24 h postexercise in the ECC session, indicating that no major muscle damage 
+(i.e., no systemic effect) was induced by the exerci se session (76). This observation is important 
+in the context of early breast cancer, as patients are already vulnerable (77), and this 
+vulnerability should not be exacerbated with exercise interventions. Interestingly, we 
+documented low to moderate ratings of perceive d exertion  in eccentric cycling  (Table 3) , which 
+is consistent with a previous study showing less perceived effort exertion in eccentric compared 
+to concentric cycling performed at similar power output in healthy participants (18). Moreover, 
+the observation of no adverse events throughout the study following ECC session supported the 
+feasibi lity and safety of ECC for patients with early breast cancer.   
+ 
+Despite the absence of systemic consequences, it is important to note that the observation 
+of an ~17% decrease in MVC suggested local muscle damage (78). While such stimuli may 
+trigger muscle adaptations to training (79), this substantial decrease in MVC 24 h post -ECC also 
+suggested caution in determining the weekly training frequency for eccentric cycling sessions in 
+patients with early breast cancer. The next step will be to conduct a randomized controlled trial 
+investigating the chronic effects of an eccentric vs. concentric cycling training program 
+prescribed during chemotherapy treatment in patients with breast cancer.  
+  ACCEPTED
+CONCLUSION S 
+The present study conducted in patients with early breast cancer demonstrated that 
+eccentric cycling induced greater neuromuscular fatigue than concentric cycling performed either 
+at similar power output or at similar V̇O2 level. Specifically, the present f indings supported 
+central fatigue as a primary cause of the greater neuromuscular fatigue observed in eccentric 
+cycling exercise compared to concentric cycling exercise. When matched for power output, the 
+metabolic demand was twofold lower in eccentric com pared to concentric cycling. Moreover, 
+eccentric cycling performed after a familiarization  protocol was not associated with the 
+development of severe muscle damage in patients with early breast cancer. Taken together, 
+eccentric cycling may be an interestin g exercise modality for providing a strong neuromuscular 
+stimulus while limiting the implication of impaired cardiorespiratory function characterizing 
+patients with breast cancer.  
+ACCEPTED
+Acknowledgments  
+This work was supported by the Institute of Cancerology Str asbourg Europe (ICANS) and by the 
+initiative of excellence IdEx Unistra (ANR -10-IDEX -0002 -02) from the ‘Investment for the 
+Future' French national program.  We would like to thank Anne -Catherine Schaettel for the 
+collection of blood samples, Anne -Laure Charles for her assistance with superoxide anion 
+production measurements, and Werner Brard for his assistance during the experimental sessions. 
+We also acknowledge the patients for their participation.  The authors report  no conflicts of 
+interest. The resul ts of the study are presented clearly, honestly and without fabrication, 
+falsification, or inappropriate data manipulation. The results of the present study do not 
+constitute endorsement by the American College of Sports Medicine.  
+ACCEPTED
+REFERENCES  
+1. Schmitz KH, Campbell AM, Stuiver MM, et al. Exercise is medicine in oncology: 
+engaging clinicians to help patients move through cancer. CA Cancer J Clin. 
+2019;69(6):468 –84.  
+2. Mallard J, Hucteau E, Hureau TJ, Pagano AF. Skeletal muscle deconditioning in breast 
+cancer patients undergoing chemotherapy: current knowledge and insights from other 
+cancers. Front Cell Dev Biol.  2021;9: 719643 .  
+3. Hucteau E, Mallard J, Pivot X, et al. E xacerbated central fatigue and reduced exercise 
+capacity in early -stage breast cancer patients treated with chemotherapy. Eur J Appl 
+Physiol. 2023;123(7):1567 –81.  
+4. Klassen O, Schmidt ME, Ulrich CM, et al. Muscle strength in breast cancer patients 
+receiving different treatment regimes. J Cachexia Sarcopenia Muscle. 2017;8(2):305 –16.  
+5. Furmaniak AC, Menig M, Markes MH. Exercise for women receiving adjuvant therapy 
+for breast cancer. Cochrane Database Syst Rev. 2016;9 (9):CD005001.  
+6. Lopez P, Galvão DA, Taaffe DR, et al. Resistance training in breast cancer patients 
+undergoing primary treatment: a systematic review and meta -regression of exercise 
+dosage. Breast Cancer . 2021;28(1):16 –24.  
+7. Bland KA, Kouw IWK, van Loon LJC, Zopf EM, Fairman CM. Exercise -based 
+interventions to counteract skeletal muscle mass loss in people with cancer: can we 
+overcome the od ds? Sports Med. 2022;52(5):1009 –27.  
+8. Clarkson PM, Kaufman SA . Should resistance exercise be recommended during breast 
+cancer treatment? Med Hypotheses.  2010;75(2):192 –5.  
+ ACCEPTED
+9. del-Rosal -Jurado A, Romero -Galisteo R, Trinidad -Fernández M, González -Sánchez M, 
+Cuesta -Vargas A, Ruiz -Muñoz M. Therapeutic  physical exercise post-treatment in breast 
+cancer: a systematic review of clinical practice gui delines. J Clin Med.  2020;9(4):1239.  
+10. Lahart IM, Metsios GS, Nevill AM, Carmichael AR. Physical activity for women with 
+breast cancer after adjuvant therapy. Cochrane Database  Syst Rev.  2018;1:CD011292.  
+11. Peel AB, Thomas SM, Dittus K, Jones LW, Lakoski SG. Cardiorespiratory fitness in 
+breast cancer patients: a call for normative values. J Am Heart Assoc. 2014;3(1):e000432.  
+12. Mallard J, Hucteau E, Schott R, et al. Early sk eletal muscle deconditioning and reduced 
+exercise capacity during (neo)adjuvant chemotherapy in patients with breast cancer. 
+Cancer . 2023;129(2):215 –25.  
+13. Bigland -Ritchie B, Woods JJ. Integrated electromyogram and oxygen uptake during 
+positive and negative work. J Physiol.  1976;260(2):267 –77.  
+14. Dufour SP, Doutreleau S, Lonsdorfer -Wolf E, et al. Deciphering the metabolic and 
+mechanical contributions to the  exercise -induced circulatory response: insights from 
+eccentric cycling. Am J Physiol Regul Integr Comp Physiol.  2007;292(4):R1641 -8.  
+15. Chasland LC, Green DJ, Maiorana AJ, et al. Eccentric cycling: a promising modality for 
+patients with chronic heart fa ilure. Med Sci Sports Exerc.  2017;49(4):646 –51.  
+16. Peñailillo L, Blazevich AJ, Nosaka K. Factors contributing to lower metabolic demand of 
+eccentric compared with concentric cycling. J Appl Physiol  (1985) . 2017;123(4):884 –93.  
+17. Clos P, Mater A, Legran d H, et al. Corticospinal excitability is lower during eccentric 
+than concentric cycling in me n. Front Physiol. 2022;13:854824.  
+18. Clos P, Mater A, Laroche D, Lepers R. Concentric versus eccentric cycling at equal 
+power output or effort perception: neuromuscular alterations and muscle pain. Scand J ACCEPTED
+Med Sci Sports.  2022;32(1):45 –59.  
+19. Flück M. Functional, structural and molecular plasticity of mammalian skeletal muscle in 
+response to exercise stimuli. J Exp Biol. 2006;209(Pt 12):2239 –48.  
+20. Burtin C, Saey D, Saglam M, et al. Effectiveness of exercise training in patients with 
+COPD: the role of muscle fatigue. Eur Respir J.  2012;40(2):338 –44.  
+21. Rooney KJ, Herbert RD, Balnave RJ. Fatigue contributes to the strength training 
+stimulus. Med Sci Sports Ex erc. 1994;26(9):1160 –4.  
+22. Gandevia SC. Spinal and supraspinal factors in human muscle fatigue. Physiol  Rev. 
+2001;81(4):1725 –89.  
+23. Bigland -Ritchie B, Jones DA, Hosking GP, Edwards RH. Central and peripheral fatigue 
+in sustained maximum voluntary contr actions of human quadriceps muscle. Clin Sci Mol 
+Med. 1978;54(6):609 –14.  
+24. Mallard J, Hucteau E, Bender L, et al. Development of skeletal muscle atrophy and 
+intermuscular adipose tissue in patients with early breast cancer treated with 
+chemotherapy. Am J Physiol Cell Physiol. 2022;323(4):C1325 –32.  
+25. Mijwel S, Cardinale DA, Norrbom J, et al. Exercise training during chemotherapy 
+preserves skeletal muscle fiber area, capillarization, and mitochondrial content in patients 
+with breast cancer. FASEB J.  2018;32(10):5495 –505.  
+26. Proske U, Morgan DL. Muscle damage from eccentric exercise: mechanism, mechanical 
+signs, adaptation and clinical applications. J Physiol.  2001;537(Pt 2):333 –45.  
+27. Nosaka K, Newton M, Sacco P. Delayed -onset muscle soreness does  not reflect the 
+magnitude of eccentric exercise -induced muscle damage. Scand J Med Sci Sports. 
+2002;12(6):337 –46.  ACCEPTED
+28. Coratella G, Chemello A, Schena F. Muscle damage and repeated bout effect induced by 
+enhanced eccentric squats.  J Sports Med Phys Fitnes s. 2016;56(12):1540 –6.  
+29. Bower JE, Ganz PA, Irwin MR, et al. Acute and  chronic effects of adjuvant therapy on 
+inflammatory markers in breast cancer patien ts. JNCI Cancer Spectr.  2022;6(4):pkac052.  
+30. Peñailillo L, Blazevich A, Numazawa H, Nosaka K. Me tabolic and muscle damage 
+profiles of concentric versus repeated eccentric cycling. Med Sci Sports Exerc. 
+2013;45(9):1773 –81.  
+31. Vincent F, Labourey JL, Leobon S, Antonini MT, Lavau -Denes S, Tubiana -Mathieu N. 
+Effects of a home -based walking training program on cardiorespiratory fitness in breast 
+cancer patients receiving adjuvant chemotherapy: a pilot study. Eur J Phys Rehabil Med.  
+2013;49(3):319 –29.  
+32. Rossiter HB, Kowalchuk JM, Whipp BJ. A test to establish maximum O2 uptake despite 
+no plateau in the O2 uptake response to ramp incremental exercise. J Appl Physiol  
+(1985) . 2006;100(3):764 –70.  
+33. Poole DC, Jones AM. Measurement o f the maximum oxygen uptake V̇o2max: V̇o2peak 
+is no longer acceptable. J Appl Physiol  (1985) . 2017;122(4):997 –1002.  
+34. Mater A, Boly A, Martin A, Lepers R. Cadence modulation during eccentric cycling 
+affects perception of effort but not neuromuscular alt erations. Med Sci Sports Exerc. 
+2024;56(5):893 -901. 
+35. Mugele H, Freitag N, Wilhelmi J, et al. High -intensity interval training in the therapy and 
+aftercare of cancer patients: a systematic review with meta -analysis.  J Cancer Surviv. 
+2019;13(2):205 –23.  
+ ACCEPTED
+36. Hermens HJ, Freriks B, Disselhorst -Klug C, Rau G. Development of recommendations 
+for SEMG sensors and sensor placement procedures. J Electromyogr Kinesiol. 
+2000;10(5):361 –74.  
+37. Gruet M, Temesi J, Rupp T, Levy P, Millet GY, Verges S. Stimulation of t he motor 
+cortex and corticospinal tract to assess human muscle fatigue. Neuroscience . 
+2013;231:384 –99.  
+38. González -Bartholin R, Mackay K, Valladares D, Zbinden -Foncea H, Nosaka K, 
+Peñailillo L. Changes in oxidative stress, inflammation and muscle damage markers 
+following eccentric versus concentric cycling in older adults. Eur J Appl Physiol.  
+2019;119(10):2301 –12.  
+39. Fuglevand AJ, Zackowski KM, Huey KA, Enoka RM. Impairment of neuromuscular 
+propagation during human fatiguing contractions at submaximal f orces. J Physiol.  
+1993;460:549 –72.  
+40. Crameri RM, Aagaard P, Qvortrup K, Langberg H, Olesen J, Kjaer M. Myofibre damage 
+in human skeletal muscle: effects of electrical stimulation versus voluntary contraction.  J 
+Physiol. 2007;583(Pt 1):365 –80.  
+41. Ducro cq GP, Hureau TJ, Bøgseth T, Meste O, Blain GM. Recovery fro m fatigue after 
+cycling time trials in elite endurance at hletes. Med Sci Sports Exerc. 2021;53(5):904 –17.  
+42. Thomas K, Goodall S, Stone M, Howatson G, St Clair Gibson A, Ansley L. Central and 
+peripheral fatigue in male cyclists after 4 -, 20-, and 40 -km time trials. Med Sci Sports 
+Exerc. 2015;47(3):537 –46.  
+43. Allen DG, Lamb GD, Westerblad H. Skeletal muscle fatigue: cellular mechanisms. 
+Physiol Rev.  2008;88(1):287 –332.  ACCEPTED
+44. Andersen LL, Aagaard P. Influence of maximal muscle strength and intrinsic muscle 
+contractile properties on contractile rate of force development. Eur J Appl Physiol.  
+2006;96(1):46 –52.  
+45. Souron R, Nosaka K, Jubeau M. Changes in central and peripheral neuromuscular fatigue 
+indices after concentric versus eccentric contractions of the knee extensors. Eur J Appl 
+Physiol. 2018;118(4):805 –16.  
+46. Löscher WN, Nordlund MM. Central fatigue and motor cortical excitability during 
+repeated shortening and lengthening actions. Muscle Ne rve. 2002;25(6):864 –72.  
+47. Prasartwuth O, Taylor J, Gandevia S. Maximal force, voluntary activation and muscle 
+soreness after eccentric damage to human elbow flexor muscles. J Physiol.  2005;567(Pt 
+1):337 –48.  
+48. Perrey S. Brain activation associated with eccentric movement: a narrative review of the 
+literature. Eur J Sport Sci.  2018;18(1):75 –82.  
+49. Weavil JC, Amann M. Corticospinal excitability during fatiguing whole body exercise. 
+Prog Brain Res.  2018;240:219 –46.  
+50. Grosprêtre S, Papaxanthis C, Martin A. Modulation of spinal excitability by a sub -
+threshold stimulation of M1 area during muscle lengthening. Neuroscience . 
+2014;263:60 –71.  
+51. Duclay J, Pasquet B, Martin A, Duchateau J. Specific modulation of cort icospinal and 
+spinal excitabilities during maximal voluntary isometric, shortening and lengthening 
+contractions in synergist muscles. J Physiol.  2011;589(Pt 11):2901 –16.  
+52. Möller C, Arai N, Lücke J, Ziemann U. Hysteresis effects on the input -output curv e of 
+motor evoked potentials.  Clin Neurophysiol. 2009;120(5):1003 –8.  ACCEPTED
+53. Gandevia SC, Allen GM, Butler JE, Taylor JL. Supraspinal factors in human muscle 
+fatigue: evidence for suboptimal output from the motor cortex.  J Physiol. 1996;490(Pt 
+2):529 –36.  
+54. Amann M, Sidhu SK, McNeil CJ, Gandevia SC. Critical considerations of the 
+contribution of the corticomotoneuronal pathway to central fatigue. J Physiol.  
+2022 ;600(24):5203 -14. 
+55. Kaufman MP, Rybicki KJ. Discharge properties of group III and IV muscle affe rents: 
+their responses to mechanical and metabolic stimuli. Circ Res. 1987;61(4 Pt 2):I60 -5.  
+56. Blain GM, Mangum TS, Sidhu SK, et al. Group III/IV muscle afferents limit the 
+intramuscular metabolic perturbation during whole body exercise in humans. J Phy siol. 
+2016;594(18):5303 –15.  
+57. Hureau TJ, Romer LM, Amann M. The “sensory tolerance limit”: a hypothetical 
+construct determining exercise performance? Eur J Sport Sci.  2018;18(1):13 –24.  
+58. Eiken T, Harrison AJ, Burdon CA, Groeller H, Peoples GE. Elevated body temperature 
+contributes to the increased heart rate response during eccentric compared to concentric 
+cycling when matched for oxygen consumption. Temperature (Austin).  2021;8(1):30 –8.  
+59. Nadel ER, Bergh U, Saltin B. Body temperatures during negative work exercise. J Appl 
+Physiol. 1972;33(5):553 –8.  
+60. Hertel HC, Howaldt B, Mense S. Responses of group IV and group III muscle afferents 
+to thermal stimuli. Brain Res.  1976;113(1):201 –5.  
+61. Kumazawa T, Mizumura K. Thin -fibre receptors responding to mechanical, chemical, 
+and thermal stimulation in the skeletal muscle of the dog. J Physiol.  1977;273(1):179 –94.  
+ ACCEPTED
+62. Nybo L, Nielsen B. Hyperthermia and central fatigue during prolonged exercis e in 
+humans. J Appl Physiol (1985). 2001;91(3):1055 –60.  
+63. Martin V, Dousset E, Laurin J, Gondin J, Gautier M, Decherchi P. Group III and IV 
+muscle afferent discharge patterns after repeated lengthening and shortening actions. 
+Muscle Nerve.  2009;40(5):82 7–37.  
+64. Hayes SG, Kindig AE, Kaufman MP. Comparison between the effect of static contraction 
+and tendon stretch on the discharge of group III and IV muscle afferents. J Appl Physiol 
+(1985). 2005;99(5):1891 –6.  
+65. Hirose L, Nosaka K, Newton M, Laveder A , Kano M, Peake J, et al. Changes in 
+inflammatory mediators following eccentric exercise of the elbow flexors. Exerc 
+Immunol Rev. 2004;10:75 –90.  
+66. Smith LL. Acute inflammation: the underlying mechanism in delayed onset muscle 
+soreness? Med Sci Sports Ex erc. 1991;23(5):542 –51.  
+67. Stebbins CL, Carretero OA, Mindroiu T, Longhurst JC. Bradykinin release from 
+contracting skeletal muscle of the cat. J Appl Physiol (1985).  1990;69(4):1225 –30.  
+68. Symons JD, Theodossy SJ, Longhurst JC, Stebbins CL. Intramuscu lar accumulation of 
+prostaglandins during static contraction of the cat triceps surae. J Appl Physiol (1985). 
+1991;71(5):1837 –42.  
+69. Stebbins CL, Maruoka Y, Longhurst JC. Prostaglandins contribute to cardiovascular 
+reflexes evoked by static muscular cont raction. Circ Res. 1986;59(6):645 –54.  
+70. Kaufman MP, Iwamoto GA, Longhurst JC, Mitchell JH. Effects of capsaicin and 
+bradykinin on afferent fibers with ending in skeletal muscle.  Circ Res.  1982;50(1):133 –9.  
+ ACCEPTED
+71. Komi PV, Kaneko M, Aura O. EMG activity of  the leg extensor muscles with special 
+reference to mechanical efficiency in concentric and eccentric exercise. Int J Sports Med.  
+1987;8 Suppl 1:22 –9.  
+72. Egan B, Zierath JR. Exercise metabolism and the molecular regulation of skeletal muscle 
+adaptation. Cell Metab.  2013;17(2):162 –84.  
+73. Maeo S, Shan X, Otsuka S, Kanehisa H, Kawakami Y. Neuromuscular adaptations to 
+work -matched maximal eccentric versus concentric train ing. Med Sci Sports Exerc. 
+2018;50(8):1629 –40.  
+74. Higbie EJ, Cureton KJ, Warren GL, P rior BM. Effects of concentric and eccentric 
+training on muscle strength, cross -sectional area, and neural activation.  J Appl Physiol  
+(1985) . 1996;81(5):2173 –81.  
+75. Cadore EL, González -Izal M, Pallarés JG, et al. Muscle conduction velocity, strength, 
+neural activity, and morphological changes after eccentric and concentric training. Scand 
+J Med Sci Sports. 2014;24(5):e343 -352.  
+76. Brancaccio P, Lippi G, Maffulli N. B iochemical markers of muscular damage. Clin Chem 
+Lab Med.  2010;48(6):757 –67.  
+77. Waks AG, Winer EP. Breast cancer treatment: a review. JAMA . 2019;321(3):288 –300.  
+78. Chalchat E, Gaston AF, Charlot K, et al. Appropriateness of indirect markers of muscle 
+damage following lower limbs eccentric -biased exercises: a systematic review with meta -
+analysis. PLoS One. 2022;17(7):e0271233.  
+79. Schoenfeld B. The use of specialized training techniques to maximize muscle 
+hypert rophy. Strength Cond J. 2011;33(4):60 -5. ACCEPTED
+FIGURE LEGENDS  
+ 
+Figure 1. Exercise -induced changes in neuromuscular function during exercise and 
+recovery.  (A) Maximal voluntary contraction (MVC) expressed in relative units. Voluntary 
+activation (B) and (C) quadriceps potentiated twitch force (Q tw) expressed in relative units. 
+Variables were assessed preexercise, after each exercise bout, and postexercise up  to 24 h. The 
+data are presented as the mean ± SD (n=9). * Significant difference from preexercise, P < 0.05. † 
+Significant difference between ECC and CON power, P < 0.05. $ Significant difference between 
+ECC and CONV̇O2, P < 0.05. The eccentric cycling sess ions (ECC) are represented by black 
+circles. The concentric cycling exercise sessions performed at the same power output as that of 
+the ECC sessions (CON power) are represented by white squares. The concentric cycling exercise 
+sessions performed at the same  O2 consumption level as that of the ECC sessions ( CONV̇O2) are 
+represented by grey triangles.  
+ 
+Figure 2. Muscle activation during exercise. Vastus lateralis (A), vastus medialis (B), and 
+rectus femoris (C) muscle activations are normalized to the root mean  square (RMS) recorded 
+during preexercise MVCs and expressed as a percentage from preexercise. The data are 
+presented as the mean ± SD (n=9). † Significant difference between ECC and CON power, P < 0.05. 
+$ Significant difference between ECC and CONV̇O2, P < 0.05. # Significant difference from the 
+first bout in ECC session, P < 0.05. The eccentric cycling sessions (ECC) are represented by 
+black circles. The concentric cycling exercise sessions performed at the same power output as 
+that of the ECC sessions (CON power) are represented by white squares. The concentric cycling ACCEPTED
+exercise sessions performed at the same O 2 consumption level as that of the ECC sessions 
+(CONV̇O2) are represented by grey triangles.  
+ 
+Figure 3. O2 consumption normalized to 𝐕̇O2max (A), and he art rate normalized to maximal 
+heart rate (HR max) (B) responses during cycling exercise.  Statistical analyses were performed 
+during the steady state (i.e., the last 3 min of each cycling bout).  
+The data are presented as the mean ± SD (n=9). † Significant difference between ECC and 
+CON power, P < 0.05. $ Significant difference between ECC and CONV̇O2, P < 0.05. # Significant 
+difference from the first bout in in the three conditions, P < 0.05. The eccentric cycling sessions 
+(ECC) are represented by black circl es. The concentric cycling exercise sessions performed at 
+the same power output as that of the ECC sessions (CON power) are represented by white squares. 
+The concentric cycling exercise sessions performed at the same O 2 consumption level as that of 
+the ECC sessions ( CONV̇O2) are represented by grey triangles.  
+ 
+Figure 4. Changes in plasma biomarkers of muscle damage from pre - to 24 h postexercise.  
+Creatine kinase activity (A) and lactate dehydrogenase activity (B). For every index, bars 
+correspond to mean grou p data, and dots, squares and triangles correspond to individual data 
+(n=9). Individual values are presented. The eccentric cycling session (ECC) are represented by 
+black circles. The concentric cycling exercise sessions performed at the same power output as 
+that of the ECC sessions (CON power) are represented by white squares. The concentric cycling 
+exercise sessions performed at the same O 2 consumption level as that of the ECC sessions 
+(CONV̇O2) are represented by grey triangles . ACCEPTED
+SUPPLEMENTAL DIGITAL CONTENT  
+ 
+SDC 1:  Supplemental Table 1.docx  
+ACCEPTED
+Figure 1  
+ ACCEPTED
+Figure  2 
+ ACCEPTED
+Figure  3 
+ 
+ 
+ ACCEPTED
+Figure  4 
+ 
+ACCEPTED
+Table 1. Participants’ characteristics.   
+ 
+Participants’ characteristics (n=9)    
+Characteristics  (mean ± SD)   
+  Age (year)  53 ± 13  
+  Body mass (kg)  76 ± 27  
+  Height (cm)  165 ± 1  
+  Body mass index (kg/m²)  28 ± 8  
+Incremental test (mean ± SD)   
+ V̇O2max (mL.min.kg-1) 23 ± 6  
+ HR max (bpm)  167 ± 13  
+ PPO (W)  121 ± 25  
+Tumor stage (n)  
+ 2 3 
+ 3 6 
+Tumor SBR grade  (n)    II 7 
+  III 2 
+Tumor type  (n)    Luminal (A/B)  6 
+  HER2+++  3 
+Treatment setting (n)    Adjuvant  5 
+  Neo-adjuvant  4 
+ 
+HER2, human epidermal growth factor receptor 2; HR max, maximal heart rate; PPO, concentric 
+peak power output; SBR, Scarff‐Bloom‐Richardson.  ACCEPTED
+Table 2. Neuromuscular function of quadriceps before, during, and after exercise in the  
+ eccentric and concentric cycling sessions.   
+ 
+Preexercise  Postbout 1  Postbout 2  Postbout 3  
+30 s 2 min  30 s 2 min  30 s 2 min  3 min  5 min  10 min  24 h 
+CT. ms            
+ECC  108 ± 9 112 ± 11 111 ± 13 108 ± 13 106 ± 7 110 ± 12 107 ± 6 113 ± 13 123 ± 33 101 ± 7 109 ± 12 
+CON power 110 ± 11 110 ± 15 110 ± 11 111 ± 11 117 ± 23 113 ± 15 115 ± 16 115 ± 20 116 ± 19 110 ± 10 112 ± 12 
+CONV̇O2 110 ± 10 112 ± 12 114 ± 11 112 ± 12 114 ± 9 108 ± 12 113 ± 10 113 ± 12 111 ± 13 114 ± 12 104 ± 5 
+HRT . ms           
+ECC  77 ± 21 37 ± 11*† 38 ± 9*† 33 ± 6*†$ 36 ± 9* 28 ± 8*$ 35 ± 8* 32 ± 8*$ 33 ± 6* 36 ± 12* 78 ± 14 
+CON power 75 ± 30 93 ± 50 67 ± 37 69 ± 32 56 ± 30 45 ± 30* 50 ± 28 43 ± 24* 55 ± 54 42 ± 20* 74 ± 36 
+CONV̇O2 86 ± 22 59 ± 28* 58 ± 20* 65 ± 30 57 ± 25* 70 ± 36 54 ± 23* 60 ± 30 60 ± 15 57 ± 13* 88 ± 23 
+MRFD . N.s-1           
+ECC  4180 ± 1074  3626 ± 1094†$ 3313 ± 1170* 2920 ± 1117* 2611 ± 1004* 2538 ± 1227* 2192 ± 932*$ 2027 ± 950*$ 1851 ± 793*$ 1826 ± 839*$ 3378 ± 748† 
+CON power 4389 ± 1398  2686 ± 1195* 2955 ± 1207* 2513 ± 1178* 2486 ± 1161* 2591 ± 1240* 2325 ± 1132* 2321  ± 1109* 2214 ± 1063* 2082 ± 892* 4208 ± 983  
+CONV̇O2 4037 ± 1390  3460 ± 1143  3533 ± 1130  3313 ± 1201  3338 ± 1218  3330 ± 1103  3135 ± 1261  3338 ± 1096* 3163 ± 1182* 2971 ± 1084* 4027 ± 1172  
+VL M max. mV            
+ECC  11.3 ± 4.1  10.7 ± 3.6  10.2 ± 3.6*† 10.4 ± 3.3† 10.3 ± 3.3*† 10.2 ± 3.3* 10.2 ± 3.3* 10.2 ± 3.3* 10.2 ± 3.4* 10.2 ± 3.5* 10.8 ± 4.9  
+CON power 10.7 ± 4.5  11.4 ± 4.1  11.4 ± 4.1  11.5 ± 4.2  11.5 ± 4.2  11.2 ± 4.8  11.0 ± 4.4  11.0 ± 4.4  10.6 ± 4.3  10.4 ± 4.4  10.6 ± 4.7  
+CONV̇O2 10.8 ± 4.6  10.6 ± 4.3  10.6 ± 4.3  10.8 ± 4.5  10.7 ± 4.4  10.8 ± 4.2  10.7 ± 4.2  10.7 ± 4.2  10.5 ± 4.2  10.4 ± 4.2  12.4 ± 4.7  
+VM M max. mV            
+ECC  12.7 ± 4.6  11.3 ± 3.7  10.4 ± 4.3*† 10.3 ± 3.7† 10.8 ± 3.3*† 10.3 ± 3.6* 10.6 ± 3.3* 10.8 ± 3.5* 10.5 ± 3.5* 10.6 ± 3.6* 12.4 ± 4.6  
+CON power 11.8 ± 4.4  11.6 ± 5.5  11.8 ± 5.7  11.2 ± 5.0  11.4 ± 4.4  10.8 ± 5.9  9.9 ± 5.2  10.3 ± 5.0  9.5 ± 5.0  9.6 ± 4.8  11.6 ± 4.9  
+CONV̇O2 12.0 ± 5.4  11.4 ± 5.4  11.6 ± 5.1  11.4 ± 5.4  11.6 ± 5.0  11.6 ± 5.0  11.5 ± 4.8  11.5 ± 4.9  11.5 ± 4.6  11.3 ± 4.7  12.4 ± 4.7  
+RF M max. mV            
+ECC  4.0 ± 1.4  3.7 ± 1.2  3.5 ± 1.0  3.4 ± 1.1*† 3.5 ± 1.1† 3.4 ± 1.2* 3.5 ± 1.0  3.5 ± 1.0  3.5 ± 1.0  3.4 ± 1.1* 4.1 ± 1.1  
+CON power 4.1 ± 1.3  4.0 ± 1.5  4.0 ± 1.3  4.1 ± 1.0  4.1 ± 1.0  4.0 ± 1.2  3.8 ± 1.1  3.8 ± 1.2  3.7 ± 1.2  3.7 ± 1.3  3.8 ± 1.5  
+CONV̇O2 4.2 ± 1.3  3.9 ± 1.1  3.9 ± 1.2  3.9 ± 1.3  3.9 ± 1.4  3.8 ± 1.2  3.9 ± 1.2  3.9 ± 1.2  3.8 ± 1.2  3.8 ± 1.2  4.4 ± 1.3  
+VL RMS.M max-1. a.u.            
+ECC  0.04 ± 0.01  0.05 ± 0.01  0.04 ± 0.01  0.05 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  
+CON power 0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01   0.05 ± 0.01   0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  
+CONV̇O2 0.04 ± 0.01   0.05 ± 0.01  0.04 ± 0.01  0.05 ± 0.02  0.04 ± 0.01  0.05 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.05 ± 0.01  0.04 ± 0.01  
+VM RMS.M max-1. a.u.            
+ECC  0.04 ± 0.02  0.04 ± 0.02  0.04 ± 0.03  0.05 ± 0.02  0.04 ± 0.01  0.04 ± 0.02  0.04 ± 0.01  0.03 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  
+CON power 0.04 ± 0.01  0.05 ± 0.03  0.05 ± 0.03  0.06 ± 0.04  0.04 ± 0.01  0.09 ± 1.3  0.07 ± 0.07  0.06 ± 0.06  0.07 ± 0.06  0.07 ± 0.07  0.05 ± 0.05  
+CONV̇O2 0.05 ± 0.02  0.06 ± 0.06  0.04 ± 0.01  0.05 ± 0.02  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.04 ± 0.01  0.06 ± 0.07  
+RF RMS.M max-1. a.u.            
+ECC  0.06 ± 0.01  0.07 ± 0.01  0.06 ± 0.01  0.07 ± 0.01  0.06 ± 0.02  0.06 ± 0.02  0.05 ± 0.01  0.06 ± 0.01  0.05 ± 0.01  0.06 ± 0.01  0.06 ± 0.2  
+CON power 0.06 ± 0.02  0.06 ± 0.01  0.06 ± 0.01  0.06 ± 0.01  0.06 ± 0.01  0.06 ± 0.01  0.06 ± 0.01  0.06 ± 0.01   0.07 ± 0.02  0.06 ± 0.01  0.06 ± 0.01  
+CONV̇O2 0.06 ± 0.02  0.06 ± 0.02  0.05 ± 0.02  0.06 ± 0.02  0.06 ± 0.02  0.06 ± 0.02  0.06 ± 0.02  0.06 ± 0.02  0.06 ± 0.01  0.06 ± 0.02  0.07 ± 0.02  
+VL MEP.cM max-1. a.u.            
+ECC  0.19 ± 0.08  0.19 ± 0.08  0.19 ± 0.08  0.20 ± 0.11  0.23 ± 0.09  0.22 ± 0.08  0.25 ± 0.09  0.24 ± 0.10  0.26 ± 0.11  0.26 ± 0.12  0.22 ± 0.11  
+CON power 0.24 ± 0.11  0.21 ± 0.09  0.22 ± 0.09  0.18 ± 0.07  0.21 ± 0.08  0.24 ± 0.09  0.26 ± 0.08  0.28 ± 0.10  0.27 ± 0.08  0.29 ± 0.07  0.23 ± 0.09  
+CONV̇O2 0.21 ± 0.06  0.20 ± 0.07  0.22 ± 0.09  0.22 ± 0.10  0.25 ± 0.14  0.23 ± 0.10  0.25 ± 0.08  0.24 ± 0.06  0.22 ± 0.08  0.25 ± 0.09  0.22 ± 0.05  
+VM MEP.cM max-1. a.u.            
+ECC  0.19 ± 0.11  0.21 ± 0.10  0.22 ± 0.12  0.21 ± 0.13  0.23 ± 0.11  0.22 ± 0.12  0.25 ± 0.13  0.24 ± 0.13  0.27 ± 0.14  0.27 ± 0.15  0.22 ± 0.11  
+CON power 0.25 ± 0.12  0.33 ± 0.28  0.29 ± 0.15  0.26 ± 0.18  0.25 ± 0.11  0.47 ± 0.57  0.46 ± 0.42  0.47 ± 0.47  0.45 ± 0.30  0.46 ± 0.38  0.25 ± 0.12  
+CONV̇O2 0.30 ± 0.20  0.43 ± 0.63  0.30 ± 0.21  0.32 ± 0.26  0.19 ± 0.21  0.29 ± 0.16  0.30 ± 0.14  0.30 ± 0.13  0.25 ± 0.10  0.30 ± 0.16  0.25 ± 0.08  
+RF MEP.cM max-1. a.u.            
+ECC  0.29 ± 0.12  0.31 ± 0.09  0.29 ± 0.09  0.29 ± 0.11  0.34 ± 0.14  0.31 ± 0.10  0.32 ± 0.14  0.32 ± 0.12  0.34 ± 0.15  0.34 ± 0.17  0.29 ± 0.11  
+CON power 0.34 ± 0.15  0.34 ± 0.15  0.35 ± 0.11  0.29 ± 0.09  0.32 ± 0.11  0.31 ± 0.07  0.40 ± 0.13  0.43 ± 0.13  0.41 ± 0.14  0.44 ± 0.14  0.40 ± 0.24  
+CONV̇O2 0.33 ± 0.09  0.31 ± 0.13  0.31 ± 0.14  0.32 ± 0.13  0.33 ± 0.16  0.37 ± 0.13  0.37 ± 0.15  0.39 ± 0.12  0.36 ± 0.12  0.37 ± 0.15  0.33 ± 0.13  ACCEPTED
+ 
+The data are presented as the means ± SD (n=9). CON power, concentric cycling exercise performed at the 
+same power output as ECC; CONV̇O2, concentric cycling exercise performed at the same O 2 
+consumption as ECC; CT, contraction time; ECC, eccentric cycling exercise; HRT, half -
+relaxation time; MEP, motor -evoked potential; MEP.cM max-1, normalized MEP to concomitant 
+Mmax; M max, muscle action pot ential; MRFD, maximal rate of force development; VL, vastus 
+lateralis; VM, vastus medialis; RF, rectus femoris. * Significant difference from preexercise, P < 
+0.05. † Significant difference from CON power, P < 0.05. $ Significant difference from CONV̇O2, P < 
+0.05.  
+ACCEPTED
+Table 3. Rate of perceived exertion assessed using the Borg CR -10 scale at the end of each 
+cycling bout in the three experimental conditions.  
+ 
+ Bout 1  Bout 2  Bout 3  
+ECC  3.2 ± 1.6†$ 3.8 ± 1.6$ 4.3 ± 1.7†$# 
+CON power 4.4 ± 2.0  4.7 ± 1.1  5.4 ± 1.2  
+CONV̇O2 0.7 ± 0.7  1.0 ± 0.9  1.4 ± 0.8  
+ 
+CON power, concentric cycling exercise performed at the same power output as ECC; CONV̇O2, 
+concentric cycling exercise performed at the same O 2 consumption as ECC; ECC, eccentric 
+cycling exercise. The data are presented as the mean ± SD (n=9). † Significant difference from 
+CON power, P < 0.05. $ Significant difference from CONV̇O2, P < 0.05. # Significant difference from 
+bout one, P < 0.05.  
+ACCEPTED
+Table 4.  Thigh muscle soreness assessed with a visual analogue scale 24 h and 48 h after the 
+familiarisation sessions and experimental conditions.   
+ 
+Familiarizations to eccentric  
+ Session 1  Session 2  Session 3  Session 4  
+24h postexercise  1.2 ± 0.9  1.6 ± 1.5  2.1 ± 1.9  2.0 ± 2.2  
+48h postexercise  1.0 ± 1.5  1.2 ± 1.6  2.3 ± 2.1  1.1 ± 1.5  
+Experimental sessions  
+ ECC  CON power CONV̇O2  
+24h postexercise  2.1 ± 2.1†$ 0.2 ± 0.6  0.0 ± 0.0   
+48h postexercise  2.0 ± 1.8†$ 0.5 ± 0.8  0.0 ± 0.0   
+ 
+CON power, concentric cycling exercise performed at the same power output as ECC; CONV̇O2, 
+concentric cycling exercise performed at the same O 2 consumption as ECC; ECC, eccentric 
+cycling exercise. The data are presented as the mean ± SD (n=9). † Significant difference from 
+CON power, P < 0.05. $ Significant difference from CONV̇O2, P < 0.05.  
+ACCEPTED
+Table S1. Baseline values .  
+ 
+ ECC  CON power 𝐂𝐎𝐍𝐕̇𝐎𝟐 P value  
+Neuromuscular indices      
+MVC. N 317 ± 69  308 ± 52  311 ± 65  0.639  
+VA. % 96 ± 2 94 ± 3  94 ± 3  0.154  
+Qtw . N 131 ± 26  136 ± 17  126 ± 28  0.329  
+CT. ms 108 ± 9  109 ± 12  110 ± 10  0.328  
+HRT. ms 77 ± 21  75 ± 30  86 ± 22  0.265  
+MRFD. N.s-1 4180 ± 1074  4389 ± 1398  4037 ± 1390  0.715  
+Mmax     
+VL M max. mV 11.3 ± 4.1  10.7 ± 4.5  10.8 ± 4.6  0.281  
+VM M max. mV 12.7 ± 4.6  11.8 ± 4.4  12.0 ± 5.4  0.464  
+RF M max. mV 4.0 ± 1.4  4.1 ± 1.3  4.2 ± 1.3  0.801  
+RMS.M max-1     
+VL RMS.M max-1, a.u. 0.043 ± 0.007  0.042 ± 0.011  0.044 ± 0.009  0.565  
+VM RMS.M max-1, a.u. 0.044 ± 0.021  0.037 ± 0.011  0.046 ± 0.023  0.689  
+RF RMS.M max-1, a.u.  0.061 ± 0.012  0.057 ± 0.016  0.057 ± 0.015  0.712  
+MEP.cM max-1     
+VL MEP.cM max-1 . a.u. 0.19 ± 0.08  0.24 ± 0.11  0.21 ± 0.26  0.273  
+VM MEP.cM max-1 . a.u. 0.19 ± 0.11  0.25 ± 0.12  0.30 ± 0.20  0.187  
+RF MEP.cM max-1 . a.u. 0.29 ± 0.12  0.34 ± 0.15  0.33 ± 0.09  0.576  
+Cardiorespiratory indices      
+𝐕̇O2 . mL.min.kg-1 4.2 ± 0.9  3.0 ± 1.0  3.8 ± 1.1  0.085  
+HR. bpm 83 ± 12  83 ± 14  79 ± 15  0.180  
+Plasma biomarkers      
+CK. units.L-1 44.5 ± 22.7  51.4 ± 35.7  43.9 ± 27.7  0.843  
+LDH . units.L-1 1.15 ± 0.36  1.10 ± 0.31  1.08 ± 0.35  0.971  
+ 
+The data are presented as the means ± SD (n=9). CK, creatine kinase; CON power, concentric 
+cycling exercise performed at the same power output as ECC; CONV̇O2, concentric cycling 
+exercise performed at the same O 2 consumption as ECC; CT, contraction time; ECC, eccentric ACCEPTED
+cycling exercise; HR, heart rate; HRT, half -relaxation time; LDH, lactate dehydrogenase; MEP, 
+motor -evoked potential; MEP.cM max-1, normalized MEP to concomitant M max; M max, muscle 
+action potential; MRFD, maximal ra te of force development; MVC, maximal voluntary isometric 
+contraction; Qtw, quadriceps potentiated twitch force; RF, rectus femoris; RMS.M max-1, root mean 
+square (RMS) of the EMG signals normalized to the M max amplitude; VA, voluntary activation; 
+V̇O2, oxygen consumption level; VL, vastus lateralis; VM, vastus medialis.  
+ACCEPTED

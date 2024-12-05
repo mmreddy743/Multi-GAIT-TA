@@ -1,0 +1,579 @@
+Citation: Petrie, M.A.; Johnson, K.A.;
+Dubey, O.; Shields, R.K. Exercise
+Prescription Principles among
+Physicians and Physical Therapists
+for Patients with Impaired Glucose
+Control: A Cross-Sectional Study. J.
+Funct. Morphol. Kinesiol. 2023 ,8, 112.
+https://doi.org/10.3390/
+jfmk8030112
+Academic Editors: Cristina Cortis,
+Andrea Fusco and Carl Foster
+Received: 29 June 2023
+Revised: 19 July 2023
+Accepted: 3 August 2023
+Published: 7 August 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Journal of 
+Functional Morphology 
+and Kinesiology 
+Article
+Exercise Prescription Principles among Physicians and Physical
+Therapists for Patients with Impaired Glucose Control:
+A Cross-Sectional Study
+Michael A. Petrie
+ , Kristin A. Johnson
+ , Olga Dubey and Richard K. Shields *
+Department of Physical Therapy and Rehabilitation Science, Carver College of Medicine, The University of Iowa,
+Iowa City, IA 52242, USA; michael-petrie@uiowa.edu (M.A.P .); kristin-a-johnson@uiowa.edu (K.A.J.);
+olga-dubey@uiowa.edu (O.D.)
+*Correspondence: richard-shields@uiowa.edu; Tel.: +1-319-335-9791; Fax: +1-319-335-9707
+Abstract: Exercise confers a multitude of beneﬁts with limited adverse side effects, making it a
+powerful “medication” for a plethora of diseases. In people living with uncontrolled glucose levels,
+exercise can be an effective “medication” to assist in the management of hyperglycemia. We sought
+to survey healthcare providers (physicians and physical therapists) to determine the current state
+of exercise recommendation for people with glucose control issues. Healthcare providers were
+surveyed from six academic medical centers in the Midwest to determine the recommended exercise
+parameters (type, frequency, duration, intensity, and timing) for patients with glucose control issues.
+Data from 209 practitioners who completed the survey were used for analysis. Chi-square tests
+were used to determine differences in exercise recommendations between physical therapists (PTs)
+and physicians (MD/DOs). PTs and MD/DOs recommended similar exercise parameters. Of all
+respondents, 78.9% recommended exercise to patients with glucose control issues. Respondents who
+considered themselves to be active exercisers were more likely to recommend exercise than those
+who were not exercisers. Only 6.1% of all respondents recommended post-meal exercise. Healthcare
+providers overwhelmingly recommended exercise for people with glucose control issues, but the
+“timing” is not congruent with best practice recommendations.
+Keywords: exercise; recommendation; diabetes; glucose; clinical practice
+1. Introduction
+Americans are becoming less physically active [ 1], propelling an epidemic of non-
+communicable diseases [ 2–4], including diabetes [ 4]. Nearly half of the US population
+lives with prediabetes (38.0%) or diabetes (11.3%) [ 5], a concerning percentage given this
+metabolic disease is a primary predictor of all-cause mortality [ 6]. Type II Diabetes is
+characterized by uncontrolled blood glucose levels that develop when the body loses its
+sensitivity to insulin [ 7]. Therefore, medications that assist in regulating blood glucose are
+often the primary prescription for people with this disease. In the United States, the annual
+cost of insulin and anti-diabetic medications exceed $30 billion dollars and comprises one
+of the largest healthcare expenditures for the disease [ 8]. Exercise, often referred to as
+“medicine”, is another intervention that assists in regulating blood glucose and insulin
+levels in people with diabetes [ 9], is cost-effective [ 10], and promotes a “patient-centered”
+lifestyle approach to metabolic health [11].
+Exercise improves metabolism by the activation of skeletal muscle [ 12–14]. Skeletal
+muscle is a conduit to biomechanical performance but is also a powerful endocrine or-
+gan [ 15] that, when activated, secretes hormones (myokines) [ 13] that reduce systemic
+inﬂammation, improve metabolism, and regulate blood glucose levels in people with and
+without glucose intolerance [ 9,16]. Skeletal muscle has a strong effect on blood glucose
+in that it uses more than 80% of the substrate during exercise if the timing is congruent
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112. https://doi.org/10.3390/jfmk8030112 https://www.mdpi.com/journal/jfmk
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 2 of 11
+with a meal [ 17,18]. Glucose enters skeletal muscle from the bloodstream via insulin-
+dependent and insulin-independent pathways [ 19,20]. In people living with diabetes, the
+insulin-dependent pathways are impaired, yet the insulin-independent pathways, like the
+AMP-activated protein kinase (AMPK) pathway, remain intact [ 21,22]. Muscle contraction
+triggers the AMPK pathway to mobilize the GLUT4 glucose transport protein to skeletal
+muscle cell surfaces to open the “door” for glucose to enter the cell [ 23]. Importantly,
+activity and exercise reduce blood glucose levels and decreases peak insulin following
+a meal [ 16]. Chronic exposure to elevated levels of insulin after a meal may ultimately
+contribute to reduced insulin sensitivity [ 24,25]. While the long-term adaptations to insulin
+receptors are well understood through chronic exercise studies, acute responses of exercise
+on insulin and glucose, after a meal, are now contributing to recommendations for “move-
+ment or exercise” after eating as a lifestyle behavior [ 26]. Accordingly, a lifestyle of routine
+muscle activation by bouts of exercise mitigates the development of diabetes through
+chronic adaptations [4] but also via acute reduction of needed insulin after a meal [16].
+The recommended “dose” of exercise for people living with diabetes was recently
+updated by the American College of Sports Medicine (ACSM) [26] and the American Dia-
+betes Association (ADA) [ 27] to include post-prandial exercise [ 16]. Many of the published
+exercise guidelines are similar for people with and without metabolic disorders, including
+the recommendation to accumulate a minimum of 150 min/week of moderate-to-vigorous
+aerobic exercise spread over at least three days. Resistance exercise is also recommended at
+least two days per week, and most guidelines recommend combining aerobic and resistance
+training within the same session [ 28]. The exercise guidelines speciﬁc for people living with
+diabetes also recommend exercise after eating, or post-prandial exercise, as it attenuates the
+hyperglycemic and hyper-insulinemic loads from a meal [ 16]. Various types of exercise are
+effective for mitigating the post-prandial glycemic response [ 29] and greater beneﬁts occur
+when exercise is performed promptly after eating [ 30]. In light of the recently updated
+exercise guidelines, we sought to determine if the exercise recommendations provided
+by healthcare practitioners for people with glucose control issues include post-prandial
+exercise.
+The purpose of this study was to determine the congruency of the recommended dose
+of exercise (type, frequency, duration, intensity, timing) for people who have glucose control
+issues among practicing physicians and physical therapists. Our primary interest related
+to whether healthcare practitioners include post-prandial exercise as part of a routine
+prescription. We suspected that the timing of exercise relative to meals is not typically
+prescribed by practitioners who treat people with glucose control issues.
+2. Materials and Methods
+2.1. Study Design, Development, and Setting
+Using a secure online survey platform (Qualtrics), a 10-question survey was developed
+to perform a cross-sectional study of healthcare practitioners regarding their recommended
+exercise parameters for people with glucose control issues between June 2022 and January
+2023. The survey ascertained the exercise prescription practice and exercise status of the
+physicians and physical therapists, determined the healthcare providers’ exercise- based
+referral practices, and ascertained the recommended “dose” of exercise for people with
+glucose control issues by determining the type, frequency, duration, intensity, and timing
+of their recommended exercise prescription. The survey was piloted among a team of
+physicians and physical therapists ( n= 10) to establish face validity. The survey was
+designed to take less than 3 min as recommended by the survey review team. This survey
+and research protocol was approved by the University of Iowa Institutional Review Board
+(IRB). The ﬁnal research protocol was congruent with the planned protocol as approved by
+the IRB.
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 3 of 11
+2.2. Survey Participants
+Eligible participants included English-speaking physicians (MD/DO) and physical
+therapists (PT) with email accounts across six major academic medical institutions in the
+Midwest of the United States. An email invitation to participate in the survey was delivered
+to 10,059 healthcare professionals (9411 MD/DO, 648 PT). Survey questions were reviewed
+and modiﬁed based on input from a separate panel of physical therapists and physicians
+who had expertise in treating metabolic disease. As part of that review, we included a
+question related to the personal active exercise habits of the respondents. We also focused
+the survey so that only participants who treated people with glucose control issues were
+included in the ﬁnal analysis. An example of the survey is available in Appendix A.
+2.3. Statistical Analysis
+Cronbach’s Alpha was calculated to assess the internal consistency (reliability) of
+the survey. A percentage of physician and physical therapist responses was calculated
+for each survey question. Chi-square tests of homogeneity were used to evaluate for
+differences in exercise recommendation percentages among and between physicians and
+physical therapists. Chi-square goodness-of-ﬁt tests were used to evaluate for differences in
+response from an expected probability frequency estimated for each question. The expected
+frequency (null hypothesis) was based upon the number of answer options per question
+(e.g., a question with four answer options had an expected frequency of 25%). Signiﬁcance
+was set at p< 0.05.
+3. Results
+3.1. Survey Properties, Exercise Advice, and Exercise Status
+Among the 1649 practitioners who opened the email (1542 MD/DO, 107 PT), 216 prac-
+titioners started the survey. Data from the 209 practitioners who completed the survey (166
+MD/DO, 43 PT) were used for data analysis. The average time for respondents to complete
+the survey was 1 min and 40 s.
+Cronbach’s Alpha was 0.81, supporting a high internal consistency (reliability) of
+the survey. One hundred percent of the pre-study expert panel (5 physical therapists;
+5 physicians) indicated that the survey captured key principles necessary to understand
+exercise prescription for patients with glucose control issues.
+Similar proportions of physical therapists and physicians offer exercise-related advice
+for people with glucose control issues, with 78.9% of all surveyed practitioners indicating
+they advise exercise (Figure 1A, p= 0.216). The proportion of practitioners who considered
+themselves to be active exercisers was similar between physical therapists and physicians,
+and 87.1% of practitioners reported that they actively exercise (Figure 1B, p= 0.428). There
+were similar groupings of practitioners by exercise-advice status and personal exercise
+status between physical therapists and physicians (Figure 1C, p= 0.345). When practitioners
+were grouped by their personal exercise status, active exercisers were 31.1% more likely to
+offer exercise-related advice to patients with glucose control issues than practitioners who
+were non-exercisers (Figure 1D, p< 0.001).
+3.2. Exercise Type, Frequency, Duration, and Intensity
+Most of the practitioners who advise patients about exercise recommend more than
+one type of exercise: 17.6% recommend one type, 30.9% recommend two types, 50.3%
+recommend three types, and 1.2% recommend four types of exercise. As compared to
+physicians, physical therapists were 24.4% more likely to recommend anaerobic exercise
+(p= 0.013), but the professions were similar in their recommendations of other types of
+exercise (all p’s > 0.193), with 91.5% of all practitioners recommending aerobic exercise
+and 82.4% recommending general physical activity (Figure 2A). Physical therapists and
+physicians recommend different exercise frequencies ( p< 0.001), with physical therapists
+more likely to prescribe >3 but 5 sessions and physicians more likely not to specify the
+number of sessions (Figure 2B). Together, 6.7% and 25.5% of practitioners recommend >1 but
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 4 of 11
+3 sessions and >5 sessions, respectively. Physical therapists and physicians recommend
+similar exercise durations ( p= 0.256), and they most commonly recommend >20–30 min
+per session (Figure 2C). Recommended exercise intensities were similar between physical
+therapists and physicians ( p= 0.076), with the majority of practitioners not specifying
+exercise intensity based on maximal heart rate (Figure 2D).
+J. Funct. Morphol. Kinesiol. 2023 , 8, x FOR PEER REVIEW  4 of 11 
+ 
+ 
+Figure 1. Exercise Advice and Exercise Status. The  percentage of surveyed healthcare practitioners 
+who offer exercise -related advice ( A) and those who consider themselves to be active exercisers ( B). 
+The percentage of healthcare providers grouped by their exercise advice and personal exercise sta-
+tus (C). Exercise r and prescriber: those who recommend exercise for people with glucose control 
+issues and who consider themselves to be active exercisers. Exerciser and non-prescriber: those who 
+do not recommend exercise for people with glucos e control issues and who consider themselves to 
+be active exercisers. Non -exerciser and prescriber: those who recommend exercise for people with 
+glucose control issues and who do not consider themselves to be active exercisers. Non -exerciser 
+and non-prescriber: those who do not recommend exercise for people with glucose control issues 
+and who do not consider themselves to be active exercisers. The percentage of healthcare providers 
+who offer exercise -related advice for people with glucose control issues bas ed on their personal 
+exercise status ( D). Physicians  (MD/DO); physical therapists  (PT); combination of the two  (Total). * 
+Indicates a significant ( p < 0.05) difference between healthcare providers who consider themselves 
+to be active exercisers and those who do not consider themselves to be active exercisers.  
+3.2. Exercise Type, Frequency, Duration, and Intensity  
+Most of the practitioners who advise patients about exercise recommend more than 
+one type of exercise: 17.6% recommend one type, 30.9% recommend t wo types, 50.3% rec-
+ommend three types, and 1.2% recommend four types of exercise. As compared to physi-
+cians, physical therapists were 24.4% more likely to recommend anaerobic exercise ( p = 
+0.013), but the professions were similar in their recommendations o f other types of exer-
+cise (all p’s > 0.193), with 91.5% of all practitioners recommending aerobic exercise and 
+82.4% recommending general physical activity ( Figure 2A). Physical therapists and phy-
+sicians recommend different exercise frequencies ( p < 0.001), with physical therapists more 
+likely to pr escribe >3 but ≤5 sessions and physicians more likely not to specify the number 
+of sessions ( Figure 2B). Together, 6.7% and 25.5% of practitioners recommend >1 but ≤3 
+Figure 1. Exercise Advice and Exercise Status. The percentage of surveyed healthcare practitioners
+who offer exercise-related advice ( A) and those who consider themselves to be active exercisers ( B).
+The percentage of healthcare providers grouped by their exercise advice and personal exercise status
+(C). Exerciser and prescriber: those who recommend exercise for people with glucose control issues
+and who consider themselves to be active exercisers. Exerciser and non-prescriber: those who do
+not recommend exercise for people with glucose control issues and who consider themselves to
+be active exercisers. Non-exerciser and prescriber: those who recommend exercise for people with
+glucose control issues and who do not consider themselves to be active exercisers. Non-exerciser and
+non-prescriber: those who do not recommend exercise for people with glucose control issues and
+who do not consider themselves to be active exercisers. The percentage of healthcare providers who
+offer exercise-related advice for people with glucose control issues based on their personal exercise
+status ( D). Physicians (MD/DO); physical therapists (PT); combination of the two (Total). * Indicates
+a signiﬁcant ( p< 0.05) difference between healthcare providers who consider themselves to be active
+exercisers and those who do not consider themselves to be active exercisers.
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 5 of 11
+J. Funct. Morphol. Kinesiol. 2023 , 8, x FOR PEER REVIEW  5 of 11 
+ 
+sessions and >5 sessions, respectively. Physical therapists and physicians recommend sim-
+ilar exercise durations ( p = 0.256), and they most commonly recommend >2 0–30 min per 
+session ( Figure 2C). Recommended exercise intensities were similar between physical 
+therapists and physicians ( p = 0.076), with the majority of practitioners not specifying  ex-
+ercise intensity based on maximal heart rate ( Figure 2D). 
+ 
+Figure 2. Exercise Type, Frequency, Duration, and Intensity. The type ( A), frequency ( B), duration 
+(C), and intensity ( D) of exercise recommended by healthcare providers for patients with gluco se 
+control issues. Physicians (MD/DO), physical therapists (PT), and combination of the two (Total). * 
+Indicates a significant ( p < 0.05) difference between MD/DO and PT.  
+3.3. Exercise Timing  
+Physical therapists and physicians recommend similar timing of exercise ( p = 0.432), 
+with most practitioners not recommending a specific time (57.0%) , or they recommend 
+anytime (40.0%) ( Figure 3A). Physical therapists and physicians were similar in recom-
+mending exercise timed to eating ( p = 0.092), with the vast majority of practitioners not 
+recommending exercise based on the time of a meal ( Figure 3B). 
+Figure 2. Exercise Type, Frequency, Duration, and Intensity. The type ( A), frequency ( B), duration
+(C), and intensity ( D) of exercise recommended by healthcare providers for patients with glucose
+control issues. Physicians (MD/DO), physical therapists (PT), and combination of the two (Total).
+* Indicates a signiﬁcant ( p< 0.05) difference between MD/DO and PT.
+3.3. Exercise Timing
+Physical therapists and physicians recommend similar timing of exercise ( p= 0.432),
+with most practitioners not recommending a speciﬁc time (57.0%), or they recommend
+anytime (40.0%) (Figure 3A). Physical therapists and physicians were similar in recom-
+mending exercise timed to eating ( p= 0.092), with the vast majority of practitioners not
+recommending exercise based on the time of a meal (Figure 3B).
+3.4. Exercise Referrals
+Physical therapists and physicians differed in referral practices ( p= 0.029) as physical
+therapists were 9.2% more likely than physicians to “always” refer patients with glucose
+control issues to exercise specialists (Figure 4A). Over 50% of all practitioners indicated
+they “sometimes” refer to specialists. Among the referring practitioners, 47.4% refer to one
+specialty, 42.4% refer to two specialties, and 10.2% refer to three specialties. The types of
+exercise specialists to whom practitioners refer were similar between physical therapists
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 6 of 11
+and physicians (Figure 4B, p= 0.209), with physical therapists being the specialist of choice
+for both physicians and physical therapists (76.3%).
+J. Funct. Morphol. Kinesiol. 2023 , 8, x FOR PEER REVIEW  6 of 11 
+ 
+ 
+Figure 3. Exercise Timing. The time of day to exercise ( A) and the timing of exercise relative to meals 
+(B) recommended by healthcare providers who offer ex ercise-related advice for patients with glu-
+cose control issues. Physicians (MD/DO), physical therapists (PT), and combination of the two (To-
+tal). 
+3.4. Exercise Referrals  
+Physical therapists and physicians differed in referral practices ( p = 0.029) as physical 
+therapists were 9.2% more likely than physicians to “always” refer patients with glucose 
+control issues to exercise specialists ( Figure 4A). Over 50% of all practitioners indicated 
+they “sometimes” refer to specialists. Among the referring practit ioners, 47.4% refer to 
+one specialty, 42.4% refer to two specialties, and 10.2% refer to three specialties. The types 
+of exercise specialists to whom practitioners refer were similar between physical thera-
+pists and physicians ( Figure 4B, p = 0.209), with p hysical therapists being the specialist of 
+choice for both physicians and physical therapists (76.3%).  
+ 
+Figure 4. Exercise Referrals. Healthcare providers’ referral practices ( A) and exercise specialists to 
+whom they refer patients with glucose  control issues (B). Physicians (MD/DO), physical therapists 
+(PT), and the combination of the two (Total). * Indicates a significant ( p < 0.05) difference between 
+MD/DO and PT.  
+  
+Figure 3. Exercise Timing. The time of day to exercise ( A) and the timing of exercise relative to meals
+(B) recommended by healthcare providers who offer exercise-related advice for patients with glucose
+control issues. Physicians (MD/DO), physical therapists (PT), and combination of the two (Total).
+J. Funct. Morphol. Kinesiol. 2023 , 8, x FOR PEER REVIEW  6 of 11 
+ 
+ 
+Figure 3. Exercise Timing. The time of day to exercise ( A) and the timing of exercise relative to meals 
+(B) recommended by healthcare providers who offer ex ercise-related advice for patients with glu-
+cose control issues. Physicians (MD/DO), physical therapists (PT), and combination of the two (To-
+tal). 
+3.4. Exercise Referrals  
+Physical therapists and physicians differed in referral practices ( p = 0.029) as physical 
+therapists were 9.2% more likely than physicians to “always” refer patients with glucose 
+control issues to exercise specialists ( Figure 4A). Over 50% of all practitioners indicated 
+they “sometimes” refer to specialists. Among the referring practit ioners, 47.4% refer to 
+one specialty, 42.4% refer to two specialties, and 10.2% refer to three specialties. The types 
+of exercise specialists to whom practitioners refer were similar between physical thera-
+pists and physicians ( Figure 4B, p = 0.209), with p hysical therapists being the specialist of 
+choice for both physicians and physical therapists (76.3%).  
+ 
+Figure 4. Exercise Referrals. Healthcare providers’ referral practices ( A) and exercise specialists to 
+whom they refer patients with glucose  control issues (B). Physicians (MD/DO), physical therapists 
+(PT), and the combination of the two (Total). * Indicates a significant ( p < 0.05) difference between 
+MD/DO and PT.  
+  
+Figure 4. Exercise Referrals. Healthcare providers’ referral practices ( A) and exercise specialists to
+whom they refer patients with glucose control issues ( B). Physicians (MD/DO), physical therapists
+(PT), and the combination of the two (Total). * Indicates a signiﬁcant ( p< 0.05) difference between
+MD/DO and PT.
+4. Discussion
+The primary purpose of this study was to determine the congruency of healthcare
+practitioners’ exercise recommendations for people with glucose control issues. The survey
+revealed several key ﬁndings: 1. most practitioners offer exercise-related advice; 2. practi-
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 7 of 11
+tioners who are active exercisers are more likely to prescribe exercise; 3. physical therapists
+and physicians prescribe similar exercise protocols in accordance to guidelines, and 4.
+physical therapists and physicians do not prescribe post-prandial exercise which is not
+congruent with current exercise guidelines. The high prevalence of offering exercise-related
+advice from these practitioners indicates healthcare providers are generally aware of the
+beneﬁts of exercise for people with metabolic impairment, but inconsistencies in the timing
+of exercise after a meal suggest a general lack of speciﬁc knowledge about current “timing”
+recommendations for people with blood glucose control issues.
+4.1. Exercise Prescription Practices Compared to Recommended Exercise Guidelines
+The ﬁrst major revelation from this survey is that only 6.1% of healthcare practitioners
+recommend post-prandial exercise for people with glucose control issues. This ﬁnding
+is not congruent with the updated ACSM guidelines [ 26] and suggests that healthcare
+practitioners, both physicians and physical therapists, are not aware of the contemporary
+research supporting exercise after a meal to reduce post-prandial insulin and glucose in
+people with metabolic disorders [ 16]. Various types of exercise such as walking, cycling,
+and resistance exercise are effective for reducing post-prandial glucose levels [ 29]. Ini-
+tiating exercise promptly after a meal is important as the post-prandial hyperglycemic
+peak is blunted more by exercise that begins <30 min after eating as opposed to starting
+30 min [ 29,30]. Post-prandial exercise not only reduces blood glucose levels but, perhaps
+more importantly, is associated with lower amounts of insulin in the bloodstream [ 31,32],
+thereby reducing a factor that precipitates insulin receptor desensitization and perhaps the
+development of diabetes [24,25].
+Despite the lack of congruency with post-prandial exercise recommendations for both
+physicians and physical therapists, nearly 80% of all practitioners offer exercise-related
+advice to people with glucose control issues. This ﬁnding is consistent with the high
+prevalence of primary care physicians (93.3%) who “often” or “always” prescribe physical
+activity for adult patients with chronic disease [ 33] and with prescription practices from
+2010 in which 76% of physicians reported providing weight-loss counseling and physical
+activity instruction for patients with diabetes [ 34]. However, our ﬁndings conﬁrmed that
+both physical therapists and physicians who consider themselves active exercisers were
+31.1% more likely to offer exercise-related advice when compared to their non-exercising
+counterparts. This ﬁnding is consistent with exercise prescription patterns for people with
+cardiovascular disease [35].
+When types of exercises were considered, among both physical therapists and physi-
+cians, aerobic exercise was the most recommended type of exercise (91.5%), followed by
+general physical activity (82.4%). These recommendations are congruent with ACSM exer-
+cise guidelines that recommend adults with diabetes participate in regular aerobic exercise
+and that “some physical activity is better than none” [ 26]. Anaerobic exercise was not
+prescribed as often as the other types of exercise (57.6%) among both groups of practitioners.
+Current guidelines recommend at least 2 days of resistance training per week as it improves
+several metabolic biomarkers, increases insulin sensitivity, and reduces A1C [ 26]. Practi-
+tioners did not recommend a speciﬁc time of day to exercise (57.0%), or they recommended
+exercising at any speciﬁc time of day (40.0%). There is some support for better glycemic
+control [ 36] and insulin sensitivity [ 37] in people with metabolic disorder when exercise is
+performed in the afternoon as opposed to the morning, but this work is still evolving as
+we discover more about circadian rhythms and metabolic gene regulation [ 38,39]. Current
+ACSM guidelines do not recommend a speciﬁc time of day to exercise, citing a need for
+more research in this area [26].
+4.2. Similar Exercise Prescription Practices between Physical Therapists and Physicians
+There was internal consistency between physical therapists and physicians among
+several aspects of exercise prescription. Physical therapists and physicians recommend
+similar times of day to exercise, timing of exercise to meals, durations of exercise, and
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 8 of 11
+exercise intensity based on maximal heart rate. Both professions refer to similar types
+of exercise specialists. Physicians and physical therapists differed in exercise frequency
+recommendations, with physical therapists more likely to recommend >3 but 5 sessions
+per week and physicians more likely not to specify exercise frequency, a ﬁnding that is not
+congruent with best practice. Physical therapists were also more likely than physicians to
+recommend anaerobic exercise and to “always” refer patients with glucose control issues to
+another physical exercise specialist. Increasing referrals to exercise specialists may improve
+exercise recommendations by overcoming some of the barriers to exercise prescription [ 40].
+4.3. Limitations
+This survey does not elucidate the speciﬁc exercise prescriptions of healthcare providers
+but focuses on key concepts or principles that form the framework for sound exercise pre-
+scription. Our data were limited in that they represented a broad swath of healthcare
+providers across the Midwest, so we cannot ascertain if prescriptions vary based on geo-
+graphical locations. Although we narrowed the survey so that the healthcare providers
+made recommendations only for patients with “blood glucose control” issues, we did not
+hone in on the speciﬁc diagnoses. Thus, we cannot link these recommendations to any
+speciﬁc patient type. Lastly, our sample size did not enable us to analyze stratiﬁed data
+based on characteristics of the healthcare centers for which the respondents were employed
+and the personal exercise habits of all practitioners. Future investigations are warranted to
+better understand if respondents’ variations in practice inﬂuenced their prescriptions for
+exercise. Nonetheless, this study offers an important ﬁnding, not previously discovered,
+regarding post-prandial exercise prescription among physicians and physical therapists
+that is not congruent with contemporary guidelines for people with glucose control issues.
+5. Conclusions
+In summary, physicians and physical therapists are congruent in their exercise pre-
+scription principles for people with glucose control issues. Importantly, both physicians
+and physical therapists are not congruent with “newer” recommendations related to post-
+prandial “timing” of exercise among people with glucose control issues. Future work is
+underway in our lab to better understand the precise dose of post-prandial exercise to
+optimize insulin response in people with and without disability.
+Author Contributions: Conceptualization, R.K.S.; methodology, R.K.S.; formal analysis, M.A.P .,
+K.A.J., O.D. and R.K.S.; investigation, M.A.P ., K.A.J., O.D. and R.K.S.; resources, R.K.S.; writing—
+original draft preparation, M.A.P ., K.A.J. and R.K.S.; writing—review and editing, M.A.P ., K.A.J., O.D.
+and R.K.S.; visualization, M.A.P ., K.A.J., O.D. and R.K.S.; funding acquisition, R.K.S. All authors have
+read and agreed to the published version of the manuscript.
+Funding: This study was funded, in part, by the National Center for Medical Rehabilitation Research
+within the Eunice Kennedy Shriver National Institute of Child Health and Human Development:
+Grants R01HD084645 and RO1HD082109 to R.K.S.
+Institutional Review Board Statement: The study was conducted in accordance with the Declaration
+of Helsinki and approved by the Institutional Review Board (or Ethics Committee) of the University
+of Iowa (protocol code: 202110273 and date of approval: 15 March 2022).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study.
+Data Availability Statement: Data is available upon requests made to the corresponding author.
+Acknowledgments: We acknowledge the review and comments regarding the survey from members
+of Shields’ research lab including Sophia Ramaraju, Anjali Sanghvi, Nick Bernhagen, Kelsey Kincade,
+DaLana Kron, Bennett Luedtke, Ashley Wehrenberg, and Jessica Williams. M.A.P . and K.A.J. provided
+equal contributions to this paper with both worthy of ﬁrst authorship.
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 9 of 11
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design
+of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or
+in the decision to publish the results.
+Appendix A
+Exercise Recommendation Survey
+ Q1 Do you offer exercise-related advice for patients with mild, moderate, or severe
+blood glucose control issues?
+#Yes (1)
+#No (2)
+ Skip To: Q8 If you offer exercise-related advice for patients with mild, moderate, or
+severe blood glucose control issues
+ Q2 If you advise your patients about exercise, what type of exercise do you typically
+recommend? (Select All Answers that Apply)
+Aerobic (Running, Biking, Swimming, Walking, Jogging, Other) (1)
+Anaerobic (Resistance or Strength Training) (2)
+General Physical Activity (Gardening, Golf, Other) (3)
+None of the Above—Please Specify Below (4) _________________________________
+ Q3 If you advise your patients about exercise, how many sessions per week do you
+typically recommend?
+#1 Session (1)
+#>1 but 3 Sessions (2)
+#>3 but 5 Sessions (3)
+#>5 Sessions (4)
+#I Do Not Specify the Number of Sessions (5)
+ Q4 If you advise your patients about exercise, how many minutes per session do you
+typically recommend?
+#10–20 min (1)
+#>20–30 min (2)
+#>30–40 min (3)
+#>40–60 min (4)
+#>60 min (5)
+#I Do Not Specify the Duration of Exercise Session (6)
+ Q5 If you advise your patients about exercise, what time of the day do you typically
+recommend?
+#Morning (5)
+#Noon (1)
+#Evening (2)
+#Anytime (3)
+#I Do Not Recommend to Exercise at a Speciﬁc Time (4)
+ Q6 If you advise your patients about exercise, do you typically recommend that they
+exercise:
+#Right Before Having a Meal (1)
+#Immediately After Having a Meal (2)
+#Greater than 1 Hour After a Meal (3)
+#I Do Not Recommend Exercise Based on Time of a Meal (4)
+ Q7 If you advise your patients about exercise, do you specify the intensity of the
+exercise based on the heart rate?
+#<50% Max Heart Rate (1)
+#50–70% Max Heart Rate (2)
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 10 of 11
+#>70% Max Heart Rate (3)
+#I Do Not Specify the Intensity of Exercise Based on Heart Rate (4)
+ Q8 Do you refer patients to a physical exercise specialist?
+#Yes, Always (1)
+#Sometimes (2)
+#No, Never (3)
+ Skip To: Q10 If Do you refer patients to a physical exercise specialist? = No, Never
+ Q9 If you refer your patients to a physical exercise specialist, indicate which specialist
+you refer them to: (Select All Answers that Apply)
+Physical Therapist (1)
+Personal Trainer/Exercise Physiologist (2)
+Physical Medicine and Rehabilitation Physician (3)
+None of the Above—Please Specify Below (4) _______________________________
+ Q10 Do you consider yourself an active exerciser?
+#Yes (1)
+#No (2)
+References
+1. Elgaddal, N.K.; Ellen, A.; Reuben, C. Physical activity among adults aged 18 and over: United States 2020. NCHS Data Brief 2022 ,
+443, 1–8.
+2. Liang, Z.D.; Zhang, M.; Wang, C.Z.; Yuan, Y.; Liang, J.H. Association between sedentary behavior, physical activity, and
+cardiovascular disease-related outcomes in adults-A meta-analysis and systematic review. Front. Public Health 2022 ,10, 1018460.
+[CrossRef]
+3. Hermelink, R.; Leitzmann, M.F.; Markozannes, G.; Tsilidis, K.; Pukrop, T.; Berger, F.; Baurecht, H.; Jochem, C. Sedentary behavior
+and cancer-an umbrella review and meta-analysis. Eur. J. Epidemiol. 2022 ,5, 447–460. [CrossRef]
+4. Aune, D.; Norat, T.; Leitzmann, M.; Tonstad, S.; Vatten, L.J. Physical activity and the risk of type 2 diabetes: A systematic review
+and dose-response meta-analysis. Eur. J. Epidemiol. 2015 ,7, 529–542. [CrossRef]
+5. Centers for Disease Control and Prevention. National Diabetes Statistics Report. Available online: https://www.cdc.gov/
+diabetes/data/statistics-report/index.html (accessed on 3 April 2023).
+6. Raghavan, S.; Vassy, J.L.; Ho, Y.; Song, R.J.; Gagnon, D.R.; Cho, K.; Wilson, P .W.F.; Phillips, L.S. Diabetes Mellitus-Related
+All-Cause and Cardiovascular Mortality in a National Cohort of Adults. J. Am. Heart Assoc. 2019 ,4, e011295. [CrossRef]
+7. Defronzo, R.A.; Banting, L. From the triumvirate to the ominous octet: A new paradigm for the treatment of type 2 diabetes
+mellitus. Diabetes 2009 ,4, 773–795. [CrossRef]
+8. American Diabetes Association. Economic Costs of Diabetes in the U.S. in 2017. Diabetes Care 2018 ,5, 917–928.
+9. García-Hermoso, A.; Ram írez-V élez, R.; D íez, J.; Gonz ález, A.; Izquierdo, M. Exercise training-induced changes in exerkine
+concentrations may be relevant to the metabolic control of type 2 diabetes mellitus patients: A systematic review and meta-analysis
+of randomized controlled trials. J. Sport Health Sci. 2023 ,2, 147–157. [CrossRef]
+10. Barbosa, A.; Whiting, S.; Ding, D.; Brito, J.; Mendes, R. Economic evaluation of physical activity interventions for type 2 diabetes
+management: A systematic review. Eur. J. Public Health 2022 ,32(Suppl. 1), i56–i66. [CrossRef]
+11. Barker, K.; Eickmeyer, S. Therapeutic Exercise. Med. Clin. N. Am. 2020 ,2, 189–198. [CrossRef]
+12. Baskin, K.K.; Winders, B.R.; Olson, E.N. Muscle as a “mediator” of systemic metabolism. Cell Metab. 2015 ,2, 237–248. [CrossRef]
+13. Huh, J.Y. The role of exercise-induced myokines in regulating metabolism. Arch. Pharm. Res. 2018 ,1, 14–29. [CrossRef]
+14. Smith, J.A.B.; Murach, K.A.; Dyar, K.A.; Zierath, J.R. Exercise metabolism and adaptation in skeletal muscle. Nat. Rev. Mol. Cell
+Biol. 2023 . [CrossRef]
+15. Schnyder, S.; Handschin, C. Skeletal muscle as an endocrine organ: PGC-1 , myokines and exercise. Bone 2015 ,80, 115–125.
+[CrossRef]
+16. Gillen, J.B.; Estafanos, S.; Govette, A. Exercise-nutrient interactions for improved postprandial glycemic control and insulin
+sensitivity. Appl. Physiol. Nutr. Metab. 2021 ,8, 856–865. [CrossRef]
+17. Evans, P .L.; McMillin, S.L.; Weyrauch, L.A.; Witczak, C.A. Regulation of Skeletal Muscle Glucose Transport and Glucose
+Metabolism by Exercise Training. Nutrients 2019 ,11, 2432. [CrossRef]
+18. Merz, K.E.; Thurmond, D.C. Role of Skeletal Muscle in Insulin Resistance and Glucose Uptake. Compr. Physiol. 2020 ,3, 785–809.
+19. Henriksen, E.J. Invited review: Effects of acute exercise and exercise training on insulin resistance. J. Appl. Physiol. 2002 ,2,
+788–796. [CrossRef]
+J. Funct. Morphol. Kinesiol. 2023 ,8, 112 11 of 11
+20. Kjøbsted, R.; Roll, J.L.W.; Jørgensen, N.O.; Birk, J.B.; Foretz, M.; Viollet, B.; Chadt, A.; Al-Hasani, H.; Wojtaszewski, J.F.P . AMPK
+and TBC1D1 Regulate Muscle Glucose Uptake After, but Not During, Exercise and Contraction. Diabetes 2019 ,7, 1427–1440.
+[CrossRef]
+21. Klip, A.; McGraw, T.E.; James, D.E. Thirty sweet years of GLUT4. J. Biol. Chem. 2019 ,30, 11369–11381. [CrossRef]
+22. Romeres, D.; Schiavon, M.; Basu, A.; Cobelli, C.; Basu, R.; Dalla Man, C. Exercise effect on insulin-dependent and insulin-
+independent glucose utilization in healthy individuals and individuals with type 1 diabetes: A modeling study. Am. J. Physiol.
+Endocrinol. Metab. 2021 ,1, e122–e129.
+23. Flores-Opazo, M.; McGee, S.L.; Hargreaves, M. Exercise and GLUT4. Exerc. Sport Sci. Rev. 2020 ,3, 110–118. [CrossRef] [PubMed]
+24. Dankner, R.; Chetrit, A.; Shanik, M.; Raz, I.; Roth, J. Basal state hyperinsulinemia in healthy normoglycemic adults heralds
+dysglycemia after more than two decades of follow up. Diabetes Metab. Res. Rev. 2012 ,7, 618–624. [CrossRef] [PubMed]
+25. Tricò, D.; Natali, A.; Arslanian, S.; Mari, A.; Ferrannini, E. Identiﬁcation, pathophysiology, and clinical implications of primary
+insulin hypersecretion in nondiabetic adults and adolescents. JCI Insight. 2018 ,3, e124912. [CrossRef]
+26. Kanaley, J.A.; Colberg, S.R.; Corcoran, M.H.; Malin, S.K.; Rodriguez, N.R.; Crespo, C.J.; Kirwan, J.P .; Zierath, J.R. Exercise/Physical
+Activity in Individuals with Type 2 Diabetes: A Consensus Statement from the American College of Sports Medicine. Med. Sci.
+Sports Exerc. 2022 ,2, 353–368. [CrossRef]
+27. Davies, M.J.; Aroda, V .R.; Collins, B.S.; Gabbay, R.A.; Green, J.; Maruthur, N.M.; Rosas, S.E.; Del Prato, S.; Mathieu, C.; Mingrone,
+G. Management of hyperglycaemia in type 2 diabetes 2022. A consensus report by the American Diabetes Association (ADA) and
+the European Association for the Study of Diabetes (EASD). Diabetologia 2022 ,12, 1925–1966. [CrossRef]
+28. Mendes, R.; Sousa, N.; Almeida, A.; Subtil, P .; Guedes-Marques, F.; Reis, V .M.; Themudo-Barata, J.L. Exercise prescription
+for patients with type 2 diabetes-a synthesis of international recommendations: Narrative review. Br. J. Sports Med. 2016 ,22,
+1379–1381. [CrossRef]
+29. Bellini, A.; Nicol ò, A.; Bazzucchi, I.; Sacchetti, M. Effects of Different Exercise Strategies to Improve Postprandial Glycemia in
+Healthy Individuals. Med. Sci. Sports Exerc. 2021 ,7, 1334–1344. [CrossRef]
+30. Engeroff, T.; Groneberg, D.A.; Wilke, J. After Dinner Rest a While, After Supper Walk a Mile? A Systematic Review with
+Meta-analysis on the Acute Postprandial Glycemic Response to Exercise Before and After Meal Ingestion in Healthy Subjects and
+Patients with Impaired Glucose Tolerance. Sports Med. 2023 ,4, 849–869. [CrossRef]
+31. Sacchetti, M.; Haxhi, J.; Sgr ò, P .; di Palumbo, A.S.; Nicol ò, A.; Bellini, A.; Bazzucchi, I.; di Luigi, L. Effects of exercise before and/or
+after a mixed lunch on postprandial metabolic responses in healthy male individuals. Eur. J. Nutr. 2021 ,6, 3437–3447. [CrossRef]
+32. Petrie, M.A.; Kimball, A.L.; Shields, R.K. Acute Low Force Electrically Induced Exercise Modulates Post Prandial Glycemic
+Markers in People with Spinal Cord Injury. J. Funct. Morphol. Kinesiol. 2022 ,7, 89. [CrossRef]
+33. Smith, A.W.; Borowski, L.A.; Liu, B.; Galuska, D.A.; Signore, C.; Klabunde, C.; Huang, T.T.-K.; Krebs-Smith, S.M.; Frank, E.; Pronk,
+N.; et al. U.S. primary care physicians’ diet-, physical activity-, and weight-related care of adult patients. Am. J. Prev. Med. 2011 ,1,
+33–42. [CrossRef]
+34. Pozniak, A.; Olinger, L.; Shier, V . Physicians’ perceptions of reimbursement as a barrier to comprehensive diabetes care. Am.
+Health Drug Beneﬁts 2010 ,1, 31–40.
+35. Selvaraj, C.S.; Abdullah, N. Physically active primary care doctors are more likely to offer exercise counselling to patients with
+cardiovascular diseases: A cross-sectional study. BMC Prim. Care 2022 ,1, 59.
+36. Savikj, M.; Gabriel, B.M.; Alm, P .S.; Smith, J.; Caidahl, K.; Björnholm, M.; Fritz, T.; Krook, A.; Zierath, J.R.; Wallberg-Henriksson,
+H. Afternoon exercise is more efﬁcacious than morning exercise at improving blood glucose levels in individuals with type 2
+diabetes: A randomised crossover trial. Diabetologia 2019 ,2, 233–237. [CrossRef] [PubMed]
+37. Mancilla, R.; Brouwers, B.; Schrauwen-Hinderling, V .B.; Hesselink, M.K.C.; Hoeks, J.; Schrauwen, P . Exercise training elicits
+superior metabolic effects when performed in the afternoon compared to morning in metabolically compromised humans. Physiol.
+Rep. 2021 ,24, e14669. [CrossRef] [PubMed]
+38. Masi, D.; Spoltore, M.E.; Rossetti, R.; Watanabe, M.; Tozzi, R.; Caputi, A.; Risi, R.; Balena, A.; Gandini, O.; Mariani, S.; et al. The
+Inﬂuence of Ketone Bodies on Circadian Processes Regarding Appetite, Sleep and Hormone Release: A Systematic Review of the
+Literature. Nutrients 2022 ,14, 1410. [CrossRef]
+39. Vieira, T.K.B.; Le ão, M.J.d.R.; Pereira, L.X.; da Silva, L.C.A.; da Paz, B.B.P .; Ferreira, R.J.S.; Feitoza, C.C.; Duarte, A.K.F.; Rodrigues,
+A.K.B.F.; de Queiroz, A.C.; et al. Correlation between circadian rhythm related genes, type 2 diabetes, and cancer: Insights from
+metanalysis of transcriptomics data. Mol. Cell Endocrinol. 2021 ,526, 111214. [CrossRef]
+40. Dranebois, S.; Lalanne-Mistrih, M.L.; Nacher, M.; Thelusme, L.; Deungoue, S.; Demar, M.; Dueymes, M.; Alsibai, K.D.; Sabbah,
+N. Prescription of Physical Activity by General Practitioners in Type 2 Diabetes: Practice and Barriers in French Guiana. Front.
+Endocrinol. 2021 ,12, 790326. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

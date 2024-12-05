@@ -1,0 +1,853 @@
+Received: May 26, 2021. Revised: August 6, 2021. Accepted: September 23, 2021
+© The Author(s) 2021. Published by Oxford University Press on behalf of the American Physical Therapy Association. All rights reserved.
+For permissions, please e-mail: journals.permissions@oup.comPTJ: Physical Therapy & Rehabilitation Journal | Physical Therapy , 2022;102:1 –11
+https://doi.org/10.1093/ptj/pzab243
+Advance access publication date November 1, 2021
+Original Research
+Genomic and Epigenomic Evaluation of Electrically
+Induced Exercise in People With Spinal Cord Injury:
+Application to Precision Rehabilitation
+Michael A. Petrie1,E r i cB .T a y l o r2, Manish Suneja3, Richard K. Shields, PT , PhD1,*
+1Department of Physical Therapy and Rehabilitation Science, Carver College of Medicine, The University of Iowa, Iowa City, Iowa, USA
+2Department of Biochemistry, Carver College of Medicine, The University of Iowa, Iowa City, Iowa, USA
+3Department of Internal Medicine, Carver College of Medicine, The University of Iowa, Iowa City, Iowa, USA
+*Address all correspondence to Dr Shields at: richard-shields@uiowa.edu
+Objective. Physical therapists develop patient-centered exercise prescriptions to help overcome the physical, emotional,
+psychosocial, and environmental stressors that undermine a person’s health. Optimally prescribing muscle activity for people
+with disability, such as a spinal cord injury, is challenging because of their loss of volitional movement control and the
+deterioration of their underlying skeletal systems. This report summarizes spinal cord injury –speciﬁc factors that should
+be considered in patient-centered, precision prescription of muscle activity for people with spinal cord injury. This report
+also presents a muscle genomic and epigenomic analysis to examine the regulation of the proliferator-activated receptor γ
+coactivator 1 α(PGC-1 α) (oxidative) and myostatin (hypertrophy) signaling pathways in skeletal muscle during low-frequency
+(lower-force) electrically induced exercise versus higher-frequency (higher-force) electrically induced exercise under constant
+muscle recruitment (intensity).
+Methods. Seventeen people with spinal cord injury participated in 1 or more unilateral electrically induced exercise sessions
+using a lower-force (1-, 3-, or 5-Hz) or higher-force (20-Hz) protocol. Three hours after the exercise session, percutaneous
+muscle biopsies were performed on exercised and nonexercised muscles for genomic and epigenomic analysis.
+Results. We found that low-frequency (low-force) electrically induced exercise signiﬁcantly increased the expression of
+PGC-1 αand decreased the expression of myostatin, consistent with the expression changes observed with high-frequency
+(higher-force) electrically induced exercise. Further, we found that low-frequency (lower-force) electrically induced exercise
+signiﬁcantly demethylated, or epigenetically promoted, the PGC-1 αsignaling pathway. A global epigenetic analysis showed
+that>70 pathways were regulated with low-frequency (lower-force) electrically induced exercise.
+Conclusion. These novel results support the notion that low-frequency (low-force) electrically induced exercise may offer
+a more precise rehabilitation strategy for people with chronic paralysis and severe osteoporosis. Future clinical trials are
+warranted to explore whether low-frequency (lower-force) electrically induced exercise training affects the overall health of
+people with chronic spinal cord injury.
+Keywords: Disability, Hypertrophy, Molecular, Muscle, Plasticity, RehabilitationDownloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+2 Genomic/Epigenomic Analysis of Paralyzed Muscle
+Introduction
+Optimal human movement begins with precise muscle con-
+tractions. Regular muscle activity is now recognized as a
+powerful intervention to restore movement, manage pain,recover from injury, and prevent or limit chronic disease
+development and progression.
+1,2Physical therapists develop
+patient-centered exercise prescriptions to help overcome thephysical, emotional, psychosocial, and environmental stres-
+sors contributing to a person’s health. Optimally prescribing
+muscle activity for people with a disability, such as a spinalcord injury, is challenging for physical therapists because of
+lost volitional movement and the deleterious changes to the
+underlying skeletal systems (osteoporosis).
+Because the power of exercise is becoming better under-
+stood, the stakes for optimal prescription by physical ther-
+apists are rising. Physical therapists rarely need to convinceothers about the benefits of regular skeletal muscle activity,
+because a plethora of studies support positive influences
+on systemic metabolism,
+3–6blood glucose homeostasis,7,8
+muscle hypertrophy,9,10and cognitive function.11–13Skeletal
+muscle is now recognized as a critical organ capable of
+releasing small molecules into the bloodstream to affect thehealth of many tissues.
+5,14,15Gene expression studies provide
+a window to better understand which genes are regulated
+by various doses of muscle activity. Electrically induced exer-cise, also known as neuromuscular electrical stimulation or
+functional electrical stimulation, offers an alternative method
+to induce muscle activity in people with paralysis. Genetic
+and epigenetic studies assist in the development of a more
+precise and scientifically grounded dose of electrically inducedexercise. By incorporating knowledge gleaned from genetic
+and epigenetic studies—the traditional purview of “precision
+medicine”—rehabilitation specialists now have an opportu-nity to deliver scientifically grounded and more feasible inter-
+ventions specific to the characteristics of people living with
+spinal cord injury.
+This article provides an illustration of the integration of
+genetic and epigenetic science into clinical rehabilitation
+research, with the aim of improving the precision of physicaltherapy care for patients with spinal cord injury. First, we
+provide a holistic perspective on the cellular, metabolic, and
+systemic features of spinal cord injury that should be con-sidered in any precision physical therapy approach. Second,
+we describe a clinical research study that assesses a precision
+intervention (one that integrates concepts articulated in theholistic perspective) for eliciting targeted gene transcription
+and epigenetic signaling in paralyzed skeletal muscle.
+Considerations for Precision Physical Therapy After
+Spinal Cord Injury
+Health After Spinal Cord Injury
+The health changes experienced by a person after spinal
+cord injury illustrate the need for an alternative and more
+precise method to promote regular activity of paralyzed
+muscle. Spinal cord injury has a broad etiology,16–19but
+the chaotic sequelae lead to a prevalence of secondary com-
+plications, including osteoporosis/bone fractures, diabetes,
+chronic inflammation, impaired cognition, and neuropathicpain.
+20–34Specifically, paralyzed extremities experience a loss
+of bone mineral density at an initial rate of approximately
+1% to 2% per month until up to 60% of the bone is lost
+4 to 5 years after the spinal cord injury ( Fig. 1 ).24,35–39This
+Figure 1. Illustration of bone quality after spinal cord injury. Following a
+spinal cord injury, bone within paralyzed extremities, particularly the
+femur and tibia, loses bone mineral density, with a concurrent change in
+bone microarchitecture. The estimated range of bone density (gray
+shading) rapidly decreases during the ﬁrst year after injury. Bone mineraldensity begins to level off in subsequent years, leaving underlying bone
+in the paralyzed extremities extremely osteoporotic and at high risk of
+injury. Figure was adapted from data presented by Dudley-Javoroski and
+Shields.
+38
+mineral loss accompanies a change in bone microarchitecture,
+ultimately weakening bone and making it vulnerable to
+fracture.27,30,40,41Bone fractures can have devastating
+consequences for people with paralysis.42The challenge is
+that skeletal muscle responds best to “overload,” but high
+electrically induced muscle forces may cause a fracture to
+the underlying osteoporotic bone in people with spinal cordinjury.
+40Figure 1 illustrates that people with chronic and
+complete paralysis from spinal cord injury ( >1y e a r )a r ea t
+risk when a high-force muscle contraction is applied to anotherwise compromised skeletal system.
+Paralyzed Skeletal Muscle: A Lost Organ
+Paralyzed skeletal muscles atrophy and remodel into a fast gly-
+colytic phenotype after spinal cord injury.27,43–45Although
+the loss of muscle mass was historically thought to be advan-tageous to assist with mobility transfers, it is now understood
+that chronically paralyzed glycolytic muscle may contribute
+to systemic inflammation and poor health of people withparalysis.
+46–48Our investigative team questioned whether
+we could trigger positive skeletal muscle molecular signaling
+using novel, low-force electrical stimulation that presents alow fracture risk to osteoporotic extremities.
+Dosing Electrically Induced Skeletal
+Muscle Exercise
+Electrically induced exercise uses electrodes to deliver an
+electric current to peripheral nerves and ultimately elicit a
+muscle contraction. Current intensity controls the number of
+muscle fibers that are recruited. When supramaximal currentis applied to the overlying skeletal muscle, nearly all muscle
+fibers are recruited, regardless of the stimulation frequencyDownloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Petrie et al 3
+Ta b l e . Glossary of Terms
+Term Definition
+Genetics Study of heritable changes in gene function that involve changes in the DNA sequence
+DNA Deoxyribonucleic acid, the molecular basis of heredity for which the subunits (genes) define the instructions for
+the development, function, growth, and reproduction of cells
+RNA Ribonucleic acid, the molecular basis by which cells code, decode, regulate, and express genes from DNAmRNA Messenger ribonucleic acid, the form of RNA created during DNA transcription of a gene that travels outside
+the cell nucleus to a ribosome to create a protein
+Transcription Process of creating an mRNA molecule from a strand of DNA for a given gene in order for the mRNA
+molecule to be translated by a ribosome during protein synthesis
+PGC-1 α Peroxisome proliferator-activated receptor γcoactivator 1 α(PPARGC1A); the PGC-1 αgene is a regulatory
+gene prominent in the control of mitochondrial biogenesis, muscle hypertrophy, and myokine expression.
+MSTN Myostatin; the MSTN gene is a regulatory gene that helps to inhibit muscle hypertrophy and contributes to
+muscle atrophy.
+Epigenetics Study of heritable changes in gene function that do not involve changes in the DNA sequence; changes in the
+epigenome create a memory-like imprint that can be influenced by external factors, such as exercise, to
+promote or repress gene expression.
+DNA methylation Process of adding a methyl group to a cytosine phosphodiester bond to guanine (CpG) site to change gene
+function without changing the DNA sequence; generally, methylation is associated with blocking a gene,whereas demethylation is associated with promoting a gene.
+CpG (CG) site Region of DNA that becomes methylated to effect gene expression; this region is often made up of 1 or more
+repeated cytosine-guanine nucleotide pairs.
+Microarray Gene expression analysis technique used to quantify the magnitude of expression of thousands of gene
+sequences simultaneously
+mRNA log
+2
+hybridizationEstimate of the magnitude of expression of a gene from a microarray, in which the magnitude of expression is
+converted using a base 2 logarithm (log 2) for statistical analysis, interpretation, and visualization
+Fold change Ratio of the magnitude of expression of a gene in an experimental group relative to that in a control group; a
+fold change of >1 indicates increased gene expression in the experimental group, whereas a fold change of <1
+indicates decreased gene expression in the experimental group.
+βvalue Estimate of the methylation status of a CpG site using a ratio of the number of methylated DNA strands at a
+given CpG site to the number of unmethylated DNA strands at the same CpG site, typically used for the
+interpretation and visualization of DNA methylation changes
+M value Mathematical transformation of the ß value used for the statistical analysis of changes in DNA methylation
+False discovery rate Estimate of the rate of type 1 errors (the acceptance of a difference when one does not exist) when conducting
+multiple comparisons in a statistical testing model
+Reactome
+knowledge basePeer-reviewed collection of biological pathways used to support the analysis, interpretation, and visualization
+of proteomic, genomic, and epigenomic basic and clinical research
+Connectivity map Visual representation used to illustrate differences in complex relationships; in genomics and epigenomics,
+connectivity maps assist in visualizing and interpreting changes in biological pathways after a given stress or
+experimental condition, such as exercise.
+(hertz). Stimulation frequency defines the rate at which multi-
+ple stimulus pulses are delivered.43,49At very low stimulation
+frequencies ( <5 Hz), the time between 2 stimulus pulses is
+relatively long ( Fig. 2A ). The contracting muscle fibers have
+sufficient time to relax before the onset of the next stimulus
+pulse (unfused). As the stimulus frequency increases, the timebetween 2 stimulus pulses decreases, the muscle has less time
+to relax, and the force from the subsequent stimulus pulse is
+added to the force from the previous pulse (partially fused).Therefore, a series of very low-frequency stimulation pulses
+delivered at a high intensity recruits the entire muscle but at a
+lower force. Lower frequencies (1, 3, 5, and 20 Hz) generate
+less force and would appear to be more appropriate stressors
+for osteoporotic bone than frequencies above 20 Hz ( Fig. 2B ).
+During a maximal voluntary isometric contraction, the
+frequency that the central nervous system uses to activate
+muscle cannot be dissociated from the muscle fiber recruit-ment. When a volitional maximal isometric contraction is
+performed, nearly all muscle fibers are recruited at a fre-
+quency that develops maximal muscle force, creating over-load to the musculotendinous unit.
+51,52However, electrically
+induced muscle exercise delivered at a low frequency but a
+high intensity recruits nearly all muscle fibers (recruitment)but at a lower force, an advantage when activity is beingprescribed for patients with osteoporosis after spinal cord
+injury. Accordingly, the central question in this study was
+whether low-frequency (1-, 3-, or 5-Hz) activation of humanparalyzed muscle can turn on “healthy” gene signaling path-
+ways relative to a higher-force contraction (20 Hz).
+Skeletal Muscle Genomic Signaling From Exercise
+(Proliferator-Activated Receptor γCoactivator 1 α
+[PGC-1 α] and Myostatin [MSTN])
+Gene signaling studies just hours after exercise offer a unique
+opportunity to evaluate the impact of a particular type ofexercise and to understand the cellular response to the stress.
+One well-known signaling pathway that regulates the health
+of skeletal muscle is the peroxisome PGC-1 α, a powerful gene
+transcription factor that has a prominent role in stimulating
+muscle mitochondrial biogenesis (more mitochondria) andmuscle hypertrophy and that triggers the release of myokines
+(chemical messengers) that influence the health of multiple
+tissues in the body.
+53,54Muscle phenotypes fall on a spec-
+trum from highly oxidative to highly glycolytic,55,56with
+oxidative muscle being more favorable to maintaining blood
+glucose homeostasis.57Importantly, regular exercise or the
+lack thereof, such as after spinal cord injury, triggers PGC-1 α
+suppression.53,58Transient increases in PGC-1 αoccur afterDownloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+4 Genomic/Epigenomic Analysis of Paralyzed Muscle
+Figure 2. Force-frequency relationship. (A) Representative example of force, as measured at the ankle, elicited during a bout of exercise using
+supramaximal electrical stimulation at various stimulation frequencies. As the stimulation frequency increases, the time between stimulus pulse s
+decreases. As stimulus pulses become closer together, the stimulated muscle does not have sufﬁcient time to fully recover from the previous stimuluspulse, resulting in a temporal summation of force and a fused muscle contraction. (B) As stimulation frequency increases, the elicited force increas es.
+Higher-force contractions require bone to be of sufﬁcient quality (upper photograph) to ensure that injuries do not occur. However, using low stimul ation
+frequencies results in low-force contractions to lower the risk of injury in osteoporotic bone (lower photograph). Figure was created from unpublis hed
+force proﬁles collected using the device setup presented by Shields and Chang
+43and Petrie et al50and consistent with force proﬁles published in those
+studies.43,50
+a bout of exercise, but a chronic lack of exercise suppresses
+PGC-1 αand shifts the skeletal muscle into an atrophic, gly-
+colytic phenotype.8,59,60
+Two important downstream signaling effects from PGC-
+1αare muscle hypertrophy and mitochondrial biogene-
+sis.15,61Muscle hypertrophy is regulated by several signaling
+pathways but typically involves the mechanistic targetof rapamycin pathway and the inhibition of the MSTN
+gene.
+62,63PGC-1 αindirectly suppresses the expression of
+MSTN64; therefore, elevated PGC-1 αexpression observed
+after bouts of exercise may concomitantly promote sup-
+pression of the MSTN gene, thereby increasing muscle
+hypertrophy. The elevated PGC-1 αlevels further increase
+the rate of mitochondrial biogenesis, increasing the muscle’s
+metabolic capacity.15Repetitive recruitment of an entire
+muscle at a high force also epigenetically alters the PGC-1 α
+gene through a process called demethylation, which promotes
+its expression and begins the “memory” trace of the exercise
+event.9,65–68The memory trace is part of the gene regulation
+system that ultimately leads to chronic adaptation in skeletal
+muscle. However, still unknown is whether low-force and low-frequency electrically induced exercise regulates these same
+signaling pathways and would be beneficial for people with
+chronic paralysis and osteoporotic skeletal systems. Please seetheTable for abbreviations and definitions of terms.
+Application of a Precision Intervention After
+Spinal Cord Injury
+Using the principles articulated above, our laboratory devel-
+oped a precision intervention to elicit cellular adaptations inparalyzed skeletal muscle in a way that minimized mechanical
+loads borne by the osteoporotic skeletal system after spinal
+cord injury. In this study, we used rapid (3 hours after exercise)muscle genomic and epigenomic expression studies to assesswhether electrically induced exercise of a paralyzed muscle
+at a low frequency of stimulation (lower force) was capable
+of regulating the PGC-1 α(oxidative) and MSTN (hypertro-
+phy) signaling pathways in a manner consistent with thatinduced by a higher frequency of stimulation (high force)
+while recruitment was held constant (intensity) across both
+frequency conditions. We also explored the global epigeneticsignaling pathways elicited with low-frequency and low-force
+electrically induced exercise.
+We hypothesized that low-frequency and low-force elec-
+trically induced exercise would be effective at regulating 2
+major signaling pathways in human paralyzed muscle. We
+also expected that epigenetic signaling pathways that areconducive to long-term memory and adaptation of skeletal
+muscle would be modulated with low-frequency electrically
+induced exercise.
+Methods
+Participants
+Seventeen people with a complete (American Spinal InjuryAssociation score A) spinal cord injury (11 people with para-
+plegia and 6 people with tetraplegia) participated in this
+study. Participants completed unilateral exercise sessions withelectrical stimulation followed by a bilateral muscle biopsy
+3 hours after exercise completion to capture the acute effect
+of exercise on paralyzed skeletal muscle signaling.
+69,70All
+exercise sessions were performed with 1 limb while the oppo-
+site limb remained as a control (baseline). There were 4
+exercise sessions using unfused (low-force; 1-, 3-, or 5-Hz)or partially fused (high-force; 20-Hz) muscle contractions.
+The mean participant age in years and years postinjury (YPI)
+for each exercise session were as follows: the 9 participantsin the 1-Hz group were 39.5 (SD =8.5) years old and 14.2Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Petrie et al 5
+(SD=8.6) YPI; the 10 participants in the 3-Hz group were
+38.9 (SD =8.2) years old and 14.0 (SD =8.1) YPI; the 7
+participants in the 5-Hz group were 34.9 (SD =13.7) years
+old and 3.9 (SD =1.5) YPI; and the 12 participants in the 20-
+Hz group were 32.6 (SD =9.8) years old and 3.2 (SD =1.3)
+YPI. Fifteen participants experienced 2 or 3 of the exercise
+conditions (assigned randomly), which were separated by at
+least 1 month. Four participants (8 samples; age: 40.5 years
+[SD=4.6] and YPI: 19.3 [SD =6.2]) took part in the epige-
+netic signaling study. All participants had a spinal cord injury
+with no sensory or motor function of the target muscle, no
+history of lower limb fractures, no peripheral nerve injuries,no pressure ulcers, no muscle injuries, and no recent electrical
+muscle stimulation use. All participants had an upper motor
+neuron lesion supported by the ability to activate the muscleelectrically and the presence of spinal reflexes. All participants
+provided written informed consent approved by the University
+of Iowa Human Subjects Institutional Review Board.
+Exercise Protocols
+Seventeen individuals with spinal cord injury received a doseof quadriceps exercise using electrical stimulation in the seated
+position. Participants were seated with the exercised limb
+positioned in 90 degrees of hip and knee flexion (Biodex S3;Biodex Medical Systems, Inc, Shirley, NY, USA). The torso,
+thigh, and ankle were secured to the Biodex S3 system to
+prevent movement. Self-adhesive 7- by 13-cm rectangularcarbon electrodes were placed on the skin above the muscle
+motor points.
+69–72The proximal electrode was placed close
+to the inguinal crease and over the most palpable border ofthe vastus lateralis, and the distal electrode was placed proxi-
+mal to the musculotendinous junction of the vastus lateralis
+at the knee joint. Stimulation was provided by a constant-current electric stimulator (Digitimer model DS7A; Digitimer,
+Welwyn Garden City, Hertfordshire, UK) with a pulse width
+set to 200 μs and a participant-specific stimulus intensity set
+between 200 and 500 mA (to ensure supramaximal stimulus
+intensity). Supramaximal stimulus intensity was determined
+by increasing stimulus intensity until the force elicited with
+a single stimulus pulse plateaued. Exercising at this supra-
+maximal intensity ensured that nearly all muscle fibers wererecruited during each muscle contraction. Each exercise ses-
+sion delivered 6000 stimulus pulses to the target muscle using
+a 1-, 3-, 5-, or 20-Hz stimulation frequency ( Fig. 2 ). Bouts of
+100 stimulus pulses were delivered with a “1 on” and “2 off”
+work to rest ratio for partially fused contractions (20 Hz) but
+continuously for unfused contractions. On average, the lowerfused contractions yielded force values that were threefold
+lower than those yielded by the partially fused contractions
+(20 Hz).
+Muscle Tissue Biopsy
+To investigate the acute effects of exercise and contractileforce, a percutaneous muscle biopsy was performed 3 hours
+after the completion of the exercise session. The muscle biopsy
+technique used was a previously reported protocol.
+66,69–71,73
+In brief, muscle samples were taken from the exercised and
+nonexercised limbs using a Temno biopsy needle (T1420;
+Cardinal Health, Dublin, OH, USA) under ultrasound guid-ance within a sterile field. Four or 5 passes of the needle
+were made to increase the sampling range within the muscle.
+Each pass of the needle was through the same incision site,but the needle angle was altered to sample different parts ofthe muscle. Each pass of the needle yielded approximately
+20 mg of muscle tissue. Following harvest, muscle samples
+were placed in RNALater (Ambion, Inc, Austin, TX, USA) and
+stored at −80
+◦C until RNA or DNA was extracted for gene
+expression and DNA methylation quantification.
+RNA Extraction and Gene Expression
+Quantiﬁcation
+RNA extraction and microarray hybridization were per-
+formed using previously reported procedures.66,69–71,73RNA
+was extracted using an RNEasy Fibrous Tissue Kit (Qiagen,
+Hilden, Germany) with deoxyribonuclease to remove genomicDNA from the final samples. Microarray hybridization was
+performed using Human Exon 1.0 ST and Transcriptome
+2.0 arrays (Affymetrix, Inc, Santa Clara, CA, USA), similarto our previous reports.
+66,69–71,73Arrays were scanned with
+an Affymetrix model 3000 scanner with 7G upgrade, and
+data were collected using Affymetrix GeneChip OperatingSoftware v1.4. Arrays were normalized using a robust
+multiarray average and transformed into a log
+2hybridization
+signal, reflecting the mean signal intensity of all exon probesspecific for a particular messenger RNA transcript, using
+Bioconductor in the R statistical programming environ-
+ment.
+74,75A fold change for each sample pair (exercised limb
+vs nonexercised limb) was calculated from the messenger
+RNA log 2hybridization signal for PGC-1 αand MSTN.
+DNA Extraction and DNA Methylation
+Quantiﬁcation for the 3-Hz Condition (Epigenetics)
+A DNEasy Tissue Kit (Qiagen) was used to extract DNA
+from 4 participants (8 samples) who received an unfused (3-
+Hz) exercise session. Extracted DNA was treated with sodiumbisulfite using an EZ DNA Methylation Kit (Zymo Research
+Corp, Irvine, CA, USA). DNA methylation was quantified
+using an Infinium Human MethylationEPIC BeadChip (Illu-mina, San Diego, CA, USA). Raw IDAT files were processed
+using Bioconductor and the missMethyl and methylGSA pack-
+ages in the R statistical programming environment.
+74–77Each
+probe was converted into a beta value representing the ratio
+of the methylated probe intensity to the overall intensity ofboth methylated probe and unmethylated probe intensities.
+Beta values were transformed into M values by taking the
+log2 ratio of the methylated to unmethylated intensities forall statistical testing procedures; beta values were used on
+figures and for the interpretation of biological effects. A mean
+methylation score was calculated to evaluate the effect ofunfused exercise on methylation sites, indicated by the cg
+(cytosine guanine) probe number, associated with PGC-1 α
+and MSTN. The cg probe number is a region of DNA wherea cytosine nucleotide is followed by a guanine nucleotide in
+the linear sequence of bases involved with methylation. An
+epigenome-wide gene set enrichment analysis was performedusing the methylGSA algorithm and pathways (gene sets) that
+are defined within the Reactome pathway knowledge base
+and that are subcategorized into 26 broad categories.
+78,79A
+pathway ranged from 1 to 2348 and could be represented
+by multiple methylation probes. We used a recommended
+false detection rate cutoff of 25% to determine the pathwaysthat were differentially methylated. In addition, we used a
+connectivity network map that was previously developed
+71
+with Cytoscape 3.5.180from the defined relationships of the
+pathways within the Reactome pathway knowledge base.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+6 Genomic/Epigenomic Analysis of Paralyzed Muscle
+Figure 3. Acute gene expression. (A) Mean proliferator-activated receptor γcoactivator 1 α(PGC-1 α) fold change 3 hours after exercise for the unfused
+contractions (1, 3, and 5 Hz) and fused contractions (20 Hz). There was a signiﬁcant effect of exercise relative to the nonexercised control limb
+(P<.001), but no signiﬁcant difference was detected between the unfused (1-, 3-, and 5-Hz) and fused (20-Hz) exercises for PGC-1 αexpression. (B)
+Mean myostatin (MSTN) fold change 3 hours after exercise for the unfused contractions (1, 3, and 5 Hz) and fused contractions (20 Hz). There was asigniﬁcant effect of exercise relative to the nonexercised control limb ( P<.03), but no signiﬁcant difference was detected between the unfused (1-, 3-,
+and 5-Hz) and fused (20-Hz) exercises for MSTN expression. †=signiﬁcant change for 1, 3, 5, and 20 Hz relative to control condition.
+Data Analysis for Gene Expression and
+Epigenetic Changes
+A linear mixed model was used to compare gene expression
+levels across the 1-, 3-, 5-, and 20-Hz stimulation frequencies.
+Post hoc paired ttests with adjustment for experimentwise
+error (Tukey) were used for multiple comparisons. A paired
+ttest was used to assess methylation levels of PGC-1 αand
+MSTN only in the 3-Hz condition. P<.05 was used as the
+probability to denote significance for all statistical tests. An
+examination of change and pooled variance indicated thatour analysis had >80% power to detect changes in gene
+expression.
+Role of the Funding Source
+The funder played no role in the design, conduct, and report-
+ing of this study.
+Results
+Gene Expression After Low- or High-Force
+Electrically Induced Exercise
+The mean PGC-1 αfold changes 3 hours after exercise for the
+unfused contractions were 2.1 (SD =1.1), 2.6 (SD =1.2), and
+2.8 (SD =0.7) for the 1-, 3-, and 5-Hz stimulation frequencies,
+respectively. The mean fold change 3 hours after exercise for
+the partially fused contraction (20 Hz) was 2.8 (SD =0.8).
+There was a significant effect of exercise relative to the nonex-ercised control limb ( P<.001) for PGC-1 α3 hours after
+any frequency of exercise ( Fig. 3A ). Further, no significant
+difference was detected between the unfused (1-, 3-, and 5-Hz) and the partially fused (20-Hz) exercises for PGC-1 αexpression. The unfused 1-Hz exercise was not significantly
+different ( P=.521) from the partially fused exercise (20 Hz).
+The mean MSTN fold changes 3 hours after exercise for the
+unfused contractions were 0.8 (SD =0.4), 0.7 (SD =0.3), and
+0.7 (SD =0.3) for the 1-, 3-, and 5-Hz stimulation frequencies,
+respectively. The mean fold change 3 hours after exercise forthe partially fused contraction (20 Hz) was 0.7 (SD =0.2).
+There was a significant effect of exercise relative to the nonex-
+ercised control limb ( P<.005) for MSTN 3 hours after any
+form of exercise ( Fig. 3B ). Further, no significant difference
+was detected between the unfused (1-, 3-, and 5-Hz) and
+partially fused (20-Hz) exercises for MSTN suppression. Theunfused 1-Hz exercise was not significantly different ( P=.9)
+from the partially fused exercise (20 Hz).
+Epigenetic Marker (Methylation) After Acute
+Low-Force Electrically Induced Exercise
+We next examined the effect of the 3-Hz electrically induced
+exercise on the methylation sites of paralyzed muscle. Theexercised muscle had a mean beta value of .88 (SD =0.04)
+for PGC-1 α; the nonexercised control muscle had a mean
+beta value of .91 (SD =0.03) (cytosine phosphodiester bond
+to guanine site: cg06772578). The exercised muscle was sig-
+nificantly demethylated 3 hours after the end of the exercise
+relative to the nonexercised muscle ( P=.006) ( Fig. 4A ).
+The exercised muscle had a mean beta value of .36
+(SD=0.15) for MSTN; the nonexercised control limb had a
+mean beta value of .22 (SD =0.10) (cytosine phosphodiester
+bond to guanine site: cg09631974). The exercised muscle
+methylation status was not significantly affected 3 hours after
+the end of the exercise relative to the nonexercised musclemethylation status ( P=.20) ( Fig. 4B ) for this MSTN probe.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Petrie et al 7
+Figure 4. Acute epigenetics. (A) Mean proliferator-activated receptor γcoactivator 1 α(PGC-1 α) methylation beta value (% methylated) 3 hours after an
+unfused (3-Hz) exercise in a subset of 4 participants. There was a signiﬁcant demethylation effect of the unfused (3-Hz) exercise relative to the
+nonexercised control limb ( P=.006). (B) Mean myostatin (MSTN) methylation βvalue (% methylated) 3 hours after an unfused (3-Hz) exercise in a
+subset of 4 participants. There was no signiﬁcant methylation effect of the unfused (3-Hz) exercise relative to the nonexercised control limb ( P=.20).
+However, noteworthy was the still relative observed increase in the methylation of MSTN after exercise in this small sample subset. †=signiﬁcance.
+Global Epigenetic Connectivity Signaling After
+Low-Force Exercise
+A 3-Hz dose of electrically induced exercise triggered
+widespread demethylation in several epigenetic signalingpathways in human paralyzed muscle; this result generally
+signified a permissive effect on gene expression in these
+pathways. A total of 10,108 genes were defined within the1925 pathways across the 26 broad categories ( Fig. 5A ). Each
+circular node in the connectivity map points to a gene set,
+and the color of the node indicates the defined category for
+each pathway. The node size is relative to the number of
+genes defined within the pathway, and the lines connecting2 nodes represent the hierarchical relationship between the
+connected nodes. A total of 858,301 methylation probes were
+analyzed across all genes. Seventy-four pathways, definedby 1305 genes, were found to be significantly demethylated
+after exercise relative to the baseline (nonexercised) muscle;
+this result signified the potential for upregulation of thosegenes. No pathways were found to be significantly methylated
+after exercise relative to the baseline (nonexercised) limb;
+significant methylation would have signaled the potential fordownregulation of those genes ( Fig. 5B ). Of the demethylated
+genes, approximately 22% were associated with signal
+transduction, 18% were associated with gene expressionand transcription, 16% were associated with the immune
+system, and 8% were associated with metabolism ( Fig. 5C ).
+Additionally, 2 pathways were found to be demethylatedafter exercise associated with muscle contraction, representing
+>20% of the pathways in that category.
+Discussion
+Low-frequency, high-intensity, low-force electrically induced
+exercise is a potent acute physiological stressor to the
+PGC-1 αand MSTN transcription signaling pathways inhuman paralyzed muscle. The acute global genetic and
+epigenetic signaling induced after a single low-force bout
+of electrically induced muscle exercise provides, to our
+knowledge, the first scientific, precision-based gene signaling
+analysis of this intervention in humans. By employing geneticsignaling and epigenetic tagging, we discovered an exercise
+that may trigger adaptations, if performed regularly, and
+that offers a low load to the underlying osteoporotic skeletalsystem in people with paralysis. Taken together, these findings
+suggest that electrically induced muscle exercise, delivered
+at a low frequency and a high intensity, warrants furtherevaluation for safety and global health benefits in a larger
+randomized controlled clinical trial.
+Exercise is an important physiologic stress that initiates
+well-conserved cellular processes that affect human health and
+disease. The gene transcription factor PGC-1 αhas emerged
+as a key sensor in detecting and adapting the skeletal musclemetabolism and hypertrophy phenotype.
+15,81Daily transient
+increases in the expression of the PGC-1 αgene and other
+important early-response stress genes are known to triggerlong-term adaptations in muscle tissue with exercise.
+60The
+novel findings of the present study, in contrast to the findings
+of our previous work, suggest that performing a single boutof electrically driven muscle exercise—even at a very low
+frequency (1 and 3 Hz) and a low force level—acutely “turns
+on” genes and epigenetic signaling pathways that are regu-lated during volitional exercise.
+8,68,82By initiating the same
+genetic and epigenetic processes that typify volitional exercise,
+low-frequency and low-force electrically induced exercise inhuman paralyzed muscle appears to have excellent potential
+to safely transform fibers from glycolytic to oxidative in peo-
+ple with chronic spinal cord injury.
+70,71Several studies have
+suggested that the transformation from fast glycolytic fibers
+to slow oxidative fibers improves systemic health through
+glucose uptake and glucose utilization flexibility.9,53,55,57Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+8 Genomic/Epigenomic Analysis of Paralyzed Muscle
+Figure 5. Epigenetic connectivity network. (A) Base connectivity map for the 1925 pathways used for the gene set enrichment analysis. Each node
+represents a pathway deﬁned within the Reactome knowledge base, which deﬁnes various biological processes that are categorized into 26 broadcategories, indicated by node color. (B) A total of 7 4 pathways were found to be demethylated 3 hours after completion of a dose of low-force (3-Hz)
+exercise relative to the baseline (nonexercised) limb in people with a spinal cord injury. (C) The 7 4 demethylated pathways represent 19 of the 26 broa d
+categories. Of note is that most of the pathways were associated with the signal transduction, gene expression and transcription, immune system, and
+metabolism categories.
+Physical therapists strive to reduce barriers to exercise while
+considering safety, cost-effectiveness, and efficacy.83–85The
+results of the present study suggest that electrical stimulation
+units that are paired with expensive cycle ergometers, rowingergometers, standing systems, or elliptical ergometers are not
+necessary to induce key signaling pathways in skeletal muscle.
+All exercise, regardless of how it is induced, must ultimatelybecome part of a lifestyle behavior. Indeed, an intervention
+that is cost-effective, feasible, and seamless to implement typ-
+ically has a higher probability of participation. The portableelectrical stimulation unit used in the present study was highly
+effective in regulating well-known muscle signaling pathways
+in the skeletal muscle of people with chronic paralysis.
+Limitations
+Although this study is the first, to our knowledge, to comparea low range of frequencies (1 and 3 Hz) for electrically inducedexercises in humans with spinal cord injury, several limitations
+warrant careful consideration. First, we chose to biopsy the
+vastus lateralis 3 hours after the exercise on the basis of pre-vious studies examining stress response genes.
+69,70,73,86–88
+However, the peak response of many genomic and epigenomic
+signaling pathways in response to exercise is not preciselyknown. Thus, it is possible that we underestimated the optimal
+peak response even for the 2 signaling pathways examined
+in the present study. Importantly, global epigenetic signalingassessment is still in its infancy, and we cannot assume that
+the 3-hour postexercise timeline is optimal for the various
+methylation sites examined. Moreover, sampling atrophiedhuman paralyzed muscle yielded small quantities of tissue,
+which limited our epigenetic analysis to only the 3-Hz con-
+dition. Future studies using multiple biopsies and a time seriesanalysis that considers natural variations in gene signaling
+under circadian rhythm control
+89w i l lo f f e ra ne v e ng r e a t e r
+understanding of genetic and epigenetic signaling in skeletalmuscle.A second limitation of the present study is that we exam-
+ined signaling pathways within 1 tissue: skeletal muscle. The
+systemic health benefits that likely prevent the development of
+chronic disease require regular contractile activity of multiplemuscle groups, something that the present study did not
+address and that will be an important consideration in future
+studies. Developing a cost-effective human interface duringmultiple muscle stimulation will require careful testing.
+Third, no episodes of autonomic dysreflexia or significant
+muscle spasms were triggered by the high-intensity stimula-tion in our participants. However, these are real-life issues that
+must be carefully evaluated clinically and in controlled clinical
+trials before the adoption of a new strategy for exercising par-alyzed muscle. From an efficiency perspective, a slightly higher
+stimulation frequency (5 Hz) allows the exercise to be com-
+pleted in a shorter time than a lower stimulation frequency(1 Hz). However, there may be an inverse relationship between
+spasm severity and duration of stimulation for electrically
+induced exercise. Accordingly, individual patient responses toan intervention must ultimately guide the clinician in choosing
+an intervention.
+Finally, we did not consider other, “patient-centered”
+lifestyle behaviors that also can “prime” skeletal muscle gene
+signaling pathways. As elucidated in the Perspective article
+on epigenetics in this issue, patient-centered care requires theconsideration of several lifestyle factors that likely influence
+the signaling pathways within the tissues that need to be
+adapted (skeletal muscle). For example, sleep, diet, socialstresses, alcohol use, drug use, circadian rhythm, ischemia,
+and race, as well as parameters of the exercise, play a collective
+role in the development of a patient-centered strategy to offermore precise signaling in paralyzed skeletal muscle.
+89–91
+Physical therapists must also consider volitionally induced
+exercise from other muscle groups when designing
+prescriptions. If an individual with paralysis can exercise
+some muscles volitionally, even if only 20% of their totalDownloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Petrie et al 9
+upper extremity muscle mass is involved, then this exercise
+is perceived as an essential healthy lifestyle behavior. The
+polygenic effects of volitional exercise, even of just a portion
+of the muscle mass, may prime systemic signaling in a waythat ultimately affects secondary health issues.
+92For example,
+a client who has an upper thoracic or lower cervical spinal
+cord injury and uses wheeled mobility rather than powered
+mobility may engage whole-body myokine signaling that can
+synergize the effects of electrically induced muscle activationin the paralyzed musculature. Community programs that
+support recreation activities for people in wheelchairs must be
+considered an important adjunct in the development of moreprecise interventions for rehabilitation.
+93Future studies are
+needed to determine whether hybrid training, volitional for
+muscles that can be driven and electrically induced for musclesthat are paralyzed, may ultimately be optimal for preventing
+secondary noncommunicable disease and improving health
+for people with spinal cord injury.
+Although the long-term effects of muscle training were
+beyond the scope of the present study, previous work demon-
+strated an association with the magnitude of change during anacute bout of exercise and the long-term phenotypic changes
+observed when the exercise was routinely performed as a
+lifestyle behavior change.
+71,73,94–96Moreover, the potential
+to prevent musculoskeletal deterioration after spinal cord
+injury by offering electrically induced exercise early during
+the acute phase of rehabilitation should not be overlooked.72
+Although much work still needs to be completed in this arena,
+the results of the present study provide an important theoreti-
+cal grounding for an intervention that physical therapists mayultimately use during the rehabilitation of people with chronic
+spinal cord injury.
+Exercise is an important therapeutic intervention in people
+with spinal cord injury and an essential lifestyle-based strat-
+egy for preventing chronic noncommunicable disease. Our
+demonstration that exercise in the form of low-force electricalstimulation elicited critical subcellular signaling in paralyzed
+skeletal muscle may be a beneficial adjunct to other, patient-
+centered interventions for people with spinal cord injury.
+Further, we showed that high force production using electri-
+cal stimulation during exercise is not required, contrary tothe overload method that traditionally permeates the muscle
+hypertrophy literature. Genomic and epigenomic signaling
+analysis offers a unique approach to the development of soundscientific grounding for precision rehabilitation interventions
+in the coming century.
+Author Contributions
+Concept/idea/research design: M. Suneja, R.K. Shields
+Writing: M.A. Petrie, R.K. Shields, M. Suneja, E.B. TaylorData collection: M.A. Petrie, M. Suneja, R.K. ShieldsData analysis: M.A. Petrie, E.B. Taylor, R.K. ShieldsProject management: R.K. ShieldsFund procurement: R.K. ShieldsProviding participants: M.A. Petrie, R.K. ShieldsProviding facilities/equipment: R.K. ShieldsProviding institutional liaisons: R.K. ShieldsConsultation (including review of manuscript before submitting):
+E.B. Taylor, M. Suneja, R.K. Shields
+Acknowledgments
+Data presented herein were obtained at the Genomics Division of theIowa Institute of Human Genetics, which is supported, in part, by theUniversity of Iowa Carver College of Medicine and the University of
+Minnesota Genomics Center. The authors acknowledge current mem-bers from Dr Shields’s laboratory, including Shauna Dudley-Javoroski,Patrick McCue, Kristin Johnson, and Jinhyun Lee for their assistancewith the data collection during this study.
+Ethics Approval
+All participants provided written informed consent approved by theUniversity of Iowa Human Subjects Institutional Review Board.
+Funding
+This study was supported in part by awards to R.K. Shields, from theNational Institute of Child Health and Human Development (grant nosR01HD084645 and R01HD082109); E.B. Taylor, from the NationalInstitute of Diabetes and Digestive and Kidney Diseases (grant no. R01DK104998), the National Institute of Arthritis and Musculoskeletaland Skin Diseases (grant no. R00 AR059190); and the University ofIowa, from the National Center for Advancing Translational SciencesResearch (award no. UL1TR002537).
+Disclosures
+The authors completed the ICMJE Form for Disclosure of PotentialConflicts of Interest and reported no conflicts of interest.
+References
+1. Naci H, Ioannidis JP. Comparative effectiveness of exercise and
+drug interventions on mortality outcomes: metaepidemiologicalstudy. B rJS p o r t sM e d . 2015;49:1414–1422.
+2. Ramirez-Velez R, Lobelo F, Izquierdo M. Exercise for disease
+prevention and management: a precision medicine approach. JA m
+Med Dir Assoc . 2017;18:633–634.
+3. Baskin KK, Winders BR, Olson EN. Muscle as a "mediator" of
+systemic metabolism. Cell Metab . 2015;21:237–248.
+4. Hargreaves M. Skeletal muscle metabolism during exercise in
+humans. Clin Exp Pharmacol Physiol . 2000;27:225–228.
+5. Huh JY. The role of exercise-induced myokines in regulating
+metabolism. Arch Pharm Res . 2018;41:14–29.
+6. Wallberg-Henriksson H, Zierath JR. Metabolism. Exercise remod-
+els subcutaneous fat tissue and improves metabolism. Nat Rev
+Endocrinol . 2015;11:198–200.
+7. Buresh R. Exercise and glucose control. J Sports Med Phys Fitness .
+2014;54:373–382.
+8. Seaborne RA, Sharples AP. The interplay between exercise
+metabolism, epigenetics, and skeletal muscle remodeling. Exerc
+Sport Sci Rev . 2020;48:188–200.
+9. Egan B, Zierath JR. Exercise metabolism and the molecular regula-
+tion of skeletal muscle adaptation. Cell Metab . 2013;17:162–184.
+10. Phillips SM. Physiologic and molecular bases of muscle hypertro-
+phy and atrophy: impact of resistance exercise on human skeletalmuscle (protein and exercise dose effects). Appl Physiol Nutr
+Metab . 2009;34:403–410.
+11. Wrann CD, White JP, Salogiannnis J, et al. Exercise induces hip-
+pocampal BDNF through a PGC-1alpha/FNDC5 pathway. Cell
+Metab . 2013;18:649–659.
+12. Rea IM. Towards ageing well. Use it or lose it: exercise, epigenetics
+and cognition. Biogerontology . 2017;18:679–691.
+13. Cole KR, Yen CL, Dudley-Javoroski S, Shields RK. NIH toolbox
+cognition battery in young and older adults: reliability and rela-tionship to adiposity and physical activity. J Geriatr Phys Ther .
+2021;44:51–59.
+14. Lee JH, Jun HS. Role of myokines in regulating skeletal muscle
+mass and function. Front Physiol . 2019;10:42.
+15. Schnyder S, Handschin C. Skeletal muscle as an endocrine organ:
+PGC-1alpha, myokines and exercise. Bone . 2015;80:115–125.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+10 Genomic/Epigenomic Analysis of Paralyzed Muscle
+16. National Spinal Cord Injury Statistical Center. 2020 Annual Statis-
+tical Report for the Spinal Cord Injury Model Systems—completepublic version . 2020. Accessed April 22, 2021. https://www.nsci
+sc.uab.edu/ .
+17. Ahuja CS, Wilson JR, Nori S, et al. Traumatic spinal cord injury.
+Nat Rev Dis Primers . 2017;3:17018.
+18. Gater DR Jr, Farkas GJ, Berg AS, Castillo C. Prevalence of
+metabolic syndrome in veterans with spinal cord injury. J Spinal
+Cord Med . 2019;42:86–93.
+19. Nash MS, Groah SL, Gater DR, et al. Identification and manage-
+ment of cardiometabolic risk after spinal cord injury. J Spinal Cord
+Med. 2019;42:643–677.
+20. Duckworth WC, Jallepalli P, Solomon SS. Glucose intolerance in
+spinal cord injury. Arch Phys Med Rehabil . 1983;64:107–110.
+21. Ohry A, Shemesh Y, Rozin R. Are chronic spinal cord injured
+patients (SCIP) prone to premature aging? Med Hypotheses . 1983;
+11:467–469.
+22. Johnson RL, Gerhart KA, McCray J, Menconi JC, Whiteneck GG.
+Secondary conditions following spinal cord injury in a population-based sample. Spinal Cord . 1998;36:45–50.
+23. Leduc BE, Lepage Y. Health-related quality of life after spinal cord
+injury. Disabil Rehabil . 2002;24:196–202.
+24. Clasey JL, Janowiak AL, Gater DR. Relationship between regional
+bone density measurements and the time since injury in adultswith spinal cord injuries. Arch Phys Med Rehabil . 2004;85:
+59–64.
+25. Lee MY, Myers J, Hayes A, et al. C-reactive protein, metabolic
+syndrome, and insulin resistance in individuals with spinal cordinjury. J Spinal Cord Med . 2005;28:20–25.
+26. Dudley-Javoroski S, Shields RK. Assessment of physical function
+and secondary complications after complete spinal cord injury.Disabil Rehabil . 2006;28:103–110.
+27. Giangregorio L, McCartney N. Bone loss and muscle atrophy in
+spinal cord injury: epidemiology, fracture prediction, and rehabili-tation strategies. J Spinal Cord Med . 2006;29:489–500.
+28. Gorgey AS, Gater DR, Jr. Prevalence of obesity after spinal cord
+injury. Top Spinal Cord Inj Rehabil. 2007;12:1–7.
+29. Banerjea R, Sambamoorthi U, Weaver F, Maney M, Pogach LM,
+Findley T. Risk of stroke, heart attack, and diabetes complicationsamong veterans with spinal cord injury. Arch Phys Med Rehabil .
+2008;89:1448–1453.
+30. Morse LR, Battaglino RA, Stolzmann KL, et al. Osteoporotic
+fractures and hospitalization risk in chronic spinal cord injury.Osteoporos Int . 2009;20:385–392.
+31. Groah SL, Nash MS, Ward EA, et al. Cardiometabolic risk in
+community-dwelling persons with chronic spinal cord injury. J
+Cardiopulm Rehabil Prev . 2011;31:73–80.
+32. Boakye M, Leigh BC, Skelly AC. Quality of life in persons with
+spinal cord injury: comparisons with other populations. JN e u r o -
+surg Spine . 2012;17:29–37.
+33. LaVela SL, Evans CT, Prohaska TR, Miskevics S, Ganesh SP,
+Weaver FM. Males aging with a spinal cord injury: prevalence ofcardiovascular and metabolic conditions. Arch Phys Med Rehabil .
+2012;93:90–95.
+34. Yahiro AM, Wingo BC, Kunwor S, Parton J, Ellis AC. Classification
+of obesity, cardiometabolic risk, and metabolic syndrome in adultswith spinal cord injury. J Spinal Cord Med . 2020;43:485–496.
+35. Biering-Sorensen F, Bohr HH, Schaadt OP. Longitudinal study of
+bone mineral content in the lumbar spine, the forearm and thelower extremities after spinal cord injury. Eur J Clin Investig .
+1990;20:330–335.
+36. Wilmet E, Ismail AA, Heilporn A, Welraeds D, Bergmann P.
+Longitudinal study of the bone mineral content and of soft tis-sue composition after spinal cord section. Paraplegia . 1995;33:
+674–677.
+37. Dudley-Javoroski S, Shields RK. Longitudinal changes in femur
+bone mineral density after spinal cord injury: effects of sliceplacement and peel method. Osteoporos Int . 2010;21:985–995.38. Dudley-Javoroski S, Shields RK. Regional cortical and trabec-
+ular bone loss after spinal cord injury. JR e h a b i lR e sD e v .
+2012;49:1365–1376.
+39. Dudley-Javoroski S, Petrie MA, McHenry CL, Amelon RE, Saha
+PK, Shields RK. Bone architecture adaptations after spinal cordinjury: impact of long-term vibration of a constrained lower limb.Osteoporos Int . 2016;27:1149–1160.
+40. Hartkopp A, Murphy RJ, Mohr T, Kjaer M, Biering-Sorensen
+F. Bone fracture during electrical stimulation of the quadricepsin a spinal cord injured subject. Arch Phys Med Rehabil . 1998;
+79:1133–1136.
+41. Vestergaard P, Krogh K, Rejnmark L, Mosekilde L. Fracture rates
+and risk factors for fractures in patients with spinal cord injury.Spinal Cord . 1998;36:790–796.
+42. Carbone LD, Chin AS, Burns SP, et al. Mortality following lower
+extremity fractures in men with spinal cord injury. J Bone Mineral
+Res Off J Am Soc Bone Mineral Res . 2013;29:432–439.
+43. Shields RK, Chang YJ. The effects of fatigue on the torque-
+frequency curve of the human paralysed soleus muscle. J Elec-
+tromyogr Kinesiol . 1997;7:3–13.
+44. Talmadge RJ, Castro MJ, Apple DF Jr, Dudley GA. Phenotypic
+adaptations in human muscle fibers 6 and 24 wk after spinal cordinjury. J Appl Physiol . 2002;92:147–154.
+45. Dudley-Javoroski S, Shields RK. Muscle and bone plasticity after
+spinal cord injury: review of adaptations to disuse and to electricalmuscle stimulation. JR e h a b i lR e sD e v . 2008;45:283–296.
+46. Qin W, Bauman WA, Cardozo C. Bone and muscle loss after spinal
+cord injury: organ interactions. A n nNYA c a dS c i . 2010;1211:
+66–84.
+47. O’Brien LC, Chen Q, Savas J, Lesnefsky EJ, Gorgey AS. Skeletal
+muscle mitochondrial mass is linked to lipid and metabolic pro-file in individuals with spinal cord injury. Eur J Appl Physiol .
+2017;117:2137–2147.
+48. Bettis T, Kim BJ, Hamrick MW. Impact of muscle atrophy on
+bone metabolism and bone strength: implications for muscle-bone crosstalk with aging and disuse. Osteoporos Int . 2018;29:
+1713–1720.
+49. Gregory CM, Dixon W, Bickel CS. Impact of varying pulse fre-
+quency and duration on muscle torque production and fatigue.Muscle Nerve . 2007;35:504–509.
+50. Petrie MA, Suneja M, Faidley E, Shields RK. Low force contrac-
+tions induce fatigue consistent with muscle mRNA expression inpeople with spinal cord injury. Physiol Rep . 2014;2:e00248.
+51. Bellemare F, Woods JJ, Johansson R, Bigland-Ritchie B. Motor-unit
+discharge rates in maximal voluntary contractions of three humanmuscles. J Neurophysiol . 1983;50:1380–1392.
+52. Bigland-Ritchie B, Johansson R, Lippold OC, Smith S, Woods JJ.
+Changes in motoneurone firing rates during sustained maximalvoluntary contractions. JP h y s i o l . 1983;340:335–346.
+53. Mootha VK, Lindgren CM, Eriksson KF, et al. PGC-1alpha-
+responsive genes involved in oxidative phosphorylation arecoordinately downregulated in human diabetes. Nat Genet .
+2003;34:267–273.
+54. Finck BN, Kelly DP. PGC-1 coactivators: inducible regulators of
+energy metabolism in health and disease. J Clin Invest . 2006;
+116:615–622.
+55. Zierath JR, Hawley JA. Skeletal muscle fiber type: influence on
+contractile and metabolic properties. PLoS Biol . 2004;2:e348.
+56. Joseph AM, Pilegaard H, Litvintsev A, Leick L, Hood DA. Control
+of gene expression and mitochondrial biogenesis in the muscu-lar adaptation to endurance exercise. Essays Biochem . 2006;42:
+13–29.
+57. Song XM, Ryder JW, Kawano Y, Chibalin AV, Krook A, Zierath
+JR. Muscle fiber type specificity in insulin signal transduction. Am
+J Physiol Regul Integr Comp Physiol . 1999;277:R1690–R1696.
+58. Song XM, Kawano Y, Krook A, et al. Muscle fiber type-specific
+defects in insulin signal transduction to glucose transport in dia-betic GK rats. Diabetes . 1999;48:664–670.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+
+Petrie et al 11
+59. Goldspink G. Changes in muscle mass and phenotype and the
+expression of autocrine and systemic growth factors by muscle inresponse to stretch and overload. JA n a t . 1999;194:323–334.
+60. Pilegaard H, Saltin B, Neufer PD. Exercise induces transient tran-
+scriptional activation of the PGC-1alpha gene in human skeletalmuscle. JP h y s i o l . 2003;546:851–858.
+61. Kang C, Li JL. Role of PGC-1alpha signaling in skeletal muscle
+health and disease. Ann N Y Acad Sci . 2012;1271:110–117.
+62. McPherron AC, Lawler AM, Lee SJ. Regulation of skeletal muscle
+mass in mice by a new TGF-beta superfamily member. Nature .
+1997;387:83–90.
+63. Bamman MM. Regulation of muscle size in humans: role of
+myostatin? J Musculoskelet Neuronal Interact . 2008;8:342–343.
+64. Silvennoinen M, Ahtiainen JP, Hulmi JJ, et al. PGC-1 isoforms
+and their target genes are expressed differently in human skeletalmuscle following resistance and endurance exercise. Physiol Rep .
+2015;3:e12563.
+65. Sharples AP, Stewart CE, Seaborne RA. Does skeletal muscle
+have an “epi”-memory? The role of epigenetics in nutritionalprogramming, metabolic disease, aging and exercise. Aging Cell .
+2016;15:603–616.
+66. Adams CM, Suneja M, Dudley-Javoroski S, Shields RK. Altered
+mRNA expression after long-term soleus electrical stimulationtraining in humans with paralysis. Muscle Nerve . 2011;43:65–75.
+67. Jacques M, Hiam D, Craig J, Barres R, Eynon N, Voisin S. Epige-
+netic changes in healthy human skeletal muscle following exercise-a systematic review. Epigenetics . 2019;14:633–648.
+68. McGee SL, Walder KR. Exercise and the skeletal muscle
+epigenome. Cold Spring Harb Perspect Med . 2017;7:a029876.
+69. Petrie MA, Kimball AL, McHenry CL, et al. Distinct skeletal muscle
+gene regulation from active contraction, passive vibration, andwhole body heat stress in humans. PLoS One . 2016;11:e0160594.
+70. Petrie M, Suneja M, Shields RK. Low-frequency stimulation reg-
+ulates metabolic gene expression in paralyzed muscle. J Appl
+Physiol . 2015;118:723–731.
+71. Petrie MA, Sharma A, Taylor EB, Suneja M, Shields RK. Impact of
+short- and long-term electrically induced muscle exercise on gene
+signaling pathways, gene expression, and PGC1a methylation inmen with spinal cord injury. Physiol Genomics . 2020;52:71–80.
+72. Shields RK, Dudley-Javoroski S. Musculoskeletal plasticity after
+acute spinal cord injury: effects of long-term neuromuscular elec-trical stimulation training. J Neurophysiol . 2006;95:2380–2390.
+73. Petrie MA, Suneja M, Faidley E, Shields RK. A minimal dose
+of electrically induced muscle activity regulates distinct gene sig-naling pathways in humans with spinal cord injury. PLoS One .
+2014;9:e115791.
+74. Gentleman RC, Carey VJ, Bates DM, et al. Bioconductor: open soft-
+ware development for computational biology and bioinformatics.Genome Biol . 2004;5:R80.
+75. Huber W, Carey VJ, Gentleman R, et al. Orchestrating high-
+throughput genomic analysis with Bioconductor. Nat Methods .
+2015;12:115–121.
+76. Phipson B, Maksimovic J, Oshlack A. missMethyl: an R package
+for analyzing data from Illumina’s HumanMethylation450 plat-form. Bioinformatics . 2016;32:286–288.
+77. Ren X, Kuan PF. methylGSA: a Bioconductor package and shiny
+app for DNA methylation data length bias adjustment in gene settesting. Bioinformatics . 2019;35:1958–1959.
+78. Fabregat A, Sidiropoulos K, Garapati P, et al. The Reactome path-
+way knowledgebase. Nucleic Acids Res . 2016;44:D481–D487.79. Fabregat A, Jupe S, Matthews L, et al. The Reactome pathway
+knowledgebase. Nucleic Acids Res . 2018;46:D649–D655.
+80. Shannon P, Markiel A, Ozier O, et al. Cytoscape: a software
+environment for integrated models of biomolecular interactionnetworks. Genome Res . 2003;13:2498–2504.
+81. Akhmetov II, Rgozkin VA. The role of PGC-1alpha in regulation of
+skeletal muscle metabolism. Fiziol Cheloveka . 2013;39:123–132.
+82. Edgett BA, Foster WS, Hankinson PB, et al. Dissociation of
+increases in PGC-1alpha and its regulators from exercise inten-sity and muscle activation following acute exercise. PLoS One .
+2013;8:e71623.
+83. Gorgey AS. Exercise awareness and barriers after spinal cord
+injury. World J Orthop . 2014;5:158–162.
+84. Williams TL, Smith B, Papathomas A. The barriers, benefits and
+facilitators of leisure time physical activity among people withspinal cord injury: a meta-synthesis of qualitative findings. Health
+Psychol Rev . 2014;8:404–425.
+85. Scelza WM, Kalpakjian CZ, Zemper ED, Tate DG. Perceived
+barriers to exercise in people with spinal cord injury. Am J Phys
+Med Rehabil . 2005;84:576–583.
+86. Egan B, Carson BP, Garcia-Roves PM, et al. Exercise intensity-
+dependent regulation of peroxisome proliferator-activated receptorcoactivator-1 mRNA abundance is associated with differentialactivation of upstream signalling kinases in human skeletal muscle.JP h y s i o l . 2010;588:1779–1790.
+87. Fiorenza M, Gunnarsson TP, Hostrup M, et al. Metabolic stress-
+dependent regulation of the mitochondrial biogenic molecularresponse to high-intensity exercise in human skeletal muscle. J
+Physiol . 2018;596:2823–2840.
+88. Neubauer O, Sabapathy S, Ashton KJ, et al. Time course-dependent
+changes in the transcriptome of human skeletal muscle duringrecovery from endurance exercise: from inflammation to adaptiveremodeling. J Appl Physiol . 2014;116:274–287.
+89. Harfmann BD, Schroder EA, Esser KA. Circadian rhythms, the
+molecular clock, and skeletal muscle. J Biol Rhythm . 2015;30:
+84–94.
+90. Gabriel BM, Zierath JR. The limits of exercise physiology: from
+performance to health. Cell Metab . 2017;25:1000–1011.
+91. Dollet L, Zierath JR. Interplay between diet, exercise and the
+molecular circadian clock in orchestrating metabolic adaptationsof adipose tissue. JP h y s i o l . 2019;597:1439–1450.
+92. Shields RK. Turning over the hourglass. Phys Ther . 2017;97:
+949–963.
+93. Bresnahan JJ, Farkas GJ, Clasey JL, Yates JW, Gater DR. Arm
+crank ergometry improves cardiovascular disease risk factors andcommunity mobility independent of body composition in highmotor complete spinal cord injury. J Spinal Cord Med . 2019;
+42:272–280.
+94. Deley G, Denuziller J, Casillas JM, Babault N. One year of training
+with FES has impressive beneficial effects in a 36-year-old womanwith spinal cord injury. J Spinal Cord Med . 2017;40:107–112.
+95. Gorgey AS, Khalil RE, Davis JC, et al. Skeletal muscle hypertrophy
+and attenuation of cardio-metabolic risk factors (SHARC) usingfunctional electrical stimulation-lower extremity cycling in personswith spinal cord injury: study protocol for a randomized clinicaltrial. Trials . 2019;20:526.
+96. Shields RK, Dudley-Javoroski S. Musculoskeletal adaptations in
+chronic spinal cord injury: effects of long-term soleus electri-cal stimulation training. Neurorehabil Neural Repair . 2007;21:
+169–179.Downloaded from https://academic.oup.com/ptj/article/102/1/pzab243/6413907 by University of Iowa Libraries/Serials Acquisitions user on 22 August 2022
+

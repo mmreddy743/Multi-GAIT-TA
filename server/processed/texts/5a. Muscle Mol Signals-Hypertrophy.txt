@@ -1,0 +1,1422 @@
+ International Journal of  
+Molecular Sciences
+Review
+Signaling Pathways That Control Muscle Mass
+Anna Vainshtein1
+and Marco Sandri2,3,4,5,*
+1Craft Science Inc. Toronto, ON L4J 7S2, Canada; anna@craftscience.ca
+2Veneto Institute of Molecular Medicine, via Orus 2, 35129 Padua, Italy
+3Department of Biomedical Science, University of Padua, via G. Colombo 3, 35100 Padua, Italy
+4Myology Center, University of Padua, via G. Colombo 3, 35100 Padova, Italy
+5Department of Medicine, McGill University, Montreal, QC H3A 0G4, Canada
+*Correspondence: marco.sandri@unipd.it
+Received: 29 May 2020; Accepted: 1 July 2020; Published: 4 July 2020
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045 /gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Abstract: The loss of skeletal muscle mass under a wide range of acute and chronic maladies is
+associated with poor prognosis, reduced quality of life, and increased mortality. Decades of research
+indicate the importance of skeletal muscle for whole body metabolism, glucose homeostasis, as well
+as overall health and wellbeing. This tissue’s remarkable ability to rapidly and e ectively adapt to
+changing environmental cues is a double-edged sword. Physiological adaptations that are beneﬁcial
+throughout life become maladaptive during atrophic conditions. The atrophic program can be
+activated by mechanical, oxidative, and energetic distress, and is inﬂuenced by the availability of
+nutrients, growth factors, and cytokines. Largely governed by a transcription-dependent mechanism,
+this program impinges on multiple protein networks including various organelles as well as
+biosynthetic and quality control systems. Although modulating muscle function to prevent and
+treat disease is an enticing concept that has intrigued research teams for decades, a lack of thorough
+understanding of the molecular mechanisms and signaling pathways that control muscle mass,
+in addition to poor transferability of ﬁndings from rodents to humans, has obstructed e orts to
+develop e ective treatments. Here, we review the progress made in unraveling the molecular
+mechanisms responsible for the regulation of muscle mass, as this continues to be an intensive area
+of research.
+Keywords: skeletal muscle; atrophy; hypertrophy; sarcopenia
+1. Introduction
+In addition to its role in locomotion, skeletal muscle plays an essential role in whole body metabolism
+and glucose homeostasis, and serves as a protein reservoir [ 1]. This tissue’s remarkable ability to rapidly
+adapt to everchanging environmental and internal stimuli makes it vital for organismal health, survival,
+and adaptability. It is also clear that muscle is not static and has endo- and exocrine functions. Various
+myokines released from muscle act as messengers between skeletal muscle and other vital organs such as
+the liver, heart, fat, and even brain [ 2]. This signaling has consequences for certain chronic diseases such
+as diabetes, cardiovascular disease, cancer, cachexia, sarcopenia, and neurodegeneration, as well as many
+others. These relationships reaffirm the key and indispensable role of skeletal muscle in organismal
+health and survival. Indeed, many chronic diseases are accompanied and exacerbated by muscle
+wasting, and muscle metabolic state has been suggested as a disease modifier [ 1,3]. As the number of
+humans living with chronic diseases increases and the population continues to live longer, healthy aging
+and independent living requires the maintenance of muscle mass. It is therefore imperative, now more
+than ever before, to gain an intimate understanding of the molecular mechanisms that govern muscle
+mass and function.
+Int. J. Mol. Sci. 2020 ,21, 4759; doi:10.3390 /ijms21134759 www.mdpi.com /journal /ijms
+Int. J. Mol. Sci. 2020 ,21, 4759 2 of 28
+In theory, muscle mass is determined through a simple balance between protein synthesis and
+protein degradation. During steady state conditions, protein synthesis equals protein degradation
+leading to proteostasis. Consistently, an increase in protein synthesis due to hormonal stimulation or
+resistance exercise leads to an increase in total muscle protein and organelles, resulting in increased
+muscle mass or hypertrophy. Whereas increased protein degradation due to reduced activity, defective
+neural input or increased proteolysis leads to muscle atrophy. However, the situation is more
+complicated, wherein the two seemingly opposing processes are typically active simultaneously,
+both during atrophy and hypertrophy. For instance, under catabolic conditions, protein breakdown by
+the proteasome and autophagy lysosome systems generate amino acids that can activate mechanistic
+target of rapamycin (mTOR) [ 4,5], the master regulator of protein synthesis. Moreover, induction of
+protein synthesis, by exercise for instance, also results in activation of protein breakdown as part of a
+cellular turnover program to rejuvenate the cell [ 6–9]. This creates a system of feedback loops that is
+more complicated than initially realized.
+This is further complicated by the fact that skeletal muscle is not a homogenous tissue. Muscle is
+composed of a number of di erent ﬁber types that have distinct metabolic and biochemical properties.
+For instance, while fast twitch ﬁbers are more sensitive to nutrient deprivation, they are more resilient
+to immobilization than slow twitch ﬁbers. Moreover, di erent atrophic programs are activated in the
+dierent ﬁber types in response to the same stimulus, and of course the type of stimulus also dictates
+the atrophic response of any given myoﬁber. Indeed, most human skeletal muscles consist of mixed
+ﬁber types, and the precise ﬁber type composition depends on a number of factors such as genetics, sex,
+physical activity, and many other factors. The ability to alter ﬁber type composition through lifestyle
+changes grants muscle remarkable plasticity. Therefore, the susceptibility of various ﬁber types to
+dierent atrophic stimuli and their molecular response may vary signiﬁcantly. This makes it di cult
+to generalize conclusions when studying whole muscle homogenates or any single muscle ﬁber type.
+It is therefore important to consider and investigate the di erential response of the various ﬁber types
+and segregate ﬁndings on the basis of myoﬁber characteristics.
+The molecular mechanisms underlying muscle atrophy and hypertrophy have been under intense
+investigation for several decades, and some major progress has been made in the ﬁeld. This review
+focuses on recent discoveries and advances in the molecular mechanisms involved in the regulation
+of muscle mass and plasticity. A comprehensive review of all bona ﬁde regulators of muscle mass,
+which have been previously rigorously reviewed [10], is beyond the scope of this review.
+2. Regulators of Protein Synthesis
+2.1. mTOR
+During development, skeletal muscle growth is thought to be largely mediated by pathways
+converging on the metabolic master regulator mTOR. mTOR is a serine threonine protein kinase found
+at the epicenter of cellular growth regulation. mTOR integrates metabolic, hormonal, and mechanical
+signaling to determine the metabolic state of many cells including skeletal muscle. mTOR is activated
+by an auspicious environment that is conducive to growth. Nutrients (such as amino acids), hormonal
+stimulation (insulin /insulin-like growth factor 1 (IGF-1)), and mechanical and neural signaling activate
+mTOR, while inﬂammation (cytokines) and cellular stressors such as unfolded proteins inhibit mTOR
+activity [ 11]. Inhibition of mTOR during development either by rapamycin treatment or genetic
+manipulation results in the obstruction of cellular growth [12].
+mTOR exists in two distinct complexes, the rapamycin-sensitive mTORC1 characterized by the
+presence of Raptor, and the rapamycin resistant mTORC2 characterized by the presence of Rictor.
+mTORC2 appears to regulate glucose and lipid homeostasis while mTORC1 regulates anabolic processes
+such as protein synthesis, as well as organelle biogenesis. mTORC1 regulates protein translation through
+enhancing both translational e ciency and capacity. mTOR enhances the cell’s translational e ciency
+by modulating p70S6K1, upstream of ribosomal protein S6 and factor 4E-binding protein 1 (4E-BP1),
+Int. J. Mol. Sci. 2020 ,21, 4759 3 of 28
+a negative regulator of ribosomal eukaryotic translation initiator factor 4E (eIF4E) [ 11] (Figure 1).
+mTOR has also been demonstrated to regulate cellular translational capacity by directly binding
+rDNA and enhancing ribosomal biogenesis [ 13]. In addition to activating translation, mTOR also
+inhibits muscle catabolism by blocking the cell’s main proteolytic pathways, the ubiquitin proteasome
+and the autophagy-lysosome systems [ 14]. True to its role, muscle-speciﬁc Rictor knockout mice do
+not display an overt phenotype, but exhibit decreased insulin-stimulated glucose uptake, as well
+as glucose intolerance [ 15]. A deﬁciency in Raptor, on the other hand, results in reduced postnatal
+growth, progressive dystrophy, impaired oxidative capacity, and increased glycogen stores. Moreover,
+pharmacological inhibition of mTORC1 blocks muscle hypertrophy in models of induced muscle
+growth such as post-natal development, synergist ablation, and muscle regeneration. However,
+although mTORC1 is necessary for mechanical load-induced hypertrophy, it does not appear to be
+required for a mechanical load-induced increase in protein synthesis [ 16]. Interestingly, the loss of
+mTOR’s catalytic activity seems to cause a more severe phenotype than the loss of mTOR protein.
+Conditional loss of mTOR concomitant with the expression of kinase-inactive mTOR results in early
+onset, rapidly progressing myopathy that impairs growth and leads to juvenile lethality. This was due
+to a more robust suppression of mTORC1 signaling, leading to more signiﬁcant impairments in protein
+synthesis, oxidative metabolism, and autophagy. Stronger feedback activation of protein kinase B
+(PKB /Akt), and a dramatic downregulation of glycogen phosphorylase expression was also observed
+in this model, resulting in features reminiscent of glycogen storage disease type V [ 17]. Consistently,
+mTOR dysregulation has been documented in Pompe disease, a severe muscle wasting condition,
+caused by excessive accumulation of lysosomal glycogen. Reactivation of mTOR in the muscle of Pompe
+mice by tuberous sclerosis 1 (TSC1) knockdown, Ras homolog enriched in brain (Rheb) overexpression,
+or arginine resulted in the reversal of atrophy and a striking removal of autophagic buildup [ 18]. This is
+promising as a similar e ect was observed in valosin-containing protein-inclusion body myopathy
+(VCP-IBM) muscle, where activation of mTOR led to amelioration of muscle atrophy [ 19]. Moreover,
+increased myoﬁber size was observed in murine muscle following transient expression of Rheb [ 20].
+Therefore, lack of mTOR appears to result in myoﬁber degeneration and muscle myopathy, suggesting
+that mTOR is important for muscle growth, development, and survival. Another interesting observation
+was that the loss of mTOR signaling in these models did not result in excessive autophagy, despite
+its important inhibitory role in this process. Surprisingly, autophagy was impaired in these mice,
+which contributed to pathogenesis [12,17].
+Interestingly, excessive mTOR activation appears to be equally detrimental. Genetic deletion of the
+mTOR inhibitor TSC1 in mice (which causes hyper activation of mTOR) results in a late-onset myopathy,
+which is related to impaired autophagy [ 21]. In these mice, constitutive and starvation-induced
+autophagy is blocked at the induction steps via mTORC1-mediated inhibition of ULK1, despite the
+activation of FoxO3. Rapamycin treatment or raptor depletion was su cient to restore autophagy
+in these mice and improve the muscle phenotype [ 22]. Moreover, mTOR activation was found to
+contribute to denervation- and immobilization-induced atrophy [ 4,23], by both decreasing global
+protein synthesis through an increase in eIF4F complex formation [ 23] and inducing a FoxO-mediated
+catabolic program by blocking Akt [ 4]. Interestingly, rapamycin treatment was found to be su cient to
+restore Akt activity and inhibit eIF4F complex formation, thereby mitigating muscle atrophy in both
+models. On the other hand, activation of mTOR by isometric contraction or through overexpression of
+Rheb enhanced mTOR signaling and rescued the immobilization-induced drop in protein synthesis
+and muscle atrophy [23].
+Int. J. Mol. Sci. 2020 ,21, 4759 4 of 28
+Int. J. Mol. Sci. 2020 , 20, x FOR PEER REVIEW 4 of 32 
+  
+Figure 1. Pathways involved in protein synthesis. Duri ng muscle hypertrophy, the binding of insulin-
+like growth factor 1 (IGF-1)/insulin to their re spective receptors activates IRS–PI3K–Akt–mTORC1 
+signaling, which is further stimulated by the pr esence of amino acids. The mTORC1 complex then 
+enhances protein synthesis by  inhibiting the eukaryotic translation initiator factor 4E (eIF4E) inhibitor  
+4E-binding protein 1 (4E-BP1) an d activating p70S6K-S6-mediated protein translation. mTOR also 
+blocks proteolysis by inhibiting autophagy initiati on factors Unc-51 like autophagy activating kinase 
+(ULK) 1/2. Clenbuterol and formoterol promote hype rtrophy by binding to the adrenergic receptor 
+and activating adenylate cyclase (AC)-PKA signalin g, which culminates in the activation of Akt-
+mTOR. In addition to enhancing pr otein synthesis, Akt also blocks  proteolysis by phosphorylating 
+and inhibiting members of the fork head box O family of transcripti on factors (FoxO), as well as 
+activating glycogen synthase kina se (GSK) 3 and ATP citrate lyase (A CL). Fibroblast growth factor 
+(FGF)19 enhances protein sy nthesis by binding to the βKlotho receptor and stimulating the 
+extracellular signal-regulated ki nase (ERK), which directly cont ributes to protein synthesis. 
+Moreover, the binding of bone morphogenetic protein (BMP)7/13/14 to the BMPR receptor promotes 
+muscle growth through the formation of a SM AD1/5/8–SMAD4 complex, which activates a 
+hypertrophic transcriptional program. Calcium sign aling also contributes to hypertrophy through the 
+activation of calmodulin (CaM)-dependent kinase (CaMK) and phosphatase calcineurin, which 
+stimulates the pro-growth  transcription factor nuclear factor of activated T-cell (NFAT ). Increased 
+availability of nutrients and energy in the form of ATP further contribute to the auspicious environment that is permissive for muscle growth. Green shapes in dicate positive regulators of 
+muscle mass, whereas red shapes indicate negative regulators.  
+Interestingly, excessive mTOR activation appear s to be equally detrimental. Genetic deletion of 
+the mTOR inhibitor TSC1 in mice (which causes hy per activation of mTOR) results in a late-onset 
+myopathy, which is related to impaired autophagy [21]. In these mice, constitutive and starvation-
+induced autophagy is blocked at the induction steps via mTORC1-mediated inhibition of ULK1, 
+despite the activation of FoxO3. Rapamycin treatment or raptor depletion was sufficient to restore autophagy in these mice and improve the muscle phenotype[22]. Moreover , mTOR activation was 
+found to contribute to denervation- and immobilization-induced atrophy[4,23], by both decreasing global protein synthesis through an increase in eIF4F complex formation[23] and inducing a FoxO-
+mediated catabolic program by bloc king Akt[4]. Interestingly, rapamycin treatment was found to be 
+Figure 1. Pathways involved in protein synthesis. During muscle hypertrophy, the binding of insulin-like
+growth factor 1 (IGF-1) /insulin to their respective receptors activates IRS–PI3K–Akt–mTORC1 signaling,
+which is further stimulated by the presence of amino acids. The mTORC1 complex then enhances protein
+synthesis by inhibiting the eukaryotic translation initiator factor 4E (eIF4E) inhibitor 4E-binding protein
+1 (4E-BP1) and activating p70S6K-S6-mediated protein translation. mTOR also blocks proteolysis by
+inhibiting autophagy initiation factors Unc-51 like autophagy activating kinase (ULK) 1 /2. Clenbuterol
+and formoterol promote hypertrophy by binding to the adrenergic receptor and activating adenylate
+cyclase (AC)-PKA signaling, which culminates in the activation of Akt-mTOR. In addition to enhancing
+protein synthesis, Akt also blocks proteolysis by phosphorylating and inhibiting members of the
+forkhead box O family of transcription factors (FoxO), as well as activating glycogen synthase kinase
+(GSK) 3 and ATP citrate lyase (ACL). Fibroblast growth factor (FGF)19 enhances protein synthesis
+by binding to the Klotho receptor and stimulating the extracellular signal-regulated kinase (ERK),
+which directly contributes to protein synthesis. Moreover, the binding of bone morphogenetic protein
+(BMP)7 /13/14 to the BMPR receptor promotes muscle growth through the formation of a SMAD1 /5/8–
+SMAD4 complex, which activates a hypertrophic transcriptional program. Calcium signaling also
+contributes to hypertrophy through the activation of calmodulin (CaM)-dependent kinase (CaMK)
+and phosphatase calcineurin, which stimulates the pro-growth transcription factor nuclear factor of
+activated T-cell (NFAT). Increased availability of nutrients and energy in the form of ATP further
+contribute to the auspicious environment that is permissive for muscle growth. Green shapes indicate
+positive regulators of muscle mass, whereas red shapes indicate negative regulators.
+A mounting body of evidence implicates the chronic activation of mTOR in aging skeletal muscle,
+where mTORC1 signaling is hyperactivated in muscle of sarcopenic mice and humans [ 24,25]. Chronic
+activation of mTOR in TSC1 knockout muscle results in mitochondrial dysfunction and increased
+oxidative stress, which over time ultimately leads to ﬁber decay. This appears to be at least in part
+due to increased expression of growth and di erentiation factor 15 (GDF15) by Stat3 [ 24]. However,
+this e ect could also be due to mTOR’s role in blocking autophagy, which is closely associated with
+muscle senescence [ 26]. Inhibition of mTORC1 in aging mouse reverses the senescent phenotype,
+resulting in the sparing of muscle mass [24,25].
+Int. J. Mol. Sci. 2020 ,21, 4759 5 of 28
+Therefore, although mTOR is an important modulator of muscle growth during development,
+chronic activation of mTOR later in life appears to have the opposite e ect. The precise mechanisms
+involved in this metabolic role reversal are not clear, and the exact point in time in which mTOR
+transforms from friend to foe, as well as the reason for this switch, remains a mystery. What is evident
+is that mTOR is entangled in an increasingly complex molecular web, which it may itself be weaving.
+It is therefore important to keep dissecting mTOR’s web and its role in the regulation of muscle mass.
+2.2. Insulin /IGF-1
+Upstream of mTOR, insulin, and insulin-like growth factor 1 (IGF-1) are well recognized for
+their role in muscle growth. IGF-1 and insulin act by binding to their respective receptors (Figure 1),
+which triggers the activation of several downstream kinases, culminating in the activation of Akt.
+Akt then mediates cellular growth by both enhancing protein synthesis, through the inhibition of GSK-3 
+and activation of mTOR, as well as blocking protein breakdown, through inhibition of the FoxO family
+of transcription factors. GSK-3 impairs protein synthesis by inhibiting eIF2B ", and promotes atrophy
+through increasing the expression of atrophic E3 ligases, muscle ring ﬁnger1 (MuRF1) and Atrogin-1,
+as well as impairs muscle oxidative capacity by inhibiting mitochondrial biogenesis [ 27–29]. Blockade
+of GSK-3suppresses muscle atrophy [ 27], facilitates a faster recovery from disuse atrophy [ 28],
+and improves muscle oxidative capacity [ 29]. The FoxO family controls skeletal muscle’s atrophy
+program by regulating the transcription of factors pertaining to both cellular proteolytic systems—the
+ubiquitin proteasome and autophagy lysosome. Thus, during atrophic conditions, reduced signaling
+through the IGF-1–Akt–mTOR axis contributes to atrophy not only through reduced protein synthesis,
+but also through increased degradation by releasing FoxO inhibition [ 30–32]. Moreover, reduced
+mTORC1 activity can also result in the activation of autophagy, as mTORC1-mediated phosphorylation
+inhibits the autophagy induction complex composed of Atg13 and ULK1 [30,33,34].
+Although IGF-1 is synthesized predominantly in the liver, in response to growth hormone
+stimulation, recent evidence suggests that IGF-1 can also be produced by other peripheral tissues,
+including skeletal muscle [ 35]. In fact, overexpression of a muscle-speciﬁc isoform of IGF-1 strongly
+induces muscle growth and regeneration. Among the various isoforms, which di er mainly in their
+N-terminal signaling peptide and C-terminal extension peptide, IGF-1Ea appears to be the most
+eective in enhancing muscle growth and force generating capacity in young and aged mice [36].
+While the importance of IGF-1 and insulin for muscle proteostasis and hypertrophy has been
+known for a long time, the relative roles of each remained elusive. In an attempt to tease this out,
+a recent study examined mice with muscle-speciﬁc deletions of the insulin receptor (IR), the IGF-1
+receptor, or both. IR signaling contributed more to proteaostasis, and mice lacking this receptor had a
+marked reduction in muscle mass, whereas mice lacking IGF-1R did not. Nonetheless, the overlap
+of IR and IGF-1R signaling is critical to the regulation of muscle protein turnover as mice lacking
+both receptors displayed a marked reduction in muscle mass that was linked to increased proteolysis.
+Deletion of FoxO1, FoxO3, and FoxO4 in IR /IGF-1R double knockout mice reversed the increase in
+autophagy and completely rescued muscle mass without impacting proteasomal activity. Thus, insulin
+and IGF-1 work to suppress FoxO-regulated and autophagy-mediated protein degradation [37].
+In addition to insulin and IGF-1, the desmosomal component plakoglobin was also found to bind
+the insulin receptor and p85 subunit of PI3K, with this interaction promoting PI3K–Akt–FOXO signaling.
+PI3K–p85 interaction is disrupted during atrophy by ubiquitin ligase tripartite motif-containing
+protein 32 (Trim32). Plakoglobin overexpression or inhibition of Trim32 was su cient to increase
+PI3K–Akt–FOXO signaling, enhance glucose uptake, and induce ﬁber growth, whereas downregulation
+of Plakoglobin or overexpression of Trim32 had the opposite e ect [38].
+2.3.2-Adrenergic Signaling
+The beta-2 adrenergic receptor ( 2 adrenoreceptor) is activated by epinephrine (adrenaline) and
+mediates the anabolic e ects of2-adrenergic agonists such as clenbuterol or formoterol (Figure 1).
+Int. J. Mol. Sci. 2020 ,21, 4759 6 of 28
+This e ect is facilitated by Akt /mTOR signaling as treatment with rapamycin abolishes this e ect [39].
+Recent studies have demonstrated that 2-adrenergic signaling impinges on insulin /IGF-1 receptor
+signaling [ 40], where genetic or pharmacological inhibition of the insulin or IGF-1 receptor abolishes the
+anti-proteolytic e ect of2-adrenergic agonists. Interestingly, formoterol also induces the expression
+of JunB, a transcription factor that promotes muscle hypertrophy independently of mTOR [41].
+2.4. Fibroblast Growth Factors (FGFs)
+Fibroblast growth factors regulate a broad spectrum of biological functions, including cellular
+proliferation, survival, migration, and di erentiation. They have been implicated in the regulation
+of self-renewal in skeletal muscle stem cells (satellite cells), as well as the maintenance and repair of
+skeletal muscle [ 42]. The signaling pathways downstream of FGFs include RAS /MAP kinase, PI3K /Akt,
+and PLC pathways. Until recently, only two FGFs, FGF2 and FGF6, have been documented to
+inﬂuence muscle mass by regulating satellite cell function. Recently, FGF19 was found to positively
+regulate muscle mass during atrophy induced by glucocorticoid treatment, obesity, and sarcopenia [ 43].
+FGF19 treatment was able to induce muscle hypertrophy, both in mice and human myotubes, through
+extracellular signal-regulated protein kinases 1 and 2 (ERK1 /2) and S6K1-mediated signaling (Figure 1).
+This e ect required the FGF19 receptor -Klotho (KLB). Interestingly, the closely related family member
+FGF21 did not have the same e ect [ 43]. On the contrary, FGF21 is released by atrophic muscle
+and mediates muscle atrophy and weakness by enhancing autophagy and mitophagy ﬂux through
+stimulation of Bnip3 [ 44]. Mice lacking FGF21 in muscle did not experience loss of muscle mass or
+strength in response to fasting, whereas overexpression of FGF21 was su cient to induce autophagy
+and muscle atrophy in mice. These contradictory ﬁndings among FGF family members are surprising
+since both FGF19 and FGF21 act on the same -Klotho receptor [ 44]. Moreover, a recent study found
+that mitochondrial respiratory chain deﬁciency elicited a compensatory response in skeletal muscle by
+increasing the expression of FGF21, which resulted in enhanced mitochondrial function through an
+mTOR–YY1–PGC-1 -dependent mechanism [ 45]. Therefore, further research into FGFs, their target
+cell populations, and mechanisms is warranted.
+2.5. Ions
+Various ions are known to regulate muscle trophism. For instance, calcium signaling and dynamics
+are essential for muscle function and proteostasis. Intracellular calcium concentrations play a pivotal
+role in muscle physiology and either too much or too little can be detrimental. Calcium levels regulate
+calmodulin (CaM), which activates calcium /CaM-dependent kinases (CaMK) and phosphatases such
+as calcineurin (Cn), which stimulates the activity of nuclear factor of activated T-cell (NFAT; Figure 1).
+NFAT is a transcription factor involved in regulating muscle oxidative capacity as well as ﬁber size.
+This pathway was recently found to be hyperactivated in Myotonic Dystrophy type 1 (DM1) as a
+beneﬁcial compensatory adaptation to the disease [46].
+Altered zinc homeostasis also appears to play a role in the regulation of muscle mass. Metal-ion
+transporter ZRT- and IRT-like protein 14 (ZIP14) were shown to mediate cancer-induced cachexia.
+ZIP14-mediated zinc uptake into muscle progenitor cells represses the expression of MyoD and Mef2c,
+blocks muscle-cell di erentiation, and induces loss of contractile proteins. Furthermore, ZIP14 is
+upregulated in cachectic muscle of mice and patients and can be induced by tumor necrosis factor 
+(TNF) and transforming growth factor (TGF). Deletion of ZIP14 markedly reduces cancer-induced
+muscle atrophy in mice [ 47]. Moreover, metallothionein 1 and 2, small proteins known to bind
+heavy metals such as zinc and copper, have also been implicated in the regulation of muscle mass.
+Simultaneous blockade of both metallothioneins results in the activation of Akt–mTOR signaling and
+myoﬁber growth, as well as spares muscle mass during glucocorticoid treatment. How these proteins
+activate Akt and protein synthesis is unclear, but gene expression analyses revealed an increase in
+IGF-1 and androgen receptor [48].
+Int. J. Mol. Sci. 2020 ,21, 4759 7 of 28
+2.6. TGF 
+The transforming growth factor (TGF) superfamily is composed of 30 secreted proteins that
+govern a wide variety of cellular processes. The TGF family can be subdivided into two ligand
+subfamilies: the TGF /activin subfamily and the bone morphogenetic protein (BMP) subfamily,
+which appear to have opposite roles in skeletal muscle (Figures 1 and 2). Perhaps the most well-known
+TGFfamily member is myostatin (growth and di erentiation factor 8, GDF8), a potent negative
+regulator of muscle growth [49,50]. The hyper-muscularity of mammals including mice, dogs, sheep,
+cattle, and humans devoid of myostatin has fascinated scientists and body building enthusiasts
+for decades [ 49,51]. However, its biology has proved to be quite complicated. Myostatin and its
+TGF/activin family members can both enhance muscle growth and induce atrophy, depending
+on the downstream signaling they activate. These factors bind to plasma membrane receptors
+activin type IIA and type IIB (ActRIIA /B), as well as TGF receptors (TGF RII), and negatively
+regulate muscle mass by activating activin receptor-like kinase (ALK)-4, -7, and -5, which in turn
+phosphorylate SMAD2 /3 and promote the formation of a heterotrimeric complex with SMAD4 [ 52–54].
+SMAD 2 /3 can inhibit the transcription factor JunB, which normally promotes muscle growth and
+inhibits atrophy by blocking FoxO3 [ 41,52]. However, when myostatin /Activin /GDF11 are blocked,
+this SMAD2 /3–SMAD4 complex can promote muscle growth. Although it is not clear how these
+factors regulate muscle mass, some evidence suggests that they impinge on the Akt /mTOR axis.
+Indeed, rapamycin treatment or mTOR knockdown diminishes the hypertrophic e ect of myostatin
+blockade [ 52,54,55]. Moreover, SMAD3 can increase the expression of Atrogin-1 and inhibit Akt /mTOR
+signaling by negatively regulating the expression of miR-29 and -486, which inhibit the phosphatase
+and tensin homolog (PTEN) [ 56,57]. This results in increased Akt activation, thus enhancing protein
+synthesis. Surprisingly, myostatin is dispensable during denervation-induced muscle atrophy. In this
+scenario, denervation results in a blockage of IGF-1 signaling, and in increased levels of SMAD2 /3,
+as well as E3 ubiquitin ligases Atrogin-1 and MuRF1. Interestingly, while SMAD2 /3-deﬁcient muscle
+is resistant to denervation-induced muscle atrophy [ 58], SMAD4-null mice are slightly atrophic and
+weaker than wild type litter mates, and exhibit exacerbated atrophy following denervation [58].
+In contrast, BMPs act to prevent muscle atrophy by activating SMAD1 /5/8, repressing MUSA1,
+a novel E3 ligase downstream of TGF , and activating mTOR signaling [ 59–61]. Indeed, BMP signaling
+is increased in models of muscle growth, while RNA interference of MUSA1 is protective against
+denervation-induced atrophy. Moreover, blocking TGF signaling through the administration of a
+soluble receptor (ActRIIB) was able to rescue muscle mass under several atrophic models, reverse
+cancer cachexia, and, remarkably, delay mortality independently of tumor progression [ 62]. Moreover,
+SMAD6 and 7, which are inhibitor proteins, prevent receptor-mediated activation of SMAD1 /5/8 and
+SMAD2 /3, respectively [ 61,63]. Although inhibiting the phosphorylation of SMAD1 /5 exacerbates
+denervation-induced muscle atrophy, increasing BMP-SMAD1 /5 activity is protective against this
+model of muscle atrophy [ 61]. Moreover, blocking BMP signaling by overexpression of BMP antagonist
+Noggin reverts the hypertrophic phenotype of Myostatin knockout mice, promoting the idea of
+genetic epistasis between the Activin /Myostatin and BMP pathways in skeletal muscle. Consistently,
+follistatin-mediated hypertrophy not only blocks myostatin signaling but simultaneously stimulates
+SMAD1 /5/8 activation and repression of ankyrin repeat and SOCs box protein 2 (Asb2), a negative
+regulator of muscle mass [ 59,61,64]. Therefore, it appears that SMAD2 /3 and SMAD1 /5/8 compete
+for SMAD4 with opposing e ects on muscle mass. Muscle hypertrophy involves crosstalk between
+BMP /ALK2 /SMAD1 /5/8 and Akt /mTOR pathways, where inhibition of mTOR signaling prevents
+BMP-mediated hypertrophy of skeletal muscle.
+Int. J. Mol. Sci. 2020 ,21, 4759 8 of 28
+Int. J. Mol. Sci. 2020 , 20, x FOR PEER REVIEW 8 of 32 
+ Myostatin knockout mice, promoting the idea of ge netic epistasis between the Activin/Myostatin and 
+BMP pathways in skeletal muscle. Consistently, follistatin-mediated hypertrophy not only blocks myostatin signaling but simultaneously stimulates SMAD1/5/8 activation and repression of ankyrin 
+repeat and SOCs box protein 2 (Asb2), a negative regulator of muscle mass[ 59,61,64]. Therefore, it 
+appears that SMAD2/3 and SMAD1/5/8 compete for SMAD4 with opposing effects on muscle mass. Muscle hypertrophy involves crosstalk between BMP/ALK2/SMAD1/5/8 and Akt/mTOR pathways, where inhibition of mTOR signaling prevents BM P-mediated hypertrophy of skeletal muscle.  
+Thus, decades of research continue to highligh t to importance of Akt/mTOR pathways in the 
+regulation of muscle growth, as many molecular and intercellular messengers impinge on this pathway. However, the unexpected findings th at mTOR counterproductively induces muscle 
+atrophy under various atrophic conditions, includin g aging, is disconcerting. Therefore, further 
+research into mTOR is warranted. Equally importan t is the identification of factors that are mTOR-
+independent, or those that can circumvent mTOR in the regulation of muscle mass.  
+ 
+Figure 2. Pathways involved in protein degradation. During muscle atrophy, decreased binding of 
+IGF-1/insulin to their respective receptors and/ or increased binding of glucocorticoids to the 
+glucocorticoid receptor (GR) result in reduced Akt/ mTOR activation. This lead s to diminished protein 
+synthesis mediated by 4E-BP1-induced inhibition of eIF4E. Diminished mTOR activity also leads to the stimulation of autophagy through ULK1/2 sign aling. At the same time, reduced Akt activity 
+results in the release of FoxO from its cytosolic capt ivity, allowing it to acti vate an atrophic program 
+by stimulating the expression of atrogenes belo nging to the autophagy lysosome and ubiquitin 
+proteasome proteolytic pathways. This sustains the increased proteolytic activity of these systems. 
+The FoxO-induced atrophic program can be furthe r enhanced by Dickkopf 3 (Dkk3) and blocked by 
+PGC-1α and Foxk. Increased binding of activins (ActivinA, growth and differentiation factor 11 
+(GDF11)) and myostatin to the Activin type 2 (ActRI IB) receptor can contribute to atrophy through 
+the activation of activin receptor-like kinase (ALK)2/3 and the formation of the SMAD2/3-SMAD4 
+complex, which in addition to furt her inhibiting Akt, also induces th e expression of proteins involved 
+in atrophy. Muscle atrophy is often accompanied by  inflammation, which contributes to proteolysis. 
+Increased levels of circulating cytokines such as tumor necrosis factor α (TNFα), TNF-like weak 
+Figure 2. Pathways involved in protein degradation. During muscle atrophy, decreased binding
+of IGF-1 /insulin to their respective receptors and /or increased binding of glucocorticoids to the
+glucocorticoid receptor (GR) result in reduced Akt /mTOR activation. This leads to diminished protein
+synthesis mediated by 4E-BP1-induced inhibition of eIF4E. Diminished mTOR activity also leads to the
+stimulation of autophagy through ULK1 /2 signaling. At the same time, reduced Akt activity results in
+the release of FoxO from its cytosolic captivity, allowing it to activate an atrophic program by stimulating
+the expression of atrogenes belonging to the autophagy lysosome and ubiquitin proteasome proteolytic
+pathways. This sustains the increased proteolytic activity of these systems. The FoxO-induced atrophic
+program can be further enhanced by Dickkopf 3 (Dkk3) and blocked by PGC-1 and Foxk. Increased
+binding of activins (ActivinA, growth and di erentiation factor 11 (GDF11)) and myostatin to the Activin
+type 2 (ActRIIB) receptor can contribute to atrophy through the activation of activin receptor-like kinase
+(ALK)2 /3 and the formation of the SMAD2 /3-SMAD4 complex, which in addition to further inhibiting
+Akt, also induces the expression of proteins involved in atrophy. Muscle atrophy is often accompanied
+by inﬂammation, which contributes to proteolysis. Increased levels of circulating cytokines such as
+tumor necrosis factor (TNF), TNF-like weak inducer of apoptosis (TWEAK), and IL6 leads to
+the activation of TRAF6, TRADD, IKK, and JAK which, in turn, activate NF- B, Stat3, and FoxO,
+thus enhancing the expression of atrogenes. Mitochondrial dysfunction is also often observed during
+muscle atrophy, which leads to increased oxidative stress and mitophagy. Oxidative stress stimulates
+the release of IGF21, which then feeds back onto muscle, enhancing the expression of mitophagy
+receptor Bnip3. Accumulation of PINK1 and localization of E3 ubiquitin ligase Parkin as well as Bnip3
+on the mitochondrial membrane lead to the elimination of dysfunctional mitochondria by mitophagy.
+Muscle atrophy is also associated with ER stress, which activates the unfolded protein response (UPR).
+UPR-activated IRE and PERK-eIF2 then promote atrophic transcriptional programs regulated by
+X-box binding protein 1 (XBP1) and ATF4, respectively. HDAC4, which is normally supressed by CaMK,
+is upregulated during denervation, resulting in the inhibition of Dach2, a transcriptional repressor of
+myogenin. This culminates in increased myogenin-mediated transcription of synaptic factors MuSK
+and AChR, as well as atrogenes muscle ring ﬁnger1 (MuRF1) and Atrogin-1. Green shapes indicate
+positive regulators of muscle mass, whereas red shapes indicate negative regulators.
+Int. J. Mol. Sci. 2020 ,21, 4759 9 of 28
+Thus, decades of research continue to highlight to importance of Akt /mTOR pathways in the
+regulation of muscle growth, as many molecular and intercellular messengers impinge on this pathway.
+However, the unexpected ﬁndings that mTOR counterproductively induces muscle atrophy under
+various atrophic conditions, including aging, is disconcerting. Therefore, further research into mTOR
+is warranted. Equally important is the identiﬁcation of factors that are mTOR-independent, or those
+that can circumvent mTOR in the regulation of muscle mass.
+3. Regulators of Proteolysis
+The two major proteolytic pathways within skeletal muscle, the ubiquitin–proteasome and
+autophagy–lysosome systems, are responsible for the degradation of most proteins and organelles.
+However, two additional systems, the calcium-dependent calpain, and caspase systems are also
+responsible for some restricted proteolysis [ 65–67]. During atrophy, all systems appear to be working in
+unison, like a well-oiled disassembling line, with each responsible for its own repertoire of proteins to
+degrade at speciﬁc times during the process (Figure 2). Moreover, since muscle atrophy is a dynamic and
+continuous process, it also requires continuous transcriptional input to fuel the proteolytic pathways.
+3.1. Ubiquitin–Proteasome System
+The ubiquitin–proteasome system (UPS) is responsible for degrading most individual proteins.
+Components of the UPS are amongst the most commonly upregulated genes in various models
+of muscle atrophy including diabetes, denervation, cancer cachexia, fasting, and renal failure [ 68].
+Proteins destined for degradation are ﬁrst tagged by the addition of polyubiquitin chains, a process
+that involves three distinct components—E1, E2, and E3. E3 enzymes catalyze the rate-limiting
+step in ubiquitin conjugation and are extremely substrate-speciﬁc, providing selectivity to the UPS.
+Once tagged, the protein is delivered to the proteasome for digestion. Interestingly, E3 ligases
+auto-ubiquitinate, which makes them more susceptible to proteasomal degradation, thus requiring
+continuous transcriptional replenishment. Two muscle-speciﬁc E3 ubiquitin ligases, muscle ring
+ﬁnger1 (MuRF1 /Trim63) and muscle atrophy F-box (Atrogin-1 /MAFbx), are dramatically upregulated
+during various types of atrophy [ 68–71]. Moreover, mice deﬁcient in MuRF1 and Atrogin-1 are
+partially protected against disuse atrophy [ 69]. MuRF1 appears to tag muscle structural proteins for
+degradation, whereas Atrogin-1 targets proteins involved in growth and survival pathways. Atrogin-1
+was also found to regulate the proteolysis of autophagy–lysosome-related proteins in cardiac tissue [ 72].
+However, various catabolic conditions, which result in atrophy, elicit vastly di erent molecular
+responses within skeletal muscle. For instance, MuRF1 knockout animals are not protected from
+fasting or microgravity-induced atrophy, and are only partially protected from denervation-induced
+atrophy [ 69,73]. However, these mice are protected from glucocorticoid treatment and aging-related
+loss of muscle mass [ 74–76], although MuRF1-null aged muscle remains weaker [ 76]. Loss of Atrogin-1,
+on the other hand, does not protect from glucocorticoid-, denervation-, or aging-induced muscle
+wasting [ 59,74,76,77], and only partially protects from starvation-induced atrophy [ 78]. Atrogin-1
+knockout mice actually die prematurely from hypertrophic cardiomyopathy [72,76].
+Although MuRF1 and Atrogin-1 play a dominant role in muscle atrophy, over 650 E3 ubiquitin
+ligases have been identiﬁed within the genome, and additional E3 ligases involved in muscle atrophy
+continue to be recognized. For example, Trim32 is responsible for the degradation of thin ﬁlaments,
+desmin, and z-band components, and inhibition or downregulation of Trim32 during atrophic
+conditions is protective against muscle loss [ 79]. Interestingly, Trim32 also functions as an inhibitor
+of PI3K–Akt–FoxO-pro growth signaling by regulating plakoglobin–PI3K binding [ 38]. Moreover,
+Trim32 has been recently documented to induce autophagy during muscle atrophy by interacting with
+ULK1 and AMBRA1 [ 80]. Tumor necrosis factor receptor-associated factor 6 (TRAF6) is another E3
+ligase that is upregulated during muscle atrophy, and acts upstream of NF- B [81]. TRAF6 catalyzes
+the conjugation of ubiquitin to the Lys63 residue of its target proteins. Lys63-linked ubiquitination
+is more commonly associated with autophagic degradation because it is recognized by the adaptor
+Int. J. Mol. Sci. 2020 ,21, 4759 10 of 28
+protein p62, as compared to Lys48-linked polyubiquitin chains that signal proteasome-dependent
+degradation [ 82,83]. Indeed, TRAF6-dependent Lys63 polyubiquitination stabilizes and enhances
+ULK1 activity, which is permissive for autophagy induction [ 84]. Mice lacking TRAF6 are protected
+against atrophy induced by denervation, cancer, and starvation [ 81]. This protection involves not
+only a signiﬁcant reduction in polyubiquitinated proteins, but also reduced induction of fellow E3
+ligases Atrogin-1 and MuRF1. This may be because TRAF6 is required for the optimal activation of
+JNK, AMPK, FoxO3, and NF- B [81]. Therefore, TRAF6 appears to coordinate both major proteolytic
+pathways in response to atrophic stimuli in skeletal muscle.
+Additional novel E3 ubiquitin ligases belonging to the Skp1–cullin-1–FBOX E3 ubiquitin ligase
+complex (SCF) have been identiﬁed and found to contribute to muscle loss during fasting, denervation,
+and cancer cachexia [ 59,85–87]. MUSA1 ( Fbxo30 ) [59,71], SMART ( Fbxo21 ), and Fbxo31 [ 85] are all
+induced during atrophic conditions and their inhibition materially reduces muscle wasting. Moreover,
+a recent study found SMART and Fbxo31 to be upregulated in a rodent model of critical illness-induced
+myopathy, and this upregulation was blunted by passive mechanical loading [ 88]. Although these
+ubiquitin E3 ligases contribute to proteolysis under various atrophic stimuli, they are not, on their
+own, su cient to induce atrophy, with the sole exception of Ankyrin repeat and SOCS box-containing
+2b (Asb2b) [ 64]. This E3 ligase must be suppressed to induce muscle growth, and its overexpression
+alone results in atrophy. However, the substrates of this ligase remain unidentiﬁed and warrant
+further investigation.
+To make matters even more complicated, the ubiquitination process is reversible, and targets can
+be de-ubiquitinated by ubiquitin-speciﬁc hydrolases. Thus far, only two such proteases, ubiquitin
+carboxyl-terminal hydrolase (USP)14 and USP19, have been found to be upregulated under atrophic
+conditions [ 70,89]. Interestingly, the expression of USP19 correlates with that of MuRF1 and Atrogin-1
+in skeletal muscles from patients with lung or gastrointestinal cancer. Moreover, knockout or
+knockdown of USP19 in mice and muscle cells partially protects muscle from glucocorticoid- and
+denervation-induced atrophy [ 90,91]. Although this presents an enticing point of regulation, to date,
+little is known about these enzymes in skeletal muscle.
+The upregulation in E3 ligases during atrophy must be accompanied by increased proteasomal
+capacity in order to accommodate the surge in demand for protein breakdown. Indeed, the expression of
+several proteasomal subunits is increased during atrophy. Proteasomal subunit PSMD13 is upregulated
+in atrophying muscle from both lung cancer and renal failure patients [ 71]. Consistently, zinc ﬁnger
+protein ZNF216 (also known as ZFAND5) was found to bind the 26S proteasome and enhance
+its proteolytic activity by increasing ATP hydrolysis [ 92]. Like many other proteolytic proteins,
+ZNF216 is regulated by FoxO transcription factors, and mice lacking ZNF2016 exhibit decreased
+denervation-induced atrophy [ 93]. Post-translational modiﬁcation of proteasomal subunits also
+augments proteasomal activity under muscle-wasting conditions. For instance, in mice fasted for
+12–48 h, the levels of cAMP , PKA-dependent Rpn6 phosphorylation, and proteasomal activities were
+all increased without changes in proteasomal protein content [94].
+Although the role of the ubiquitin proteasome system in muscle proteolysis is well established,
+the role, if any, this system plays in muscle growth has only recently been investigated. In both
+Drosophila and mouse myoﬁbers, loss of UBR4, the N-end rule ubiquitin-protein ligase, induces
+hypertrophy by reducing the ubiquitination and degradation of a core set of target proteins, including
+the HAT1 /RBBP4 /RBBP7 histone-binding complex [ 95]. Interestingly, the importance of N-end rule
+ubiquitination in the regulation of muscle proteolysis was recognized over two decades ago. Indeed,
+this proteolytic mechanism is responsible for up to 60% of ATP-dependent degradation of soluble
+proteins in extracts from normal skeletal muscles, but not other cell types. Additionally, the activity
+of the N-end rule pathway increases in physiological and pathological states where muscle protein
+breakdown is elevated. More research into this pathway and its role in the regulation of muscle mass is
+therefore strongly warranted. Interestingly, the de-ubiquitinating enzyme USP19 is also involved in the
+regulation of myoﬁbrillar protein transcription [ 91]. Indeed, its depletion increases the transcript levels
+Int. J. Mol. Sci. 2020 ,21, 4759 11 of 28
+of the MHC tropomyosin in a myogenin-dependant way. These ﬁndings indicate that the ubiquitin
+system not only mediates the increased protein breakdown but is also involved in modulating protein
+synthesis in atrophying skeletal muscle.
+Although the UPS greatly contributes to muscle atrophy by degrading a large mass of proteins,
+this system cannot degrade intact myoﬁbrils or organelles and therefore cannot alone account for muscle
+atrophy [67]. This suggests that proteolytic systems work in unison to promote muscular atrophy.
+3.2. The Autophagy-Lysosomal System
+The autophagy–lysosome system allows for the bulk degradation of long-lived organelles and
+superﬂuous proteins. In this process, tagged portions of the cytoplasm, dysfunctional organelles,
+and protein aggregates are sequestered into double membrane vesicles. These vesicles are known as
+autophagosomes and are delivered to the lysosome for proteolysis. A mouse line expressing green
+ﬂuorescent protein tagged microtubule-associated proteins 1A /1B light chain 3 (LC3; an essential factor
+responsible for autophagosome formation), revealed muscle to have one of highest rates of autophagy
+during nutrient depletion [ 96]. Interestingly, glycolytic type II muscles display a higher content of
+autophagosomes than slow oxidative type I muscles, and indeed autophagy ﬂux is higher in these
+muscles, both basally and in response to fasting [ 96,97]. Moreover, hyperactivation of autophagy
+exacerbates muscle atrophy induced by a myriad of naturally occurring and experimentally manipulated
+conditions, including cancer cachexia, fasting, sepsis, critical illness, cirrhosis, chemotherapy, disuse,
+denervation, COPD, constitutively active FoxO3, and by oxidative stress resulting from a mutation in
+superoxide dismutase (SOD1G93A), a mouse model of amyotrophic lateral sclerosis (ALS). Reducing
+autophagy by LC3 knockdown preserves muscle mass under certain atrophic conditions [98].
+However, a basal level autophagy is important for the degradation of damaged and superfluous
+cellular components, thus acting as a housekeeping mechanism and promoting continuous cellular
+turnover which is vital for stress resistance. Indeed, muscle-specific deficiencies in the essential autophagy
+factors Atg5 or Atg7, VPS15, ULK2, AMPK, and mTOR result in loss of force generating capacity,
+activation of unfolded protein response, accumulation of dysfunctional organelles and damaged proteins ,
+culminating in myoﬁber degeneration [ 22,99–103].Loss of autophagy also results in an exacerbation of
+muscle wasting in response to atrophic stimuli such as starvation and denervation. Moreover, deficient
+autophagy is implicated in a myriad of myopathies and muscular dystrophies [99,104–107] , which can be
+rescued by the reactivation of this process [ 99,104–106]. Thus, autophagy is required for muscle mass
+maintenance, and is critical for the quality control of skeletal muscle organelles; however, over-active
+autophagy can result in excessive catabolism and atrophy .
+Evidence implicating aberrant autophagy in aging-induced atrophy have been accumulating.
+For instance, aged rats demonstrate higher expression of autophagy proteins basally; however, they are
+less able to further upregulate autophagy in response to perturbations, indicating reduced plasticity [ 108].
+The accumulation of undegraded cellular materials in the form of lipofuscin is also suggestive of impaired
+autophagy in aged animals [ 108]. Moreover, the characteristics of autophagy-deficient muscle closely
+mirror those of sarcopenic muscle. Muscles deficient in Atg7 or TSC2 are characterized by degeneration
+of the neuromuscular junction, atrophy, and the loss of force generating capacity, leading to a premature
+aging phenotype and even death [ 26,100,109,110]. Interestingly, this phenotype is partially prevented
+by antioxidants, indicating the importance of autophagy in the elimination of oxidized proteins
+and dysfunctional mitochondria [ 26,109,111]. Similarly, removal of dysfunctional mitochondria by
+stimulating mitophagy with urolithin A, prolongs lifespan in the roundworm, Caenorhabditis elegans ,
+and improves muscle function is aged rodents [ 112]. Moreover, chronic caloric restriction, with or
+without exercise, was found to activate autophagy and improve muscle health with aging [113].
+Therefore, aside from its catabolic role, autophagy is responsible for cellular quality control and
+proper organelle turnover which is vital for muscle health and homeostasis. However, autophagy
+must be kept in check, since, if gone rogue, it can result in excessive catabolism and muscle wasting.
+Int. J. Mol. Sci. 2020 ,21, 4759 12 of 28
+3.3. VCP /P97
+Skeletal muscle ultrastructure is composed of highly organized and tightly packed myoﬁbrillar
+proteins. This presents a logistical problem for degradation pathways, where contractile elements
+and proteins found within large complexes are not easily accessible to large and bulky degradation
+systems. Thus, a mechanism to release, extract, and deliver these proteins for proteolysis must exist.
+The valosin-containing protein (VCP /p97) is an ATPase responsible for segregating ubiquitin-tagged
+proteins from large cellular structures such as protein assemblies, organelle membranes, and alike,
+and chaperoning them for degradation by the proteasome or lysosome. Consistently, VCP /p97 and its
+co-factors, Ufd1 and p47 were found to associate with speciﬁc myoﬁbrillar proteins and accelerate
+protein degradation during muscle atrophy, via both the proteasomal and autophagic pathways [ 114].
+This suggests a role for p97 in extracting ubiquitinated proteins from myoﬁbrillar structures [ 114].
+Interestingly, p97 is methylated by methyltransferase-like 21e (Mettl21e) and Meetl21c [ 115,116],
+and loss of this methylation reduces its ATPase activity, leading to impairments in proteasomal [ 115]
+and autophagosomal [116] protein degradation.
+Therefore, the various proteolytic systems in skeletal muscle work in concert to promote protein
+breakdown, acting as de facto boots on the ground to mediate atrophy. Each system contributes, albeit
+to varying degrees, to proteolysis, thus inhibiting one system has not been su cient to fully block
+atrophy, as the others tend to compensate and pick up the slack.
+4. Transcriptional Regulators of Muscle Mass
+Although the transcriptional regulation of atrophy is complex and largely stimulus-dependent,
+comparative gene expression proﬁling of a number of atrophy models resulted in the discovery of several
+genes that are coordinately regulated under the various atrophic conditions [ 68,69]. These genes
+are known collectively as atrophy-related genes (atrogenes) and include molecules involved in
+both the ubiquitin–proteasome and the autophagy–lysosome proteolytic systems. Interestingly,
+several cellular signaling pathways have been documented to converge on the transcription of these
+key atrophic components. The FoxO family of transcription factors [ 117–119], NF-B [120,121],
+the HDAC4-myogenin axis, and factors downstream of TGF [49,59,60] have all been demonstrated to
+impinge on the atrophic transcriptional program, culminating in the induction of atrogenes (Figure 2).
+4.1. FoxOs
+The FoxO family of transcriptional regulators consists of FoxO1, 3, 4, and 6, and is involved in a wide
+range of biological processes including metabolism, cellular proliferation and di erentiation, apoptosis,
+longevity, and muscle mass regulation [ 122,123]. In skeletal muscle, FoxO1 and FoxO3 have both been
+documented to induce muscle atrophy in response to disuse and metabolic distress [68,118,119] .
+Overexpression of FoxO3 alone is su cient to induce muscle atrophy [ 117–119] through the
+upregulation of E3 ligases [ 118], as well as the autophagy factors LC3 and BNIP3 [ 117,119]. Moreover,
+knockdown of FoxO3, or the expression of dominant negative FoxO3, blocks the induction of Atrogin-1
+and MuRF1 under some atrophic conditions [ 118,124,125]. Similar to FoxO3, FoxO1 can also induce
+muscle atrophy by upregulating Atrogin-1 and MuRF1 [ 122,124], and the inhibition or genetic deletion
+of multiple FoxOs completely prevents the loss of muscle mass and force generating capacity in response
+to various atrophic stimuli, including fasting, glucocorticoid treatment, diabetes, limb immobilization,
+as well as partially spare muscle during denervation-induced atrophy [4,85,126,127].
+FoxO activity is all about location, and these transcription factors must be de-phosphorylated
+before they are allowed entry into the nucleus. During atrophy, decreased levels of Akt leave FoxOs
+uninhibited and free to enter the nucleus. Moreover, AMPK [ 128–130], GSK1 [ 131,132], p38 MAPK [ 133],
+ERK [ 133,134], JNK [ 135,136], IKK [ 137], and MST1 [ 138,139] all phosphorylate FoxOs and regulate
+their activity. In addition to phosphorylation, the activity of FoxO transcription factors can be regulated
+by other posttranslational modiﬁcations, including acetylation, ubiquitination, and methylation [ 140].
+Int. J. Mol. Sci. 2020 ,21, 4759 13 of 28
+For instance, acetylation of FoxO3 by p300 /CBP inhibits FoxO3-mediated muscle atrophy [ 130,141],
+whereas deacetylation by HDAC1 activates FoxO and is both su cient and required to induce muscle
+atrophy [ 141]. Surprisingly, deacetylation by Sirt1 has the opposite e ect, inhibiting FoxO1 and 3,
+thereby blocking muscle atrophy and promoting growth [ 142]. Moreover, methylation by the arginine
+methyl transferase PRMT6 activates FoxO3. PRMT1, in turn, negatively regulates PRMT6 where
+PRMT1-deﬁcient muscles exhibit hyperactive FoxO3 and muscle atrophy [ 143]. The capacity of FoxO3
+to be post-translationally modiﬁed allows for the rapid potentiation of the atrophy program, which also
+presents an attractive target for pharmacological manipulation.
+Interestingly, PGC-1 andcan inhibit FoxO3 activity on the promoters of atrogenes, thus rescuing
+muscle mass during denervation and fasting [ 144,145]. Glucocorticoid receptor and -catenin, on the
+other hand, work synergistically with FoxOs to activate the transcription of atrogenes and induce
+muscle atrophy [ 146,147]. Moreover, secreted glycoprotein Dickkopf 3 (Dkk3) has been recently
+implicated in promoting aging sarcopenia by enhancing the nuclear import of -catenin and promoting
+its interaction with FoxO3 [148].
+FoxO transcription factors are also themselves transcriptionally regulated during catabolic conditions.
+Indeed, glucocorticoid receptor activation can directly induce FoxO mRNA expression [149–151] . Moreover,
+FoxO activity may also be indirectly impacted by chromatin remodeling. The bromodomain and extra-
+terminal domain (BET) protein BRD4 was found to be an epigenetic regulator of muscle mass. BET proteins
+appear to directly activate the muscle atrophy program during cachexia, and a pan-BET inhibitor protects
+tumor-bearing mice from loss of muscle and body mass, which dramatically prolongs survival, independent
+of tumor growth. In addition to their direct epigenetic action, BET proteins also coordinate an IL6-dependent
+AMPK nuclear signaling pathway converging on FoxO3, which contributes to cancer cachexia [152].
+FoxO activity also appears to be counter-balanced by Foxk proteins (Foxk1 and Foxk2), which are
+transcriptional repressors of autophagy in muscle cells and fibroblasts [ 153]. FoxOs’ autophagic and
+atrophic transcriptional targets overlap quite a bit with those of Foxk, suggesting these two transcriptional
+regulators may act as the yin and yang of the muscle atrophy program. During nutrient-rich conditions,
+mTOR promotes the nuclear localization of Foxk1 /2, which recruits Sin3A–HDAC complexes, thereby
+blocking histone H4 acetylation and restricting the expression of autophagy genes.
+Therefore, FoxO transcription factors enable the progression of muscle atrophy by potentiating a
+transcriptional atrophic program that continuously fuels proteolytic pathways.
+4.2. NF- B
+Inﬂammation often accompanies muscle atrophy, and can in itself activate an atrophic program
+under the command of transcription factor NF- B. Under basal conditions, NF- B is sequestered in
+the cytoplasm by the I B family of inhibitors. Levels of cytokines such as tumor necrosis factor 
+(TNF) and IL6 are increased in circulation during inﬂammation. The binding of TNF to its receptor
+facilitates the proteasomal degradation of I B, resulting in the translocation of NF- B to the nucleus
+where it induces the transcription of atrogenes. Blocking NF- B action through the overexpression
+of a negative regulator of this system (inhibitor of NF- alpha, I) is su cient to prevent disuse
+atrophy [ 121,154], whereas overexpression of activated IkappaB kinase beta (IKK ) in skeletal muscle
+promotes potent muscle wasting mediated, at least in part, by the ubiquitin-ligase MuRF1 [120].
+Moreover, the cytokine TNF-like weak inducer of apoptosis (TWEAK) and its receptor Fn14 are
+also upregulated during muscle disuse [ 155,156], and mice lacking TWEAK are resistant to denervation.
+TWEAK–Fn14 regulates TRAF6 action, which coordinates the degradation of proteins and organelles
+via the proteasome and autophagy systems by activating NF- B, AMPK, and FoxO catabolic signaling
+pathways [ 81]. In addition, a gene proﬁling study identiﬁed that the long noncoding RNA Atrolnc-1 is
+highly induced in cachectic muscle, which enhances NF- B activity and MuRF1 transcription. Atrolnc-1
+expression increases progressively in fasting mice and mice with chronic diseases such as cancer and
+kidney disease. In muscle cells, overexpression of Atrolnc-1 enhances protein breakdown while its
+Int. J. Mol. Sci. 2020 ,21, 4759 14 of 28
+suppression reduces serum starvation-induced proteolysis and attenuates muscle wasting in mice with
+chronic kidney disease [157].
+Stat3 is another transcription factor that is activated by pro-inﬂammatory cytokines TNF , IL6,
+and IL1. IL6 induces Stat3 phosphorylation by JAK, which promotes its nuclear localization and
+target gene expression under various atrophic conditions including cancer cachexia and sepsis [ 158].
+Moreover, Stat3 activation appears to be both su cient and required for muscle wasting [ 86,158,159].
+Thus, inﬂammatory cytokines can contribute, or altogether induce, muscle wasting through the
+activation of pro-atrophy transcription factors NF- B and Stat3.
+4.3. HDAC4–Myogenin Axis
+HDAC4 is a class IIa histone deacetylase that translates neural activity into actionable gene
+transcription within skeletal muscle [ 160]. In response to denervation, HDAC4 is dramatically
+upregulated and translocates from the neuromuscular junction to the nucleus. There, HDAC4 regulates
+the activity of E-box-binding basic helix-loop-helix muscle-speciﬁc transcription factor known as
+myogenin through the transcriptional repressor Dach2 [ 161]. Myogenin controls the expression of
+genes important for neuromuscular synapse formation, such as MuSK and nAChRs, which tend to
+be re-expressed in denervated, and neuromuscular disease-inﬂicted muscle. The upregulation of
+HDAC4, its close relative HDAC5, and myogenin following denervation culminates in increased
+expression of atrogenes MuRF1 and Atrogin-1 [ 162]. On the other hand, loss of either myogenin or
+HDAC4 /5 during denervation diminishes the expression of Atrogin-1 and MuRF1 and attenuates
+muscle atrophy induced by denervation [ 160,162]. Postnatal deletion of HDAC4 in mice is protective
+against denervation-induced atrophy. HDAC4 also mediates induction of growth arrest and DNA
+damage-inducible 45 (Gadd45a), a small myonuclear protein that is required for denervation-induced
+muscle atrophy. A recent study, which aimed at uncovering additional HDAC4 substrates in skeletal
+muscle, identiﬁed myosin heavy chain, PGC-1 , and heat shock cognate 71 kDa protein (Hsc70) to
+all be regulated by HDAC4 [ 163]. Thus, HDAC4 is an important regulator of muscle trophism in
+denervation and NMJ disorders, but more research is required to better understand its signaling
+network and mechanism of action within skeletal muscle.
+4.4. UPR
+The unfolded protein response (UPR) is a cellular stress response system that is activated when
+unfolded or misfolded proteins accumulate in the lumen of the ER, causing ER stress. The ultimate goal
+of this mechanism is to restore cellular homeostasis by reducing protein translation, increasing protein
+degradation, and boosting ER folding capacity. Evidence implicating this process in the regulation of
+muscle atrophy have been mounting, and various factors involved in the UPR have been documented
+to promote muscle atrophy. For instance, UPR-related transcription factor ATF4 is activated in response
+to decreased protein translation stemming from unfolded protein-induced recruitment of GPR78 /Bip
+and activation of PERK, a kinase that phosphorylates the initiation factor eIF2 and reduces ribosome
+assembly and protein synthesis. ATF4 contributes to muscle atrophy by modulating growth arrest
+and DNA damage-inducible 45a (Gadd45a), among others, in response to fasting, immobilization,
+and denervation [ 164,165]. Gadd45a induces nuclear remodeling by repressing genes involved in
+anabolic signaling and energy production such as PGC-1 and Akt, and induces pro-atrophy genes
+including autophagy and caspase-related genes [ 166–169]. Interestingly, loss of PERK either in vitro or
+in vivo counterintuitively results in the upregulation of autophagy lysosome, calpain, and ubiquitin
+proteasome genes, culminating in muscle atrophy [ 170]. However, the mechanisms of this e ect are
+unclear and are not likely related to its role in activating ATF4.
+Another branch of the UPR has also recently been implicated in muscle wasting. Depletion of
+GRP/Bip due to unfolded proteins in the ER activates IRE, which induces the activity of transcription
+factor X-box binding protein 1 (XBP1), resulting in atrophy. Targeted ablation of XBP1 in muscle
+ameliorates muscle loss in tumor-bearing mice, while its overexpression promotes atrophy of cultured
+Int. J. Mol. Sci. 2020 ,21, 4759 15 of 28
+myotubes [ 171]. This study also demonstrated that XBP1 is activated by toll-like receptor (TLR) and
+myeloid di erentiation primary response gene 88 (MyD88) signaling in tumor-bearing mice.
+UPR pathways are activated in response to a myriad of catabolic conditions including models of
+mitochondrial dysfunction, which are characterized by muscle atrophy. For instance, acute deletion of
+mitochondrial fusion protein OPA1 or the ﬁssion protein DRP1 in skeletal muscle result not only in
+dysfunctional mitochondria, but also exhibit UPR activation [ 172,173] and loss of muscle mass, albeit
+by di erent mechanisms.
+4.5. miRs
+Finally, microRNAs (miRs) have also been documented to regulate muscle mass during disuse.
+MiRs are endogenous, noncoding, short (20–22 nucleotides) RNAs that are involved in a wide variety
+of cellular processes. These miRs recognize the 30-untranslated regions of their target substrates and
+silence their expression by either inducing transcript degradation or by blocking translation. Atrophic
+conditions such as denervation, starvation, cancer cachexia, or aging result in altered miR expression
+proﬁles. For instance miR-206 and -21 are induced with denervation and are both su cient and
+required for atrophy [ 174]. miR-182, on the other hand, targets FoxO3, thus attenuating atrophy-related
+gene expression [ 175]. Indeed, miR-182 levels are reduced in response to some atrophic stimuli.
+Additional miRs associated with muscle disuse include miR-1 and miR-133a, both of which are reduced
+with bed rest and denervation [176,177].
+A recent study in pre- and post-natal swine suggested that TGF is a potential target of miR-21
+and that mRNA expression levels of miR-21 and TGF I are negatively correlated during muscle
+development. Moreover, miR-21 is involved in muscle development by regulating PI3K–Akt–mTOR
+signaling through TGF I [178].
+TNFand IGF-1 have also been demonstrated to regulate miR expression during skeletal muscle
+dierentiation in vitro , wherein miRs, in turn, reduced myoblast fusion capacity by targeting genes
+associated with axon guidance, MAPK signaling, focal adhesion, and neurotrophin signaling pathways.
+Inhibition of miR-155 in combination with overexpression of miR-503 partially abrogates the inhibitory
+eect of TNFon myotube formation. Therefore, the inhibitory e ects of TNFor the growth promoting
+eects of IGF-1 on skeletal muscle di erentiation include the deregulation of known muscle-regulatory
+miRs [179].
+Altogether, it is evident that the transcriptional regulation of muscle atrophy is important for both
+induction and continuity of proteolysis. This regulation depends on the interplay between a wide
+range of pathways, which often converge on the transcription of common atrophic factors known
+as atrogenes.
+5. Metabolic Regulators of Muscle Mass
+Changes in muscle mass are often accompanied by alterations in cellular bioenergetics and
+metabolism, which can be both the cause and the e ect. Indeed, protein synthesis accounts for almost
+30% of cellular ATP consumption and therefore any alterations in protein synthesis have a strong
+inﬂuence and reliance on energy supply and demand within the cell. Moreover, alterations in fuel
+availability also e ect cellular energetics and by that notion may impact protein synthesis. For instance,
+alterations in lipid composition due to depletion of Perilipin2, a protein involved in lipid storage,
+result in muscle hypertrophy and protection from denervation-induced atrophy [ 180]. This e ect was
+independent of mTOR signaling.
+Reductions in mitochondrial content and changes in organelle morphology are common among
+various types of atrophy, and atrophying muscles are characterized by both reduced mitochondrial
+biogenesis and increased mitochondrial elimination. For instance, 7 days of denervation result in a ~50%
+drop in mitochondrial density, which correlates closely with loss of muscle mass [ 181]. Interestingly,
+the decrease in mitochondrial content precedes atrophy, suggesting that organelle loss contributes to
+the decline in muscle mass. However, causality has not been directly determined.
+Int. J. Mol. Sci. 2020 ,21, 4759 16 of 28
+The level of the mitochondrial master regulator PGC-1 and close family member PGC-1 
+plummet under various atrophic conditions including diabetes, renal failure, cancer cachexia,
+and denervation [144,182–184] . This drop closely correlates with diminished organelle biogenesis [183–187] .
+Moreover, overexpression of either PGC-1 or -blocks protein degradation and spares muscle mass
+during a number of atrophic conditions [ 144,145]; however, this is not sufficient to induce protein synthesis
+or muscle hypertrophy on its own. Various spliced isoforms of PGC-1 have been identified as playing
+different roles in the regulation of muscle mass. PGC-1 isoform 4 (PGC-1 4), for instance, can promote
+muscle growth by inducing IGF-1 and repressing myostatin signaling [ 188]. Moreover, PGC-1 4
+expression is preferentially enhanced during resistance exercise, and mice with transgenic expression of
+this isoform have increased muscle mass and strength, and are resistant to atrophic stimuli. The anabolic
+effects of PGC-1 4 are dependent on GPR56, and knockdown of GPR56 attenuates PGC-1 4-induced
+muscle hypertrophy in vitro . Consistently , forced expression of GPR56 resulted in myotube hypertrophy
+through increased expression of IGF-1 [189].
+Muscle atrophy is also accompanied by alterations in mitochondrial morphology [ 108,190].
+Indeed, reduced levels of fusion proteins MFN2 and OPA1 with denervation result in fragmented
+mitochondria [ 190]. Small punctate mitochondria are less e cient at ATP production, more prone to
+ROS generation, as well as apoptosis, and are therefore predisposed for elimination by autophagy, all of
+which add to atrophy. Consistently, genetic deletion of OPA1 in skeletal muscle results in oxidative
+stress, which initiates an inﬂammatory response and premature cellular senescence culminating in a
+FoxO-dependent atrophy program and premature death [ 172]. The ablation of ﬁssion protein DRP1,
+on the other hand, does not appear to a ect lifespan, but impacts calcium homeostasis by disrupting
+mitochondria–ER tethering, which results in mitochondrial calcium overload and reduced muscle
+strength [ 173]. Moreover, the overexpression of ﬁssion protein Fis1 is su cient to induce muscle
+atrophy [ 191], which can be reversed if the mitochondrial network is restored [ 191]. Interestingly,
+two wrongs appear to make a right where concomitant ablation of both OPA1 and DRP1 mitigates the
+eect of OPA1 inhibition, resulting in a less severe mixed phenotype [ 192]. These ﬁndings underline
+the importance of balanced mitochondrial ﬁssion and fusion to muscle health [172,193].
+An increasing number of factors that impinge on mitochondrial function are emerging as
+mediators of muscle atrophy. For instance, cytokine FGF21 promotes muscle loss by increasing
+Bnip3-dependant mitophagy [ 44]. However, the mechanism behind this regulation remains unknown.
+Casein kinase 2 (CK2) is an enzyme responsible for the phosphorylation mitochondrial import channel
+translocase of outer mitochondrial membrane 22 (TOM22); this phosphorylation is mandatory for proper
+mitochondrial protein import. Deletion of CK2 in mouse muscle results in reduced strength, abnormal
+metabolism, and accumulation of PINK1. PINK1 is a mitochondrial health sensor that is typically
+imported into the mitochondria and degraded. Accumulation of PINK1 on the mitochondrial membrane
+induces mitophagy by recruiting the E3 ubiquitin ligase Parkin, which ubiquitinates mitochondrial
+membrane proteins, e ectively tagging the organelle for degradation. In muscles lacking CK2,
+autophagy ﬂux is impaired, resulting in accumulation of undegraded materials and myopathy [194].
+ATP citrate lyase (ACL) is a cytosolic enzyme that catalyzes mitochondria-derived citrate into
+oxaloacetate and acetyl-CoA. This enzyme appears to at least in part mediate IGF-1-induced muscle
+hypertrophy by increasing cardiolipin, and optimizing the activity of mitochondrial complexes and
+supercomplex. Thus, ACL may be acting as the molecular liaison between IGF-1-induced anabolic
+signaling (increasing energetic demand) and the activation of energy-producing mechanisms needed to
+supply the required ATP (increasing energy supply) [ 195]. However, the role of ACL does not end there;
+it also moonlights in myogenesis by regulating MYOD [ 196]. Furthermore, pyruvate dehydrogenase
+kinase 4 (PDK4), an important metabolic regulator, is elevated in several atrophic conditions including
+cancer, starvation, diabetes, and sepsis. Overexpression of PDK4 in myotubes promotes myoﬁber
+atrophy and mitochondrial abnormalities, whereas its blockage rescues myotube size in cells exposed
+to tumor conditioned media [197].
+Int. J. Mol. Sci. 2020 ,21, 4759 17 of 28
+Consistently, the mitochondrial calcium uniporter (MCU) also positively regulates muscle
+mass [ 198]. Findings from a recent study demonstrate that overexpression of MCU can rescue muscle
+from denervation-induced atrophy by modulating PGC-1 4 and IGF-1-Akt signaling [199].
+Therefore, mitochondrial ATP production, morphology, as well as signaling all inﬂuence muscle
+metabolic state. This is not surprising, given the important role mitochondria play in energy provision
+and the importance of ATP to muscle growth.
+6. The Muscle Microenvironment and Stem Cell Niche
+The idea that muscle is heavily inﬂuenced by its milieu is not new, and factors ranging from
+nutrients and metabolites to ions and cytokines appear to play a major role in cellular signaling and
+decision-making processes. It has been known for quite some time that malignant cells release atrophic
+factors and cytokines that a ect muscle mass leading to cachexia. Among the various cytokines
+released by cancer cells, myostatin and activins have the greatest impact on skeletal muscle mass.
+Both are members of the TGF superfamily and contribute to cachexia by engaging Activin type I
+(Alk) and type II (ActRIIB) receptors, culminating in the expression of atrogenes [ 60] and muscle
+wasting. Indeed, genetically or biochemically interfering with these factors or their downstream
+targets is protective of muscle mass. Recently, tumor-derived Act-A was demonstrated to induce the
+expression of Twist1, a transcription factor important for mesenchymal stem cell fate determination.
+Induction of Twist1, in turn, drives expression of MuRF1 and Atrogin-1, leading to muscle protein
+degradation [ 200]. Genetic or pharmacological inactivation of Twist1 was su cient to reverse muscle
+cachexia and improve survival in several genetic mouse models of cancer cachexia.
+Cancer cells release not only cytokines but also extracellular vesicles (EVs). A recent study found
+these vesicles to carry chaperone proteins HSP70 and HSP90, which upon arrival into muscle activate
+TLR4, thereby inducing catabolism and contributing to cachexia [201].
+Muscle wasting and cachexia are not only the result of increased muscle breakdown, but also
+a decreased repair capacity by satellite cells. Some recent studies provide insights into how the
+muscle stem cell niche and microenvironment contribute to the regulation of muscle mass [ 202].
+This concept is perhaps best illustrated in tumor-bearing mice and oncology patients, where muscle
+cachexia is associated with impaired di erentiation and incorporation of both satellite and non-satellite
+muscle progenitors. Although these cells are activated with cachexia, they are unable to completely
+dierentiate due to persistent expression of the self-renewal factor Pax7, which is mediated by NF- B.
+Overexpression of Pax7 alone induces atrophy in normal muscle, while its blockade reverses muscle
+wasting in tumor-bearing mice by restoring satellite cell function [ 203]. Another cell population
+that has been documented to contribute to muscle wasting with denervation is the ﬁbro-adipogenic
+progenitors (FAPs). Like other muscle progenitors, these cells are activated following muscle injury.
+FAPs progressively accumulate following denervation, and FAPs from denervated muscles exhibit
+functional properties and gene expression proﬁles that are distinct from those obtained from muscles
+regenerating following cardiotoxin injury. FAPs activated by denervation or other pathological
+conditions such as spinal muscular atrophy (SMA) or amyotrophic lateral sclerosis (ALS) exhibited
+increased Stat3–IL6 signaling, which promoted muscle atrophy and ﬁbrosis. Inactivation of this
+pathway was su cient to counteract muscle atrophy and ﬁbrosis in these atrophic models [204].
+7. Conclusions
+Although substantial progress has been made in our understanding of the molecular mechanisms
+that control muscle mass, we are still far from having the whole picture. The lack of viable treatments
+for muscle wasting conditions both as primary and secondary morbidities are perhaps the strongest
+testament to this. The importance of healthy muscle to whole body homeostasis and the vigor of
+other organs during health and disease brings muscle research to the forefront. We therefore must
+continue to unravel the mechanisms underlying muscle atrophy in their entirety to reveal their
+complexity. Moreover, our most common mediums for studying muscle atrophy rely on rodent and
+Int. J. Mol. Sci. 2020 ,21, 4759 18 of 28
+cell culture models, the ﬁndings from which do not appear to translate well to humans, thus delaying
+therapeutic development. Indeed, many therapeutic targets that seem promising in the lab, despite
+many e orts, never make it to the bedside. More rigorous testing must therefore be performed on
+potential therapeutic targets, along with increased e orts for developing models that better mimic
+human muscle behavior.
+Funding: This work was supported from the ASI (MARS-PRE), AFM-Telethon (19524), AIRC (17388 and 23257),
+and H2020-MSCA-RISE-2014 project no. 645648 “Muscle Stress Relief”.
+Conﬂicts of Interest: Anna Vainshtein is a co-founder of Craft Science Inc., in which she holds shares. The sponsors
+had no role in the writing of this article or the decision to submit it for publication.
+References
+1. Baskin, K.K.; Winders, B.R.; Olson, E.N. Muscle as a “mediator” of systemic metabolism. Cell Metab. 2015 ,
+21, 237–248. [CrossRef] [PubMed]
+2. Karstoft, K.; Pedersen, B.K. Skeletal muscle as a gene regulatory endocrine organ. Curr. Opin. Clin. Nutr.
+Metab. Care 2016 ,19, 270–275. [CrossRef] [PubMed]
+3. Demontis, F.; Piccirillo, R.; Goldberg, A.L.; Perrimon, N. The inﬂuence of skeletal muscle on systemic aging
+and lifespan. Aging Cell 2013 ,12, 943–949. [CrossRef] [PubMed]
+4. Tang, H.; Inoki, K.; Lee, M.; Wright, E.; Khuong, A.A.; Khuong, A.A.; Sugiarto, S.; Garner, M.; Paik, J.;
+DePinho, R.A.; et al. mTORC1 promotes denervation-induced muscle atrophy through a mechanism
+involving the activation of FoxO and E3 ubiquitin ligases. Sci. Signal. 2014 ,7, ra18. [CrossRef]
+5. Quy, P .N.; Kuma, A.; Pierre, P .; Mizushima, N. Proteasome-dependent activation of mammalian target of
+rapamycin complex 1 (mTORC1) is essential for autophagy suppression and muscle remodeling following
+denervation. J. Biol. Chem. 2013 ,288, 1125–1134. [CrossRef]
+6. Tam, B.T.; Pei, X.M.; Yung, B.Y.; Yip, S.P .; Chan, L.W.; Wong, C.S.; Siu, P .M. Autophagic Adaptations to
+Long-term Habitual Exercise in Cardiac Muscle. Int. J. Sports Med. 2015 . [CrossRef]
+7. Lira, V .A.; Okutsu, M.; Zhang, M.; Greene, N.P .; Laker, R.C.; Breen, D.S.; Hoehn, K.L.; Yan, Z. Autophagy is
+required for exercise training-induced skeletal muscle adaptation and improvement of physical performance.
+FASEB J. 2013 ,27, 4184–4193. [CrossRef]
+8. Vainshtein, A.; Tryon, L.D.; Pauly, M.; Hood, D.A. The role of PGC-1 during acute exercise-induced
+autophagy and mitophagy in skeletal muscle. Am. J. Physiol. Cell Physiol. 2015 . [CrossRef]
+9. Masschelein, E.; Van Thienen, R.; D’Hulst, G.; Hespel, P .; Thomis, M.; Deldicque, L. Acute environmental
+hypoxia induces LC3 lipidation in a genotype-dependent manner. FASEB J. 2013 ,28, 1022–1034. [CrossRef]
+10. Schia no, S.; Dyar, K.A.; Ciciliot, S.; Blaauw, B.; Sandri, M. Mechanisms regulating skeletal muscle growth
+and atrophy. FEBS J. 2013 ,280, 4294–4314. [CrossRef]
+11. Liu, G.Y .; Sabatini, D.M. mTOR at the nexus of nutrition, growth, ageing and disease. Nat. Rev. Mol. Cell Biol. 2020 .
+[CrossRef] [PubMed]
+12. Risson, V .; Mazelin, L.; Roceri, M.; Sanchez, H.; Moncollin, V .; Corneloup, C.; Richard-Bulteau, H.; Vignaud, A.;
+Baas, D.; Defour, A.; et al. Muscle inactivation of mTOR causes metabolic and dystrophin defects leading to
+severe myopathy. J. Cell Biol. 2009 ,187, 859–874. [CrossRef] [PubMed]
+13. Von Walden, F.; Liu, C.; Aurigemma, N.; Nader, G.A. mTOR signaling regulates myotube hypertrophy by
+modulating protein synthesis, rDNA transcription, and chromatin remodeling. Am. J. Physiol. Cell Physiol.
+2016 ,311, C663–C672. [CrossRef]
+14. Zhao, J.; Zhai, B.; Gygi, S.P .; Goldberg, A.L. mTOR inhibition activates overall protein degradation by the
+ubiquitin proteasome system as well as by autophagy. Proc. Natl. Acad. Sci. USA 2015 ,112, 15790–15797.
+[CrossRef] [PubMed]
+15. Kumar, A.; Harris, T.E.; Keller, S.R.; Choi, K.M.; Magnuson, M.A.; Lawrence, J.C. Muscle-Speciﬁc Deletion
+of Rictor Impairs Insulin-Stimulated Glucose Transport and Enhances Basal Glycogen Synthase Activity.
+Mol. Cell. Biol. 2008 ,28, 61–70. [CrossRef]
+16. You, J.-S.; McNally, R.M.; Jacobs, B.L.; Privett, R.E.; Gundermann, D.M.; Lin, K.-H.; Steinert, N.D.;
+Goodman, C.A.; Hornberger, T.A. The role of raptor in the mechanical load-induced regulation of mTOR
+signaling, protein synthesis, and skeletal muscle hypertrophy. FASEB J. 2019 ,33, 4021–4034. [CrossRef]
+Int. J. Mol. Sci. 2020 ,21, 4759 19 of 28
+17. Zhang, Q.; Duplany, A.; Moncollin, V .; Mouradian, S.; Goillot, E.; Mazelin, L.; Gauthier, K.; Streichenberger, N.;
+Angleraux, C.; Chen, J.; et al. Lack of muscle mTOR kinase activity causes early onset myopathy and
+compromises whole-body homeostasis. J. Cachexia. Sarcopenia Muscle 2019 ,10, 35–53. [CrossRef]
+18. Lim, J.; Li, L.; Shirihai, O.S.; Trudeau, K.M.; Puertollano, R.; Raben, N. Modulation of mTOR signaling as a
+strategy for the treatment of Pompe disease. EMBO Mol. Med. 2017 ,9, 353–370. [CrossRef]
+19. Ching, J.K.; Elizabeth, S.V .; Ju, J.-S.; Lusk, C.; Pittman, S.K.; Weihl, C.C. mTOR dysfunction contributes
+to vacuolar pathology and weakness in valosin-containing protein associated inclusion body myopathy.
+Hum. Mol. Genet. 2013 ,22, 1167–1179. [CrossRef]
+20. Goodman, C.A.; Miu, M.H.; Frey, J.W.; Mabrey, D.M.; Lincoln, H.C.; Ge, Y.; Chen, J.; Hornberger, T.A.
+A phosphatidylinositol 3-kinase /protein kinase B-independent activation of mammalian target of rapamycin
+signaling is su cient to induce skeletal muscle hypertrophy. Mol. Biol. Cell 2010 ,21, 3258–3268. [CrossRef]
+21. Bentzinger, C.F.; Lin, S.; Romanino, K.; Castets, P .; Guridi, M.; Summermatter, S.; Handschin, C.;
+Tintignac, L.A.; Hall, M.N.; Rüegg, M.A. Di erential response of skeletal muscles to mTORC1 signaling
+during atrophy and hypertrophy. Skelet. Muscle 2013 ,3, 6. [CrossRef] [PubMed]
+22. Castets, P .; Lin, S.; Rion, N.; Di Fulvio, S.; Romanino, K.; Guridi, M.; Frank, S.; Tintignac, L.A.; Sinnreich, M.;
+Rüegg, M.A. Sustained activation of mTORC1 in skeletal muscle inhibits constitutive and starvation-induced
+autophagy and causes a severe, late-onset myopathy. Cell Metab. 2013 ,17, 731–744. [CrossRef] [PubMed]
+23. You, J.S.; Anderson, G.B.; Dooley, M.S.; Hornberger, T.A. The role of mTOR signaling in the regulation
+of protein synthesis and muscle mass during immobilization in mice. DMM Dis. Model. Mech. 2015 ,8,
+1059–1069. [CrossRef] [PubMed]
+24. Tang, H.; Inoki, K.; Brooks, S.V .; Okazawa, H.; Lee, M.; Wang, J.; Kim, M.; Kennedy, C.L.; Macpherson, P .C.D.;
+Ji, X.; et al. mTORC1 underlies age-related muscle ﬁber damage and loss by inducing oxidative stress and
+catabolism. Aging Cell 2019 ,18, e12943. [CrossRef]
+25. Joseph, G.A.; Wang, S.X.; Jacobs, C.E.; Zhou, W.; Kimble, G.C.; Tse, H.W.; Eash, J.K.; Shavlakadze, T.;
+Glass, D.J. Partial Inhibition of mTORC1 in Aged Rats Counteracts the Decline in Muscle Mass and Reverses
+Molecular Signaling Associated with Sarcopenia. Mol. Cell. Biol. 2019 ,39. [CrossRef]
+26. Carnio, S.; LoVerso, F.; Baraibar, M.A.; Longa, E.; Khan, M.M.; Ma ei, M.; Reischl, M.; Canepari, M.;
+Loeﬂer, S.; Kern, H.; et al. Autophagy impairment in muscle induces neuromuscular junction degeneration
+and precocious aging. Cell Rep. 2014 ,8, 1509–1521. [CrossRef]
+27. Verhees, K.J.P .; Schols, A.M.W.J.; Kelders, M.C.J.M.; den Kamp, C.M.H.O.; van der Velden, J.L.J.; Langen, R.C.J.
+Glycogen synthase kinase-3 is required for the induction of skeletal muscle atrophy. Am. J. Physiol.
+Cell Physiol. 2011 ,301, C995–C1007. [CrossRef]
+28. Pansters, N.A.M.; Schols, A.M.W.J.; Verhees, K.J.P .; de Theije, C.C.; Snepvangers, F.J.; Kelders, M.C.J.M.;
+Ubags, N.D.J.; Haegens, A.; Langen, R.C.J. Muscle-speciﬁc GSK-3 ablation accelerates regeneration of
+disuse-atrophied skeletal muscle. Biochim. Biophys. Acta Mol. Basis Dis. 2015 ,1852 , 490–506. [CrossRef]
+29. Theeuwes, W.F.; Gosker, H.R.; Langen, R.C.J.; Verhees, K.J.P .; Pansters, N.A.M.; Schols, A.M.W.J.;
+Remels, A.H.V . Inactivation of glycogen synthase kinase-3 (GSK-3) enhances skeletal muscle oxidative
+metabolism. Biochim. Biophys. Acta Mol. Basis Dis. 2017 ,1863 , 3075–3086. [CrossRef]
+30. Bodine, S.C.; Stitt, T.N.; Gonzalez, M.; Kline, W.O.; Stover, G.L.; Bauerlein, R.; Zlotchenko, E.; Scrimgeour, A.;
+Lawrence, J.C.; Glass, D.J.; et al. Akt /mTOR pathway is a crucial regulator of skeletal muscle hypertrophy
+and can prevent muscle atrophy in vivo. Nat. Cell Biol. 2001 ,3, 1014–1019. [CrossRef]
+31. Brunet, A.; Bonni, A.; Zigmond, M.J.; Lin, M.Z.; Juo, P .; Hu, L.S.; Anderson, M.J.; Arden, K.C.; Blenis, J.;
+Greenberg, M.E. Akt promotes cell survival by phosphorylating and inhibiting a Forkhead transcription
+factor. Cell1999 ,96, 857–868. [CrossRef]
+32. Skurk, C.; Izumiya, Y.; Maatz, H.; Razeghi, P .; Shiojima, I.; Sandri, M.; Sato, K.; Zeng, L.; Schiekofer, S.;
+Pimentel, D.; et al. The FOXO3a transcription factor regulates cardiac myocyte size downstream of AKT
+signaling. J. Biol. Chem. 2005 ,280, 20814–20823. [CrossRef] [PubMed]
+33. Kim, J.; Kundu, M.; Viollet, B.; Guan, K.-L. AMPK and mTOR regulate autophagy through direct
+phosphorylation of Ulk1. Nat. Cell Biol. 2011 ,13, 132–141. [CrossRef] [PubMed]
+34. Hosokawa, N.; Hara, T.; Kaizuka, T.; Kishi, C.; Takamura, A.; Miura, Y.; Iemura, S.; Natsume, T.; Takehana, K.;
+Yamada, N.; et al. Nutrient-dependent mTORC1 association with the ULK1-Atg13-FIP200 complex required
+for autophagy. Mol. Biol. Cell 2009 ,20, 1981–1991. [CrossRef] [PubMed]
+Int. J. Mol. Sci. 2020 ,21, 4759 20 of 28
+35. Pelosi, M.; Alf ò, M.; Martella, F.; Pappalardo, E.; Musar ò, A. Finite mixture clustering of human tissues with
+dierent levels of IGF-1 splice variants mRNA transcripts. BMC Bioinformatics 2015 ,16, 289. [CrossRef]
+36. Ascenzi, F.; Barberi, L.; Dobrowolny, G.; Villa Nova Bacurau, A.; Nicoletti, C.; Rizzuto, E.; Rosenthal, N.;
+Scicchitano, B.M.; Musar ò, A. E ects of IGF-1 isoforms on muscle growth and sarcopenia. Aging Cell 2019 ,
+18, e12954. [CrossRef]
+37. O’Neill, B.T.; Lee, K.Y.; Klaus, K.; Softic, S.; Krumpoch, M.T.; Fentz, J.; Stanford, K.I.; Robinson, M.M.; Cai, W.;
+Kleinridders, A.; et al. Insulin and IGF-1 receptors regulate FoxO-mediated signaling in muscle proteostasis.
+J. Clin. Invest. 2016 ,126, 3433–3446. [CrossRef]
+38. Cohen, S.; Lee, D.; Zhai, B.; Gygi, S.P .; Goldberg, A.L. Trim32 reduces PI3K-Akt-FoxO signaling in muscle
+atrophy by promoting plakoglobin-PI3K dissociation. J. Cell Biol. 2014 ,204, 747–758. [CrossRef]
+39. Kline, W.O.; Panaro, F.J.; Yang, H.; Bodine, S.C. Rapamycin inhibits the growth and muscle-sparing e ects of
+clenbuterol. J. Appl. Physiol. 2007 ,102, 740–747. [CrossRef]
+40. Gonçalves, D.A.; Silveira, W.A.; Manfredi, L.H.; Graça, F.A.; Armani, A.; Bertaggia, E.; O’Neill, B.T.;
+Lautherbach, N.; Machado, J.; Nogara, L.; et al. Insulin /IGF1 signalling mediates the e ects of2-adrenergic
+agonist on muscle proteostasis and growth. J. Cachexia. Sarcopenia Muscle 2019 ,10, 455–475. [CrossRef]
+41. Raaello, A.; Milan, G.; Masiero, E.; Carnio, S.; Lee, D.; Lanfranchi, G.; Goldberg, A.L.; Sandri, M.
+JunB transcription factor maintains skeletal muscle mass and promotes hypertrophy. J. Cell Biol. 2010 ,191,
+101–113. [CrossRef] [PubMed]
+42. Pawlikowski, B.; Vogler, T.O.; Gadek, K.; Olwin, B.B. Regulation of skeletal muscle stem cells by ﬁbroblast
+growth factors. Dev. Dyn. 2017 ,246, 359–367. [CrossRef] [PubMed]
+43. Benoit, B.; Meugnier, E.; Castelli, M.; Chanon, S.; Vieille-Marchiset, A.; Durand, C.; Bendridi, N.; Pesenti, S.;
+Monternier, P .A.; Durieux, A.C.; et al. Fibroblast growth factor 19 regulates skeletal muscle mass and
+ameliorates muscle wasting in mice. Nat. Med. 2017 ,23, 990–996. [CrossRef] [PubMed]
+44. Oost, L.J.; Kustermann, M.; Armani, A.; Blaauw, B.; Romanello, V . Fibroblast growth factor 21 controls
+mitophagy and muscle mass. J. Cachexia. Sarcopenia Muscle 2019 ,10, 630–642. [CrossRef]
+45. Ji, K.; Zheng, J.; Lv, J.; Xu, J.; Ji, X.; Luo, Y.B.; Li, W.; Zhao, Y.; Yan, C. Skeletal muscle increases FGF21
+expression in mitochondrial disorders to compensate for energy metabolic insu ciency by activating the
+mTOR-YY1-PGC1 pathway. Free Radic. Biol. Med. 2015 ,84, 161–170. [CrossRef]
+46. Ravel-Chapuis, A.; B élanger, G.; C ôté, J.; Michel, R.N.; Jasmin, B.J. Misregulation of calcium-handling proteins
+promotes hyperactivation of calcineurin-NFAT signaling in skeletal muscle of DM1 mice. Hum. Mol. Genet.
+2017 ,26, 2192–2206. [CrossRef]
+47. Wang, G.; Biswas, A.K.; Ma, W.; Kandpal, M.; Coker, C.; Grandgenett, P .M.; Hollingsworth, M.A.; Jain, R.;
+Tanji, K.; L ópez-Pintado, S.; et al. Metastatic cancers promote cachexia through ZIP14 upregulation in skeletal
+muscle. Nat. Med. 2018 ,24, 770–781. [CrossRef]
+48. Summermatter, S.; Bouzan, A.; Pierrel, E.; Melly, S.; Stau er, D.; Gutzwiller, S.; Nolin, E.; Dornelas, C.;
+Fryer, C.; Leighton-Davies, J.; et al. Blockade of Metallothioneins 1 and 2 Increases Skeletal Muscle Mass and
+Strength. Mol. Cell. Biol. 2017 ,37. [CrossRef]
+49. McPherron, A.C.; Lawler, A.M.; Lee, S.J. Regulation of skeletal muscle mass in mice by a new TGF-beta
+superfamily member. Nature 1997 ,387, 83–90. [CrossRef]
+50. Lee, S.-J. Regulation of muscle mass by myostatin. Annu. Rev. Cell Dev. Biol. 2004 ,20, 61–86. [CrossRef]
+51. McPherron, A.C.; Lee, S.J. Double muscling in cattle due to mutations in the myostatin gene. Proc. Natl.
+Acad. Sci. USA 1997 ,94, 12457–12461. [CrossRef] [PubMed]
+52. Sartori, R.; Milan, G.; Patron, M.; Mammucari, C.; Blaauw, B.; Abraham, R.; Sandri, M. Smad2 and 3
+transcription factors control muscle mass in adulthood. Am. J. Physiol. Cell Physiol. 2009 ,296, C1248–C1257.
+[CrossRef] [PubMed]
+53. Taylor, W.E.; Bhasin, S.; Artaza, J.; Byhower, F.; Azam, M.; Willard, D.H.; Kull, F.C.; Gonzalez-Cadavid, N.
+Myostatin inhibits cell proliferation and protein synthesis in C2C12 muscle cells. Am. J. Physiol. Endocrinol. Metab.
+2001 ,280, E221–E228. [CrossRef] [PubMed]
+54. Trendelenburg, A.U.; Meyer, A.; Rohner, D.; Boyle, J.; Hatakeyama, S.; Glass, D.J. Myostatin reduces
+Akt/TORC1 /p70S6K signaling, inhibiting myoblast di erentiation and myotube size. Am. J. Physiol.
+Cell Physiol. 2009 ,296, C1258–C1270. [CrossRef]
+Int. J. Mol. Sci. 2020 ,21, 4759 21 of 28
+55. Winbanks, C.E.; Weeks, K.L.; Thomson, R.E.; Sepulveda, P .V .; Beyer, C.; Qian, H.; Chen, J.L.; Allen, A.M.;
+Lancaster, G.I.; Febbraio, M.A.; et al. Follistatin-mediated skeletal muscle hypertrophy is regulated by Smad3
+and mTOR independently of myostatin. J. Cell Biol. 2012 ,197, 997–1008. [CrossRef]
+56. Goodman, C.A.; McNally, R.M.; Ho mann, F.M.; Hornberger, T.A. Smad3 induces atrogin-1, inhibits mTOR
+and protein synthesis, and promotes muscle atrophy in vivo .Mol. Endocrinol. 2013 ,27, 1946–1957. [CrossRef]
+57. Hitachi, K.; Nakatani, M.; Tsuchida, K. Myostatin signaling regulates Akt activity via the regulation of
+miR-486 expression. Int. J. Biochem. Cell Biol. 2014 ,47, 93–103. [CrossRef]
+58. Tando, T.; Hirayama, A.; Furukawa, M.; Sato, Y.; Kobayashi, T.; Funayama, A.; Kanaji, A.; Hao, W.;
+Watanabe, R.; Morita, M.; et al. Smad2 /3 proteins are required for immobilization-induced skeletal muscle
+atrophy. J. Biol. Chem. 2016 ,291, 12184–12194. [CrossRef]
+59. Sartori, R.; Schirwis, E.; Blaauw, B.; Bortolanza, S.; Zhao, J.; Enzo, E.; Stantzou, A.; Mouisel, E.; Toniolo, L.;
+Ferry, A.; et al. BMP signaling controls muscle mass. Nat. Genet. 2013 ,45, 1309–1318. [CrossRef]
+60. Sartori, R.; Gregorevic, P .; Sandri, M. TGF and BMP signaling in skeletal muscle: Potential signiﬁcance for
+muscle-related disease. Trends Endocrinol. Metab. 2014 ,25, 464–471. [CrossRef]
+61. Winbanks, C.E.; Chen, J.L.; Qian, H.; Liu, Y.; Bernardo, B.C.; Beyer, C.; Watt, K.I.; Thomson, R.E.; Connor, T.;
+Turner, B.J.; et al. The bone morphogenetic protein axis is a positive regulator of skeletal muscle mass.
+J. Cell Biol. 2013 ,203, 345–357. [CrossRef] [PubMed]
+62. Zhou, X.; Wang, J.L.; Lu, J.; Song, Y.; Kwak, K.S.; Jiao, Q.; Rosenfeld, R.; Chen, Q.; Boone, T.; Simonet, W.S.;
+et al. Reversal of cancer cachexia and muscle wasting by ActRIIB antagonism leads to prolonged survival.
+Cell2010 ,142, 531–543. [CrossRef] [PubMed]
+63. Winbanks, C.E.; Murphy, K.T.; Bernardo, B.C.; Qian, H.; Liu, Y.; Sepulveda, P .V .; Beyer, C.; Hagg, A.;
+Thomson, R.E.; Chen, J.L.; et al. Smad7 gene delivery prevents muscle wasting associated with cancer
+cachexia in mice. Sci. Transl. Med. 2016 ,8. [CrossRef] [PubMed]
+64. Davey, J.R.; Watt, K.I.; Parker, B.L.; Chaudhuri, R.; Ryall, J.G.; Cunningham, L.; Qian, H.; Sartorelli, V .;
+Sandri, M.; Chamberlain, J.; et al. Integrated expression analysis of muscle hypertrophy identiﬁes Asb2 as a
+negative regulator of muscle mass. JCI Insight 2016 ,1. [CrossRef] [PubMed]
+65. Wang, X.H.; Zhang, L.; Mitch, W.E.; LeDoux, J.M.; Hu, J.; Du, J. Caspase-3 cleaves speciﬁc 19 S proteasome
+subunits in skeletal muscle stimulating proteasome activity. J. Biol. Chem. 2010 ,285, 21249–21257. [CrossRef]
+66. Tischler, M.E.; Rosenberg, S.; Satarug, S.; Henriksen, E.J.; Kirby, C.R.; Tome, M.; Chase, P . Di erent mechanisms
+of increased proteolysis in atrophy induced by denervation or unweighting of rat soleus muscle. Metabolism
+1990 ,39, 756–763. [CrossRef]
+67. Taillandier, D.; Aurousseau, E.; Meynial-Denis, D.; Bechet, D.; Ferrara, M.; Cottin, P .; Ducastaing, A.;
+Bigard, X.; Guezennec, C.Y.; Schmid, H.P . Coordinate activation of lysosomal, Ca 2 +-activated and
+ATP-ubiquitin-dependent proteinases in the unweighted rat soleus muscle. Biochem. J. 1996 ,316 Pt 1 ,
+65–72. [CrossRef]
+68. Lecker, S.H.; Jagoe, R.T.; Gilbert, A.; Gomes, M.; Baracos, V .; Bailey, J.; Price, S.R.; Mitch, W.E.; Goldberg, A.L.
+Multiple types of skeletal muscle atrophy involve a common program of changes in gene expression. FASEB J.
+2004 ,18, 39–51. [CrossRef]
+69. Bodine, S.C.; Latres, E.; Baumhueter, S.; Lai, V .K.; Nunez, L.; Clarke, B.A.; Poueymirou, W.T.; Panaro, F.J.;
+Na, E.; Dharmarajan, K.; et al. Identiﬁcation of ubiquitin ligases required for skeletal muscle atrophy. Science
+2001 ,294, 1704–1708. [CrossRef]
+70. Gomes, M.D.; Lecker, S.H.; Jagoe, R.T.; Navon, A.; Goldberg, A.L. Atrogin-1, a muscle-speciﬁc F-box protein
+highly expressed during muscle atrophy. Proc. Natl. Acad. Sci USA 2001 ,98, 14440–14445. [CrossRef]
+71. Aniort, J.; Stella, A.; Philipponnet, C.; Poyet, A.; Polge, C.; Claustre, A.; Combaret, L.; B échet, D.; Attaix, D.;
+Boisgard, S.; et al. Muscle wasting in patients with end-stage renal disease or early-stage lung cancer:
+Common mechanisms at work. J. Cachexia. Sarcopenia Muscle 2019 ,10, 323–337. [CrossRef]
+72. Zaglia, T.; Milan, G.; Ruhs, A.; Franzoso, M.; Bertaggia, E.; Pianca, N.; Carpi, A.; Carullo, P .; Pesce, P .;
+Sacerdoti, D.; et al. Atrogin-1 deﬁciency promotes cardiomyopathy and premature death via impaired
+autophagy. J. Clin. Invest. 2014 ,124, 2410–2424. [CrossRef] [PubMed]
+73. Cadena, S.M.; Zhang, Y.; Fang, J.; Brachat, S.; Kuss, P .; Giorgetti, E.; Stodieck, L.S.; Kneissel, M.; Glass, D.J.
+Skeletal muscle in MuRF1 null mice is not spared in low-gravity conditions, indicating atrophy proceeds by
+unique mechanisms in space. Sci. Rep. 2019 ,9. [CrossRef]
+Int. J. Mol. Sci. 2020 ,21, 4759 22 of 28
+74. Baehr, L.M.; Furlow, J.D.; Bodine, S.C. Muscle sparing in muscle RING ﬁnger 1 null mice: Response to
+synthetic glucocorticoids. J. Physiol. 2011 ,589, 4759–4776. [CrossRef] [PubMed]
+75. Hwee, D.T.; Baehr, L.M.; Philp, A.; Baar, K.; Bodine, S.C. Maintenance of muscle mass and load-induced
+growth in Muscle RING Finger 1 null mice with age. Aging Cell 2014 ,13, 92–101. [CrossRef] [PubMed]
+76. Sandri, M.; Barberi, L.; Bijlsma, A.Y.; Blaauw, B.; Dyar, K.A.; Milan, G.; Mammucari, C.; Meskers, C.G.M.;
+Pallafacchina, G.; Paoli, A.; et al. Signalling pathways regulating muscle mass in ageing skeletal muscle. the
+role of the IGF1-Akt-mTOR-FoxO pathway. Biogerontology 2013 ,14, 303–323. [CrossRef]
+77. Gomes, A.V .; Waddell, D.S.; Siu, R.; Stein, M.; Dewey, S.; Furlow, J.D.; Bodine, S.C. Upregulation of proteasome
+activity in muscle RING ﬁnger 1-null mice following denervation. FASEB J. 2012 ,26, 2986–2999. [CrossRef]
+78. Cong, H.; Sun, L.; Liu, C.; Tien, P . Inhibition of atrogin-1 /MAFbx expression by adenovirus-delivered small
+hairpin RNAs attenuates muscle atrophy in fasting mice. Hum. Gene Ther. 2011 ,22, 313–324. [CrossRef]
+79. Cohen, S.; Zhai, B.; Gygi, S.P .; Goldberg, A.L. Ubiquitylation by Trim32 causes coupled loss of desmin,
+Z-bands, and thin ﬁlaments in muscle atrophy. J. Cell Biol. 2012 ,198, 575–589. [CrossRef]
+80. Di Rienzo, M.; Antonioli, M.; Fusco, C.; Liu, Y.; Mari, M.; Orhon, I.; Refolo, G.; Germani, F.; Corazzari, M.;
+Romagnoli, A.; et al. Autophagy induction in atrophic muscle cells requires ULK1 activation by TRIM32
+through unanchored K63-linked polyubiquitin chains. Sci. Adv. 2019 ,5. [CrossRef]
+81. Paul, P .K.; Gupta, S.K.; Bhatnagar, S.; Panguluri, S.K.; Darnay, B.G.; Choi, Y.; Kumar, A. Targeted ablation of
+TRAF6 inhibits skeletal muscle wasting in mice. J. Cell Biol. 2010 ,191, 1395–1411. [CrossRef] [PubMed]
+82. Kirkin, V .; McEwan, D.G.; Novak, I.; Dikic, I. A role for ubiquitin in selective autophagy. Mol. Cell 2009 ,34,
+259–269. [CrossRef] [PubMed]
+83. Pankiv, S.; Clausen, T.H.; Lamark, T.; Brech, A.; Bruun, J.-A.; Outzen, H.; Øvervatn, A.; Bjørkøy, G.; Johansen, T.
+p62/SQSTM1 binds directly to Atg8 /LC3 to facilitate degradation of ubiquitinated protein aggregates by
+autophagy. J. Biol. Chem. 2007 ,282, 24131–24145. [CrossRef] [PubMed]
+84. Nazio, F.; Strappazzon, F.; Antonioli, M.; Bielli, P .; Cianfanelli, V .; Bordi, M.; Gretzmeier, C.; Dengjel, J.;
+Piacentini, M.; Fimia, G.M.; et al. MTOR inhibits autophagy by controlling ULK1 ubiquitylation,
+self-association and function through AMBRA1 and TRAF6. Nat. Cell Biol. 2013 ,15, 406–416. [CrossRef]
+[PubMed]
+85. Milan, G.; Romanello, V .; Pescatore, F.; Armani, A.; Paik, J.-H.; Frasson, L.; Seydel, A.; Zhao, J.; Abraham, R.;
+Goldberg, A.L.; et al. Regulation of autophagy and the ubiquitin-proteasome system by the FoxO
+transcriptional network during muscle atrophy. Nat. Commun. 2015 ,6, 6670. [CrossRef]
+86. Judge, S.M.; Wu, C.L.; Beharry, A.W.; Roberts, B.M.; Ferreira, L.F.; Kandarian, S.C.; Judge, A.R. Genome-wide
+identiﬁcation of FoxO-dependent gene networks in skeletal muscle during C26 cancer cachexia. BMC Cancer
+2014 ,14. [CrossRef] [PubMed]
+87. Cornwell, E.W.; Mirbod, A.; Wu, C.L.; Kandarian, S.C.; Jackman, R.W. C26 cancer-induced muscle wasting is
+IKKb-dependent and NF-kappaB-independent. PLoS ONE 2014 ,9. [CrossRef]
+88. Corpeno Kalamgi, R.; Salah, H.; Gastaldello, S.; Martinez-Redondo, V .; Ruas, J.L.; Fury, W.; Bai, Y.; Gromada, J.;
+Sartori, R.; Guttridge, D.C.; et al. Mechano-signalling pathways in an experimental intensive critical illness
+myopathy model. J. Physiol. 2016 ,594, 4371–4388. [CrossRef]
+89. Combaret, L.; Adegoke, O.A.J.; Bedard, N.; Baracos, V .; Attaix, D.; Wing, S.S. USP19 is a ubiquitin-speciﬁc
+protease regulated in rat skeletal muscle during catabolic states. Am. J. Physiol. Endocrinol. Metab. 2005 ,288,
+693–700. [CrossRef]
+90. Bédard, N.; Jammoul, S.; Moore, T.; Wykes, L.; Hallauer, P .L.; Hastings, K.E.M.; Stretch, C.; Baracos, V .;
+Chevalier, S.; Plourde, M.; et al. Inactivation of the ubiquitin-speciﬁc protease 19 deubiquitinating enzyme
+protects against muscle wasting. FASEB J. 2015 ,29, 3889–3898. [CrossRef]
+91. Sundaram, P .; Pang, Z.; Miao, M.; Yu, L.; Wing, S.S. USP19-deubiquitinating enzyme regulates levels of major
+myoﬁbrillar proteins in L6 muscle cells. Am. J. Physiol. Endocrinol. Metab. 2009 ,297. [CrossRef]
+92. Lee, D.; Takayama, S.; Goldberg, A.L. ZFAND5 /ZNF216 is an activator of the 26S proteasome that stimulates
+overall protein degradation. Proc. Natl. Acad. Sci. USA 2018 ,115, E9550–E9559. [CrossRef] [PubMed]
+93. Hishiya, A.; Iemura, S.I.; Natsume, T.; Takayama, S.; Ikeda, K.; Watanabe, K. A novel ubiquitin-binding
+protein ZNF216 functioning in muscle atrophy. EMBO J. 2006 ,25, 554–564. [CrossRef]
+94. VerPlank, J.J.S.; Lokireddy, S.; Zhao, J.; Goldberg, A.L. 26S Proteasomes are rapidly activated by diverse
+hormones and physiological states that raise cAMP and cause Rpn6 phosphorylation. Proc. Natl. Acad.
+Sci. USA 2019 ,116, 4228–4237. [CrossRef] [PubMed]
+Int. J. Mol. Sci. 2020 ,21, 4759 23 of 28
+95. Hunt, L.C.; Stover, J.; Haugen, B.; Shaw, T.I.; Li, Y.; Pagala, V .R.; Finkelstein, D.; Barton, E.R.; Fan, Y.;
+Labelle, M.; et al. A Key Role for the Ubiquitin Ligase UBR4 in Myoﬁber Hypertrophy in Drosophila and
+Mice. Cell Rep. 2019 ,28, 1268–1281.e6. [CrossRef] [PubMed]
+96. Mizushima, N.; Yamamoto, A.; Matsui, M.; Yoshimori, T.; Ohsumi, Y. In vivo analysis of autophagy in
+response to nutrient starvation using transgenic mice expressing a ﬂuorescent autophagosome marker.
+Mol. Biol. Cell 2004 ,15, 1101–1111. [CrossRef] [PubMed]
+97. Mofarrahi, M.; Guo, Y.; Haspel, J.A.; Choi, A.M.K.; Davis, E.C.; Gouspillou, G.; Hepple, R.T.; Godin, R.;
+Burelle, Y.; Hussain, S.N.A. Autophagic ﬂux and oxidative capacity of skeletal muscles during acute starvation.
+Autophagy 2013 ,9, 1604–1620. [CrossRef] [PubMed]
+98. Dobrowolny, G.; Aucello, M.; Rizzuto, E.; Beccaﬁco, S.; Mammucari, C.; Boncompagni, S.; Belia, S.;
+Wannenes, F.; Nicoletti, C.; Del Prete, Z.; et al. Skeletal muscle is a primary target of SOD1G93A-mediated
+toxicity. Cell Metab. 2008 ,8, 425–436. [CrossRef]
+99. Raben, N.; Hill, V .; Shea, L.; Takikita, S.; Baum, R.; Mizushima, N.; Ralston, E.; Plotz, P . Suppression of
+autophagy in skeletal muscle uncovers the accumulation of ubiquitinated proteins and their potential role in
+muscle damage in Pompe disease. Hum. Mol. Genet. 2008 ,17, 3897–3908. [CrossRef]
+100. Masiero, E.; Agatea, L.; Mammucari, C.; Blaauw, B.; Loro, E.; Komatsu, M.; Metzger, D.; Reggiani, C.;
+Schia no, S.; Sandri, M. Autophagy is required to maintain muscle mass. Cell Metab. 2009 ,10, 507–515.
+[CrossRef]
+101. Bujak, A.L.; Crane, J.D.; Lally, J.S.; Ford, R.J.; Kang, S.J.; Rebalka, I.A.; Green, A.E.; Kemp, B.E.; Hawke, T.J.;
+Schertzer, J.D.; et al. AMPK activation of muscle autophagy prevents fasting-induced hypoglycemia and
+myopathy during aging. Cell Metab. 2015 ,21, 883–890. [CrossRef] [PubMed]
+102. Nemazanyy, I.; Blaauw, B.; Paolini, C.; Caillaud, C.; Protasi, F.; Mueller, A.; Proikas-Cezanne, T.; Russell, R.C.;
+Guan, K.-L.L.; Nishino, I.; et al. Defects of Vps15 in skeletal muscles lead to autophagic vacuolar myopathy
+and lysosomal disease. EMBO Mol. Med. 2013 ,5, 870–890. [CrossRef] [PubMed]
+103. Fuqua, J.D.; Mere, C.P .; Kronemberger, A.; Blomme, J.; Bae, D.; Turner, K.D.; Harris, M.P .; Scudese, E.;
+Edwards, M.; Ebert, S.M.; et al. ULK2 is essential for degradation of ubiquitinated protein aggregates and
+homeostasis in skeletal muscle. FASEB J. 2019 ,33, 11735–12745. [CrossRef] [PubMed]
+104. Grumati, P .; Coletto, L.; Sabatelli, P .; Cescon, M.; Angelin, A.; Bertaggia, E.; Blaauw, B.; Urciuolo, A.;
+Tiepolo, T.; Merlini, L.; et al. Autophagy is defective in collagen VI muscular dystrophies, and its reactivation
+rescues myoﬁber degeneration. Nat. Med. 2010 ,16, 1313–1320. [CrossRef]
+105. De Palma, C.; Morisi, F.; Cheli, S.; Pambianco, S.; Cappello, V .; Vezzoli, M.; Rovere-Querini, P .; Moggio, M.;
+Ripolone, M.; Francolini, M.; et al. Autophagy as a new therapeutic target in Duchenne muscular dystrophy.
+Cell Death Dis. 2012 ,3, e418. [CrossRef]
+106. Pauly, M.; Daussin, F.; Burelle, Y.; Li, T.; Godin, R.; Fauconnier, J.; Koechlin-Ramonatxo, C.; Hugon, G.;
+Lacampagne, A.; Coisy-Quivy, M.; et al. AMPK activation stimulates autophagy and ameliorates muscular
+dystrophy in the mdx mouse diaphragm. Am. J. Pathol. 2012 ,181, 583–592. [CrossRef]
+107. Sugie, K.; Noguchi, S.; Kozuka, Y.; Arikawa-Hirasawa, E.; Tanaka, M.; Yan, C.; Saftig, P .; von Figura, K.;
+Hirano, M.; Ueno, S.; et al. Autophagic vacuoles with sarcolemmal features delineate Danon disease and
+related myopathies. J. Neuropathol. Exp. Neurol. 2005 ,64, 513–522. [CrossRef]
+108. O’Leary, M.F.M.F.; Vainshtein, A.; Iqbal, S.; Ostojic, O.; Hood, D.A.D.A. Adaptive plasticity of autophagic
+proteins to denervation in aging skeletal muscle. Am. J. Physiol. Cell Physiol. 2013 ,304, C422–C430. [CrossRef]
+109. Lo Verso, F.; Carnio, S.; Vainshtein, A.; Sandri, M.; LoVerso, F.; Carnio, S.; Vainshtein, A.; Sandri, M.
+Autophagy is not required to sustain exercise and PRKAA1 /AMPK activity but is important to prevent
+mitochondrial damage during physical activity. Autophagy 2014 ,10, 11. [CrossRef]
+110. Castets, P .; Rion, N.; Th éodore, M.; Falcetta, D.; Lin, S.; Reischl, M.; Wild, F.; Gu érard, L.; Eickhorst, C.;
+Brockho , M.; et al. mTORC1 and PKB /Akt control the muscle response to denervation by regulating
+autophagy and HDAC4. Nat. Commun. 2019 ,10, 3187. [CrossRef]
+111. García-Prat, L.; Mart ínez-Vicente, M.; Perdiguero, E.; Ortet, L.; Rodr íguez-Ubreva, J.; Rebollo, E.;
+Ruiz-Bonilla, V .; Gutarra, S.; Ballestar, E.; Serrano, A.L.; et al. Autophagy maintains stemness by preventing
+senescence. Nature 2016 ,529, 37–42. [CrossRef] [PubMed]
+112. Ryu, D.; Mouchiroud, L.; Andreux, P .A.; Katsyuba, E.; Moullan, N.; Nicolet-Dit-F élix, A.A.; Williams, E.G.;
+Jha, P .; Lo Sasso, G.; Huzard, D.; et al. Urolithin A induces mitophagy and prolongs lifespan in C. elegans and
+increases muscle function in rodents. Nat. Med. 2016 ,22, 879–888. [CrossRef] [PubMed]
+Int. J. Mol. Sci. 2020 ,21, 4759 24 of 28
+113. Wohlgemuth, S.E.; Seo, A.Y.; Marzetti, E.; Lees, H.A.; Leeuwenburgh, C. Skeletal muscle autophagy and
+apoptosis during aging: E ects of calorie restriction and life-long exercise. Exp. Gerontol. 2010 ,45, 138–148.
+[CrossRef] [PubMed]
+114. Piccirillo, R.; Goldberg, A.L. The p97 /VCP ATPase is critical in muscle atrophy and the accelerated degradation
+of muscle proteins. EMBO J. 2012 ,31, 3334–3350. [CrossRef] [PubMed]
+115. Wang, C.; Arrington, J.; Ratli , A.C.; Chen, J.; Horton, H.E.; Nie, Y.; Yue, F.; Hrycyna, C.A.; Andy Tao, W.;
+Kuang, S. Methyltransferase-like 21c methylates and stabilizes the heat shock protein Hspa8 in type I
+myoﬁbers in mice. J. Biol. Chem. 2019 ,294, 13718–13728. [CrossRef]
+116. Wiederstein, J.L.; Nolte, H.; Günther, S.; Piller, T.; Baraldo, M.; Kostin, S.; Bloch, W.; Schindler, N.; Sandri, M.;
+Blaauw, B.; et al. Skeletal Muscle-Speciﬁc Methyltransferase METTL21C Trimethylates p97 and Regulates
+Autophagy-Associated Protein Breakdown. Cell Rep. 2018 ,23, 1342–1356. [CrossRef]
+117. Zhao, J.; Brault, J.J.; Schild, A.; Cao, P .; Sandri, M.; Schiaffino, S.; Lecker, S.H.; Goldberg, A.L. FoxO3 coordinately
+activates protein degradation by the autophagic /lysosomal and proteasomal pathways in atrophying muscle
+cells. Cell Metab. 2007 ,6, 472–483. [CrossRef]
+118. Sandri, M.; Sandri, C.; Gilbert, A.; Skurk, C.; Calabria, E.; Picard, A.; Walsh, K.; Schia no, S.; Lecker, S.H.;
+Goldberg, A.L. Foxo transcription factors induce the atrophy-related ubiquitin ligase atrogin-1 and cause
+skeletal muscle atrophy. Cell2004 ,117, 399–412. [CrossRef]
+119. Mammucari, C.; Milan, G.; Romanello, V .; Masiero, E.; Rudolf, R.; Del Piccolo, P .; Burden, S.J.; Di Lisi, R.;
+Sandri, C.; Zhao, J.; et al. FoxO3 controls autophagy in skeletal muscle in vivo .Cell Metab. 2007 ,6, 458–471.
+[CrossRef]
+120. Cai, D.; Frantz, J.D.; Tawa, N.E.; Melendez, P .A.; Oh, B.-C.; Lidov, H.G.W.; Hasselgren, P .-O.; Frontera, W.R.;
+Lee, J.; Glass, D.J.; et al. IKKbeta /NF-kappaB activation causes severe muscle wasting in mice. Cell2004 ,119,
+285–298. [CrossRef]
+121. Judge, A.R.; Koncarevic, A.; Hunter, R.B.; Liou, H.C.; Jackman, R.W.; Kandarian, S.C. Role for IkappaBalpha,
+but not c-Rel, in skeletal muscle atrophy. Am. J. Physiol. Cell Physiol. 2007 ,292, C372–C382. [CrossRef]
+[PubMed]
+122. Sanchez, A.M.J.; Candau, R.B.; Bernardi, H. FoxO transcription factors: Their roles in the maintenance of
+skeletal muscle homeostasis. Cell. Mol. Life Sci. 2013 . [CrossRef] [PubMed]
+123. Accili, D.; Arden, K.C. FoxOs at the crossroads of cellular metabolism, di erentiation, and transformation.
+Cell2004 ,117, 421–426. [CrossRef]
+124. Smith, I.J.; Alamdari, N.; O’Neal, P .; Gonnella, P .; Aversa, Z.; Hasselgren, P .-O. Sepsis increases the
+expression and activity of the transcription factor Forkhead Box O 1 (FOXO1) in skeletal muscle by a
+glucocorticoid-dependent mechanism. Int. J. Biochem. Cell Biol. 2010 ,42, 701–711. [CrossRef] [PubMed]
+125. Senf, S.M.; Dodd, S.L.; McClung, J.M.; Judge, A.R. Hsp70 overexpression inhibits NF-kappaB and Foxo3a
+transcriptional activities and prevents skeletal muscle atrophy. FASEB J. 2008 ,22, 3836–3845. [CrossRef]
+126. Brocca, L.; Toniolo, L.; Reggiani, C.; Bottinelli, R.; Sandri, M.; Pellegrino, M.A. FoxO-dependent atrogenes
+vary among catabolic conditions and play a key role in muscle atrophy induced by hindlimb suspension.
+J. Physiol. 2017 ,595, 1143–1158. [CrossRef]
+127. O’Neill, B.T.; Bhardwaj, G.; Penniman, C.M.; Krumpoch, M.T.; Suarez Beltran, P .A.; Klaus, K.; Poro, K.; Li, M.;
+Pan, H.; Dreyfuss, J.M.; et al. FOXO transcription factors are critical regulators of diabetes-related muscle
+atrophy. Diabetes 2019 ,68, 556–570. [CrossRef]
+128. Greer, E.L.; Oskoui, P .R.; Banko, M.R.; Maniar, J.M.; Gygi, M.P .; Gygi, S.P .; Brunet, A. The energy sensor
+AMP-activated protein kinase directly regulates the mammalian FOXO3 transcription factor. J. Biol. Chem.
+2007 ,282, 30107–30119. [CrossRef]
+129. Sanchez, A.M.J.; Csibi, A.; Raibon, A.; Cornille, K.; Gay, S.; Bernardi, H.; Candau, R. AMPK promotes skeletal
+muscle autophagy through activation of forkhead FoxO3a and interaction with Ulk1. J. Cell. Biochem. 2012 ,
+113, 695–710. [CrossRef]
+130. Bertaggia, E.; Coletto, L.; Sandri, M. Posttranslational modiﬁcations control FoxO3 activity during denervation.
+Am. J. Physiol. Cell Physiol. 2012 ,302, C587–C596. [CrossRef]
+131. Andres-Mateos, E.; Brinkmeier, H.; Burks, T.N.; Mejias, R.; Files, D.C.; Steinberger, M.; Soleimani, A.; Marx, R.;
+Simmers, J.L.; Lin, B.; et al. Activation of serum /glucocorticoid-induced kinase 1 (SGK1) is important to
+maintain skeletal muscle homeostasis and prevent atrophy. EMBO Mol. Med. 2013 ,5, 80–91. [CrossRef]
+[PubMed]
+Int. J. Mol. Sci. 2020 ,21, 4759 25 of 28
+132. Brunet, A.; Park, J.; Tran, H.; Hu, L.S.; Hemmings, B.A.; Greenberg, M.E. Protein Kinase SGK Mediates
+Survival Signals by Phosphorylating the Forkhead Transcription Factor FKHRL1 (FOXO3a). Mol. Cell. Biol.
+2001 ,21, 952–965. [CrossRef] [PubMed]
+133. Asada, S.; Daitoku, H.; Matsuzaki, H.; Saito, T.; Sudo, T.; Mukai, H.; Iwashita, S.; Kako, K.; Kishi, T.; Kasuya, Y.;
+et al. Mitogen-activated protein kinases, Erk and p38, phosphorylate and regulate Foxo1. Cell. Signal. 2007 ,
+19, 519–527. [CrossRef] [PubMed]
+134. Yang, J.-Y.Y.; Zong, C.S.; Xia, W.; Yamaguchi, H.; Ding, Q.; Xie, X.; Lang, J.-Y.Y.; Lai, C.-C.C.; Chang, C.-J.J.;
+Huang, W.-C.C.; et al. ERK promotes tumorigenesis by inhibiting FOXO3a via MDM2-mediated degradation.
+Nat. Cell Biol. 2008 ,10, 138–148. [CrossRef] [PubMed]
+135. Essers, M.A.G.; Weijzen, S.; De Vries-Smits, A.M.M.; Saarloos, I.; De Ruiter, N.D.; Bos, J.L.; Burgering, B.M.T.
+FOXO transcription factor activation by oxidative stress mediated by the small GTPase Ral and JNK. EMBO J.
+2004 ,23, 4802–4812. [CrossRef] [PubMed]
+136. Oh, S.W.; Mukhopadhyay, A.; Svrzikapa, N.; Jiang, F.; Davis, R.J.; Tissenbaum, H.A. JNK regulates lifespan
+in Caenorhabiditis elegans by modulating nuclear translocation of forkhead transcription factor /DAF-16.
+Proc. Natl. Acad. Sci. USA 2005 ,102, 4494–4499. [CrossRef] [PubMed]
+137. Hu, M.C.T.; Lee, D.F.; Xia, W.; Golfman, L.S.; Ou-Yang, F.; Yang, J.Y.; Zou, Y.; Bao, S.; Hanada, N.; Saso, H.; et al.
+IB kinase promotes tumorigenesis through inhibition of forkhead FOXO3a. Cell2004 ,117, 225–237. [CrossRef]
+138. Wei, B.; Dui, W.; Liu, D.; Xing, Y.; Yuan, Z.; Ji, G. MST1, a key player, in enhancing fast skeletal muscle
+atrophy. BMC Biol. 2013 ,11, 12. [CrossRef]
+139. Lehtinen, M.K.; Yuan, Z.; Boag, P .R.; Yang, Y.; Vill én, J.; Becker, E.B.E.; DiBacco, S.; de la Iglesia, N.; Gygi, S.;
+Blackwell, T.K.; et al. A Conserved MST-FOXO Signaling Pathway Mediates Oxidative-Stress Responses and
+Extends Life Span. Cell2006 ,125, 987–1001. [CrossRef]
+140. Webb, A.E.; Brunet, A. FOXO transcription factors: Key regulators of cellular quality control. Trends Biochem. Sci.
+2014 ,39, 159–169. [CrossRef]
+141. Beharry, A.W.; Sandesara, P .B.; Roberts, B.M.; Ferreira, L.F.; Senf, S.M.; Judge, A.R. HDAC1 activates FoxO
+and is both su cient and required for skeletal muscle atrophy. J. Cell Sci. 2014 ,127, 1441–1453. [CrossRef]
+[PubMed]
+142. Lee, D.; Goldberg, A.L. SIRT1 protein, by blocking the activities of transcription factors FoxO1 and FoxO3,
+inhibits muscle atrophy and promotes muscle growth. J. Biol. Chem. 2013 ,288, 30515–30526. [CrossRef]
+143. Choi, S.; Jeong, H.J.; Kim, H.; Choi, D.; Cho, S.C.; Seong, J.K.; Koo, S.H.; Kang, J.S. Skeletal muscle-speciﬁc
+Prmt1 deletion causes muscle atrophy via deregulation of the PRMT6-FOXO3 axis. Autophagy 2019 ,15,
+1069–1081. [CrossRef] [PubMed]
+144. Sandri, M.; Lin, J.; Handschin, C.; Yang, W.; Arany, Z.P .; Lecker, S.H.; Goldberg, A.L.; Spiegelman, B.M.
+PGC-1alpha protects skeletal muscle from atrophy by suppressing FoxO3 action and atrophy-speciﬁc gene
+transcription. Proc. Natl. Acad. Sci. USA 2006 ,103, 16260–16265. [CrossRef] [PubMed]
+145. Brault, J.J.; Jespersen, J.G.; Goldberg, A.L. Peroxisome proliferator-activated receptor gamma coactivator
+1alpha or 1beta overexpression inhibits muscle protein degradation, induction of ubiquitin ligases, and disuse
+atrophy. J. Biol. Chem. 2010 ,285, 19460–19471. [CrossRef] [PubMed]
+146. Waddell, D.S.; Baehr, L.M.; Van Den Brandt, J.; Johnsen, S.A.; Reichardt, H.M.; Furlow, J.D.; Bodine, S.C.
+The glucocorticoid receptor and FOXO1 synergistically activate the skeletal muscle atrophy-associated
+MuRF1 gene. Am. J. Physiol. Endocrinol. Metab. 2008 ,295. [CrossRef] [PubMed]
+147. Okada, K.; Naito, A.T.; Higo, T.; Nakagawa, A.; Shibamoto, M.; Sakai, T.; Hashimoto, A.; Kuramoto, Y.;
+Sumida, T.; Nomura, S.; et al. Wnt /-catenin signaling contributes to skeletal myopathy in heart failure via
+direct interaction with forkhead box o. Circ. Hear. Fail. 2015 ,8, 799–808. [CrossRef] [PubMed]
+148. Yin, J.; Yang, L.; Xie, Y.; Liu, Y.; Li, S.; Yang, W.; Xu, B.; Ji, H.; Ding, L.; Wang, K.; et al. Dkk3 dependent
+transcriptional regulation controls age related skeletal muscle atrophy. Nat. Commun. 2018 ,9. [CrossRef]
+149. Shimizu, N.; Maruyama, T.; Yoshikawa, N.; Matsumiya, R.; Ma, Y.; Ito, N.; Tasaka, Y.; Kuribara-Souta, A.;
+Miyata, K.; Oike, Y.; et al. A muscle-liver-fat signalling axis is essential for central control of adaptive adipose
+remodelling. Nat. Commun. 2015 ,6, 6693. [CrossRef]
+150. Shimizu, N.; Yoshikawa, N.; Ito, N.; Maruyama, T.; Suzuki, Y.; Takeda, S.; Nakae, J.; Tagata, Y.; Nishitani, S.;
+Takehana, K.; et al. Crosstalk between Glucocorticoid Receptor and Nutritional Sensor mTOR in Skeletal
+Muscle. Cell Metab. 2011 ,13, 170–182. [CrossRef]
+Int. J. Mol. Sci. 2020 ,21, 4759 26 of 28
+151. Qin, W.; Pan, J.; Qin, Y.; Lee, D.N.; Bauman, W.A.; Cardozo, C. Identiﬁcation of functional glucocorticoid
+response elements in the mouse FoxO1 promoter. Biochem. Biophys. Res. Commun. 2014 ,450, 979–983.
+[CrossRef] [PubMed]
+152. Segatto, M.; Fittipaldi, R.; Pin, F.; Sartori, R.; Dae Ko, K.; Zare, H.; Fenizia, C.; Zanchettin, G.; Pierobon, E.S.;
+Hatakeyama, S.; et al. Epigenetic targeting of bromodomain protein BRD4 counteracts cancer cachexia and
+prolongs survival. Nat. Commun. 2017 ,8, 1707. [CrossRef] [PubMed]
+153. Bowman, C.J.; Ayer, D.E.; Dynlacht, B.D. Foxk proteins repress the initiation of starvation-induced atrophy
+and autophagy programs. Nat. Cell Biol. 2014 ,16, 1202–1214. [CrossRef] [PubMed]
+154. Mourkioti, F.; Kratsios, P .; Luedde, T.; Song, Y.H.; Delafontaine, P .; Adami, R.; Parente, V .; Bottinelli, R.;
+Pasparakis, M.; Rosenthal, N. Targeted ablation of IKK2 improves skeletal muscle strength, maintains mass,
+and promotes regeneration. J. Clin. Invest. 2006 ,116, 2945–2954. [CrossRef]
+155. Mittal, A.; Bhatnagar, S.; Kumar, A.; Lach-Triﬁlie , E.; Wauters, S.; Li, H.; Makonchuk, D.Y.; Glass, D.J.;
+Kumar, A. The TWEAK-Fn14 system is a critical regulator of denervation-induced skeletal muscle atrophy
+in mice. J. Cell Biol. 2010 ,188, 833–849. [CrossRef]
+156. Wu, C.L.; Kandarian, S.C.; Jackman, R.W. Identiﬁcation of genes that elicit disuse muscle atrophy via the
+transcription factors p50 and Bcl-3. PLoS ONE 2011 ,6, e16171. [CrossRef]
+157. Sun, L.; Si, M.; Liu, X.; Choi, J.M.; Wang, Y.; Thomas, S.S.; Peng, H.; Hu, Z. Long-noncoding RNA Atrolnc-1
+promotes muscle wasting in mice with chronic kidney disease. J. Cachexia. Sarcopenia Muscle 2018 ,9, 962–974.
+[CrossRef]
+158. Bonetto, A.; Aydogdu, T.; Jin, X.; Zhang, Z.; Zhan, R.; Puzis, L.; Koniaris, L.G.; Zimmers, T.A. JAK /STAT3
+pathway inhibition blocks skeletal muscle wasting downstream of IL-6 and in experimental cancer cachexia.
+Am. J. Physiol. Endocrinol. Metab. 2012 ,303. [CrossRef]
+159. Silva, K.A.S.; Dong, J.; Dong, Y.; Dong, Y.; Schor, N.; Tweardy, D.J.; Zhang, L.; Mitch, W.E. Inhibition of Stat3
+activation suppresses caspase-3 and the ubiquitin-proteasome system, leading to preservation of muscle
+mass in cancer cachexia. J. Biol. Chem. 2015 ,290, 11177–11187. [CrossRef]
+160. Cohen, T.J.; Waddell, D.S.; Barrientos, T.; Lu, Z.; Feng, G.; Cox, G.A.; Bodine, S.C.; Yao, T.P . The histone
+deacetylase HDAC4 connects neural activity to muscle transcriptional reprogramming. J. Biol. Chem. 2007 ,
+282, 33752–33759. [CrossRef]
+161. Tang, H.; Goldman, D. Activity-dependent gene regulation in skeletal muscle is mediated by a histone
+deacetylase (HDAC)-Dach2-myogenin signal transduction cascade. Proc. Natl. Acad. Sci. USA 2006 ,103,
+16977–16982. [CrossRef] [PubMed]
+162. Moresi, V .; Williams, A.H.; Meadows, E.; Flynn, J.M.; Pottho , M.J.; McAnally, J.; Shelton, J.M.; Backs, J.;
+Klein, W.H.; Richardson, J.A.; et al. Myogenin and class II HDACs control neurogenic muscle atrophy by
+inducing E3 ubiquitin ligases. Cell2010 ,143, 35–45. [CrossRef] [PubMed]
+163. Luo, L.; Martin, S.C.; Parkington, J.; Cadena, S.M.; Zhu, J.; Ibebunjo, C.; Summermatter, S.; Londraville, N.;
+Patora-Komisarska, K.; Widler, L.; et al. HDAC4 Controls Muscle Homeostasis through Deacetylation of
+Myosin Heavy Chain, PGC-1 , and Hsc70. Cell Rep. 2019 ,29, 749–763.e12. [CrossRef] [PubMed]
+164. Ebert, S.M.; Dyle, M.C.; Kunkel, S.D.; Bullard, S.A.; Bongers, K.S.; Fox, D.K.; Dierdor , J.M.; Foster, E.D.;
+Adams, C.M. Stress-induced skeletal muscle Gadd45a expression reprograms myonuclei and causes muscle
+atrophy. J. Biol. Chem. 2012 ,287, 27290–27301. [CrossRef] [PubMed]
+165. Ebert, S.M.; Monteys, A.M.; Fox, D.K.; Bongers, K.S.; Shields, B.E.; Malmberg, S.E.; Davidson, B.L.;
+Suneja, M.; Adams, C.M. The transcription factor ATF4 promotes skeletal myoﬁber atrophy during fasting.
+Mol. Endocrinol. 2010 ,24, 790–799. [CrossRef]
+166. Ogata, M.; Hino, S.; Saito, A.; Morikawa, K.; Kondo, S.; Kanemoto, S.; Murakami, T.; Taniguchi, M.; Tanii, I.;
+Yoshinaga, K.; et al. Autophagy is activated for cell survival after endoplasmic reticulum stress. Mol. Cell. Biol.
+2006 ,26, 9220–9231. [CrossRef]
+167. Li, J.; Ni, M.; Lee, B.; Barron, E.; Hinton, D.R.; Lee, A.S. The unfolded protein response regulator GRP78 /BiP is
+required for endoplasmic reticulum integrity and stress-induced autophagy in mammalian cells. Cell Death Differ.
+2008 ,15, 1460–1471. [CrossRef]
+168. B’chir, W.; Maurin, A.-C.; Carraro, V .; Averous, J.; Jousse, C.; Muranishi, Y .; Parry , L.; Stepien, G.; Fafournoux, P .;
+Bruhat, A. The eIF2 /ATF4 pathway is essential for stress-induced autophagy gene expression. Nucleic Acids Res.
+2013 ,41, 7683–7699. [CrossRef]
+Int. J. Mol. Sci. 2020 ,21, 4759 27 of 28
+169. Yu, Z.; Wang, A.M.; Adachi, H.; Katsuno, M.; Sobue, G.; Yue, Z.; Robins, D.M.; Lieberman, A.P .
+Macroautophagy is regulated by the UPR-mediator CHOP and accentuates the phenotype of SBMA
+mice. PLoS Genet. 2011 ,7, e1002321. [CrossRef]
+170. Gallot, Y.S.; Bohnert, K.R.; Straughn, A.R.; Xiong, G.; Hindi, S.M.; Kumar, A. PERK regulates skeletal muscle
+mass and contractile function in adult mice. FASEB J. 2019 ,33, 1946–1962. [CrossRef]
+171. Bohnert, K.R.; Goli, P .; Roy, A.; Sharma, A.K.; Xiong, G.; Gallot, Y.S.; Kumar, A. The Toll-Like Receptor /
+MyD88 /XBP1 Signaling Axis Mediates Skeletal Muscle Wasting during Cancer Cachexia. Mol. Cell. Biol.
+2019 ,39. [CrossRef] [PubMed]
+172. Tezze, C.; Romanello, V .; Desbats, M.A.; Fadini, G.P .; Albiero, M.; Favaro, G.; Ciciliot, S.; Soriano, M.E.;
+Morbidoni, V .; Cerqua, C.; et al. Age-Associated Loss of OPA1 in Muscle Impacts Muscle Mass, Metabolic
+Homeostasis, Systemic Inﬂammation, and Epithelial Senescence. Cell Metab. 2017 ,25, 1374–1389.e6.
+[CrossRef] [PubMed]
+173. Favaro, G.; Romanello, V .; Varanita, T.; Andrea Desbats, M.; Morbidoni, V .; Tezze, C.; Albiero, M.; Canato, M.;
+Gherardi, G.; De Stefani, D.; et al. DRP1-mediated mitochondrial shape controls calcium homeostasis and
+muscle mass. Nat. Commun. 2019 ,10, 2576. [CrossRef] [PubMed]
+174. Soares, R.J.; Cagnin, S.; Chemello, F.; Silvestrin, M.; Musaro, A.; De Pitta, C.; Lanfranchi, G.; Sandri, M.
+Involvement of microRNAs in the regulation of muscle wasting during catabolic conditions. J. Biol. Chem.
+2014 ,289, 21909–21925. [CrossRef] [PubMed]
+175. Hudson, M.B.; Rahnert, J.A.; Zheng, B.; Woodworth-Hobbs, M.E.; Franch, H.A.; Russ Price, S. miR-182
+attenuates atrophy-related gene expression by targeting FoxO3 in skeletal muscle. Am. J. Physiol. Cell Physiol.
+2014 ,307, C314–C319. [CrossRef]
+176. Ringholm, S.; Biensø, R.S.; Kiilerich, K.; Guadalupe-Grau, A.; Aachmann-Andersen, N.J.; Saltin, B.;
+Plomgaard, P .; Lundby, C.; Wojtaszewski, J.F.P .; Calbet, J.A.; et al. Bed rest reduces metabolic protein
+content and abolishes exercise-induced mRNA responses in human skeletal muscle. Am. J. Physiol.
+Endocrinol. Metab. 2011 ,301, E649–E658. [CrossRef]
+177. Jeng, S.F.; Rau, C.S.; Liliang, P .C.; Wu, C.J.; Lu, T.H.; Chen, Y.C.; Lin, C.J.; Hsieh, C.H. Proﬁling muscle-speciﬁc
+microRNA expression after peripheral denervation and reinnervation in a rat model. J. Neurotrauma 2009 ,26,
+2345–2353. [CrossRef]
+178. Bai, L.; Liang, R.; Yang, Y.; Hou, X.; Wang, Z.; Zhu, S.; Wang, C.; Tang, Z.; Li, K. MicroRNA-21 regulates
+PI3K /Akt/mTOR signaling by targeting TGF I during skeletal muscle development in pigs. PLoS ONE
+2015 ,10. [CrossRef]
+179. Meyer, S.U.; Thirion, C.; Polesskaya, A.; Bauersachs, S.; Kaiser, S.; Krause, S.; Pfa , M.W. TNF-and IGF1
+modify the microRNA signature in skeletal muscle cell di erentiation. Cell Commun. Signal. 2015 ,13, 4.
+[CrossRef]
+180. Conte, M.; Armani, A.; Conte, G.; Serra, A.; Franceschi, C.; Mele, M.; Sandri, M.; Salvioli, S. Muscle-specific Perilipin2
+down-regulation affects lipid metabolism and induces myofiber hypertrophy . J. Cachexia. Sarcopenia Muscle 2019 ,
+10, 95–110. [CrossRef]
+181. Wicks, K.L.; Hood, D.A. Mitochondrial adaptations in denervated muscle: Relationship to muscle performance.
+Am. J. Physiol. 1991 ,260, C841–C850. [CrossRef] [PubMed]
+182. Wenz, T.; Rossi, S.G.; Rotundo, R.L.; Spiegelman, B.M.; Moraes, C.T. Increased muscle PGC-1alpha expression
+protects from sarcopenia and metabolic disease during aging. Proc. Natl. Acad. Sci. USA. 2009 ,106,
+20405–20410. [CrossRef] [PubMed]
+183. Sacheck, J.M.; Hyatt, J.-P .K.P .; Ra aello, A.; Jagoe, R.T.; Roy, R.R.; Edgerton, V .R.; Lecker, S.H.; Goldberg, A.L.
+Rapid disuse and denervation atrophy involve transcriptional changes similar to those of muscle wasting
+during systemic diseases. FASEB J. 2007 ,21, 140–155. [CrossRef] [PubMed]
+184. Adhihetty, P .J.; O’Leary, M.F.N.; Chabi, B.; Wicks, K.L.; Hood, D.A. E ect of denervation on mitochondrially
+mediated apoptosis in skeletal muscle. J. Appl. Physiol. 2007 ,102, 1143–1151. [CrossRef]
+185. Wagatsuma, A.; Kotake, N.; Mabuchi, K.; Yamada, S. Expression of nuclear-encoded genes involved in
+mitochondrial biogenesis and dynamics in experimentally denervated muscle. J. Physiol. Biochem. 2011 ,67,
+359–370. [CrossRef]
+186. Kang, C.; Ji, L.L. Muscle immobilization and remobilization downregulates PGC-1 signaling and the
+mitochondrial biogenesis pathway. J. Appl. Physiol. 2013 ,115, 1618–1625. [CrossRef]
+Int. J. Mol. Sci. 2020 ,21, 4759 28 of 28
+187. Booth, F.W.; Lou, W.; Hamilton, M.T.; Yan, Z. Cytochrome c mRNA in skeletal muscles of immobilized limbs.
+J. Appl. Physiol. 1996 ,81, 1941–1945. [CrossRef]
+188. Ruas, J.L.; White, J.P .; Rao, R.R.; Kleiner, S.; Brannan, K.T.; Harrison, B.C.; Greene, N.P .; Wu, J.; Estall, J.L.;
+Irving, B.A.; et al. A PGC-1 Isoform Induced by Resistance Training Regulates Skeletal Muscle Hypertrophy.
+Cell2012 ,151, 1319–1331. [CrossRef]
+189. White, J.P .; Wrann, C.D.; Rao, R.R.; Nair, S.K.; Jedrychowski, M.P .; You, J.-S.; Mart ínez-Redondo, V .; Gygi, S.P .;
+Ruas, J.L.; Hornberger, T.A.; et al. G protein-coupled receptor 56 regulates mechanical overload-induced
+muscle hypertrophy. Proc. Natl. Acad. Sci. USA 2014 ,111, 15756–15761. [CrossRef]
+190. Iqbal, S.; Ostojic, O.; Singh, K.; Joseph, A.-M.; Hood, D.A. Expression of mitochondrial ﬁssion and fusion
+regulatory proteins in skeletal muscle during chronic use and disuse. Muscle Nerve 2013 ,48, 963–970.
+[CrossRef]
+191. Romanello, V .; Guadagnin, E.; Gomes, L.; Roder, I.; Sandri, C.; Petersen, Y.; Milan, G.; Masiero, E.;
+Del Piccolo, P .; Foretz, M.; et al. Mitochondrial ﬁssion and remodelling contributes to muscle atrophy.
+EMBO J. 2010 ,29, 1774–1785. [CrossRef] [PubMed]
+192. Romanello, V .; Scalabrin, M.; Albiero, M.; Blaauw, B.; Scorrano, L.; Sandri, M. Inhibition of the Fission
+Machinery Mitigates OPA1 Impairment in Adult Skeletal Muscles. Cells 2019 ,8, 597. [CrossRef] [PubMed]
+193. Larsson, L.; Degens, H.; Li, M.; Salviati, L.; Lee, Y., II; Thompson, W.; Kirkland, J.L.; Sandri, M. Sarcopenia:
+Aging-Related Loss of Muscle Mass and Function. Physiol. Rev. 2019 ,99, 427–511. [CrossRef]
+194. Kravic, B.; Harbauer, A.B.; Romanello, V .; Simeone, L.; Vögtle, F.N.; Kaiser, T.; Straubinger, M.; Huraskin, D.;
+Böttcher, M.; Cerqua, C.; et al. In mammalian skeletal muscle, phosphorylation of TOMM22 by protein
+kinase CSNK2 /CK2 controls mitophagy. Autophagy 2018 ,14, 311–335. [CrossRef] [PubMed]
+195. Das, S.; Morvan, F.; Jourde, B.; Meier, V .; Kahle, P .; Brebbia, P .; Toussaint, G.; Glass, D.J.; Fornaro, M. ATP citrate
+lyase improves mitochondrial function in skeletal muscle. Cell Metab. 2015 ,21, 868–876. [CrossRef] [PubMed]
+196. Das, S.; Morvan, F.; Morozzi, G.; Jourde, B.; Minetti, G.C.; Kahle, P .; Rivet, H.; Brebbia, P .; Toussaint, G.;
+Glass, D.J.; et al. ATP Citrate Lyase Regulates Myoﬁber Di erentiation and Increases Regeneration by
+Altering Histone Acetylation. Cell Rep. 2017 ,21, 3003–3011. [CrossRef] [PubMed]
+197. Pin, F.; Novinger, L.J.; Huot, J.R.; Harris, R.A.; Couch, M.E.; O’Connell, T.M.; Bonetto, A. PDK4 drives
+metabolic alterations and muscle atrophy in cancer cachexia. FASEB J. 2019 ,33, 7778–7790. [CrossRef]
+198. Gherardi, G.; Nogara, L.; Ciciliot, S.; Fadini, G.P .; Blaauw, B.; Braghetta, P .; Bonaldo, P .; De Stefani, D.;
+Rizzuto, R.; Mammucari, C. Loss of mitochondrial calcium uniporter rewires skeletal muscle metabolism
+and substrate preference. Cell Death Di er.2019 ,26, 362–381. [CrossRef]
+199. Mammucari, C.; Gherardi, G.; Zamparo, I.; Ra aello, A.; Boncompagni, S.; Chemello, F.; Cagnin, S.; Braga, A.;
+Zanin, S.; Pallafacchina, G.; et al. The Mitochondrial Calcium Uniporter Controls Skeletal Muscle Trophism
+InVivo. Cell Rep. 2015 ,10, 1269–1279. [CrossRef]
+200. Parajuli, P .; Kumar, S.; Loumaye, A.; Singh, P .; Eragamreddy, S.; Nguyen, T.L.; Ozkan, S.; Razzaque, M.S.;
+Prunier, C.; Thissen, J.P .; et al. Twist1 Activation in Muscle Progenitor Cells Causes Muscle Loss Akin to
+Cancer Cachexia. Dev. Cell 2018 ,45, 712–725.e6. [CrossRef]
+201. Zhang, G.; Liu, Z.; Ding, H.; Zhou, Y.; Doan, H.A.; Sin, K.W.T.; Zhu, Z.J.; Flores, R.; Wen, Y.; Gong, X.; et al.
+Tumor induces muscle wasting in mice through releasing extracellular Hsp70 and Hsp90. Nat. Commun.
+2017 ,8. [CrossRef] [PubMed]
+202. Talbert, E.E.; Guttridge, D.C. Impaired regeneration: A role for the muscle microenvironment in cancer
+cachexia. Semin. Cell Dev. Biol. 2016 ,54, 82–91. [CrossRef] [PubMed]
+203. He, W.A.; Berardi, E.; Cardillo, V .M.; Acharyya, S.; Aulino, P .; Thomas-Ahner, J.; Wang, J.; Bloomston, M.;
+Muscarella, P .; Nau, P .; et al. NF- B-mediated Pax7 dysregulation in the muscle microenvironment promotes
+cancer cachexia. J. Clin. Invest. 2013 ,123, 4821–4835. [CrossRef]
+204. Madaro, L.; Passafaro, M.; Sala, D.; Etxaniz, U.; Lugarini, F.; Proietti, D.; Alfonsi, M.V .; Nicoletti, C.; Gatto, S.;
+De Bardi, M.; et al. Denervation-activated STAT3–IL-6 signalling in ﬁbro-adipogenic progenitors promotes
+myoﬁbres atrophy and ﬁbrosis. Nat. Cell Biol. 2018 ,20, 917–927. [CrossRef] [PubMed]
+©2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http: //creativecommons.org /licenses /by/4.0/).

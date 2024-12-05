@@ -1,0 +1,805 @@
+Original Investigation | Genetics and Genomics
+Sociodemographic and Lifestyle Factors and Epigenetic Aging in US Young Adults
+NIMHDSocialEpigenomicsProgram
+KathleenMullanHarris,PhD;BrandtLevitt,PhD;LaurenGaydosh,PhD;ChantelMartin,PhD;JessM.Meyer,PhD;AuraAnkitaMishra,PhD;
+AudreyL.Kelly,PhD;AllisonE.Aiello,PhD
+Abstract
+IMPORTANCE Epigeneticclocksrepresentmolecularevidenceofdiseaseriskandagingprocesses
+andhavebeenusedtoidentifyhowsocialandlifestylecharacteristicsareassociatedwithacceleratedbiologicalaging.H owever,mostre searchisbasedonsamplesofolderadultswhoalready
+havemeasurablechronicdisease.
+OBJECTIVE Toinvestigatewhetherandhowsociodemographicandlifestylecharacteristicsare
+associatedwithbiologicalaginginayoungeradultsampleacrossawidearrayofepigeneticclockmeasures.
+DESIGN, SETTING, AND PARTICIPANTS Thiscohortstudywasconductedusingdatafromthe
+NationalLongitudinalStudyofAdolescenttoAdultHealth,aUSrepresentativecohortofadolescentsingrades7to12in1994followedupfor25yearsto2018over5interviewwaves.ParticipantswhoprovidedbloodsamplesatwaveV(2016-2018)wereanalyzed,withsamplestestedforDNAmethylation(DNAm)in2021to2024.DatawereanalyzedfromFebruary2023toMay2024.
+EXPOSURE Sociodemographic(sex,raceandethnicity,immigrantstatus,socioeconomicstatus,
+andgeographiclocation)andlifestyle(obesitystatusbybodymassindex[BMI]incategoriesofreferencerangeorunderweight[<25],overweight[25to<30],obesity[30to<40],andsevereobesity[ /H1135040];exerciselevel;tobaccouse;andalcoholuse)characteristicswereassessed.
+MAIN OUTCOME AND MEASURE BiologicalagingassessedfrombankedbloodDNAmusing16
+epigeneticclocks.
+RESULTS Datawereanalyzedfrom4237participants(mean[SD]age,38.4[2.0]years;percentage
+[SE],51.3%[0.01]femaleand48.7%[0.01]male;percentage[SE],2.7%[<0.01]AsianorPacificIslander,16.7%[0.02]Black,8.7%[0.01]Hispanic,and71.0%[0.03]White).Sociodemographicandlifestylefactorsweremoreoftenassociatedwithbiologicalaginginclockstrainedtoestimatemorbidityandmortality(eg,PhenoAge,GrimAge,andDunedinPACE)thanclockstrainedtoestimatechronologicalage(eg,Horvath).Forexample,theβforanannualincomelessthan$25000vs$100000ormorewas1.99years(95%CI,0.45to3.52years)forPhenoAgeAA,1.70years(95%CI,0.68to2.72years)forGrimAgeAA,0.33SD(95%CI,0.17to0.48SD)forDunedinPACE,and−0.17years(95%CI,−1.08to0.74years)forHorvath1AA.Lowereducation,lowerincome,higherobesitylevels,noexercise,andtobaccousewereassociatedwithfasterbiologicalagingacrossseveralclocks;associationswithGrimAgewereparticularlyrobust(nocollegevscollegeorhigher:β = 2.63years;95%CI,1.67-3.58years;lowervshigherannualincome:<$25000vs /H11350$100000:β = 1.70years;
+95%CI,0.68-2.72years;severeobesityvsnoobesity:β = 1.57years;95%CI,0.51-2.63years;noweeklyexercisevs /H113505bouts/week:β = 1.33years;95%CI,0.67-1.99years;currentvsnosmoking:
+β = 7.16years;95%CI,6.25-8.07years).
+(continued)Key Points
+Question Areepigeneticclocks,
+measuresofbiologicalagingdevelopedmainlyonolderadultsamples,meaningfulforyoungeradults,andaresociodemographicandlifestylecharacteristicsassociatedwithclockmeasuresinexpectedpatternsfoundinprioragingresearch?
+Findings Thiscohortstudyof4237
+youngeradultsfoundthatsociodemographicandlifestylefactorswereassociatedwithbiologicalaginginclockstrainedtoestimatemorbidityandmortality,showingacceleratedagingamongindividualswithlowerlevelsofeducationandincomeandthosewithsevereobesity,noweeklyexercise,andtobaccouse.
+Meaning Thesefindingssuggestthat
+age-relatedmolecularprocessesmaybeidentifiedinyoungeradultsbeforediseasemanifestsandmayrepresentpotentialendpointsforinterventionstargetingsocialinequalitiesinheathyagingandlongevity.
++Related articles
++Supplemental content
+Authoraffiliationsandarticleinformationare
+listedattheendofthisarticle.
+Open Access. ThisisanopenaccessarticledistributedunderthetermsoftheCC-BYLicense.
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 1/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Abstract (continued)
+CONCLUSIONS AND RELEVANCE Thisstudyfoundthatimportantsocialandlifestylefactorswere
+associatedwithbiologicalaginginanationallyrepresentativecohortofyoungeradults.Thesefindingssuggestthatmolecularprocessesunderlyingdiseaseriskmaybeidentifiedinadultsenteringmidlifebeforediseaseismanifestandinforminterventionsaimedatreducingsocialinequalitiesinheathyagingandlongevity.
+JAMA Network Open. 2024;7(7):e2427889.
+CorrectedonAugust19,2024.doi: 10.1001/jamanetworkopen.2024.27889
+Introduction
+Researchonaginghaslongdocumentedsocialanddemographicdifferentialsinmorbidityand
+mortalityriskbuthasonlyrecentlybeenabletoexploreunderlyingmolecularandcellularchangesthataccompanyagingprocessesandshortenlife.Newdevelopmentsingerosciencehaveidentifiedbiologicalhallmarksofaging,
+1-3aboutwhichstudiesnowcollectdatatoexaminesocialdeterminants
+ofbiologicalaging.4-8Inparticular,epigenomicprofilinghasgreatlyincreasedtheavailabilityofnovel
+indicatorsofbiologicalagingintheformofepigeneticclocks,9-11compositemeasuresofDNA
+methylation(DNAm)thatrepresentmolecularevidenceofdiseaseriskandagingprocesses.12,13
+Epigeneticclocksestimateepigeneticage,andtherelativecomparisonofepigeneticagewithchronologicalagerepresentsepigeneticageacceleration(hereafter, biological aging ),providinga
+measurementofdifferencesinbiologicalagingamongindividualsofthesamecalendarage.
+14
+Epigeneticclockmeasureshavebeenassociatedwithmanyage-relateddiseasesandmortality.15-26
+Thus,theypotentiallyrepresentusefulmeasuresforinterventionsintendedtoreducesocialinequalitiesinhealthyagingandlongevity,
+26particularlyiftheclockscandetectbiologicalagingin
+youngindividualswithoutapparentdisease.
+Considerableprogresshasbeenmadeinmeasuringbiologicalageusingnumeroussourcesof
+datatocreateepigeneticclocks.7,27,28First-generationclockswereconstructedasmolecular
+estimatorsofchronologicalage.29-31However,at tentionsoonshiftedtoestimateagingoutcomes
+beyondchronologicalage.Thus,second-generationepigeneticclockswerecalibratedondifferencesinbiologicalagingreflectedbydiseaseandmortalityrisks.
+20,32Recentadvancesexploitlongitudinal
+measurementofphysicalandcognitivefunctionanddiseaseriskovertimetoconstructclocksthatcapturethepaceofchangeinbiologicalagingovertime,
+33,34representingathirdgenerationof
+epigeneticclocks.
+Thereisanincreasingbodyofresearchonsocialandlifestylefactorsassociatedwithmeasured
+biologicalaging,7,28providinginsightsfordifferentialexposuresthatareassociatedwithaging.35-39
+Totheextentthatcertainsocialandlifestylefactorsareknowntobeassociatedwithincreasedage-relatedhealthrisks,wewouldexpectthesefactorstobeassociatedwithmorerapidbiologicalaging,affirmingtheresearchvalueofepigeneticclocksasmarkersofaging,particularlyinyoungeradults.Indeed,lowersocioeconomicstatusineducation,income,andwealthhasbeenassociatedwithmorerapidepigeneticaging.
+8,40Variabilityinbiologicalagingbysexgenerallyshowsthatmales
+experiencemorerapidepigeneticaging,28,39,41whereasvariabilitybyraceandethnicityis
+inconsistent,withpositive,negative,andnulldifferencesobservedinpreviousresearchcomparingBlackorHispanicwithWhiteindividuals.
+5,9Amonglifestylefactors,existingresearchshowsstrong
+andconsistentlypositiveassociationsoftobaccouseandbodymassindex(BMI;calculatedasweightinkilogramsdividedbyheightinmeterssquared)withbiologicalaginginsecond-andthird-generationclocksbutmoremixedresultsforalcoholuseandexercise.
+7-9,28Overall,resultssuggest
+thatmorerecent,second-andthird-generationclocksaremoresensitivetosocialandenvironmentalexposures,althoughmoreworkisneededtobetterunderstandwhetherandhowclockscapturesharedordistinctaspectsofaging.JAMA Network Open | Genetics and Genomics
+SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 2/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Existingresearchexaminingsociodemographicfactorsandbiologicalaginghasnotablegaps.
+First,manystudiesuseasingleorafewclocks,makingitdifficulttoascertainwhetherresultsareconsistentacrossclocks.Second,mostepigeneticresearchreliesonsmall,oftenlocal,andnondiversesamples,limitinggeneralizability.
+7,13,14,40Somerecentstudieshaveusedlarge
+representativesamplesthatexaminedarangeofclocksbutfocusedonolderadults.10,41Infact,most
+researchonepigeneticaginghasbeenbasedonsamplesofolderadults10,14,15,20,22-24,38,42-45
+(exceptionsincludestudiesbyAanesetal46andRaffingtonetal47).Giventhatolderadultsaremore
+likelytohavechroniccomorbidities,itisdifficulttodisentangleoutcomesassociatedwithunderlyingdiseasefromthoseassociatedwithsociodemographicexposures.Furthermore,asageincreases,biologicalagemaybecomealessreliableestimatorofhealthoutcomesduetomortalityselectionandincreasedbiologicalheterogeneityinolderage.
+Ourresearchaddressesexistinggapsbyinvestigatingtheassociationofsociodemographicand
+lifestylefactorswithbiologicalageaccordingto16DNAmmeasuresinadiversepopulationofadultsaged33to44yearsfromtheUSrepresentativeNationalLongitudinalStudyofAdolescenttoAdultHealth(AddHealth).Usingnewmethylationdatawithnationalrepresentationofracialandethnic,socioeconomic,andgeographicgroups,wecontributetothelimitedresearchonepigeneticaginginyoungeradults.Toourknowledge,ourstudyisoneoffewtoexaminetheemergenceofsociodemographicinequalitiesinagingbeforeadultsentermidlifeacrossestablishedepigeneticclockmeasures.
+Methods
+DatainthiscohortstudycomefromAddHealth,anationallyrepresentativecohortstudyofUSadolescentsingrades7to12in1994whowerefollowedupfor25yearsacross5interviewwaves.
+44
+WeusedatafromwaveI(WI;1994-1995)andwaveV(WV;2016-18),whenthecohortwasaged33to44years.DuringtheWVsurvey,5381of12300participantsconsentedtoandcompletedafollow-upin-personhomeexam,whenvenousbloodwasdrawn(93.1%consentrate)forDNAmassay.Afterremovalofsamplesthatdidnotpassqualitycontrolandeliminationofreplicates,theDNAmsampleincluded4582participants.Thesamplesizewasfurtherreducedto4237participantsduetomissingvaluesonsociodemographicfactors.Populationrepresentationwasmaintainedacrosswavesandsamples(eTable1in Supplement1 ).
+MethylationanalysiswasconductedusingtheIlluminaInfiniumchemistry.
+48DNAmlevels
+acrossapproximately850000CpGsitesweremeasuredusingtheInfiniumMethylationEPICBeadChip(Illumina,Inc).WemeasuredβvaluesforCpGsitesacrossthegenomeaccordingtokitprotocolsandfilteredtoremovepolymorphicpositions.RemainingCpGsiteswererestrictedtoasetof30484CpGsitesusedwithDNAmethylationcalculator
+49andMethylcipher50andDunedin33,34
+calculators;principalcomponent(PC)clockswerebasedon78464CpGsitesandusedcodepubliclyavailableonGitHub(eAppendix1in Supplement1 ).
+AdolescentparticipantsandtheirparentsorcaregiversprovidedwrittenconsentatWI;young
+adultparticipantsprovidedconsentatWVforthesurveyadministrationandepigeneticdatacollection.ConsentobtainedatWVextendstothecurrentstudy.ThisstudywasapprovedbytheinstitutionalreviewboardoftheUniversityofNorthCarolinaatChapelHill.WefollowedtheStrengtheningtheReportingofObservationalStudiesinEpidemiology( STROBE)reporting
+guideline.
+Epigenetic Clocks
+Weconstructed16epigeneticclockswhenthemean(SD)cohortagewas38.4(2.0)yearsatthetimeofvenousblooddraw( Table 1;eAppendix2in Supplement1 ).Clocksareshowninorderoftheir
+generation,beginningwith5first-generationclocks:Horvath1,Horvath2,Hannum,VidalBralo,andZhang2019.The2HorvathclockswereconstructedacrossmultipletissuesasapantissueclockofchronologicalageanddifferbythenumberofCpGsitesonwhichthealgorithmwasbased.
+30,31TheJAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 3/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Hannum29andVidalBralo45clocksweretrainedonbloodsamples,andZhang201951wastrainedon
+bloodandsalivasamplestoestimatechronologicalage.Weexamined3second-generationclockstrainedondiseasephenotypesandmortalityinestimationofepigeneticage,includingLin,
+43
+PhenoAge,20andGrimAge,21whichalsoincorporatedsmoking-associatedmethylationchanges.
+ToreducetechnicalvariationinCpGβvaluesonwhichepigeneticclockswerebased,Higgins-
+Chenetal52retrainedHannum,Horvath1,Horvath2,GrimAge,andPhenoAgeclocksonPCsofCpG
+methylationvaluesratherthanindividualCpGs,withthegoalofreducingtheeffectsoftechnicalnoiseatanygivenindividualCpG.WerefertotheseasPCclocks(Table1).Foreachofthese13first-andsecond-generationclocks,wecalculatedbiologicalagebytakingresidualsoftheclockvaluesregressedonchronologicalage.
+Werefertothefinalsetof3clocksasthirdgeneration,whichuseadifferentunitof
+measurement:DunedinPoAm,DunedinPACE,andZhang2017.DunedinPoAm
+33andDunedinPACE34
+estimatethepaceofbiologicalaginginSDunitsbasedonchangesinbiomarkersoforgansystemdysfunction,andZhang2017estimatesacontinuousriskscoreofall-causemortality.
+53
+Table 1. Descriptive Statistics for Epigenetic Clocks and Pearson Correlation With Age (N = 4237)a
+Typeofmeasure Weightedmean(SD)[range]aPearson rPearsonprobability
+Chronological age, y 38.4 (2.0) [33.1 to 44.8] >.99 <0.01
+Clock-measured epigenetic age, y
+Horvath1 39.1 (4.3) [15.5 to 62.3] 0.42 <0.01
+Horvath2 35.4 (3.5) [17.7 to 57.4] 0.58 <0.01
+Hannum 31.6 (3.9) [13.2 to 47.5] 0.40 <0.01
+PhenoAge 30.1 (5.7) [12.8 to 50.9] 0.32 <0.01
+GrimAge 52.5 (4.6) [39.1 to 71.9] 0.39 <0.01
+Lin 23.1 (5.2) [4.0 to 44.0] 0.32 <0.01
+VidalBralo 54.9 (3.5) [38.2 to 77.6] 0.27 <0.01
+Zhang2019 32.0 (4.1) [19.9 to 58.3] 0.62 <0.01
+PC clock–measured epigenetic age, y
+PCHorvath1 45.3 (3.7) [31.6 to 66.0] 0.36 <0.01
+PCHorvath2 41.2 (4.1) [26.6 to 62.5] 0.32 <0.01
+PCHannum 46.1 (3.8) [31.5 to 64.8] 0.38 <0.01
+PCPhenoAge 41.0 (5.3) [21.7 to 66.4] 0.34 <0.01
+PCGrimAge 54.6 (3.9) [43.6 to 71.3] 0.43 <0.01
+Clock-measured age acceleration, y
+Horvath1AA 0.1 (5.5) [−25.1 to 26.0] <0.01 0.78
+Horvath2AA <0.1 (3.9) [−15.9 to 21.8] −0.01 0.52
+HannumAA 0.1 (5.0) [−25.5 to 25.0] <0.01 0.93
+PhenoAgeAA 0.1 (7.8) [−32.4 to 29.9] 0.01 0.66
+GrimAgeAA 0.3 (6.2) [−15.7 to 26.6] 0.01 0.54
+LinAA 0.1 (7.2) [−30.1 to 31.8] −0.01 0.65
+VidalBraloAA −0.1 (4.8) [−23.0 to 24.0] <0.01 0.94
+Zhang2019AA <0.1 (4.4) [−18.2 to 26.2] −0.02 0.28
+PC clock–measured age acceleration, y
+PCHorvath1AA 0.1 (5.0) [−17.9 to 31.8] <0.01 0.97
+PCHorvath2AA <0.1 (5.5) [−20.7 to 26.9] <0.01 0.90
+PCHannumAA 0.1 (5.0) [−24.4 to 29.8] −0.01 0.67
+PCPhenoAgeAA 0.1 (7.2) [−29.1 to 32.8] <0.01 0.89
+PCGrimAgeAA 0.3 (5.2) [−14.5 to 25.4] <0.01 0.78
+Clock-measured rate of aging, SD
+Dunedin PoAm <0.1 (1.0) [−3.9 to 4.9] −0.01 0.52
+Dunedin PACE <0.1 (1.0) [−4.5 to 4.6] 0.08 <0.01
+Zhang2017-measured risk of
+mortality, RR−1.3 (0.4) [−2.6 to 0.4] 0.17 <0.01Abbreviations:PC,principalcomponent;RRriskratio.
+aChronologicalagewasassessedatthewaveVblood
+draw.Clockmeasuresareinunitsofyearsofepigenetic(ie,biological)age.Ageaccelerationmeasuresareinunitsofyearsthatone’sepigeneticagewashigher(positivenumber)orlower(negativenumber)comparedwiththeepigeneticageofotherswiththesamechronologicalage.RateofagingmeasuresareinSDunitsrepresentingafaster(positive)oraslower(negative)rateofepigeneticaging(ie,biologicalaging)relativetotherateofchronologicalageovertime.RiskofmortalityisinunitsofmortalityRR,withnegativevaluesindicatingalowerriskandpositivevaluesindicatingahigherrisk.JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 4/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Sociodemographic and Lifestyle Characteristics
+AgewasacontinuousmeasureofchronologicalageatWVblooddraw.Participantsreportedsex
+assignedatbirthatWI(femaleormale).Weassesseddifferencesinepigeneticagingbyraceandethnicitybecausepriorevidencereportedmixedresults.
+5,9Raceorethnicitywereself-identifiedat
+WVbasedon1questionthataskedparticipants,“Whatisyourraceorethnicorigin?”ResponsecategoriesincludedAmericanIndianorAlaskaNative,Asian,BlackorAfricanAmerican,Hispanic,PacificIslander,White,andsomeotherraceororigin.ForparticipantswithmissingdataatWV,weusedWIself-reportsofraceandethnicity.SmallsamplesizesrequiredustocombinePacificIslanderwiththeAsiancategoryandAmericanIndianorAlaskaNativewiththeothercategory,althoughweshowthefulldistributionineTable1in Supplement1 .WemeasuredimmigrantgenerationatWI(first,
+second,or /H11350third)andeducation( /H11350college,somecollege,ornocollege),annualhouseholdincome
+(>$100000,$50000-$100000,$25000-$50000,and<$25000),regionofresidence(Northeast,West,Midwest,andSouth),andruralorurbanresidence(metropolitan,micropolitan,andsmalltownorrural)atWV.LifestylemeasuresatWVincludedobesitystatusbyBMI(referencerangeorunderweight[<25],overweight[25to<30],obesity[30to<40],andsevereobesity[ /H1135040]),
+boutsofmoderatetorigorousexerciseperweek( /H113505,1-4,and0),tobaccouse(never,former,and
+current),andalcoholuse(none,light[<dailyandnobingedrinking],andheavy[daily]orbinge).SeeeAppendix3in Supplement1 fordetailsonvariableconstruction.
+Statistical Analysis
+Weconducteddescriptivestatisticalanalysisonthe16clocksandsamplecharacteristicsand
+examinedcorrelationsamongepigeneticclocks,chronologicalage,andmeasuresofacceleratedandpaceofaging.Weperformedweightedlinearregressionofacceleratedbiologicalagingonsociodemographicandlifestylefactorsinbivariateandmultivariablemodelsadjustedforchronologicalage
+54withandwithoutcontrolsforcellcomposition(seeeMethodsin Supplement1
+formodelassumptionsandeTable2in Supplement1 fordistributionalattributesofclockmeasures).
+Weusedsamplingweightsinallanalysestoproducenationalestimates44,55,56andtheRstatistical
+librarySurvey.57,58DatawereanalyzedusingRstatisticalsoftwareversion4.2.1(RProjectfor
+StatisticalComputing)fromFebruary2023toMay2024.Weconducted2-sidedtestsofsignificanceforPvaluesrangingfrom<.001to<.05.
+Results
+Weanalyzed4237participants(mean[SD]age38.4[2.0]years;percentage[SE],51.3%[0.01]female
+and48.7%[0.01]male;percentage[SE],2.7%[<0.01]AsianorPacificIslander,16.7%[0.02]Black,8.7%[.01]Hispanic,and71.0%[0.03]White).Sociodemographicandlifestylecharacteristicsofthesample( Table 2)reflectnationalrepresentationofsex,racialandethnicgroups,andimmigrant
+status(percentage[SE],4.4%[0.02]first-generationand10.0%[.01]second-generationimmigrants).Mostparticipantshadatleastsomecollegeeducation(percentage[SE],42.7%[0.02]/H11350collegeand40.0%[0.01]somecollege),andone-thirdhadannualhouseholdincomesgreater
+than$100000(percentage[SE],32.5%[0.02]).Reflectingcurrenthealthtrends,thepercentage(SE)ofparticipantswithobesity(32.7%[.01])andsevereobesity(9.9%[<.01])washigh,whilethepercentage(SE)was22.6%(0.01)forgettingnomoderatetorigorousexerciseperweek,25.9%(0.01)forcurrentsmokers,and46.8%(0.01)forheavyorbingedrinking.
+Theweightedmeanandrangeofepigeneticagesforthevariousclocks(Table1)showed
+considerablevariation,fromamean(SD)of23.1(5.2)yearsforLinto54.9(3.5)forVidalBraloforthecohort.Estimatesofepigeneticagewerepositivelycorrelatedwithchronologicalage.Ingeneral,first-generationclockshadhigherPearson rvaluesforcorrelationwithageexceptforVidalBralo
+(0.27),rangingfrom0.40forHannumto0.62forZhang2019.Second-generationclocksandPCclockshadmoderate rvaluesforcorrelationswithchronologicalage,rangingfrom0.32for
+PhenoAge,Lin,andPCHorvath2to0.43forPCGrimAge.WhileDunedinPoAmwasnotcorrelatedJAMA Network Open | Genetics and Genomics
+SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 5/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Table 2. Participant Characteristics
+CharacteristicParticipants,unweightedNo.
+(weighted%[SE])(N = 4237)
+Sex
+Female 2569 (51.30 [0.01])
+Male 1668 (48.70 [0.01])
+Race or ethnicity
+Asian or Pacific Islander 218 (2.70 [0.006])
+Black 811 (16.70 [0.023])
+Hispanic 435 (8.70 [0.014])
+White 2746 (71.00 [0.029])
+Othera27 (0.80 [0.002])
+Immigrant generation
+First 200 (4.40 [0.008])
+Second 551 (10.00 [0.01])
+≥Third 3486 (85.70 [0.016])
+Education
+≥College 2005 (42.70 [0.02])
+Some college 1622 (40.00 [0.014])
+No college 610 (17.30 [0.014])
+Annual income, $
+>100 000 1491 (32.50 [0.015])
+50 000-100 000 1403 (33.60 [0.012])
+25 000-50 000 743 (18.40 [0.009])
+<25 000 600 (15.50 [0.012])
+Region of residence
+Northeast 438 (9.60 [0.01])
+West 991 (17.70 [0.017])
+Midwest 1162 (31.20 [0.027])
+South 1646 (41.40 [0.021])
+Rural or urban residence
+Metropolitan 3711 (85.90 [0.017])
+Micropolitan 286 (7.90 [0.013])
+Small town or rural 240 (6.10 [0.011])
+Obesityb
+Reference range or underweight 1173 (26.00 [0.012])
+Overweight 1304 (31.50 [0.011])
+Obesity 1334 (32.70 [0.011])
+Severe obesity 426 (9.90 [0.007])
+Moderate to rigorous exercise, bouts/wk
+≥5 1612 (38.10 [0.012])
+1-4 1656 (39.30 [0.01])
+0 969 (22.60 [0.013])
+Tobacco
+Never 2429 (52.30 [0.016])
+Former 817 (21.90.[0.012])
+Current 991 (25.90 [0.013])
+Alcoholc
+None 231 (6.08 [0.007])
+Light 2035 (47.11 [0.012])
+Heavy or binge 1971 (46.81 [0.013])aTheothercategoryforraceorethnicityincludes
+participantswhoidentifiedasAmericanIndianorAlaskaNativeorwhocheckedsomeotherraceororigin.
+bBodymassindex(BMI;calculatedasweightinkilogramsdividedbyheightinmeterssquared)rangesforobesitycategoriesarereferencerangeorunderweight(<25),overweight(25to<30),obesity(30to<40),andsevereobesity( /H1135040).
+cAlcoholuseiscategorizedasnoneifparticipants
+indicatedtheyneverdrankalcohol,lightifparticipantsreporteddrinkingalcohollessthandailyanddidnotbingedrink,andheavyorbingeifparticipantsreportedengaginginbingedrinkinginthelastyearordrinkingdailyinthelastmonthorlastyear.JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 6/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+withage,DunedinPACE(Pearson r= 0.08)andtheZhang2017(Pearson r= 0.17)riskofmortality
+measurewerecorrelatedwithage.
+Allclockswerepositivelycorrelatedwitheachother( Figure 1A),withthehigherPearson r
+valuesforcorrelationbetweenfirst-generationclocks(exceptforVidalBralo)andespeciallyamongPCversionsoftheseclocks.Amongsecond-generationclocks,PhenoAgehadamoreconsistentpositivecorrelationwithotherclocks.Pearson rvaluesforcorrelationsamongageacceleration
+measuresweresomewhatlowerandlesslikelytoreachstatisticalsignificance(Figure1B).Ingeneral,Pearson rvaluesforcorrelationsbetweenageaccelerationmeasureswerehigherwithingenerations
+ofclockscomparedwithacrossgenerations,withtheexceptionofPhenoAgeAA.
+Wetestedbivariateassociationsofsociodemographicandlifestylefactorsandwithbiological
+aginginwhichβvaluesrepresenttheincrease(positivecoefficient)ordecrease(negativecoefficient)inyearsofbiologicalageassociatedwitheachsociodemographiccategorycomparedwiththereferentcategory.Inthisanalysis,βvalueswerehigheramongsecond-generationclocksPhenoAgeAAandGrimAgeAAandthird-generationDunedinPACEthanfirst-generationHorvath1AA;forexample,theβfornocollegeeducationvscollegeormorewas3.12years(95%CI,1.98-4.26years)forPhenoAgeAA,6.55years(95%CI,5.44-7.66years)forGrimAgeAA,0.90SD(95%CI,0.79-1.02SD)forDunedinPACE,and0.80years(95%CI,−.09to1.69years)forHorvath1AA( Figure 2;
+eTable3in Supplement2 ).Amongremainingclocks(eFigurein Supplement1 andeTable3in
+Supplement2 ),LinAAhadthefewestassociationsamongsecond-generationclocks,andsocialand
+lifestylefactorshadhighβvaluesforassociationswiththird-generationclocksDunedinPoAmandZhang2017.
+Figure 1. Correlations Between Epigenetic Clocks and Epigenetic Age Acceleration
+Epigenetic clocks and chronological ageA
+.42
+PCHannumPCHorvath2Horvath2Horvath1
+Age at blood draw
+Horvath1
+Horvath2
+Hannum
+VidalBralo
+Zhang2019
+Lin
+PhenoAge
+GrimAge
+PCHorvath1
+PCHorvath2
+PCHannum
+PCPhenoAgePCHorvath1
+PCPhenoAgePhenoAgeLinZhang2019VidalBraloHannum
+PCGrimAgeGrimAge.58
+.40.27
+.62
+.32
+.32
+.39
+.36
+.32
+.38.58
+.44.38
+.54
+.48
+.47
+.23
+.62
+.57
+.59
+.34
+.43 .26.37.61
+.39
+.76
+.44
+.44
+.32
+.60
+.57
+.62.48
+.33.35
+.64
+.39
+.54
+.34
+.61
+.60
+.74.60.40
+.32
+.41
+.26
+.49
+.52
+.46
+.49
+.42 .30.46
+.46
+.27
+.62
+.57
+.62.51.37
+.13
+.41
+.34
+.46.38.44
+.56
+.57
+.64.69.28
+.30
+.37.49.91
+.86.56.85
+.57 .69
+.33 .12 .51 .89 .39 .41 .47 .56
+Pearson correlation, r1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0
+Pearson correlation, r1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0Epigenetic acceleration measuresB
+.43
+PCPhenoAgeAA
+PCGrimAgeAAPCHannumAAHannumAAHorvath2AA
+Horvath1AA
+Horvath2AA
+HannumAA
+VidalBraloAA
+Zhang2019AA
+LinAA
+GrimAgeAAPhenoAgeAA
+PCHorvath1AA
+PCHorvath2AA
+PCHannumAA
+PCPhenoAgeAA
+PCGrimAgeAA
+DunedinPoAm
+DunedinPACEPCHorvath2AA
+DunedinPoAmGrimAgeAAPhenoAgeAALinAAZhang2019AAVidalBraloAA
+DunedinPACE
+Zhang2017PCHorvath1AA.32
+.26
+.40
+.39.06
+.54
+.48
+.25
+.09
+.02.50
+.25
+.34
+.31.09
+.50
+.47
+.33
+.07
+.04
+.04
+.11 .10.06.23
+.32
+.45.21
+.52
+.53
+.53
+.26
+.24
+.15
+.35.23 .37.37 .62 .53 .29
+.32
+.12
+.39
+.44
+.40
+.15
+.00
+.09.34 .32
+.00
+.55
+.50
+.40
+.05
+.04
+.00
+.35 .10.00 .36
+.35
+.27
+.30
+.00
+.00
+.00.50 .16
+.51
+.64
+.43
+.35
+.40.19 .89
+.51 .51 .68 .34 .54 .41 .57 .24 .84 .81
+.38
+.89
+.55
+.53.50 .51 .64
+.26
+.11
+.09.30 .47 .33
+.17
+.12.37 .58
+.45 .50 .58
+.00 .49 .57 .34 .45 .58 .44.15.22
+.64 .36 .37
+Correlationsbetweenepigeneticclocksandepigeneticageaccelerationmeasuresare
+depictedasaheatmap.A,Pearsoncorrelationsamongallepigeneticclocksforchronologicalagearepresented.B,Pearsoncorrelationsamongallepigeneticageaccelerationmeasures,includingthird-generationratesofaging,arepresented.Darker
+huesindicatedahigherPearson rcorrelationvalue.JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 7/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Figure 2. Bivariate Associations Between Sociodemographics and Epigenetic Age in Selected Clocks
+0Horvath1AAA
+–5.0 2.5 5.0
+β (95% CI), y–2.5 0Source
+Sex
+Race or ethnicity
+Immigrant generation
+Education
+Annual income, $
+Region
+Rural or urban
+Obesity
+Exercise, activities/wk
+Tobacco
+AlcoholGrimAgeAAC PhenoAgeAAB
+–8.0 4.0 8.0
+β (95% CI), y–4.0 0DunedinPACED
+–2.0 1.0 2.0
+β (95% CI), SD–1.0 0Female (reference)
+Male
+White (reference)Asian or Pacific Islander
+Black
+First (reference)
+Second
+≥Third
+≥College (reference)
+Some college
+No college
+>100  000 (reference)
+50 000-100  000
+25 000-50  000
+<25  000
+Northeast (reference)
+West
+Midwest
+South
+Metropolitan (reference)
+Micropolitan
+Small town rural
+Reference range or
+underweight (reference)
+Overweight
+Obesity
+≥5  (reference)
+1-4
+No activity
+Never (reference)
+Former
+Current
+None (reference)
+Light
+Heavy or bingeSevere obesityHispanic
+OtherAge (per 1 y)
+–1.0 –5.0 1.0 5.0
+β (95% CI), y
+Weightedbivariateassociationsbetweensociodemographiccharacteristicsand
+epigeneticageaccelerationforselectedfirst-,second-,andthird-generationclocksarepresentedinaforestplot.Errorbarsindicate95%CIs.AgeaccelerationunitsareexpressedinyearsforHorvath1AA,PhenoAgeAA,andGrimAgeAA,whileDunedinPACEismeasuredasarateofbiologicalaginginSD.Horvath1AAisafirst-generationclock,whilePhenoAgeAAandGrimAgeAAaresecond-generationclocksandDunedinPACEisa
+third-generationclock.TheothercategoryforraceorethnicityincludesparticipantswhoidentifiedasAmericanIndianorAlaskaNativeorwhocheckedsomeotherraceororigin.Alcoholusecategorieswerenone,lightdrinking(<dailyandnobingedrinking),andheavy(dailydrinking)orbingedrinking.JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 8/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Overall,maleshadmorerapidbiologicalagingthanfemalesacrossmostclocks.Consistentwith
+theliterature,thereweremixedresultsforraceandethnicity;7first-generationclocksshowedslowerbiologicalagingand6second-andthird-generationclocksshowedfasterepigeneticagingamongBlackadultscomparedwithWhiteadults.MoreconsistentresultswerefoundforAsianandPacificIslanderadults,withslowerbiologicalagingin10clocks,andamongHispanicadults,withslowerbiologicalagingin5clockscomparedwithWhiteadults.Foreign-born,first-generationimmigrantsalsohadslowerbiologicalagingcomparedwithUS-bornadults(eTable3inSupplement2 ).
+Forthemostpart,second-andthird-generationclocksshowedexpectedassociations,inwhich
+lowerlevelsofeducationandincomewereassociatedwithacceleratedbiologicalaging.AfewclocksshowedassociationsbetweengeographiclocationandacceleratedbiologicalagingintheSouthandMidwestcomparedwiththeNortheastandinmorerurallocalescomparedwithurbanareas(Figure2;eFigure1in Supplement1 andeTable3in Supplement2 ).
+Thelifestylefactorwiththemostconsistentbivariateassociationwithbiologicalagingand
+highestβvalueswasobesitystatus.Across15clocks,individualswithsevereobesity(eg,BMI /H1135040)
+experiencedfasterbiologicalagingcomparedwiththosewithreferencerangeorunderweightBMIstatus(βvaluesrangedfrom1.02years;95%CI,0.22-1.83yearsforHorvath2AAto6.06years;95%CI,4.42-7.69yearsforPhenoAgeAA)(eTable3in Supplement2 );9clocksfoundfasterbiological
+agingamongindividualswithobesitycomparedwiththosewithreferencerangeorunderweightstatus.Weeklyexercisewasalsoconsistentlyandfrequentlyassociatedwithbiologicalaging,showingthatindividualswhogotlessexercisehadacceleratedbiologicalagingfor9clocks.Alcoholandtobaccouseresultsweremixed,withsomeclocksestimatingsloweragingandsomefasteragingwithgreateruse.H owever,amongsecond-generationclocks(exceptforLin),currentorformer
+smokershadacceleratedbiologicalaging(Figure2;eFigure1in Supplement1 andeTable3in
+Supplement2 ).
+Wetestedforindependentassociationsinamultivariablemodeladjustingforall
+sociodemographicandlifestylecharacteristics( Table 3;eT able4in Supplement2 ).Associationswith
+thehighestβvalueswerefoundforsecond-andthird-generationmeasuresofbiologicalaging.Forexample,theβforanannualincomelessthan$25000vs$100000ormorewas1.99years(95%CI,0.45to3.52years)forPhenoAgeAA,1.70years(95%CI,0.68to2.72years)forGrimAgeAA,0.33SD(95%CI,0.17to0.48SD)forDunedinPACE,and−0.17years(95%CI,−1.08to0.74years)forHorvath1AA(Table3).FocusingontheseclocksandhighlightingGrimAgeAAasanexample,consistentindependentassociationswithfasterbiologicalagingwerealsofoundforthefollowingcharacteristics:lowerlevelsofeducation(nocollege:β = 2.63years;95%CI,1.67to3.58years;somecollege:β = 0.93years;95%CI,0.45to1.40years)comparedwithcollegeorhigher,severeobesitystatus(β = 1.57years;95%CI,0.51to2.63years)comparedwithreferencerangeorunderweightstatus,lackofexercise(nobouts/wk:β = 1.33years;95%CI,0.67to1.99years)comparedwith5ormoreboutsperweek,andtobaccouse(currentsmoker:β = 7.16years;95%CI,6.25to8.07years)comparedwithneverasmoker,whichwasaparticularlyhighβvaluegiventhattheGrimAgealgorithmincludessmokingpack-years.Mostclocks(exceptPCPhenoAgeAAandDunedinPACE)showedmaleswithfasterbiologicalagingthanfemales(eg,GrimAgeAA:β = 1.78years;95%CI,1.26to2.30years).AdjustedresultsforraceandethnicityremainedmixedasBlack,AsianorPacificIslander,andHispanicadultshadslowerratesofbiologicalagingcomparedwithWhiteadultsacrossmostclocks.Theslowerbiologicalagingamongforeign-bornimmigrantswasindependentlysignificantonlyforGrimAgeclocks,whileHannumAAshowedsloweragingamongUS-bornindividualsinthethirdgeneration.Modelsthatcontrolledforcellcomposition(eTable5inSupplement2 )showedsimilarresults.JAMA Network Open | Genetics and Genomics
+SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 9/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Table 3. Multivariate Models of Social and Demographic Characteristics and Selected Clock Estimates (N = 4237)
+VariableHorvath1AA PhenoAgeAA GrimAgeAA DunedinPACE
+β(95%CI) β(95%CI) β(95%CI) β(95%CI)
+Age per 1 y −0.09 (−0.25 to 0.06) 0.01 (−0.20 to 0.22) −0.1 (−0.22 to 0.03) 0.02 (0.00 to 0.04)
+Sex
+Female [Reference] [Reference] [Reference] [Reference]
+Male 2.40 (1.80 to 2.99) −0.47 (−1.27 to 0.34) 1.78 (1.26 to 2.30) −0.23 (−0.29 to −0.16)
+Race or ethnicity
+Asian or Pacific Islander −0.18 (−2.06 to 1.71) −3.09 (−5.90 to −0.29) −0.98 (−2.65 to 0.68) 0.14 (-0.13 to 0.41)
+Black −0.36 (−1.17 to 0.45) −1.93 (−3.19 to −0.68) 1.16 (0.51-1.82) 0.33 (0.22 to 0.44)
+Hispanic −0.99 (−2.51 to 0.52) −0.84 (−2.72 to 1.04) −1.45 (−2.43 to −0.47) 0.20 (0.04 to 0.36)
+White [Reference] [Reference] [Reference] [Reference]
+Othera0.58 (−1.68 to 2.84) 1.31 (−2.22 to 4.83) 0.10 (−1.94 to 2.14) 0.60 (0.35 to 0.86)
+Immigrant generation
+First [Reference] [Reference] [Reference] [Reference]
+Second 0.35 (−1.88 to 2.57) −0.03 (−2.73 to 2.66) 1.66 (0.36 to 2.96) −0.07 (−0.29 to 0.15)
+≥Third 0.38 (−2.01 to 2.77) −0.84 (−3.78 to 2.11) 1.72 (0.38 to 3.07) −0.06 (−0.28 to 0.16)
+Education
+≥College [Reference] [Reference] [Reference] [Reference]
+Some college −0.12 (−0.76 to 0.51) −0.05 (−0.77 to 0.67) 0.93 (0.45 to 1.40) 0.11 (0.02 to 0.19)
+No college 0.44 (−0.50 to 1.39) 0.83 (−0.47 to 2.13) 2.63 (1.67 to 3.58) 0.30 (0.18 to 0.42)
+Annual income, $
+>100 000 [Reference] [Reference] [Reference] [Reference]
+50 00-100 000 −0.78 (−1.40 to −0.15) 0.60 (−0.21 to 1.41) 0.28 (−0.30 to 0.86) 0.07 (−0.01 to 0.15)
+25 000-50 000 −0.21 (−1.07 to 0.65) 1.13 (−0.16 to 2.41) 1.14 (0.18 to 2.10) 0.17 (0.06 to 0.28)
+<25 000 −0.17 (−1.08 to 0.74) 1.99 (0.45 to 3.52) 1.70 (0.68 to 2.72) 0.33 (0.17 to 0.48)
+Region
+Northeast [Reference] [Reference] [Reference] [Reference]
+West 0.63 (−0.27 to 1.53) 0.90 (−0.34 to 2.14) 0.22 (−0.56 to 0.99) 0.06 (−0.04 to 0.16)
+Midwest 0.80 (−0.07 to 1.68) 2.08 (0.88 to 3.29) 0.95 (0.23 to 1.67) 0.13 (0.05 to 0.22)
+South 0.18 (−0.66 to 1.02) 0.66 (−0.48 to 1.79) 0 (−0.69 to 0.70) 0.10 (0.01 to 0.19)
+Rural or urban
+Metropolitan [Reference] [Reference] [Reference] [Reference]
+Micropolitan 0.37 (−0.67 to 1.41) 0.29 (−1.05 to 1.62) 0.46 (−0.43 to 1.36) 0.03 (−0.07 to 0.13)
+Town or rural −1.07 (−1.97 to −0.17) −0.59 (−2.08 to 0.91) 0.26 (−0.60 to 1.12) 0.07 (−0.09 to 0.23)
+Obesityb
+Reference range [Reference] [Reference] [Reference] [Reference]
+Overweight −0.08 (−0.85 to 0.70) 0.81 (−0.13 to 1.75) 0.11 (-0.53 to 0.75) 0.21 (0.12 to 0.30)
+Obesity 0.65 (−0.11 to 1.42) 2.13 (0.98 to 3.28) 0.05 (−1.01 to 1.10) 0.58 (0.48 to 0.68)
+Severe obesity 2.93 (1.69 to 4.18) 5.24 (3.55 to 6.92) 1.57 (0.51 to 2.63) 1.16 (1.04 to 1.28)
+Exercise bouts/wk
+≥5 [Reference] [Reference] [Reference] [Reference]
+1-4 −0.05 (−0.66 to 0.56) 0.55 (-0.22 to 1.31) 0.52 (0.03 to 1.02) 0.11 (0.03 to 0.18)
+0 0.29 (−0.35 to 0.92) 1.84 (0.65 to 3.04) 1.33 (0.67 to 1.99) 0.28 (0.18 to 0.38)
+Tobacco
+Never [Reference] [Reference] [Reference] [Reference]
+Former −0.46 (−1.27 to 0.35) −0.15 (−0.92 to 0.61) 1.57 (1.13 to 2.01) 0.13 (0.05 to 0.20)
+Current −0.54 (−1.33 to 0.25) 1.38 (0.32 to 2.44) 7.16 (6.25 to 8.07) 0.66 (0.55 to 0.77)
+Alcoholc
+None [Reference] [Reference] [Reference] [Reference]
+Light 0.61 (−1.46 to 2.68) −0.81 (−3.43 to 1.82) −0.70 (−2.01 to 0.60) −0.12 (−0.32 to 0.09)
+Heavy or binge 0.51 (−1.47 to 2.50) −0.79 (−3.34 to 1.76) −0.80 (−2.12 to 0.52) −0.19 (−0.40 to 0.02)
+aTheothercategoryforraceorethnicityincludesparticipantswhoidentifiedas
+AmericanIndianorAlaskaNativeorwhocheckedsomeotherraceororigin.
+bBodymassindex(BMI,calculatedasweightinkilogramsdividedbyheightinmeterssquared)rangesfortheobesitycategoriesare:referencerangeorunderweight,BMI<25;overweight,25 /H11349BMI < 30;obesity,30 /H11349BMI < 40;severeobesity,
+BMI/H1135040.cAlcoholuseiscategorizedas:“none”ifparticipantsindicatedtheyneverdrankalcohol;
+“light”ifparticipantsreporteddrinkingalcohollessthandailyanddidnotbingedrink;and“heavyorbinge”ifparticipantsreportedengaginginbingedrinkinginthelastyearordrinkingdailyinthelastmonthorlastyear.JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 10/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Discussion
+Basedonthecurrentliterature,thiscohortstudyestimated16epigeneticclocksprimarilydeveloped
+foroldercohortstoassesstheirdistribution,correlationswithchronologicalageandwitheachother,andvariabilityacrosssociodemographicandlifestylecharacteristicsknowntoestimatemorbidityandmortalityinpriorresearchusingtheyoungeradultAddHealthcohort.Whileitmakessensethatmostepigeneticresearchfocusesonolderadults,thereisincreasingrecognitionthatmolecularprocessesunderlyingdiseaseriskbeginlongbeforeovertdiseaseisevidentinchronologicallyolderadults.
+59,60
+Wefoundthatclockmeasuresdisplayedarangeofestimatedepigeneticagesforyounger
+adultsthathadmoderatePearson rvaluesforcorrelationwithchronologicalageandwitheachother.
+Thisresultisconsistentwithpriorepigeneticclockresearchonolderpopulations.9,11Thesewide-
+rangingresultssuggestthatdifferentclocksmayreflectdistinctaspectsofaginggiventhattheyarebasedontheassessmentofmethylationathighlydisparatenumbersofCpGsites,trainedondifferentpopulationsthatvarybyageandraceandethnicity,anddevelopedindifferenttissues.
+5
+Nevertheless,manysocialandlifestylefactorswereassociatedwithbiologicalagingasshown
+bysecond-andthird-generationclocksintheexpecteddirectionaccordingtopriorresearchoninequalitiesinhealthandmortalityrisks
+26,61,62eveninthissampleofadultsabouttoentermidlife.In
+particular,GrimAge,PCGrimAge,andDunedinPACEshowedacceleratedagingamongindividualswithnoorsomecollegeeducationcomparedwiththosewithacollegedegreeandforthoseatnearorbelowpoverty-levelincomescomparedwiththosewithincomesgreaterthan$100000.Importantlyandconsistentwithotherresearch,severeobesityandlackofweeklyexercisewerealsoassociatedwithfasterbiologicalaginginsecond-andthird-generationclocks.Giventhatsecond-andthird-generationclocksweretrainedtoestimatediseaseandmortalityriskswhilefirst-generationclocksweretrainedonchronologicalage,ourfindingssupportconclusionsthatthebiologicalagingprocessmaybeunderwaypriortomidlifeandlaterlifeandthatthesesecond-andthird-generationclocksaresensitivemeasuresofthisprocessbeforeage-relateddiseasecomorbiditiesarepresent.Thus,ourfindingssuggestthatepigeneticclocksmayrepresentsurrogateendpointsininterventionsdesignedtoaddresssocialdeterminantsofhealthyaging.
+Wefoundinterestingnewresultsforimmigrantstatus.Despitetheoftenstressfuland
+discriminatorycontextsinwhichimmigrantslive,thosewithUS-bornstatuseveniftheyhadforeign-bornparentsinthesecondgenerationexperiencedfasteraging,suggestingthattheimmigrantadvantagefoundinmuchpriorresearchremainsbiologicallyembedded.
+63,64However, thisresult
+maybedrivenbythelargeandheterogenousHispanicpopulationthatcomprisedimmigrantgroupsgiventhatHispanicindividualstendtohavelowerbiologicalagingforsecond-andthird-generationclocks.
+Limitations
+Thisstudyhasseverallimitations.OnepotentiallimitationofourresearchisthesmallagerangeofadultsinAddHealth.Thislimitationcouldberelatedtoinconsistentresultswefoundforraceandethnicityandsex,althoughthesefindingswerealsoconsistentwithpriorresearch.
+5,9,11,35,65,66There
+aredifferingviewsonwhetherepigeneticmarkerscanbeanalyzedinpooledracialandethnicsamples,especiallybecausemanyepigeneticclockshavebeendevelopedinpredominantlyWhitesamples.
+7,13,20,67Itremainstobeinvestigatedwhethertherearevaryingresponsestosocialand
+environmentalexposuresindifferentracialandethnicgroups.67Priorresearchidentifiedchangesin
+biologicalagingbysexthatischronologicalagerelated(eg,femalesexperiencemorerapidagingduringmenopause
+38),whichshouldnotaffectouryoungadultsample.H owever,f emalesalsohave
+variabilityinimmunityovertime,especiallyduringandafterpregnancy,andexperiencevariationinautoimmunityandhormones.
+68Thisvariationcouldberelatedtosomeoutcomesonwhichclocks
+areorarenottrained.Inaddition,othersocialfactorswedidnotincludemayexplainsomeofthemixedsexandraceandethnicityfindings.
+67JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 11/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Conclusions
+Thereremainsgreatpromiseinresearchusingepigeneticclockstounderstandunderlyingmolecular
+andcellularchangesthataccompanyagingprocessesandthedevelopmentofchronicdisease.Futureepigeneticresearchshouldprioritizerepresentativeanddiversesamples,suchasAddHealth,toevaluatewhethercellularandmolecularchangesvarybysexandraceandethnicitysowecanimprovethemeasurementofbiologicalaging.Thiscohortstudyfurthershowedthatcellularchangeinunderlyingdiseaseprocesseswasalreadyevidentinyoungeradults,whichmayinformpreventionefforts.Futureresearchshouldincludeabroaderrangeofagestoinvestigatepotentialmoderationbyageorlifestagetobetterunderstandwhenandhowsocialinequalitiesinbiologicalagingemergeacrossthelifecourse.
+ARTICLE INFORMATION
+Accepted for Publication: June18,2024.
+Published: July29,2024.doi: 10.1001/jamanetworkopen.2024.27889
+Correction: ThisarticlewascorrectedonAugust19,2024,toremoveanerroneous“1”inthenameofGrimAgeAA
+inFigure2.
+Open Access: Thisisanopenaccessarticledistributedunderthetermsofthe CC-BYLicense .©2024HarrisKM
+etal. JAMA Network Open .
+Corresponding Author: KathleenMullanHarris,PhD,DepartmentofSociology,UniversityofNorthCarolinaat
+ChapelHill,CarolinaSquare,CB#8120,123WFranklinSt,ChapelHill,NC27516( kathie_harris@unc.edu ).
+Author Affiliations: DepartmentofSociology,UniversityofNorthCarolinaatChapelHill(Harris);Carolina
+PopulationCenter,UniversityofNorthCarolinaatChapelHill(Harris,Levitt,Martin);DepartmentofSociology,UniversityofTexasatAustin(Gaydosh);PopulationResearchCenter,UniversityofTexasatAustin(Gaydosh,Kelly);DepartmentofEpidemiology,GillingsSchoolofGlobalPublicHealth,UniversityofNorthCarolinaatChapelHill(Martin);DepartmentofPopulationHealth,UniversityofKansasMedicalCenter,KansasCity(Meyer);DepartmentofPsychology,NorthCarolinaStateUniversity,Raleigh(Mishra);DepartmentofEpidemiology,MailmanSchoolofPublicHealth,ColumbiaUniversity,NewYork,NewYork(Aiello);RobertN.ButlerColumbiaAgingCenter,MailmanSchoolofPublicHealth,ColumbiaUniversity,NewYork,NewYork(Aiello).
+Author Contributions: DrsHarrisandLevitthadfullaccesstoallofthedatainthestudyandtakeresponsibilityfor
+theintegrityofthedataandtheaccuracyofthedataanalysis.
+Concept and design: Harris,Levitt,Gaydosh,Martin,Meyer,Mishra,Aiello.
+Acquisition, analysis, or interpretation of data: Harris,Levitt,Gaydosh,Martin,Kelly,Aiello.
+Drafting of the manuscript: Harris,Levitt,Gaydosh,Mishra,Kelly.
+Critical review of the manuscript for important intellectual content: Allauthors.
+Statistical analysis: Harris,Levitt,Kelly.
+Obtained funding: Harris,Gaydosh,Aiello.
+Administrative, technical, or material support: Harris,Levitt,Aiello.
+Supervision: Harris,Gaydosh,Aiello.
+Conflict of Interest Disclosures: Nonereported.
+Funding/Support: ThisprojectwasfundedbygrantsR01MD013349fromtheNationalInstitutesofHealth
+NationalInstituteonMinorityHealthandHealthDisparitiestoDrsHarrisandAielloandF32HD103400fromtheEuniceKennedyShriverNationalInstituteofChildHealthandHumanDevelopment(NICHD)toDrMishra.GeneralsupportwasprovidedbygrantP2CHD050924fromtheCarolinaPopulationCenter.ThisresearchusesdatafromAddHealth,fundedbygrantP01HD31921fromtheNICHDtoDrHarris,withcooperativefundingfrom23otherfederalagenciesandfoundations.AddHealthiscurrentlydirectedbyRobertA.Hummer,PhD(UniversityofNorthCarolinaatChapelHill),andfundedbyNationalInstituteonAgingcooperativeagreementsU01AG071448toDrHummerandU01AG071450toDrAielloandDrHummerattheUniversityofNorthCarolinaatChapelHill.AddHealthwasdesignedbyJ.RichardUdry,PhD;PeterS.Bearman,PhD;andDrHarrisattheUniversityofNorthCarolinaatChapelHill.JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 12/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+Role of the Funder/Sponsor: Thefundershadnoroleinthedesignandconductofthestudy;collection,
+management,analysis,andinterpretationofthedata;preparation,review,orapprovalofthemanuscript;anddecisiontosubmitthemanuscriptforpublication.
+Data Sharing Statement: SeeSupplement3 .
+REFERENCES
+1. KennedyBK,BergerSL,BrunetA,etal.Geroscience:linkingagingtochronicdisease. Cell.2014;159(4):
+709-713.doi: 10.1016/j.cell.2014.10.039
+2. López-OtínC,BlascoMA,PartridgeL,SerranoM,KroemerG.Hallmarksofaging:anexpandinguniverse. Cell.
+2023;186(2):243-278.doi: 10.1016/j.cell.2022.11.001
+3. SierraF,KohanskiR.Geroscienceandthetrans-NIHGeroscienceInterestGroup,GSIG. Geroscience .2017;39
+(1):1-5.doi: 10.1007/s11357-016-9954-6
+4. CrimminsEM.Socialhallmarksofaging:suggestionsforgeroscienceresearch. Ageing Res Rev .2020;63:
+101136.doi: 10.1016/j.arr.2020.101136
+5. LiuZ,ChenBH,AssimesTL,FerrucciL,HorvathS,LevineME.Theroleofepigeneticagingineducationand
+racial/ethnicmortalitydisparitiesamongolderU.S.women. Psychoneuroendocrinology .2019;104:18-24.doi: 10.
+1016/j.psyneuen.2019.01.028
+6. MartinEM,FryRC.Exposure-associatedDNAmethylationinhumanpopulations. Annu Rev Public Health .
+2018;39:309-333.doi: 10.1146/annurev-publhealth-040617-014629
+7. RyanJ,WrigglesworthJ,LoongJ,FransquetPD,WoodsRL.Asystematicreviewandmeta-analysisof
+environmental,lifestyle,andhealthfactorsassociatedwithDNAmethylationage. J Gerontol A Biol Sci Med Sci .
+2020;75(3):481-494.doi: 10.1093/gerona/glz099
+8. FioritoG,McCroryC,RobinsonO,etal;BIOSConsortium;Lifepathconsortium.Socioeconomicposition,
+lifestylehabitsandbiomarkersofepigeneticaging:amulti-cohortanalysis. Aging (Albany NY) .2019;11(7):
+2045-2070.doi: 10.18632/aging.101900
+9. CrimminsEM,ThyagarajanB,LevineME,WeirDR,FaulJ.Associationsofage,sex,race/ethnicity,andeducation
+with13epigeneticclocksinanationallyrepresentativeU.S.sample:theHealthandRetirementStudy. J Gerontol A
+Biol Sci Med Sci .2021;76(6):1117-1123.doi: 10.1093/gerona/glab016
+10. NonAL.Socialepigenomics:areweatanimpasse? Epigenomics .2021;13(21):1747-1759.doi: 10.2217/epi-
+2020-0136
+11. SchmitzLL,ZhaoW,RatliffSM,etal.Thesocioeconomicgradientinepigeneticageingclocks:evidencefrom
+theMulti-EthnicStudyofAtherosclerosisandtheHealthandRetirementStudy. Epigenetics .2022;17(6):589-611.
+doi:10.1080/15592294.2021.1939479
+12. JonesMJ,GoodmanSJ,KoborMS.DNAmethylationandhealthyhumanaging. Aging Cell .2015;14(6):
+924-932.doi: 10.1111/acel.12349
+13. LevineME.Assessmentofepigeneticclocksasbiomarkersofaginginbasicandpopulationresearch. J Gerontol
+A Biol Sci Med Sci .2020;75(3):463-465.doi: 10.1093/gerona/glaa021
+14. HillaryRF,StevensonAJ,McCartneyDL,etal.Epigeneticmeasuresofageingpredicttheprevalenceand
+incidenceofleadingcausesofdeathanddiseaseburden. Clin Epigenetics .2020;12(1):115.doi: 10.1186/s13148-020-
+00905-6
+15. ChenBH,MarioniRE,ColicinoE,etal.DNAmethylation-basedmeasuresofbiologicalage:meta-analysis
+predictingtimetodeath.
+Aging (Albany NY) .2016;8(9):1844-1865.doi: 10.18632/aging.101020
+16. ChristiansenL,LenartA,TanQ,etal.DNAmethylationageisassociatedwithmortalityinalongitudinalDanish
+twinstudy. Aging Cell .2016;15(1):149-154.doi: 10.1111/acel.12421
+17. FransquetPD,WrigglesworthJ,WoodsRL,ErnstME,RyanJ.Theepigeneticclockasapredictorofdiseaseand
+mortalityrisk:asystematicreviewandmeta-analysis. Clin Epigenetics .2019;11(1):62.doi: 10.1186/s13148-019-
+0656-7
+18. MarioniRE,ShahS,McRaeAF,etal.Theepigeneticclockiscorrelatedwithphysicalandcognitivefitnessinthe
+LothianBirthCohort1936. Int J Epidemiol .2015;44(4):1388-1396.doi: 10.1093/ije/dyu277
+19. LevineME,HosgoodHD,ChenB,AbsherD,AssimesT,HorvathS.DNAmethylationageofbloodpredicts
+futureonsetoflungcancerinthewomen’shealthinitiative. Aging (Albany NY) .2015;7(9):690-700.doi: 10.18632/
+aging.100809
+20. LevineME,LuAT,QuachA,etal.Anepigeneticbiomarkerofagingforlifespanandhealthspan. Aging (Albany
+NY).2018;10(4):573-591.doi: 10.18632/aging.101414JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 13/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+21. LuAT,QuachA,WilsonJG,etal.DNAmethylationGrimAgestronglypredictslifespanandhealthspan. Aging
+(Albany NY) .2019;11(2):303-327.doi: 10.18632/aging.101684
+22. MaddockJ,Castillo-FernandezJ,WongA,etal.DNAmethylationageandphysicalandcognitiveaging.
+J Gerontol A Biol Sci Med Sci .2020;75(3):504-511.doi: 10.1093/gerona/glz246
+23. McCartneyDL,StevensonAJ,WalkerRM,etal.InvestigatingtherelationshipbetweenDNAmethylationage
+accelerationandriskfactorsforAlzheimer’sdisease. Alzheimers Dement (Amst) .2018;10:429-437.doi: 10.1016/
+j.dadm.2018.05.006
+24. PernaL,ZhangY,MonsU,HolleczekB,SaumKU,BrennerH.Epigeneticageaccelerationpredictscancer,
+cardiovascular,andall-causemortalityinaGermancasecohort. Clin Epigenetics .2016;8:64.doi: 10.1186/s13148-
+016-0228-z
+25. MarioniRE,ShahS,McRaeAF,etal.DNAmethylationageofbloodpredictsall-causemortalityinlaterlife.
+Genome Biol .2015;16(1):25.doi: 10.1186/s13059-015-0584-6
+26. MartinCL,GhastineL,LodgeEK,DhingraR,Ward-CavinessCK.Understandinghealthinequalitiesthroughthe
+lensofsocialepigenetics. Annu Rev Public Health .2022;43:235-254.doi: 10.1146/annurev-publhealth-052020-
+105613
+27. BellCG,LoweR,AdamsPD,etal.DNAmethylationagingclocks:challengesandrecommendations. Genome
+Biol.2019;20(1):249.doi: 10.1186/s13059-019-1824-y
+28. OblakL,vanderZaagJ,Higgins-ChenAT,LevineME,BoksMP.Asystematicreviewofbiological,socialand
+environmentalfactorsassociatedwithepigeneticclockacceleration. Ageing Res Rev .2021;69:101348.doi: 10.
+1016/j.arr.2021.101348
+29. HannumG,GuinneyJ,ZhaoL,etal.Genome-widemethylationprofilesrevealquantitativeviewsofhuman
+agingrates. Mol Cell.2013;49(2):359-367.doi: 10.1016/j.molcel.2012.10.016
+30. HorvathS.DNAmethylationageofhumantissuesandcelltypes. Genome Biol .2013;14(10):R115.doi: 10.1186/
+gb-2013-14-10-r115
+31. HorvathS,RajK.DNAmethylation-basedbiomarkersandtheepigeneticclocktheoryofageing. Nat Rev
+Genet.2018;19(6):371-384.doi: 10.1038/s41576-018-0004-3
+32. LuAT,SeebothA,TsaiPC,etal.DNAmethylation-basedestimatoroftelomerelength. Aging (Albany NY) .
+2019;11(16):5895-5923.doi: 10.18632/aging.102173
+33. BelskyDW,CaspiA,ArseneaultL,etal.Quantificationofthepaceofbiologicalaginginhumansthrougha
+bloodtest,theDunedinPoAmDNAmethylationalgorithm. Elife.2020;9:e54870.doi: 10.7554/eLife.54870
+34. BelskyDW,CaspiA,CorcoranDL,etal.DunedinPACE,aDNAmethylationbiomarkerofthepaceofaging.
+Elife.2022;11:e73420.doi: 10.7554/eLife.73420
+35. HorvathS,GurvenM,LevineME,etal.Anepigeneticclockanalysisofrace/ethnicity,sex,andcoronaryheart
+disease. Genome Biol .2016;17(1):171.doi: 10.1186/s13059-016-1030-0
+36. LiS,NguyenTL,WongEM,etal.Geneticandenvironmentalcausesofvariationinepigeneticagingacrossthe
+lifespan. Clin Epigenetics .2020;12(1):158.doi: 10.1186/s13148-020-00950-1
+37. LiuZ,ChenX,GillTM,MaC,CrimminsEM,LevineME.Associationsofgenetics,behaviors,andlifecourse
+circumstanceswithanovelagingandhealthspanmeasure:evidencefromtheHealthandRetirementStudy. PLoS
+Med.2019;16(6):e1002827.doi: 10.1371/journal.pmed.1002827
+38. LevineME,LuAT,ChenBH,etal.Menopauseacceleratesbiologicalaging. Proc Natl Acad Sc iUSA.2016;113
+(33):9327-9332.doi: 10.1073/pnas.1604558113
+39. McCroryC,FioritoG,McLoughlinS,etal.Epigeneticclocksandallostaticloadrevealpotentialsex-specific
+driversofbiologicalaging. J Gerontol A Biol Sci Med Sci .2020;75(3):495-503.doi: 10.1093/gerona/glz241
+40. SchmitzLL,DuqueV.InuteroexposuretotheGreatDepressionisreflectedinlate-lifeepigeneticaging
+signatures. Proc Natl Acad Sc iUSA.2022;119(46):e2208530119.doi: 10.1073/pnas.2208530119
+41. ZhaoM,QinJ,YinH,etal.DistinctepigenomesinCD4+Tcellsofnewborns,middle-agesandcentenarians. Sci
+Rep.2016;6:38411.doi: 10.1038/srep38411
+42. ZhangS,WuZ,XieJ,YangY,WangL,QiuH.DNAmethylationexplorationforARDS:amulti-omicsandmulti-
+microarrayinterrelatedanalysis. J Transl Med .2019;17(1):345.doi: 10.1186/s12967-019-2090-1
+43. LinQ,WeidnerCI,CostaIG,etal.DNAmethylationlevelsatindividualage-associatedCpGsitescanbe
+indicativeforlifeexpectancy. Aging (Albany NY) .2016;8(2):394-401.doi: 10.18632/aging.100908
+44. HarrisKM,HalpernCT,WhitselEA,etal.Cohortprofile:thenationallongitudinalstudyofadolescenttoadult
+health(addhealth). Int J Epidemiol .2019;48(5):1415-1415k.doi: 10.1093/ije/dyz115JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 14/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+45. Vidal-BraloL,Lopez-GolanY,GonzalezA.Simplifiedassayforepigeneticageestimationinwholebloodof
+adults. Front Genet .2016;7:126.doi: 10.3389/fgene.2016.00126
+46. AanesH,BlekaØ,DahlbergPS,etal.Anewbloodbasedepigeneticagepredictorforadolescentsandyoung
+adults. Sci Rep.2023;13(1):2303.doi: 10.1038/s41598-023-29381-7
+47. RaffingtonL,BelskyDW,KothariM,MalanchiniM,Tucker-DrobEM,HardenKP.Socioeconomicdisadvantage
+andthepaceofbiologicalaginginchildren. Pediatrics .2021;147(6):e2020024406.doi: 10.1542/peds.2020-
+024406
+48. PidsleyR,ZotenkoE,PetersTJ,etal.CriticalevaluationoftheIlluminaMethylationEPICBeadChipmicroarray
+forwhole-genomeDNAmethylationprofiling. Genome Biol .2016;17(1):208.doi: 10.1186/s13059-016-1066-1
+49. HorvathS;ClockFoundationTeam.DNAmethylationagecalculator.UniversityofCalifornia,LosAngeles.
+AccessedJune25,2024. https://dnamage.genetics.ucla.edu
+50. ThrushKL,Higgins-ChenAT,LiuZ,LevineME.RmethylCIPHER:amethylationclockinvestigationalpackage
+forhypothesis-drivenevaluation&research. bioRxiv.PreprintpostedonlineJuly16,2022.doi: 10.1101/2022.07.
+13.499978
+51. ZhangQ,VallergaCL,WalkerRM,etal.Improvedprecisionofepigeneticclockestimatesacrosstissuesandits
+implicationforbiologicalageing. Genome Med .2019;11(1):54.doi: 10.1186/s13073-019-0667-1
+52. Higgins-ChenAT,ThrushKL,WangY,etal.Acomputationalsolutionforbolsteringreliabilityofepigenetic
+clocks:implicationsforclinicaltrialsandlongitudinaltracking. Nat Aging .2022;2(7):644-661.doi: 10.1038/
+s43587-022-00248-2
+53. ZhangY,WilsonR,HeissJ,etal.DNAmethylationsignaturesinperipheralbloodstronglypredictall-cause
+mortality. Nat Commun .2017;8:14617.doi: 10.1038/ncomms14617
+54. KriegerN,ChenJT,TestaC,etal.Useofcorrectandincorrectmethodsofaccountingforageinstudiesof
+epigeneticacceleratedaging:implicationsandrecommendationsforbestpractices. Am J Epidemiol .2023;192(5):
+800-811.doi: 10.1093/aje/kwad025
+55. BiemerPP,HarrisKM,BurkeBJ,LiaoD,HalpernCT.Transitioningapanelsurveyfromin-personto
+predominantlywebdatacollection:resultsandlessonslearned. J R Stat Soc Ser A Stat Soc .2022;185(3):798-821.
+doi:10.1111/rssa.12750
+56. BiemerP,HarrisKM,LiaoD,DeanS,HalpernC.SamplingandMixed-ModeSurveyDesign.CarolinaDigital
+Repository.AccessedJune25,2024. https://cdr.lib.unc.edu/concern/scholarly_works/h415pf93q?locale=en
+57. CampbellKA,ColacinoJA,ParkSK,BakulskiKM.Celltypesinenvironmentalepigeneticstudies:biologicaland
+epidemiologicalframeworks. Curr Environ Health Rep .2020;7(3):185-197.doi: 10.1007/s40572-020-00287-0
+58. LumleyT.SurveyanalysisinR.AccessedDecember22,2023. https://r-survey.r-forge.r-project.org/survey/
+59. ColeSW,ShanahanMJ,GaydoshL,HarrisKM.Population-basedRNAprofilinginAddHealthfindssocial
+disparitiesininflammatoryandantiviralgeneregulationtoemergebyyoungadulthood. Proc Natl Acad Sc iUSA.
+2020;117(9):4601-4608.doi: 10.1073/pnas.1821367117
+60. HarrisKM,McDadeTW.Thebiosocialapproachtohumandevelopment,behavior,andhealthacrossthelife
+course. RSF.2018;4(4):2-26.doi: 10.7758/RSF.2018.4.4.01
+61. GutinI,HummerRA.SocialinequalityandthefutureofU.S.lifeexpectancy. Annu Rev Sociol .2021;47(1):
+501-520.doi: 10.1146/annurev-soc-072320-100249
+62. CrimminsEM,ZhangYS.Agingpopulations,mortality,andlifeexpectancy. Annu Rev Sociol .2019;45:69-89.
+doi:10.1146/annurev-soc-073117-041351
+63. LuY,DenierN,WangJSH,KaushalN.Unhealthyassimilationorpersistenthealthadvantage:alongitudinal
+analysisofimmigranthealthintheUnitedStates. Soc Sci Med .2017;195:105-114.doi: 10.1016/j.socscimed.2017.
+11.019
+64. RiosmenaF,KuhnR,JochemWC.Explainingtheimmigranthealthadvantage:self-selectionandprotectionin
+health-relatedfactorsamongfivemajornational-originimmigrantgroupsintheUnitedStates. Demography .2017;
+54(1):175-200.doi: 10.1007/s13524-016-0542-2
+65. ZhaoW,AmmousF,RatliffS,etal.EducationandlifestylefactorsareassociatedwithDNAmethylationclocks
+inolderAfricanAmericans. Int J Environ Res Public Health .2019;16(17):3141.doi: 10.3390/ijerph16173141
+66. McCroryC,FioritoG,NiCheallaighC,etal.Howdoessocio-economicposition(SEP)getbiologically
+embedded:acomparisonofallostaticloadandtheepigeneticclock(s). Psychoneuroendocrinology .2019;
+104:64-73.doi: 10.1016/j.psyneuen.2019.02.018JAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 15/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
+67. WatkinsSH,TestaC,ChenJT,etal.Epigeneticclocksandresearchimplicationsofthelackofdataonwhom
+theyhavebeendeveloped:areviewofreportedandmissingsociodemographiccharacteristics. Environ Epigenet .
+2023;9(1):dvad005.doi: 10.1093/eep/dvad005
+68. KleinSL,FlanaganKL.Sexdifferencesinimmuneresponses. Nat Rev Immunol .2016;16(10):626-638.doi: 10.
+1038/nri.2016.90
+SUPPLEMENT 1.
+eAppendix 1. DataQualityandCurationofEpigeneticDatainAddHealth
+eAppendix 2. DescriptionofEpigeneticClockMeasures
+eAppendix 3. SociodemographicandLifestyleMeasures
+eMethods.eFigure.BivariateAssociationsBetweenSociodemographicFactorsandEpigeneticAgeAccordingtoClocks
+eTable 1. AddHealthSampleDistributionofDemographicCharacteristicsforWaveI,WaveVFullSample,and
+WaveVEpigeneticSampleeTable 2. UnivariateStatisticsforDNAMethylationEpigeneticClocks(N = 4237)
+SUPPLEMENT 2.
+eTable 3. BivariateModelsofSocialandDemographicCharacteristicsandClockEstimates(N = 4237)
+eTable 4. MultivariateModelsofSocialandDemographicCharacteristicsandClockEstimates(N = 4237)
+eTable 5. MultivariateModelsofSocialandDemographicCharacteristicsandClockEstimatesWithCell
+Compositions(N = 4237)
+SUPPLEMENT 3.
+Data Sharing StatementJAMA Network Open | Genetics and Genomics SociodemographicandLifestyleFactorsandEpigeneticAginginUSYoungAdults
+JAMA Network Open. 2024;7(7):e2427889.doi:10.1001/jamanetworkopen.2024.27889 (Reprinted) July 29,2024 16/16
+Downloaded from jamanetwork.com by University of Iowa user on 08/21/2024
